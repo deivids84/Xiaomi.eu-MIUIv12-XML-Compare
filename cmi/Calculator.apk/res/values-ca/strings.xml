@@ -92,7 +92,8 @@
   <string name="dotDesc">punt</string>
   <string name="eDesc">"Nombre d'Euler"</string>
   <string name="equalDesc">és igual a</string>
-  <string name="eras_ad">a.C.</string>
+  <string name="eras_ad">d.C.</string>
+  <string name="eras_bc">a.C.</string>
   <string name="error_fomrat">Error de format</string>
   <string name="exit">Surt</string>
   <string name="extra_deduction_instruction">Detalls de deducció</string>
