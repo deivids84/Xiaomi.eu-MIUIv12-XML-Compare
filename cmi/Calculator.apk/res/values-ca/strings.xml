@@ -442,14 +442,15 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
   <string name="the_christmas_day">Nadal</string>
   <string name="the_double_ninth_festival">Festival del Doble Nou</string>
   <string name="the_dragon_boat_festival">Festival del Bot Dragó</string>
-  <string name="the_easter_day">Dia de Pasqua</string>
+  <string name="the_easter_day">Pasqua</string>
   <string name="the_eve_of_the_spring_festival">Vigília de la Festa de la Primavera</string>
   <string name="the_fifth_day">Cinquè dia</string>
   <string name="the_fools_day">Dia d\'enganyar</string>
   <string name="the_forth_day">Quart dia</string>
   <string name="the_hksar_establishment_day">Dia de l\'Establiment de la Regió Administrativa Especial de Hong Kong</string>
   <string name="the_international_womens_day">Dia Internacional de les Dones</string>
-  <string name="the_labour_day">Dia del treball</string>
+  <string name="the_laba_festival">Festival Laba</string>
+  <string name="the_labour_day">Dia Internacional dels Treballadors</string>
   <string name="the_mid_autumn_festival">Festa de la mitja tardor</string>
   <string name="the_national_day">Dia nacional</string>
   <string name="the_national_father_day">Dia del pare</string>
