@@ -24,6 +24,14 @@
         <item quantity="other">%1$s fons de pantalla</item>
         <item quantity="one">%1$s fons de pantalla</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d noves notificacions</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s fotos</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
     <plurals name="time_day_ago">
         <item quantity="other">fa %d dies</item>
         <item quantity="one">fa %d dia</item>
