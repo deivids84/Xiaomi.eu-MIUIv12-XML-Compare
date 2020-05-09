@@ -482,8 +482,8 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="emergency_number_label">Número d\'emergència</string>
   <string name="emptyGroup">Grup sense contactes</string>
   <string name="enter_contact_name">"Nom del contacte"</string>
-  <string name="eras_ad">a.C.</string>
-  <string name="eras_bc">d.C.</string>
+  <string name="eras_ad">d.C.</string>
+  <string name="eras_bc">a.C.</string>
   <string name="evening">Tarda</string>
   <string name="eventLabelsGroup">Aniversari</string>
   <string name="eventTypeCustom">Personalitzat</string>
