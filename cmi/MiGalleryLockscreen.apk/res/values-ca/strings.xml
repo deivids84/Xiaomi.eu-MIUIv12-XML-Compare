@@ -57,7 +57,7 @@
   <string name="account_user_birthday">Aniversari</string>
   <string name="account_user_details">Informació personal</string>
   <string name="account_user_email">Correu de recuperació</string>
-  <string name="account_user_gender">Gènere</string>
+  <string name="account_user_gender">Sexe</string>
   <string name="account_user_id">Identificador del compte Mi</string>
   <string name="account_user_name">Sobrenom</string>
   <string name="account_user_name_dialog_title">Introduïu el nom d\'usuari</string>
@@ -128,11 +128,13 @@
   <string name="change_activate_email">Canvia l\'adreça de correu electrònic</string>
   <string name="change_password">Canvia la contrasenya</string>
   <string name="change_time">Canvia el període</string>
-  <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
+  <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
+  <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
   <string name="choose_to_signin">Sí</string>
   <string name="choose_to_signup">"No, en crearé un"</string>
   <string name="clear_history">Neteja l\'historial de cerques</string>
   <string name="clear_search_edittext">Neteja</string>
+  <string name="clear_text_end_icon_content_description">Neteja el text</string>
   <string name="close_gallery">Desactiva</string>
   <string name="collect_diagnosis_log">Recopila els registres</string>
   <string name="comment_pop_cancel">Ara no</string>
@@ -239,9 +241,11 @@ Envieu aquest codi al supervisor."</string>
   <string name="enable_toast_cwo">S\'ha activat el Carrusel de fons de pantalla i iniciat la presentació de diapositives</string>
   <string name="enable_toast_subscribe">S\'ha activat el Carrusel de fons de pantalla i les subscripcions.</string>
   <string name="error_dup_binded_email">Aquesta adreça de correu ja està associada a un altre compte Mi.</string>
+  <string name="error_icon_content_description">Error</string>
   <string name="error_invalid_bind_address">L’adreça de correu que heu introduït no és vàlida.</string>
   <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat a un altre compte Mi.</string>
   <string name="explorer_activity_title">Carrusel de fons de pantalla</string>
+  <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
   <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
   <string name="favor_list_no_data">Aquí no hi ha cap element.</string>
   <string name="favor_list_title">Preferits</string>
@@ -259,6 +263,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="history_list_no_data">Aquí no hi ha cap element</string>
   <string name="hour_1">Cada hora</string>
   <string name="hour_3">Cada 3 hores</string>
+  <string name="icon_content_description">Icona de diàleg</string>
   <string name="idbct_desc">Personalitzeu el Carrusel de fons de pantalla segons el tipus de xarxa</string>
   <string name="idbct_opt_auto_select_desc_text">Baixeu imatges estàndard mitjançant les dades mòbils i imatges en alta definició mitjançant la Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Auto</string>
@@ -329,6 +334,30 @@ Envieu aquest codi al supervisor."</string>
   <string name="manage">Gestiona</string>
   <string name="minutes_15">Cada 15 minuts</string>
   <string name="minutes_5">Cada 5 minuts</string>
+  <string name="miui_clock_city_name_local">Local</string>
+  <string name="miui_clock_city_name_second">Segon rellotge</string>
+  <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
   <string name="mode_auto_desc">Activeu el Carrusel de fons de pantalla per rebre noves imatges automàticament</string>
   <string name="mode_auto_desc_open">Rebre noves imatges automàticament</string>
   <string name="mode_auto_desc_selected">S\'estan rebent noves imatges automàticament</string>
@@ -346,7 +375,35 @@ Envieu aquest codi al supervisor."</string>
   <string name="morning_greet_mark">" Salutacions al matí Mi"</string>
   <string name="morning_greet_title">Salutacions al matí</string>
   <string name="morning_picture_tab">Imatge</string>
+  <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
+  <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+  <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
+  <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+  <string name="mtrl_picker_date_header_title">Seleccioneu una data</string>
+  <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+  <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
+  <string name="mtrl_picker_invalid_format">Format no vàlid.</string>
+  <string name="mtrl_picker_invalid_format_example">Exemple: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Utilitza: %1$s</string>
+  <string name="mtrl_picker_invalid_range">L\'interval no és vàlid.</string>
+  <string name="mtrl_picker_navigate_to_year_description">Vés a l\'any %1$s</string>
+  <string name="mtrl_picker_out_of_range">Fora de l\'interval: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data final</string>
+  <string name="mtrl_picker_range_header_title">Seleccioneu un interval de dates</string>
+  <string name="mtrl_picker_range_header_unselected">Data d\'inici – Data final</string>
+  <string name="mtrl_picker_save">Desa</string>
+  <string name="mtrl_picker_text_input_date_hint">Data</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">Data final</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+  <string name="mtrl_picker_text_input_day_abbr">d</string>
+  <string name="mtrl_picker_text_input_month_abbr">m</string>
+  <string name="mtrl_picker_text_input_year_abbr">y</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Canvia al mode d’entrada del calendari</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a la selecció d’un dia</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'entrada de text</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció d\'un any</string>
   <string name="need_open_gallery">Activa el Carrusel de fons de pantalla</string>
   <string name="new_feature_title">"Què hi ha de nou"</string>
   <string name="nick_name">Sobrenom</string>
@@ -466,7 +523,8 @@ Envieu aquest codi al supervisor."</string>
   <string name="passport_wrong_voice">El codi que heu introduït no és correcte</string>
   <string name="password_toggle_content_description">Activa/desactiva la visibilitat de la contrasenya</string>
   <string name="permission_account_tip">Accediu a la informació del compte</string>
-  <string name="permission_storage_tip">Accediu a les imatges del dispositiu per utilitzar-les com a fons de pantalla</string>
+  <string name="permission_storage_read_tip">Accediu a les fotos emmagatzemades al vostre dispositiu</string>
+  <string name="permission_storage_tip">Deseu els elements baixats al dispositiu</string>
   <string name="phone_bind_too_many">Aquest telèfon s\'ha associat a diversos comptes Mi en un període curt de temps. Proveu d\'utilitzar un altre número de telèfon.</string>
   <string name="phone_hint">Número de telèfon</string>
   <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
@@ -543,6 +601,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="share_today_morning">Comparteix</string>
   <string name="shield">"Bloqueja: "</string>
   <string name="shield_failed">"No s'ha pogut bloquejar l'element"</string>
+  <string name="shield_tag_ceil">"No es poden bloquejar més elements"</string>
   <string name="shield_tag_dislike_desc">Seleccioneu-ho perquè aquestes imatges apareguin amb menys freqüència</string>
   <string name="shield_tag_dislike_title">No m\'interessa</string>
   <string name="shield_tag_entrance_desc">Seleccioneu aquesta opció per bloquejar totes les imatges d\'aquesta categoria</string>
@@ -630,8 +689,10 @@ Envieu aquest codi al supervisor."</string>
   <string name="status_wallpaper_loop_start">Activat</string>
   <string name="subscribe_apply_wp">S\'ha aplicat correctament el fons de la pantalla de bloqueig</string>
   <string name="subscribe_dlg_btn">Inici</string>
+  <string name="subscribe_dlg_btn_txt">Subscriure’s</string>
   <string name="subscribe_dlg_content">Subscriviu-vos per rebre fons de pantalla nous cada dia a la pantalla de bloqueig i rebre salutacions al matí.</string>
   <string name="subscribe_dlg_content2">Subscriviu-vos a \"%1$s\"</string>
+  <string name="subscribe_dlg_desc">Subscriviu-vos per veure les presentacions de diapositives</string>
   <string name="subscribe_dlg_title">Afegiu les vostres imatges preferides a la barreja</string>
   <string name="subscribe_free">Subscriure’s</string>
   <string name="subscribe_item_checked">Subscrit</string>
@@ -650,6 +711,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="sure_close_gallery_des">"No podreu rebre imatges noves a la pantalla d'inici i a la pantalla de bloqueig si desactiveu el Carrusel de fons de pantalla. Voleu desactivar-ho de totes maneres?"</string>
   <string name="system_default">Per defecte</string>
   <string name="tab_user_title_bar_text">Configuració</string>
+  <string name="tb_collapse_desc">Oculta el menú \"Comparteix\"</string>
   <string name="temporary_not_available">"Aquesta funció encara no està disponible"</string>
   <string name="theme_apply_failured">"No s'ha pogut aplicar, torneu-ho a provar més tard"</string>
   <string name="theme_apply_lockscreen_apply">S\'està activant el Carrusel de fons de pantalla…</string>
