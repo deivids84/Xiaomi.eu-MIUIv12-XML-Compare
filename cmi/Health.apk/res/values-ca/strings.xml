@@ -284,8 +284,8 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
   <string name="enough">Suficient</string>
   <string name="enter_mi_health">Obre Xiaomi Health</string>
   <string name="equivalent_exercise">≈%1$s km caminant (%2$s kcal)</string>
-  <string name="eras_ad">a.C.</string>
-  <string name="eras_bc">d.C.</string>
+  <string name="eras_ad">d.C.</string>
+  <string name="eras_bc">a.C.</string>
   <string name="evening">pm</string>
   <string name="excessive">Massa</string>
   <string name="exercise">Entrenaments</string>
