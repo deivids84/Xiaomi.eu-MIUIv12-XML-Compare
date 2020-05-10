@@ -331,8 +331,8 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
   <string name="reciprocalDesc">Recíproc</string>
   <string name="rightParenDesc">parèntesi dret</string>
   <string name="saturday">Dissabte</string>
-  <string name="saturday_short">ds</string>
-  <string name="saturday_shortest">ds</string>
+  <string name="saturday_short">Ds.</string>
+  <string name="saturday_shortest">ds.</string>
   <string name="scannerDesc">Escàner</string>
   <string name="scanner_had_been_uninstalled">L’escàner s’ha desinstal·lat</string>
   <string name="search_menu_title">Cerca</string>
