@@ -215,7 +215,7 @@
   <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
   <string name="event_title">Títol</string>
   <string name="event_view">Mostra l\'esdeveniment</string>
-  <string name="every_weekday">Entre setmana (dl.-dv.)</string>
+  <string name="every_weekday">De dilluns a divendres</string>
   <string name="festival_detail_title">Festiu</string>
   <string name="flight_check_in">航班值机</string>
   <string name="flight_check_in_done">已值机</string>
@@ -301,7 +301,7 @@
   <string name="modify_all">Canvia tots els esdeveniments de la sèrie</string>
   <string name="modify_all_following">Canvia aquest i tots els esdeveniments futurs</string>
   <string name="modify_event">Canvia només aquest esdeveniment</string>
-  <string name="month_medium_april">abr.</string>
+  <string name="month_medium_april">Abr.</string>
   <string name="month_medium_august">ag.</string>
   <string name="month_medium_december">des.</string>
   <string name="month_medium_february">febr.</string>
