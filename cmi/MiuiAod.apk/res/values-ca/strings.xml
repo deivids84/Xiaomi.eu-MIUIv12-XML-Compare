@@ -140,7 +140,7 @@ dd/MM"</string>
   <string name="please_input_signature">Introduïu la signatura</string>
   <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="scheduled_mode_dialog_msg">Els elements es mostraran a la pantalla ambiental en aquest període: %s.</string>
-  <string name="scheduled_mode_dialog_msg_12">hh:mm a</string>
+  <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
   <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
   <string name="scheduled_mode_msg">Període actiu: %s</string>
   <string name="scheduled_style">Planificat</string>
@@ -163,7 +163,7 @@ meravellosa està a punt de passar"</string>
   <string name="standard_clock_panel">Estàndard</string>
   <string name="standard_style">Estàndard</string>
   <string name="summary">"Per reduir el consum d'energia, els elements no es mostraran quan el dispositiu estigui a les fosques durant molt de temps."</string>
-  <string name="super_wallpaper_date">"EEa
+  <string name="super_wallpaper_date">"EEaa
 dd/M"</string>
   <string name="temporary_style">Durant 10 segons després de tocar-lo</string>
   <string name="text_color">Color del text</string>
