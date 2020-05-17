@@ -156,7 +156,7 @@
   <string name="delete_this_event_title">Voleu eliminar aquest esdeveniment?</string>
   <string name="description_calendar">Aplicacions del sistema/Calendari</string>
   <string name="description_calendar_edit_event">Aplicacions del sistema/Calendari/Agenda</string>
-  <string name="directory_searching_fmt">S\'està cercant %s&#8230;</string>
+  <string name="directory_searching_fmt">S\'està cercant %s…</string>
   <string name="discard_label">Cancel·la</string>
   <string name="does_not_repeat">Esdeveniment únic</string>
   <string name="downloading">S\'està baixant</string>
