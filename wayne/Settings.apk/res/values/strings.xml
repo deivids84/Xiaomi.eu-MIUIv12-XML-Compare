@@ -1381,6 +1381,8 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="change_wifi_state_title">WLAN control</string>
   <string name="channel_group_notifications_off_desc">At your request, Android is blocking this group of notifications from appearing on this device</string>
   <string name="channel_notifications_off_desc">At your request, Android is blocking this category of notifications from appearing on this device</string>
+  <string name="charge_animation_style_summary">Choose your preferred lock screen charging animation style</string>
+  <string name="charge_animation_style_title">Charging animation</string>
   <string name="charge_length_format">%1$s ago</string>
   <string name="charging_sounds_title">Charging sounds</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
@@ -3711,9 +3713,9 @@ Continue to access additional settings."</string>
   <string name="miui_sos_contacts_category">Emergency contacts</string>
   <string name="miui_sos_emergency_contacts">Emergency contacts</string>
   <string name="miui_sos_emergency_delete">Delete</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) has already accepted.</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s has already accepted</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">"Couldn't send message to %1s (%2s)."</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) received the message</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s received the message</string>
+  <string name="miui_sos_emergency_failed_sms">"Couldn't send message to %1$s (%2$s)"</string>
   <string name="miui_sos_emergency_failed_sms_noname">"Couldn't send message to %1s."</string>
   <string name="miui_sos_enable_switch_summary">Rapidly press the Power button 5 times to send a SOS text message with your location to your emergency contacts</string>
   <string name="miui_sos_enable_switch_title">Emergency SOS</string>
@@ -4005,7 +4007,7 @@ Select your operating system:"</string>
   <string name="not_battery_optimizing">Not using battery optimization</string>
   <string name="not_installed">Not installed for this user</string>
   <string name="not_set">Not set</string>
-  <string name="notch_and_status_bar_settings">Control center &amp; status bar</string>
+  <string name="notch_and_status_bar_settings">Control center &amp; Notification shade</string>
   <string name="notch_force_black_desc">Turn on to darken the area around the notch</string>
   <string name="notch_force_black_title">Hide notch</string>
   <string name="notch_settings">Notch</string>
@@ -6565,7 +6567,7 @@ or earphones with 3.5mm plug."</string>
   <string name="usb_use_photo_transfers_desc">Transfer photos or files if MTP is not supported (PTP)</string>
   <string name="usb_use_power_only">Charge connected device</string>
   <string name="usb_use_tethering">USB tethering</string>
-  <string name="use_control_panel">Use Control center</string>
+  <string name="use_control_panel">Use new Control center</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_open_wifi_automatically_summary">Automatically connect to high‑quality public networks</string>

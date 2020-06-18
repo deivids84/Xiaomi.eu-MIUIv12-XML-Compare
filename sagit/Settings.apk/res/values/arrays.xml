@@ -2055,7 +2055,7 @@
         <item>Long</item>
     </string-array>
     <string-array name="long_press_timeout_selector_values">
-        <item>400</item>
+        <item>300</item>
         <item>1000</item>
         <item>1500</item>
     </string-array>
@@ -3601,6 +3601,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Media</item>
     </string-array>
     <string-array name="default_vol_stream_values">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Off</item>
+        <item>Flow</item>
+        <item>Glow</item>
+        <item>Wave</item>
+    </string-array>
+    <string-array name="charge_animation_style_values">
+        <item>0</item>
+        <item>1</item>
         <item>2</item>
         <item>3</item>
     </string-array>

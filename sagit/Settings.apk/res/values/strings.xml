@@ -1381,6 +1381,8 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="change_wifi_state_title">WLAN control</string>
   <string name="channel_group_notifications_off_desc">At your request, Android is blocking this group of notifications from appearing on this device</string>
   <string name="channel_notifications_off_desc">At your request, Android is blocking this category of notifications from appearing on this device</string>
+  <string name="charge_animation_style_summary">Choose your preferred lock screen charging animation style</string>
+  <string name="charge_animation_style_title">Charging animation</string>
   <string name="charge_length_format">%1$s ago</string>
   <string name="charging_sounds_title">Charging sounds</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
@@ -1578,6 +1580,7 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="content_description_menu_button">Menu</string>
   <string name="continue_reset_factory">Factory reset</string>
   <string name="contributors_title">Contributors</string>
+  <string name="control_center">Control center</string>
   <string name="control_panel_switch_side">Switch Control center side</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
@@ -2751,7 +2754,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="header_category_system">System</string>
   <string name="header_category_wireless_networks">Wireless &amp; networks</string>
   <string name="header_data_and_synchronization">Data &amp; synchronization</string>
-  <string name="headset_settings_title">Earphones</string>
+  <string name="headset_settings_title">Sound effects</string>
   <string name="heavy_weight_stop_description">This app can’t safely be stopped. If you stop it, you may lose some of your current work.</string>
   <string name="help_and_feedback_title">Help and feedback</string>
   <string name="help_feedback_label">Help &amp; feedback</string>
@@ -2924,11 +2927,11 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="input_method_bottom_open">On</string>
   <string name="input_method_clipboard_settings">Clipboard settings</string>
   <string name="input_method_cloud_data_title">Cloud clipboard</string>
-  <string name="input_method_cloud_paste_mode_bubble_des">"You'll see a bubble pop up whenever new content appears in the cloud clipboard. Tap the bubble to enter copied text."</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">"You'll see a bubble pop up. Tap the bubble to enter copied text."</string>
   <string name="input_method_cloud_paste_mode_bubble_title">Bubble</string>
-  <string name="input_method_cloud_paste_mode_no_des">"You won't see notifications when new content appears in the cloud clipboard. However, you'll still be able to use your clipboard by tapping the icon."</string>
+  <string name="input_method_cloud_paste_mode_no_des">"You won't see notifications. However, you'll still be able to use your clipboard by tapping the icon."</string>
   <string name="input_method_cloud_paste_mode_no_title">None</string>
-  <string name="input_method_cloud_paste_mode_red_point_des">"You'll see a red dot at the bottom of the keyboard whenever new content appears in the cloud clipboard. Tap the icon to open the clipboard and use the copied content."</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">"You'll see a red dot at the bottom of the keyboard. Tap the icon to open the clipboard and use the copied content."</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Red dot</string>
   <string name="input_method_function_clipboard">Clipboard and frequent phrases</string>
   <string name="input_method_function_clipboard_des">Tap to view clipboard contents and frequent phrases</string>
@@ -2944,6 +2947,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="input_method_quick_access">Quick access</string>
   <string name="input_method_quick_cloud_mode_title">Notifications about new clipboard content</string>
   <string name="input_method_quick_cloud_summary">Copy items on compatible computers and paste them on your device</string>
+  <string name="input_method_quick_cloud_tips">Notification type</string>
   <string name="input_method_quick_cloud_title">Cloud clipboard</string>
   <string name="input_method_quick_paste_summary">View copied items by tapping the clipboard icon</string>
   <string name="input_method_quick_paste_title">Quick paste</string>
@@ -3709,9 +3713,9 @@ Continue to access additional settings."</string>
   <string name="miui_sos_contacts_category">Emergency contacts</string>
   <string name="miui_sos_emergency_contacts">Emergency contacts</string>
   <string name="miui_sos_emergency_delete">Delete</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) has already accepted.</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s has already accepted</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">"Couldn't send message to %1s (%2s)."</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) received the message</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s received the message</string>
+  <string name="miui_sos_emergency_failed_sms">"Couldn't send message to %1$s (%2$s)"</string>
   <string name="miui_sos_emergency_failed_sms_noname">"Couldn't send message to %1s."</string>
   <string name="miui_sos_enable_switch_summary">Rapidly press the Power button 5 times to send a SOS text message with your location to your emergency contacts</string>
   <string name="miui_sos_enable_switch_title">Emergency SOS</string>

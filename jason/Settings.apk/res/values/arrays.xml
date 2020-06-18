@@ -3063,6 +3063,32 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>@drawable/threedrop07</item>
         <item>@drawable/threedrop07</item>
     </array>
+    <array name="three_long_press">
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>12-hour 1:00 PM</item>
         <item>24-hour 13:00</item>
@@ -3576,6 +3602,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Media</item>
     </string-array>
     <string-array name="default_vol_stream_values">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Off</item>
+        <item>Flow</item>
+        <item>Glow</item>
+        <item>Wave</item>
+    </string-array>
+    <string-array name="charge_animation_style_values">
+        <item>0</item>
+        <item>1</item>
         <item>2</item>
         <item>3</item>
     </string-array>
