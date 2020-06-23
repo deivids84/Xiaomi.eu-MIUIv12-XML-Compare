@@ -80,12 +80,12 @@
   <string name="cloud_app_restore_success">Aplicacions restaurades</string>
   <string name="cloud_app_restore_wifi_prompt">Restaura des de la còpia de seguretat del núvol.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Es farà còpia de seguretat a Xiaomi Cloud d'aquests elements quan el dispositiu estigui connectat al Wi-Fi:
+  <string name="cloud_back_up_detail_discription">"Es farà còpia de seguretat a Xiaomi Cloud d'aquests elements quan el dispositiu estigui connectat a la Wi-Fi:
 * Aplicacions, disseny de la pantalla d’inici i fons de pantalla 
 * Configuració de l’alarma, el rellotge i l’hora 
 * Configuració de les notificacions 
-* MIUI i configuració del sistema 
-Nota: les dades de les aplicacions que hàgiu instal·lat no es farà còpia de seguretat a Xiaomi Cloud."</string>
+* Configuració del sistema i MIUI 
+Nota: No es farà còpia de seguretat a Xiaomi Cloud de les dades de les aplicacions que hàgiu instal·lat."</string>
   <string name="cloud_back_up_detail_discription_china">"Aquests elements es desaran a una còpia de seguretat de Xiaomi Cloud quan el dispositiu estigui connectat a la WLAN:
 * Aplicacions, disseny de la pantalla d’inici i fons de pantalla
 * Configuració de l’alarma, el rellotge i l’hora
