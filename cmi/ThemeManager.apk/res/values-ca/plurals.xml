@@ -60,6 +60,14 @@
         <item quantity="other">%1$d comentaris més</item>
         <item quantity="one">%1$d comentari més</item>
     </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s recompenses</item>
+        <item quantity="one">%s recompensa</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s recompenses</item>
+        <item quantity="one">%s recompensa</item>
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">Fa %d hores</item>
         <item quantity="one">Fa %d hora</item>
@@ -115,6 +123,10 @@
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentaris</item>
         <item quantity="one">%d comentari</item>
+    </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">S\'han baixat %1$d elements amb èxit</item>
+        <item quantity="one">S\'ha baixat %1$d element correctament</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f punts</item>
