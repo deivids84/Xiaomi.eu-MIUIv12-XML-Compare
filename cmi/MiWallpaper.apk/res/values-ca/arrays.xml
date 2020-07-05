@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Inici</item>
+        <item>Fons de pantalla / Super wallpapers / Home</item>
+        <item>Terra; fons de pantalla super; edició Earth; fons de pantalla</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>El planeta vermell</item>
+        <item>Fons de pantalla / Super wallpapers / El planeta vermell</item>
+        <item>Mart; Edició de Mart; Fons de pantalla súper; Fons de pantalla</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Fons de pantalla súper</item>
+        <item>Fons de pantalla / Super wallpapers</item>
+        <item>Fons d\'escriptori; fons de pantalla; fons de pantalla dinàmic; fons de pantalla 3D</item>
+    </string-array>
+    <string-array name="support_super_wallpaper_devices">
+        <item>cmi</item>
+        <item>umi</item>
+        <item>lmiin</item>
+        <item>lmi</item>
+        <item>lmipro</item>
+        <item>cepheus</item>
+        <item>crux</item>
+        <item>raphaelin</item>
+        <item>raphael</item>
+        <item>polaris</item>
+        <item>dipper</item>
+        <item>equuleus</item>
+        <item>perseus</item>
+        <item>ursa</item>
+        <item>beryllium</item>
+        <item>sagit</item>
+        <item>chiron</item>
+        <item>monetin</item>
+        <item>monet</item>
+        <item>vangogh</item>
+        <item>atom</item>
+        <item>bomb</item>
+        <item>cas</item>
+        <item>surya</item>
+        <item>apollo</item>
+        <item>klein</item>
+        <item>Cezanne</item>
+    </string-array>
+</resources>
