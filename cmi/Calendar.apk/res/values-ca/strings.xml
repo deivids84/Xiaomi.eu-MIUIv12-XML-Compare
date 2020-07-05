@@ -304,7 +304,7 @@
   <string name="fmt_weekday_time_timezone">zW T</string>
   <string name="fmt_weekday_timezone">zW</string>
   <string name="fortune_birthday">Aniversari</string>
-  <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
+  <string name="free_day_default_banner_title">Gaudiu de les vacances!</string>
   <string name="friday">Divendres</string>
   <string name="friday_short">Dv.</string>
   <string name="friday_shortest">dv.</string>
@@ -338,7 +338,7 @@
   <string name="install_email_app">Instal·la el Correu</string>
   <string name="install_email_finished">S\'ha instal·lat amb èxit</string>
   <string name="installing_email">S\'està instal·lant…</string>
-  <string name="item_num_selected">%1$d seleccionat(s)</string>
+  <string name="item_num_selected">%1$d seleccionats</string>
   <string name="landscape_week_view">Agenda setmanal en l\'orientació horitzontal</string>
   <string name="life_assistant_group_title">Assistent de vida</string>
   <string name="load_more_events">Veure %d esdeveniments</string>
