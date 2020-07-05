@@ -27,6 +27,17 @@
         <item>Altres</item>
         <item>Personalitzat</item>
     </string-array>
+    <string-array name="config_biometric_sensors">
+        <item>0: 2: 15</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>d’emergència</item>
+        <item>poder</item>
+        <item>reinicia</item>
+        <item>confinament</item>
+        <item>tancar sessió</item>
+        <item>informe d\'error</item>
+    </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Torna-ho a provar</item>
         <item></item>
