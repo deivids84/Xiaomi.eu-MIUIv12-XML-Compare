@@ -120,7 +120,7 @@
   <string name="copy_number">Copia el número de telèfon</string>
   <string name="countdown_event_title">Compte enrere: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Compte enrere: %1$s d\'aquí a 3 dies</string>
-  <string name="countdown_notify_title">[Countdown]%1$s</string>
+  <string name="countdown_notify_title">Compte enrere: %1$s</string>
   <string name="countdown_secondary_tag">Compte enrere</string>
   <string name="countdown_today">Avui</string>
   <string name="creating_event">S\'ha creat l\'esdeveniment</string>
@@ -135,7 +135,7 @@
   <string name="date_calculate_days">Introduïu el número de dies</string>
   <string name="date_calculate_description">Coneixeu quina data és abans o després d\'un cert dia</string>
   <string name="date_calculate_direction">Direcció</string>
-  <string name="date_calculate_direction_content_description">La adreça actual és %1s</string>
+  <string name="date_calculate_direction_content_description">Direcció actual: %1s.</string>
   <string name="date_calculate_result">Resultat</string>
   <string name="date_calculate_tab">Calcula la data</string>
   <string name="date_calculate_today">0 dies</string>
@@ -145,9 +145,8 @@
   <string name="date_interval_start">Des de</string>
   <string name="date_interval_text_to">A %1$s</string>
   <string name="date_jump_title">Vés a la data</string>
-  <string name="date_pattern_mm_dd">d-M</string>
   <string name="date_picker_lunar">Calendari tradicional xinès</string>
-  <string name="date_today">"(avui)"</string>
+  <string name="date_today">" (avui)"</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
   <string name="default_reminder_later_time">Període preestablert pel \"Recorda-m\'ho més tard\"</string>
   <string name="default_reminder_mode">Recordatoris</string>
@@ -200,9 +199,8 @@
   <string name="edit_event_title_edit_birthday">Edita l\'aniversari</string>
   <string name="edit_event_title_edit_countdown">Edita el compte enrere</string>
   <string name="edit_event_to_label">Fins a</string>
-  <string name="electricity_detail_title">电费缴费</string>
   <string name="email_guests_label">Envia un correu als convidats</string>
-  <string name="email_install_hint">El Correu s\'ha desinstal·lat. En reinstal·lar-lo, podreu restaurar les dades del compte del calendari o afegir-ne un de nou.</string>
+  <string name="email_install_hint">El Correu s\'ha desinstal·lat. Torneu a instal·lar el Correu per restaurar els comptes del calendari o afegir-ne un de nou.</string>
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="empty_event">"No es poden crear esdeveniments buits"</string>
   <string name="eras_ad">d.C.</string>
@@ -240,8 +238,8 @@
   <string name="every_weekday">De dilluns a divendres</string>
   <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
   <string name="festival_detail_title">Festiu</string>
-  <string name="flight_check_in">航班值机</string>
-  <string name="flight_check_in_done">已值机</string>
+  <string name="flight_check_in">Facturació</string>
+  <string name="flight_check_in_done">Facturat</string>
   <string name="flight_check_in_now">立即值机</string>
   <string name="flight_detail_tips">更多飞机行程服务推荐使用：%1$s</string>
   <string name="flight_detail_tips_url">飞常准</string>
