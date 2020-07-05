@@ -76,7 +76,7 @@
   <string name="birthday_event_description_a_week_ago">Fa una setmana</string>
   <string name="birthday_event_description_a_week_later">Falta una setmana per</string>
   <string name="birthday_event_description_day_after_tomorrow">Demà passat és</string>
-  <string name="birthday_event_description_day_before_yesterday">Abans d\'ahir era</string>
+  <string name="birthday_event_description_day_before_yesterday">Abans-d\'ahir era</string>
   <string name="birthday_event_description_default">"%1$s de %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s és el %3$s %4$s %5$s de %2$s"</string>
   <string name="birthday_event_description_today">Avui és</string>
@@ -118,8 +118,8 @@
   <string name="content_confirm_close_chinese_calendar">Un cop desactiveu aquesta opció, totes les dates dels vostres esdeveniments indicades en calendari tradicional xinès s\'adaptaran al calendari gregorià. La repetició d\'esdeveniments es definirà en anys i mesos del calendari georgià.</string>
   <string name="copy_email">Copia l\'adreça de correu electrònic</string>
   <string name="copy_number">Copia el número de telèfon</string>
-  <string name="countdown_event_title">[Countdown]%1$s</string>
-  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s en 3 dies</string>
+  <string name="countdown_event_title">Compte enrere: %1$s</string>
+  <string name="countdown_notify_before_3_day_title">Compte enrere: %1$s d\'aquí a 3 dies</string>
   <string name="countdown_notify_title">[Countdown]%1$s</string>
   <string name="countdown_secondary_tag">Compte enrere</string>
   <string name="countdown_today">Avui</string>
