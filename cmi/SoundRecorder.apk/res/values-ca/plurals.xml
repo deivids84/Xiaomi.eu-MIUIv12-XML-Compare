@@ -32,6 +32,10 @@
         <item quantity="other">Cerca entre %d enregistraments</item>
         <item quantity="one">Cerca entre %d enregistrament</item>
     </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Cerqueu entre %d gravacions</item>
+        <item quantity="one">Cerqueu entre %d enregistraments</item>
+    </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">Cerca entre %d gravacions de trucades</item>
         <item quantity="one">Cerca entre %d gravació de trucades</item>
