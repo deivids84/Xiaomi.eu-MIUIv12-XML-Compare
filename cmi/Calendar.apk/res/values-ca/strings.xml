@@ -248,10 +248,10 @@
   <string name="flight_disclaimer_content">"La informació i els serveis del vol són proporcionats per VariFlight. Totes les responsabilitats relacionades seran a càrrec del tercer. Contacteu amb el servei d'atenció al client de VariFlight si teniu alguna pregunta. La informació del vol es proporciona només per a la vostra referència. Consulteu els anuncis de la companyia aèria per obtenir informació més precisa i actualitzada."</string>
   <string name="flight_disclaimer_dialog_ok">Entesos</string>
   <string name="flight_event_delete_successfully">S\'ha suprimit l\'itinerari de vol amb èxit</string>
-  <string name="flight_plan_time">计划%1$s</string>
-  <string name="flight_seat_no">座位%1$s</string>
-  <string name="flight_state">航班状态</string>
-  <string name="flight_time">实际%1$s</string>
+  <string name="flight_plan_time">Programat %1$s</string>
+  <string name="flight_seat_no">Seient %1$s</string>
+  <string name="flight_state">Estat del vol</string>
+  <string name="flight_time">Estimat %1$s</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
