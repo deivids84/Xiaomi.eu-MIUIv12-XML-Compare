@@ -619,7 +619,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="setting_chinese_calendar">Calendari xinès</string>
   <string name="setting_daysoff_no_update">La informació de les festes està actualitzada.</string>
   <string name="setting_daysoff_update">Actualitza la informació de les festes</string>
-  <string name="setting_daysoff_update_cta_cancel">Permeteu primer que Calendari es connecti a internet</string>
+  <string name="setting_daysoff_update_cta_cancel">Permeteu primer que el Calendari es connecti a internet</string>
   <string name="setting_daysoff_update_net_err">"No s'han pogut buscar actualitzacions. Espereu un o dos minuts i torneu-ho a provar."</string>
   <string name="setting_daysoff_update_schedule">S\'està actualitzant…</string>
   <string name="setting_daysoff_update_success">S\'ha actualitzat correctament</string>
@@ -675,7 +675,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="subscribe_card_success">Us heu subscrit amb èxit. Consulteu els detalls a la pàgina d\'inici.</string>
   <string name="subscribe_card_success_for_homepage">Us heu subscrit amb èxit a «%1$s»</string>
   <string name="subscribe_channel_subscribe">Subscriviu-vos</string>
-  <string name="subscribe_channel_subscribing">Suscribir-se</string>
+  <string name="subscribe_channel_subscribing">Subscrit</string>
   <string name="subscribing_card">Subscripcions</string>
   <string name="sunday">Diumenge</string>
   <string name="sunday_short">Dg.</string>
