@@ -789,7 +789,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="unsubscribing_card">Cancel·la la subscripció</string>
   <string name="user_notice_button_exit">Surt</string>
   <string name="user_notice_button_ok">D\'acord</string>
-  <string name="user_notice_message">Heu d\'acceptar les nostres %1$s i %2$s abans d\'utilitzar Calendari. Per proporcionar dades precises de festivitats locals, aniversaris, targetes de crèdit i viatges programats, Calendari ha d\'accedir a la ubicació, contactes i missatges, així com connectar-se a internet. Hi esteu d\'acord?</string>
+  <string name="user_notice_message">Heu d’acceptar el nostre %1$s i %2$s abans d’utilitzar el Calendari. Per tal de proporcionar dades exactes sobre els festius locals, aniversaris, reemborsaments de targetes de crèdit i viatges previstos, el Calendari ha d’accedir a la vostra ubicació, contactes i missatges, així com connectar-se a Internet. Hi esteu d\'acord?</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_event_calendar_label">Calendari:</string>
   <string name="view_event_organizer_label">Organitzador:</string>
@@ -801,7 +801,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="weekly">Setmanalment (cada %s)</string>
   <string name="when_label">Quan</string>
   <string name="widget_events">Pròxim esdeveniment</string>
-  <string name="widget_get_weather_info">Obtén la informació meteorològica &gt;</string>
+  <string name="widget_get_weather_info">Obté la informació meteorològica</string>
   <string name="widget_no_events">No hi ha esdeveniments</string>
   <string name="widget_select_style">Seleccioneu un estil</string>
   <string name="work_day_default_banner_title">Que tingueu un dia productiu a la feina!</string>
