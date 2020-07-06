@@ -279,7 +279,7 @@ Visiteu https://appleid.apple.com/#!&amp;pàgina = inicieu la sessió per desact
   <string name="icloud_data_importing">Important…</string>
   <string name="icloud_how_to_backup_tip_steps">"Atenció
 1. Per importar elements des d’un dispositiu iOS, utilitzeu la darrera còpia de seguretat o sincronitzeu tots els elements abans d’iniciar la transferència."</string>
-  <string name="icloud_how_to_backup_tip_steps_two">"2. El vostre identificador i contrasenya d'Apple només s'utilitzaran per iniciar la sessió. No seran guardats ni enregistrats per Mi Mover."</string>
+  <string name="icloud_how_to_backup_tip_steps_two">"2. El vostre identificador i contrasenya d'Apple només s'utilitzaran per iniciar la sessió. No seran desats ni enregistrats per Mi Mover."</string>
   <string name="icloud_login_title">Inicieu la sessió a iCloud</string>
   <string name="icloud_need_sync">Seleccioneu els elements que voleu importar</string>
   <string name="icloud_need_traffic_message">"En aquest moment no esteu connectats a WLAN. Feu servir dades mòbils per importar articles des de iCloud?"</string>
