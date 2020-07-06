@@ -619,13 +619,13 @@ Allibereu almenys %s."</string>
   <string name="sync_one_time_sync">Toqueu per sincronitzar ( %1$s)</string>
   <string name="system_app_is_restore">Restauració dels elements del sistema…</string>
   <string name="system_app_restore_completed">S\'ha restaurat correctament</string>
-  <string name="system_app_restore_completed_detail">Tots els ítems del sistema es restauren correctament</string>
+  <string name="system_app_restore_completed_detail">Tots els elements del sistema s\'han restaurat amb èxit</string>
   <string name="system_app_restore_failed">Hi ha hagut un error</string>
   <string name="system_app_restore_failed_detail">"No s'han pogut restaurar els elements del sistema. Comproveu la configuració de la xarxa i no reinicieu ni apagueu el dispositiu fins que no es recuperin totalment els elements. Toqueu el botó següent per tornar-ho a provar."</string>
   <string name="system_restore">Restaura els elements</string>
   <string name="task_backup_cancel_progress">S\'ha cancel·lat…</string>
   <string name="task_canceled_all_local">Cancel·lat</string>
-  <string name="task_pending">…esperant</string>
+  <string name="task_pending">S\'està esperant…</string>
   <string name="text_timeout_retry">"No s'ha pogut connectar. Torna-ho a provar."</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversari del Dret Marcial d\'Aixecament</string>
   <string name="the_anti_aggression_day">Dia Antiagressió</string>
