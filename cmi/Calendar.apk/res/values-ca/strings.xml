@@ -776,7 +776,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="travel_item_virtual_sim">SIM Virtual de Mi</string>
   <string name="travel_item_weather_forecast">Previsió del temps a la destinació</string>
   <string name="travel_item_weather_now">Temps a la destinació</string>
-  <string name="travel_loaded">Amb tecnologia de Veryzhun</string>
+  <string name="travel_loaded">Desenvolupat per Veryzhun</string>
   <string name="travel_loading">Un moment…</string>
   <string name="travel_local">Destinació</string>
   <string name="travel_seat_number_text">Seient</string>
@@ -784,8 +784,8 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="tuesday">Dimarts</string>
   <string name="tuesday_short">Dt.</string>
   <string name="tuesday_shortest">dt.</string>
-  <string name="unsubscribe_card">Anul·la</string>
-  <string name="unsubscribe_card_success">Heu anul·lat la subscripció amb èxit a «%1$s»</string>
+  <string name="unsubscribe_card">Cancel·la la subscripció</string>
+  <string name="unsubscribe_card_success">S\'ha cancel·lat la subscripció de \"%1$s\" amb èxit</string>
   <string name="unsubscribing_card">Cancel·la la subscripció</string>
   <string name="user_notice_button_exit">Surt</string>
   <string name="user_notice_button_ok">D\'acord</string>
