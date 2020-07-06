@@ -614,7 +614,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="setting">Configuració</string>
   <string name="setting_about_calendar_version">Versió del calendari: %1$s-%2$s</string>
   <string name="setting_about_miui_version">Versió MIUI: %1$s-%2$s</string>
-  <string name="setting_about_summary">Versió: </string>
+  <string name="setting_about_summary">Versió:</string>
   <string name="setting_accounts">Comptes de calendari</string>
   <string name="setting_chinese_calendar">Calendari xinès</string>
   <string name="setting_daysoff_no_update">La informació de les festes està actualitzada.</string>
