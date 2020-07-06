@@ -633,7 +633,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="setting_title_about">Quant a</string>
   <string name="setting_title_holiday_display">Mostra els dies festius</string>
   <string name="setting_title_import_todo">Importa tasques</string>
-  <string name="share_not_install_wechat">Instal·leu Wechat.</string>
+  <string name="share_not_install_wechat">Instal·leu WeChat.</string>
   <string name="share_not_install_weibo">Instal·leu Weibo.</string>
   <string name="share_title">Comparteix</string>
   <string name="shortcut_new_event">Afegeix un esdeveniment</string>
@@ -685,10 +685,9 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="tab_title_day">Dia</string>
   <string name="tab_title_month">Mes</string>
   <string name="tab_title_week">Setmana</string>
-  <string name="taishen">taishen</string>
   <string name="talk_back_read_date">%1$s (%2$s segons el calendari lunar).</string>
   <string name="talk_back_setting">Configuració</string>
-  <string name="talk_back_tab_switch">Alterna visualitzacions</string>
+  <string name="talk_back_tab_switch">Canvia entre les vistes</string>
   <string name="template_announce_item_index">Esdeveniment %1$s de %2$s.</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
   <string name="the_anti_aggression_day">Dia de la no-agressió</string>
