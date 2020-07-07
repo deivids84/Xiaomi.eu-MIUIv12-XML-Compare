@@ -1,0 +1,3 @@
+files:
+  - source: /cepheus/
+    translation: /Ukrainian/%original_file_name%/%locale%
