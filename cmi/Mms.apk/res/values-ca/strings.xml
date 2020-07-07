@@ -1121,7 +1121,7 @@ Mireu els recomanats!"</string>
   <string name="summary_pref_cm_smart_sms">Plantilles de targetes, números de servei de SMS i més.</string>
   <string name="sunday">Diumenge</string>
   <string name="sunday_short">Dg.</string>
-  <string name="sunday_shortest">dg.</string>
+  <string name="sunday_shortest">Dg</string>
   <string name="switch_to_editor">Mode d\'edició</string>
   <string name="switch_to_menu">Mode de menú</string>
   <string name="system_permission_declare_agree">D\'acord</string>
@@ -1177,7 +1177,7 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
   <string name="the_seventh_day">Setè dia de l\'Any Nou Xinès</string>
   <string name="the_sixth_day">Sisè dia de l\'Any Nou Xinès</string>
   <string name="the_spirit_festival">Festival dels fantasmes</string>
-  <string name="the_spring_festival">any nou xinès</string>
+  <string name="the_spring_festival">Any Nou Xinès</string>
   <string name="the_teachers_day">"Dia dels mestres"</string>
   <string name="the_third_day">Tercer dia de l\'Any Nou Xinès</string>
   <string name="the_tw_childrens_day">"Dia de la Infància"</string>
@@ -1186,8 +1186,8 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
   <string name="the_valentines_day">"Dia de Sant Valentí"</string>
   <string name="the_water_lantern_festival">Festa dels fanals d\'aigua</string>
   <string name="thursday">Dijous</string>
-  <string name="thursday_short">Dj.</string>
-  <string name="thursday_shortest">dj.</string>
+  <string name="thursday_short">Dj</string>
+  <string name="thursday_shortest">dj</string>
   <string name="time_picker_dialog_title">Establiu l\'hora</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
@@ -1203,7 +1203,7 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
   <string name="title_show_list_avatar">Mostra fotos de perfil</string>
   <string name="title_show_photo_word">Assigna fotos al contacte</string>
   <string name="title_show_sms_template">Missatgeria Intel·ligent</string>
-  <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>
+  <string name="title_show_sms_template_in">Comproveu l\'SMS per l\'OTP</string>
   <string name="title_timed_message_dialog">Estableix el missatge programat</string>
   <string name="title_use_gsm_alphabet">Utilitza l\'abecedari GSM</string>
   <string name="to_address_label">"Per: "</string>
