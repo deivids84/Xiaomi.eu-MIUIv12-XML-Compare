@@ -496,7 +496,7 @@
   <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
   <string name="applock_lock_all">Bloqueja-ho tot</string>
   <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
-  <string name="applock_not_add_account"><u>Ara no</u></string>
+  <string name="applock_not_add_account">&lt;u&gt;Ara no&lt;/u&gt;</string>
   <string name="applock_not_login_account">"No heu iniciat la sessió"</string>
   <string name="applock_set_password_title">Canvia el tipus de contrasenya</string>
   <string name="applock_settings_unlock_all_toast">S\'han desbloquejat totes les aplicacions</string>
