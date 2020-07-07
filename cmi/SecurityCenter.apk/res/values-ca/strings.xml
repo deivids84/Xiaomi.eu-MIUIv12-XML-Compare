@@ -846,13 +846,13 @@
   <string name="databooster_tips_message">Activeu-ho per restringir totes les targetes SIM, excepte la targeta de dades. Desactiveu aquesta funció si es produeixen errors en els jocs que trieu.</string>
   <string name="databooster_tips_title">Atenció</string>
   <string name="debug_open_final_tip">Vols activar la depuració USB?</string>
-  <string name="debug_open_title">Aquesta funció està pensada per a desenvolupadors i és possible que no sigui convenient per a usuaris en general. Si activeu la depuració USB, podríeu produir els canvis següents:</string>
+  <string name="debug_open_title">Aquesta funció està pensada per a desenvolupadors i és possible que no sigui convenient pels usuaris en general. Si activeu la depuració USB, podríeu provocar els canvis següents:</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
   <string name="deep_clean_memory_clean_title">Esborra la memòria cau quan el dispositiu està bloquejat</string>
   <string name="deep_clean_never_memory_clean">Mai</string>
   <string name="deep_power_save_item_summary_auto_brightness">Ajusta la brillantor de pantalla automàticament per estalviar bateria</string>
-  <string name="deep_power_save_item_summary_bluetooth">Desactiva el Bluetooth per estalviar bateria</string>
+  <string name="deep_power_save_item_summary_bluetooth">Desactiveu el Bluetooth per estalviar bateria</string>
   <string name="deep_power_save_item_summary_lock_screen_time">Apaga la pantalla per estalviar bateria després de 30 segons d\'inactivitat</string>
   <string name="deep_power_save_item_title_auto_brightness">Activa la lluminositat automàtica</string>
   <string name="deep_power_save_item_title_bluetooth">Desactiva el Bluetooth</string>
@@ -872,17 +872,17 @@
   <string name="device_manager_apply_step_2">"En activar l’administrador del dispositiu per a aquesta aplicació pot comportar l’exposició de les vostres dades personals.
 Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de la pantalla de bloqueig."</string>
   <string name="device_manager_apply_step_3">Assegureu-vos de què enteneu tots els possibles riscos abans de continuar. Voleu activar l\'administrador del dispositiu per a aquesta aplicació?</string>
-  <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
+  <string name="dialog_app_roaming_message">"%1$s no pot utilitzar les dades mòbils en itinerància. Quan estigueu en itinerància a l'estranger, només les aplicacions que heu afegit a les excepcions poden utilitzar les dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
   <string name="dialog_change_package_type_summary">Si modifiqueu el pla de dades es restaurarà la configuració del control de l\'ús de dades (per exemple, límit de dades) als seus valors per defecte. Voleu canviar ara el pla de dades?</string>
   <string name="dialog_change_package_type_title">S\'està canviant el tipus de pla de dades</string>
-  <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració i Aplicacions.</string>
+  <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar-se. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració &gt; Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
   <string name="dialog_restrict_all_mobile_summary">%s La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
   <string name="dialog_restrict_all_mobile_title">Restringeix la connexió de dades mobils %s</string>
-  <string name="dialog_restrict_all_wlan_summary">Després de tot això, es restringirà la connexió Wi-Fi per a totes les aplicacions.</string>
-  <string name="dialog_restrict_all_wlan_title">Restringiu la connexió Wi-Fi</string>
+  <string name="dialog_restrict_all_wlan_summary">Després d\'això, es restringirà la connexió Wi-Fi per a totes les aplicacions.</string>
+  <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringeix</string>
   <string name="dialog_restrict_positive">Cancel·la</string>
   <string name="dialog_roaming_message">Voleu permetre que aquesta aplicació utilitzi dades mòbils en itinerància a l\'estranger?</string>
