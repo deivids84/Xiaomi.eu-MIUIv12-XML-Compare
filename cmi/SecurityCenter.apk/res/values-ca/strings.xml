@@ -920,7 +920,8 @@ Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de
   <string name="dlg_keyword_ok">Desa</string>
   <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració &gt; Telèfon.</string>
   <string name="dlg_move_to_white">Afegeix a excepcions</string>
-  <string name="dlg_no_block">"Voleu desbloquejar aquest número de telèfon?\nS'afegirà a les excepcions, però els elements bloquejats anterioment no apareixeran a l'historial de trucades."</string>
+  <string name="dlg_no_block">"Voleu desbloquejar aquest número de telèfon?
+S'afegirà a les excepcions, però els elements bloquejats prèviament no apareixeran a l'historial de trucades."</string>
   <string name="dlg_no_block_ok">Desbloqueja</string>
   <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
