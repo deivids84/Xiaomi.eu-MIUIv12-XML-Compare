@@ -596,7 +596,7 @@
   <string name="banner_optimizemanage_summary">Allibera memòria</string>
   <string name="banner_red_money_assist_button">Activa</string>
   <string name="banner_red_money_assist_summary">Obriu els sobres vermells més ràpidament</string>
-  <string name="battery_and_property">Pila</string>
+  <string name="battery_and_property">Bateria</string>
   <string name="battery_can_use_time">Resten %s</string>
   <string name="battery_capacity_title">Capacitat de la bateria</string>
   <string name="battery_charge_estimating">Calculant</string>
@@ -1786,7 +1786,7 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_optimize_manage">Augment de velocitat</string>
   <string name="menu_text_optimize_manage_1">Potenciar la velocitat</string>
-  <string name="menu_text_power_manager">Pila</string>
+  <string name="menu_text_power_manager">Bateria</string>
   <string name="menu_wh_remove">Suprimeix de les excepcions</string>
   <string name="menu_white">Afegeix a excepcions</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
@@ -2073,7 +2073,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="pc_search_keywords_battery_use">Ús de la bateria</string>
   <string name="pc_search_keywords_capacity">Capacitat de la bateria</string>
   <string name="pc_search_keywords_property">Rendiment</string>
-  <string name="pc_settings_title">Pila</string>
+  <string name="pc_settings_title">Bateria</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dmin restants</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dmin des de l\'última carrega</string>
   <string name="pc_statistics_battery_use_summary">%s des de l\'última carrega</string>
@@ -2203,7 +2203,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="power_center_super_save_title_text">Estalvi extrem de bateria</string>
   <string name="power_center_time_to_boot">Hora d\'encesa</string>
   <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
-  <string name="power_center_title">Pila</string>
+  <string name="power_center_title">Bateria</string>
   <string name="power_consume_hardware_total_format">Maquinari: %s</string>
   <string name="power_consume_other">Un altre</string>
   <string name="power_consume_rank_hardware">Maquinari</string>
