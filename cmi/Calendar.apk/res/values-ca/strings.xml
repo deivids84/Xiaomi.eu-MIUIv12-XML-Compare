@@ -417,12 +417,12 @@
   <string name="month_september_short">Set.</string>
   <string name="month_september_shortest">set.</string>
   <string name="month_view">Mes</string>
-  <string name="monthly">Mensualment</string>
-  <string name="monthly_on_day">Mensualment (el mateix dia)</string>
-  <string name="monthly_on_day_count">Mensual (%1$s de cada mes)</string>
+  <string name="monthly">Mensual</string>
+  <string name="monthly_on_day">Mensual (el mateix dia)</string>
+  <string name="monthly_on_day_count">Mensual (%1$s)</string>
   <string name="more">Més</string>
   <string name="morning">Matí</string>
-  <string name="movie_event_delete_successfully">S\'ha esborrat correctament l\'entrada de cinema</string>
+  <string name="movie_event_delete_successfully">S\'ha suprimit l\'entrada de cinema correctament</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
   <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
@@ -456,14 +456,14 @@
   <string name="new_event_description">Nou</string>
   <string name="night">Vespre</string>
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>
-  <string name="no_events_hint">Cap esdeveniment</string>
+  <string name="no_events_hint">No hi ha esdeveniments</string>
   <string name="no_more_events">No hi ha més esdeveniments a mostrar</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa.
 Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_title_label">(Sense títol)</string>
   <string name="no_visiable_calendar_message">Cal que afegiu un compte de calendari. Toqueu Afegeix un compte per continuar.</string>
-  <string name="no_visiable_calendar_message_only_for_xiaomi_account">Us cal afegir un compte de calendari. Premeu \"Afegeix un compte\" per continuar.</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">Cal que afegiu un compte de calendari. Premeu \"Afegeix un compte\" per continuar.</string>
   <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
   <string name="no_visiable_calendar_title">Afegeix un compte</string>
   <string name="noon">Migdia</string>
