@@ -330,12 +330,12 @@
   <string name="menu_reminder_preferences">Recordatoris</string>
   <string name="midnight">Nit</string>
   <string name="missing_name">(Sense nom)</string>
-  <string name="missing_required_permission">Heu desactivat un permís necessari.</string>
+  <string name="missing_required_permission">Heu restringit els permisos necessaris.</string>
   <string name="miuishare_account_activate_confirmation">Activa el Compte Mi</string>
   <string name="miuishare_account_activate_ok">Activa</string>
   <string name="miuishare_account_login_cancel">Cancel·la</string>
-  <string name="miuishare_account_login_confirmation">Inicia sessió al Compte Mi</string>
-  <string name="miuishare_account_login_ok">Inicia sessió</string>
+  <string name="miuishare_account_login_confirmation">Inicia la sessió al Compte Mi</string>
+  <string name="miuishare_account_login_ok">Inicia la sessió</string>
   <string name="miuishare_account_need_activate">Per compartir amb Weibo cal que el compte Weibo estigui associat al Compte Mi. Activeu el Compte Mi per continuar.</string>
   <string name="miuishare_account_need_login">Per compartir amb Weibo cal que el compte Weibo estigui associat al Compte Mi. Inicieu la sessió al Compte Mi per continuar.</string>
   <string name="miuishare_app_name">Compartició MIUI</string>
@@ -476,7 +476,6 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="notification_open_setting_message">"No podreu rebre notificacions dels esdeveniments fins que permeteu que el calendari us enviï notificacions."</string>
   <string name="notification_open_setting_title">Voleu permetre les notificacions del calendari?</string>
   <string name="olympic_vs">CONTRA</string>
-  <string name="online_reminder_header_text">Recorda</string>
   <string name="pack_up">Amaga</string>
   <string name="passenger">Passatger</string>
   <string name="password_toggle_content_description">Mostra la contrasenya</string>
