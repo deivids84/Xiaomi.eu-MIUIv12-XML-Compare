@@ -208,8 +208,8 @@
   <string name="event_info_reminders_label_1">Recordatori</string>
   <string name="event_info_repeat">Repetició</string>
   <string name="event_info_title">Detalls de l\'esdeveniment</string>
-  <string name="event_info_title_anniversary">Aniversari</string>
-  <string name="event_info_title_birthday">Data de naixement</string>
+  <string name="event_info_title_anniversary">Commemoració</string>
+  <string name="event_info_title_birthday">Aniversari</string>
   <string name="event_info_title_countdown">Compte enrere</string>
   <string name="event_info_title_invite">Invitació a la reunió</string>
   <string name="event_info_when">Quan\u0009\u0009</string>
