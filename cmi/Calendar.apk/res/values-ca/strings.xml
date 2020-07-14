@@ -212,11 +212,11 @@
   <string name="event_info_title_birthday">Aniversari</string>
   <string name="event_info_title_countdown">Compte enrere</string>
   <string name="event_info_title_invite">Invitació a la reunió</string>
-  <string name="event_info_when">Quan\u0009\u0009</string>
-  <string name="event_info_where">On\u0009</string>
+  <string name="event_info_when">Quan</string>
+  <string name="event_info_where">On</string>
   <string name="event_reminder_allday_day_zero">Aquell dia a les %2$s</string>
   <string name="event_reminder_custom">Personalitzat</string>
-  <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
+  <string name="event_reminder_value_zero">Quan l\'esdeveniment comenci</string>
   <string name="event_title">Títol</string>
   <string name="event_view">Mostra l\'esdeveniment</string>
   <string name="every_weekday">De dilluns a divendres</string>
@@ -287,7 +287,6 @@
   <string name="fmt_weekday_time">W T</string>
   <string name="fmt_weekday_time_timezone">zW T</string>
   <string name="fmt_weekday_timezone">zW</string>
-  <string name="fortune_birthday">Aniversari</string>
   <string name="free_day_default_banner_title">Gaudiu de les vacances!</string>
   <string name="friday">Divendres</string>
   <string name="friday_short">Dv.</string>
