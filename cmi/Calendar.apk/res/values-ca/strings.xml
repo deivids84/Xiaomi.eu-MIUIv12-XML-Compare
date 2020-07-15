@@ -492,9 +492,9 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="pref_title_alarm_remind">Alarma de recordatoris</string>
   <string name="pref_title_no_remind">No hi ha recordatoris</string>
   <string name="preferences_alarms_category_title">Alarma de recordatoris</string>
-  <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
+  <string name="preferences_alarms_default_event">Seleccioneu els esdeveniments</string>
   <string name="preferences_alarms_sound">So</string>
-  <string name="preferences_alarms_vibrateWhen">Vibra</string>
+  <string name="preferences_alarms_vibrateWhen">Vibració</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibració</string>
   <string name="preferences_alerts_vibrate_title">Vibració i tons de trucada</string>
   <string name="preferences_allow_remind">Permet els recordatoris</string>
