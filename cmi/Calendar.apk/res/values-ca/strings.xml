@@ -496,13 +496,12 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
   <string name="preferences_alarms_sound">So</string>
   <string name="preferences_alarms_vibrateWhen">Vibració</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibració</string>
-  <string name="preferences_alerts_vibrate_title">Vibració i tons de trucada</string>
+  <string name="preferences_alerts_vibrate_title">Recordatori per defecte</string>
   <string name="preferences_allow_remind">Permet els recordatoris</string>
   <string name="preferences_default_allday_reminder_title">Hora per defecte del recordatori per tot el dia</string>
-  <string name="preferences_default_reminder_dialog">Temps de recordatori per defecte</string>
-  <string name="preferences_default_reminder_title">Temps de recordatori per defecte</string>
+  <string name="preferences_default_reminder_dialog">Hora de recordatori per defecte</string>
+  <string name="preferences_default_reminder_title">Hora de recordatori per defecte</string>
   <string name="preferences_home_tz_title">Fus horari propi</string>
-  <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
   <string name="preferences_notification_ringtone_title">So</string>
   <string name="preferences_popup_alert_smart_summary_new">Els esdeveniments temporals són els lligats a una hora exacta</string>
   <string name="preferences_popup_alert_title">Alertes emergents</string>
