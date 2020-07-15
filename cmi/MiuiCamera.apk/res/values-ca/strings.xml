@@ -145,8 +145,8 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="back_apollo_global_pro">3:PRESA AMB TELÈFON MI:CÀMERA TRIPLE IA:CÀMERA TRIPLE 108MP</string>
   <string name="back_apollo_india">3:PRESA AMB TELÈFON MI:CÀMERA TRIPLE IA:CÀMERA TRIPLE 64MP</string>
   <string name="back_apollo_india_pro">3: SHOT ON MI TELÈFON: CÀMERA DE TRIPLE AI: CÀMERA DE TRIPLE DE 108MP</string>
-  <string name="back_apricot">3: SHOT ON REDMI 10X: CÀMERA DE TRIPLE AI: CÀMERRA TRIPLE DE 48MP</string>
-  <string name="back_atom">3: SHOT ON REDMI 10X: CÀMERA DE TRIPLE AI: CÀMERRA TRIPLE DE 48MP</string>
+  <string name="back_apricot">3:PRESA AMB REDMI 10X:CÀMERA TRIPLE IA:CÀMERA TRIPLE 48MP</string>
+  <string name="back_atom">3:PRESA AMB REDMI 10X:CÀMERA TRIPLE IA:CÀMERA TRIPLE 48MP</string>
   <string name="back_banana">4: REDMI 10X PRO: CÀMERA DE QUADRE AI: CÀMERA DE QUADRE DE 48MP</string>
   <string name="back_begonia">4:REDMI NOTE8 PRO:CÀMERA QUAD IA:CÀMERA QUAD 64MP</string>
   <string name="back_begoniain">4:REDMI NOTE8 PRO:CÀMERA QUAD IA:CÀMERA QUAD 64MP</string>
@@ -171,7 +171,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="back_draco">2:PRESA AMB MIX ALPHA:CÀMERA DUAL IA:CÀMERA DUAL 108MP</string>
   <string name="back_durandal">4:REDMI NOTE 9S:CÀMERA QUAD IA:CÀMERA QUAD 48MP</string>
   <string name="back_durandal_india">4:REDMI NOTE 9 PRO:CÀMERA QUAD IA:CÀMERA QUAD 48MP</string>
-  <string name="back_equuleus">2: SHOT ON MI 8 UD: CÀMERA DUAL AI: CÀMERA DE DUAL de 48MP</string>
+  <string name="back_equuleus">2:PRESA AMB MI 8 UD:CÀMERA DUAL IA:CÀMERA DUAL 48MP</string>
   <string name="back_excalibur">4:REDMI NOTE 9 PRO:CÀMERA QUAD IA:CÀMERA QUAD 64MP</string>
   <string name="back_excalibur_india">4: REDMI NOTA 9 PRO MAX: CÀMERA DE QUADRE AI: CÀMERA DE QUADRE DE 64MP</string>
   <string name="back_galahad">4:PRESA AMB MI 9:CÀMERA QUAD IA:CÀMERA QUAD 48MP</string>
@@ -1028,11 +1028,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_lens_dirty_detect_summary">Rebreu una notificació quan la lent està bruta</string>
   <string name="pref_lens_dirty_detect_title">Notifica sobre les lents brutes</string>
-  <string name="pref_manual_exposure_title">Temps d\'exposició</string>
   <string name="pref_module_settings">Modes</string>
   <string name="pref_more_mode_style_title">Mode de càmera</string>
-  <string name="pref_multi_camera_dual_video">多 景 同 开</string>
-  <string name="pref_multi_camera_dual_video_front">前置</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Només podeu gravar vídeos de 720p amb 240fps</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Només podeu gravar vídeos de 720p amb 960fps</string>
   <string name="pref_photo_assistance_tips_off">Desactivat</string>
@@ -1042,7 +1039,6 @@ Manté el subjecte nítid mentre difumina el fons."</string>
   <string name="pref_popup_camera_title">Càmera desplegable</string>
   <string name="pref_priority_storage_title">Desa a la targeta SD</string>
   <string name="pref_privacy_title">Política de privadesa</string>
-  <string name="pref_qc_focus_position_title">Enfocament</string>
   <string name="pref_retain_camera_common_mode_summary">Obre la càmera al mode usat anteriorment en lloc de canviar a «Foto»</string>
   <string name="pref_retain_camera_mode_summary">Canvia la càmera al mode usat anteriorment en obriu l\'aplicació.</string>
   <string name="pref_retain_camera_mode_title">Desa el mode anterior</string>
