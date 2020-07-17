@@ -32,6 +32,10 @@
         <item>&lt;3.7mph</item>
         <item>&lt;3.2kn</item>
     </string-array>
+    <string-array name="dislike_alert_dialog_selectitems">
+        <item>no m\'interessa</item>
+        <item>mala qualitat del contingut</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Pequín</item>
         <item>Xangai</item>
@@ -69,6 +73,13 @@
         <item>Molt contaminat</item>
         <item>Extremadament contaminat</item>
         <item>Més enllà de l\'índex</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_values">
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
     </string-array>
     <string-array name="weather_type">
         <item>Serè</item>
