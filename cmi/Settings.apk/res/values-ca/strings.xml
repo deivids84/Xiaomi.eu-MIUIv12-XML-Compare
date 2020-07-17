@@ -2770,7 +2770,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
   <string name="fingerprint_add_max">Podeu afegir fins a %d empremtes</string>
   <string name="fingerprint_add_title">Afegeix una empremta</string>
   <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
-  <string name="fingerprint_apply_to_privacy_password">Contrasenya de protecció de privadesa</string>
+  <string name="fingerprint_apply_to_privacy_password">Contrasenya de protecció de la privadesa</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="fingerprint_delete_message">Voleu suprimir aquesta empremta digital?</string>
   <string name="fingerprint_delete_title">"Suprimeix '%1$s'"</string>
@@ -5148,7 +5148,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
   <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
   <string name="privacy_password_settings_next">Següent</string>
-  <string name="privacy_password_settings_summary">La contrasenya de protecció de privadesa s’utilitza per a les aplicacions que puguin contenir informació confidencial</string>
+  <string name="privacy_password_settings_summary">La contrasenya de protecció de la privadesa s’utilitza per a les aplicacions que puguin contenir informació confidencial</string>
   <string name="privacy_password_settings_titles">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="privacy_password_settings_titles_elder_mode">La contrasenya de privacitat protegeix les vostres fotos, fitxers i notes.</string>
   <string name="privacy_password_settings_titles_second_space">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers i notes.</string>
@@ -5160,7 +5160,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
   <string name="privacy_password_use_finger_success">Activat</string>
   <string name="privacy_password_visible_pattern">Mostra el patró</string>
   <string name="privacy_protect_title">Protecció de privacitat</string>
-  <string name="privacy_protection">Protecció de privadesa</string>
+  <string name="privacy_protection">Protecció de la privadesa</string>
   <string name="privacy_protection_title">Privadesa</string>
   <string name="privacy_relative">Privadesa</string>
   <string name="privacy_settings">Còpia de seguretat i reinicialització</string>
