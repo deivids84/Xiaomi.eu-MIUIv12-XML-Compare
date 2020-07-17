@@ -4805,7 +4805,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
   <string name="passpoint_content">%1$s certificats</string>
   <string name="passpoint_label">S\'ha desat mitjançant</string>
   <string name="passwordIncorrect">La contrasenya introduïda és errònia</string>
-  <string name="password_and_security">Contrasenya &amp; seguretat</string>
+  <string name="password_and_security">Contrasenyes i seguretat</string>
   <string name="password_entrance_title">Pantalla de bloqueig</string>
   <string name="password_guard">Contrasenya</string>
   <string name="password_security_settings_title">Contrasenyes i seguretat</string>
