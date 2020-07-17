@@ -67,8 +67,8 @@
         <item>Cada dimecres</item>
         <item>Cada dijous</item>
         <item>Cada divendres</item>
-        <item>Cada dissabtes</item>
-        <item>Cada diumenges</item>
+        <item>Cada dissabte</item>
+        <item>Cada diumenge</item>
     </string-array>
     <string-array name="rh_blood_array">
         <item>Sense especificar</item>
