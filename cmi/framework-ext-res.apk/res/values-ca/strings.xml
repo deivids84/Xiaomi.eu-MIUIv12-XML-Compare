@@ -216,7 +216,7 @@
   <string name="security_permission_validate_warning">Gràcies per ajudar-nos a fer MIUI millor!</string>
   <string name="security_permission_wifi_and_data_opened_text">Les dades mòbils i la WLAN s\'han activat</string>
   <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'ID del Compte Mi</string>
-  <string name="security_share_text">Protecció de privadesa</string>
+  <string name="security_share_text">Protecció de la privadesa</string>
   <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="send_files_to">Envia els elements a</string>
