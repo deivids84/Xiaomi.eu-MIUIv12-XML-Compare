@@ -5304,6 +5304,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
   <string name="repeat_call">Notificació de trucades repetides</string>
   <string name="repeat_call_info">Permet so per a les trucades repetides d\'aquí a 15 minuts en mode silenci</string>
   <string name="repeat_days_in_week">Repetir</string>
+  <string name="repeat_never">Mai</string>
   <string name="repeat_title">Repeteix</string>
   <string name="reset_aaid">Reinicia l\'identificador de publicitat</string>
   <string name="reset_app_preferences">Reinicia les preferències de les aplicacions</string>
