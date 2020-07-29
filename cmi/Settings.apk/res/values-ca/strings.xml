@@ -4520,7 +4520,7 @@ Es substitueix a %2$s com a aplicació de pagament predeterminada."</string>
   <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
   <string name="not_set">Sense establir</string>
-  <string name="notch_and_status_bar_settings">Barra d\'estat del centre &amp; control</string>
+  <string name="notch_and_status_bar_settings">Centre de control i barra d\'estat</string>
   <string name="notch_force_black_desc">Activeu per enfosquir entorn el notch</string>
   <string name="notch_force_black_title">Amaga el notch</string>
   <string name="notch_settings">Notch</string>
