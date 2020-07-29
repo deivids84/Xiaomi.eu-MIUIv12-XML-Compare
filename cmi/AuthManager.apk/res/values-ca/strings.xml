@@ -122,7 +122,7 @@
   <string name="perm_action_allow">Permet</string>
   <string name="perm_action_deny">No ho permetis mai</string>
   <string name="perm_modem_location">Accés a la vostra ubicació</string>
-  <string name="perm_modem_location_desc">El vostre operador intenta accedir a informació de la ubicació. Voleu compartir informació de la ubicació amb l\'operador?</string>
+  <string name="perm_modem_location_desc">El vostre operador intenta accedir a la informació de la ubicació. Voleu compartir la informació de la ubicació amb l\'operador?</string>
   <string name="permdesc_camera">Fer fotos i enregistrar vídeos</string>
   <string name="permdesc_in_calls">Monitorar les trucades entrants</string>
   <string name="permdesc_location">Accedir a la informació d’ubicació</string>
