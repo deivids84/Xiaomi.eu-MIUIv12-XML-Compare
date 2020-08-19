@@ -383,6 +383,15 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
   <string name="micloud_wipe_data_confirm_title">Alguns elements de les aplicacions següents se sincronitzen amb Xiaomi Cloud. Podeu suprimir-les d’aquest dispositiu mantenint-los al núvol.</string>
   <string name="micloud_wipe_data_remove">Elimina</string>
   <string name="micloud_wipe_data_retain">Deixa</string>
+  <string name="midrive_guide1_desc">Fes una còpia de seguretat d’elements al núvol per alliberar l’espai d’emmagatzematge al dispositiu.</string>
+  <string name="midrive_guide1_title">Còpies de seguretat segures</string>
+  <string name="midrive_guide2_desc">Baixeu els elements a la velocitat del coll.</string>
+  <string name="midrive_guide2_title">Descàrregues ràpides</string>
+  <string name="midrive_guide3_desc">Utilitzeu Mi Drive en dispositius mòbils, ordinadors i navegadors.</string>
+  <string name="midrive_guide3_title">Funciona a tot arreu</string>
+  <string name="midrive_guide_btn_install">Instal·leu Mi Drive</string>
+  <string name="midrive_guide_btn_installed">Obre el meu disc</string>
+  <string name="midrive_guide_btn_installing">S\'està instal·lant…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
