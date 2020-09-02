@@ -55,7 +55,7 @@
   <string name="about_ad_service_instructions">About ad services and privacy​</string>
   <string name="about_phone_device_name_warning">Your device name is visible to apps on your phone. It may also be seen by other people when you connect to Bluetooth devices or set up a WLAN hotspot.</string>
   <string name="about_phone_enter_xiaomi_net">Learn more</string>
-  <string name="about_settings">About device</string>
+  <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App lock</string>
@@ -184,6 +184,10 @@ You can&amp;#8217;t zoom in on the keyboard or navigation bar."</string>
   <string name="accessibility_setting_item_control_timeout_title">Time to take action (Accessibility timeout)</string>
   <string name="accessibility_settings">Accessibility</string>
   <string name="accessibility_settings_summary">Screen readers, display, interaction controls</string>
+  <string name="accessibility_settings_tabs_general">General</string>
+  <string name="accessibility_settings_tabs_hearing">Hearing</string>
+  <string name="accessibility_settings_tabs_physical">Physical</string>
+  <string name="accessibility_settings_tabs_visual">Vision</string>
   <string name="accessibility_settings_title">Accessibility settings</string>
   <string name="accessibility_shortcut_description">Allow feature shortcut to turn on from the lock screen. Hold both volume keys for a few seconds.</string>
   <string name="accessibility_shortcut_edit_dialog_summary_hardware">Press &amp; hold both volume keys</string>
@@ -424,6 +428,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="agps_roaming_summary">Use mobile data to assist GPS while roaming</string>
   <string name="ai_button_title">Mi AI button</string>
   <string name="ai_button_title_global">AI button</string>
+  <string name="ai_call_assistant">AI calls</string>
   <string name="ai_key">AI button</string>
   <string name="ai_key_double_click">Double press</string>
   <string name="ai_key_long_press">Press and hold</string>
@@ -1277,7 +1282,7 @@ Selection: Channel mode"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Select Bluetooth audio LDAC codec
 Selection: Playback quality"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth audio LHDC codec: Latency</string>
-  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Select Bluetooth audio LHDC codec
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Select Bluetooth audio LHDC codec:
 Latency"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth audio LHDC codec: Playback quality</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Select Bluetooth audio LHDC codec:
@@ -1439,6 +1444,8 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="bt_lhdc_property">Properties</string>
   <string name="bt_pre_summary">Provide a high-quality audio experience</string>
   <string name="bt_rarely_used_device_title">Rarely used devices (%d)</string>
+  <string name="bt_show_notification_summary">Show a permanent notification in the Notification shade</string>
+  <string name="bt_show_notification_title">Notify about Bluetooth connections</string>
   <string name="bt_trace_log">Bluetooth trace log</string>
   <string name="bt_trace_log_summary">Capture Bluetooth trace logs</string>
   <string name="btn_back">Back</string>
@@ -3213,6 +3220,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="header_category_wireless_networks">Wireless &amp; networks</string>
   <string name="header_data_and_synchronization">Data &amp; synchronization</string>
   <string name="headset_settings_title">Sound effects</string>
+  <string name="hearing_aids_category">Hearing assistive tools</string>
   <string name="heavy_weight_stop_description">This app can’t safely be stopped. If you stop it, you may lose some of your current work.</string>
   <string name="help_and_feedback_title">Help and feedback</string>
   <string name="help_feedback_label">Help &amp; feedback</string>
@@ -3380,6 +3388,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="how_restore_backup_title">How do I restore backed up items?</string>
   <string name="http_invoke_app">Web apps</string>
   <string name="http_invoke_app_summary">Open apps faster without installing them</string>
+  <string name="huanji_history_title">Mi Mover transfers</string>
   <string name="hwui_force_dark_summary">Overrides the force-dark feature to be always-on</string>
   <string name="hwui_force_dark_title">Override force-dark</string>
   <string name="icon_content_description">Dialog Icon</string>
@@ -3424,6 +3433,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="information_dialog_button_text">Got it</string>
   <string name="information_label">Information</string>
   <string name="input_assistance">Tools</string>
+  <string name="input_device_category">Input device</string>
   <string name="input_method">Keyboard</string>
   <string name="input_method_bottom_close">Off</string>
   <string name="input_method_bottom_open">On</string>
@@ -3441,11 +3451,18 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="input_method_function_no_function_des">"Don't show any shortcuts"</string>
   <string name="input_method_function_switch">Switch between keyboards</string>
   <string name="input_method_function_switch_des">Tap to switch to a different keyboard</string>
+  <string name="input_method_function_switch_keyboard_language">Switch languages</string>
+  <string name="input_method_function_switch_keyboard_language_des">Tap to switch between input languages</string>
+  <string name="input_method_function_switch_keyboard_type">Switch keyboards</string>
+  <string name="input_method_function_switch_keyboard_type_des">Tap to switch between different keyboards</string>
   <string name="input_method_function_voice">Voice input</string>
   <string name="input_method_function_voice_des">Tap to use voice input</string>
   <string name="input_method_function_xiaoai">Mi AI voice input</string>
   <string name="input_method_function_xiaoai_des">Tap to use Mi AI voice input</string>
   <string name="input_method_manage">Manage keyboards</string>
+  <string name="input_method_middle_function_move_cursor">Move cursor</string>
+  <string name="input_method_middle_function_move_cursor_des">Press and hold the central area to move the cursor</string>
+  <string name="input_method_middle_function_no_function_des">"Don't assign any actions"</string>
   <string name="input_method_quick_access">Quick access</string>
   <string name="input_method_quick_cloud_mode_title">Notifications about new clipboard content</string>
   <string name="input_method_quick_cloud_summary">Copy items on compatible computers and paste them on your device</string>
@@ -4271,6 +4288,7 @@ You can't reverse this action."</string>
   <string name="mi_upi_settings">Mi Pay Account</string>
   <string name="micloud_service_summary">Sync the list of apps, back up system settings and Home screen layout</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
+  <string name="middle_function_key">Central area</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Misc files</string>
   <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
@@ -4444,8 +4462,8 @@ Switching to %1$s won't cancel your %2$s service."</string>
   <string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
   <string name="mqs_privacy_dialog_cancel">Cancel</string>
   <string name="mqs_privacy_dialog_confirm">Upload</string>
-  <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
-  <string name="mqs_privacy_dialog_title">An error occurred</string>
+  <string name="mqs_privacy_dialog_content">Looks like errors have occurred on your device recently. You can upload logs to help us locate and solve this problem. Logs may contain your personal info, including the info about your location. Upload now?</string>
+  <string name="mqs_privacy_dialog_title">Uploading logs</string>
   <string name="mr_button_content_description">Cast button</string>
   <string name="mr_cast_button_connected">Cast button. Connected</string>
   <string name="mr_cast_button_connecting">Cast button. Connecting</string>
@@ -4956,6 +4974,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="oldman_uninstalled_des">Lite mode gets rid of the visual clutter and keeps your Home screen simple and minimalist.</string>
   <string name="on">On</string>
   <string name="one_cacrt">one CA certificate</string>
+  <string name="one_key_migrate_record">Transfer to %1$s</string>
   <string name="one_usercrt">one user certificate</string>
   <string name="one_userkey">one user key</string>
   <string name="onehour">30 minutes</string>
@@ -5096,7 +5115,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="password_toggle_content_description">Show password</string>
   <string name="password_turned_off_text">Password has been turned off</string>
   <string name="password_turned_on_text">Password has been turned on</string>
-  <string name="password_unlock_title">Password</string>
+  <string name="password_unlock_title">Screen lock</string>
   <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
   <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
   <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -6217,7 +6236,7 @@ To use app pinning: \u0009
   <string name="security_input_hint">Use secure keyboard when you enter passwords</string>
   <string name="security_input_num_order">Fixed</string>
   <string name="security_input_num_random_order">Randomized</string>
-  <string name="security_input_num_setting_title">Numeric keyboard</string>
+  <string name="security_input_num_setting_title">Numeric keypad</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
   <string name="security_passwords_title">Privacy</string>
@@ -6631,6 +6650,9 @@ Double tap to open Recents."</string>
   <string name="smart_battery_manager_title">Battery Manager</string>
   <string name="smart_battery_summary">Limit battery for apps that you don’t use often</string>
   <string name="smart_battery_title">Manage apps automatically</string>
+  <string name="smart_home_title">Smart Home</string>
+  <string name="smart_home_value_none">None</string>
+  <string name="smart_home_value_unknown">Unknown</string>
   <string name="smart_notifications_title">Adaptive notifications</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart cover mode</string>
   <string name="smartcover_sensitive_summary">Lock or unlock the phone automatically using smart cover</string>
@@ -7416,7 +7438,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlock_set_unlock_password_title">Password</string>
   <string name="unlock_set_unlock_pattern_summary">Draw a simple pattern with your finger to unlock device</string>
   <string name="unlock_set_unlock_pattern_title">Pattern</string>
-  <string name="unlock_set_unlock_pin_summary">Enter %1$d-%2$d numbers to unlock device</string>
+  <string name="unlock_set_unlock_pin_summary">Enter %1$d-%2$d digits to unlock device</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
@@ -7798,6 +7820,7 @@ Tap the plus to add words."</string>
   <string name="vision_settings_description">You can customize this device to fit your needs. These accessibility features can be changed later in Settings.</string>
   <string name="vision_settings_suggestion_title">Change font size</string>
   <string name="vision_settings_title">Vision Settings</string>
+  <string name="voice_access">Voice controls</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Speech</string>
   <string name="voice_helper_title">Voice assistant</string>

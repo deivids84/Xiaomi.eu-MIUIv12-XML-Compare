@@ -52,6 +52,7 @@
         <item>tulip</item>
         <item>monet</item>
         <item>angelican</item>
+        <item>apollo</item>
     </string-array>
     <string-array name="config_alwaysEnableMms_off_array">
         <item>ch</item>
@@ -160,6 +161,7 @@
         <item>22610</item>
         <item>26201</item>
         <item>26801</item>
+        <item>28602</item>
         <item>45005</item>
         <item>45006</item>
         <item>45008</item>
