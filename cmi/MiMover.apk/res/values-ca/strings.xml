@@ -63,7 +63,7 @@
   <string name="check_phone_error_title">La sincronització està desactivada</string>
   <string name="check_phone_io_error">"No es pot connectar a la xarxa"</string>
   <string name="clear_old_task_failed">"No s'ha pogut suprimir les tasques antigues"</string>
-  <string name="clearable_edittext_clear_description">Clar</string>
+  <string name="clearable_edittext_clear_description">Esborra</string>
   <string name="close">Tanca</string>
   <string name="close_cellular_summary">El vostre dispositiu està utilitzant dades mòbils a causa de les restriccions del sistema. Desactiveu les dades mòbils i connecteu-vos de nou al dispositiu nou.</string>
   <string name="close_cellular_title">"No s'ha pogut connectar"</string>
