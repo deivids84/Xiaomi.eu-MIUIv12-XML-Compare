@@ -477,10 +477,15 @@
         <item>/system/framework/oat/arm/services.odex</item>
     </string-array>
     <array name="config_localPrivateDisplayPorts" />
-    <array name="config_locationExtraPackageNames" />
+    <string-array name="config_locationExtraPackageNames">
+        <item>com.google.android.gms.location.history</item>
+    </string-array>
     <string-array name="config_locationProviderPackageNames">
         <item>com.google.android.gms</item>
         <item>com.android.location.fused</item>
+        <item>com.qualcomm.location</item>
+        <item>com.xiaomi.location.fused</item>
+        <item>com.xiaomi.metoknlp</item>
     </string-array>
     <integer-array name="config_longPressVibePattern">
         <item>0</item>
