@@ -27,6 +27,11 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Redueix</string>
+  <string name="action_for_continue_timer">Currículum</string>
+  <string name="action_for_pause_timer">Pausar</string>
+  <string name="action_for_restart">Repeteix</string>
+  <string name="action_for_snooze">Ajorna</string>
+  <string name="action_for_stop">Aturar</string>
   <string name="add_alarm">Afegeix alarma</string>
   <string name="add_clock">Afegeix un rellotge</string>
   <string name="add_common_timer">Afegeix un temporitzador</string>
