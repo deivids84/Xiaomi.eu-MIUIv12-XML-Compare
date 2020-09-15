@@ -1,3 +1,3 @@
 files:
-  - source: /cepheus/
+  - source: /vangogh/
     translation: /Ukrainian/%original_file_name%/%locale%
