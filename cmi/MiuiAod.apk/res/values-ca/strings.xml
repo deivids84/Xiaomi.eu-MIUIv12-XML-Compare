@@ -88,9 +88,12 @@ dd/MM"</string>
   <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
   <string name="font_thickness">Text en negreta</string>
   <string name="icon_content_description">Icona de diàleg</string>
+  <string name="item_view_role_description">Tabulador</string>
   <string name="large_time">Rellotge gran</string>
   <string name="letter_space">Espaiat de lletres</string>
   <string name="line_space">Interlineat</string>
+  <string name="material_slider_range_end">Final de gamma,</string>
+  <string name="material_slider_range_start">Inici del rang,</string>
   <string name="mini_time">Rellotge petit</string>
   <string name="minimalist_clock">Rellotge simple</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
@@ -105,6 +108,7 @@ dd/MM"</string>
   <string name="more_online_theme">Elements en línia</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Més de %1$d notificacions noves</string>
   <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
   <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
   <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
