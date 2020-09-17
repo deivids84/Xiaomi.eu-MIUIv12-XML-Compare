@@ -764,6 +764,11 @@
   <string name="card_main_xspace_title">Aplicacions duals</string>
   <string name="card_tc_failed">"No s'ha pogut calibrar"</string>
   <string name="cd_back">Enrere</string>
+  <string name="charger_detect_button_ok">D\'acord</string>
+  <string name="charger_detect_info1">Comproveu si l\'adaptador d\'alimentació i el cable estan correctament connectats.</string>
+  <string name="charger_detect_info2">"La càrrega també pot disminuir si utilitzeu cables i adaptadors d’alimentació antics o no estàndard."</string>
+  <string name="charger_detect_no_remind">"No ho tornis a mostrar"</string>
+  <string name="charger_detect_title">La càrrega és lenta</string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
   <string name="charging_text_battery_perfect">Càrrega completa</string>
@@ -1012,6 +1017,11 @@ targeta mèdica"</string>
   <string name="ew_button_exit">"Es desacord"</string>
   <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"Aquesta funció permet l\'avís de terratrèmols. Rebreu notificacions i una alarma sonora sobre els terratrèmols previstos. Us indicarà el refugi més proper, trucar al telèfon d\'emergència assignat i disposar de la targeta sanitària. &amp;lt;br&amp;gt;Protegirem la informació personal segons les lleis de protecció de dades. &amp;lt;br&amp;gt;Heu d\'acceptar els permisos per poder disposar d\'informació personal: &amp;lt;br&amp;gt;&amp;#8226; Informació del lloc: &amp;lt;br&amp;gt;Per saber on sou i informar amb precisió dels avisos de terratrèmols. &amp;lt;br&amp;gt;Si no hi esteu d\'acord i no voleu compartir aquesta informació personal, no podreu utilitzar aquest servei. Podeu activar o desactivar-ho sempre que vulgueu. &amp;lt;br&amp;gt;Heu de llegir i acceptar &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; abans d\'activar aquesta funció.\"&lt;/Data&gt;</string>
   <string name="ew_close">Desactiva l\'alerta</string>
+  <string name="ew_close_warning">Desactiva</string>
+  <string name="ew_concern_city">Ciutats afegides</string>
+  <string name="ew_concern_date_empty">Mai</string>
+  <string name="ew_concern_manage">Gestionar</string>
+  <string name="ew_current_location">Ubicació actual</string>
   <string name="ew_emergency_allergy">Al·lèrgies</string>
   <string name="ew_emergency_basic_info">Informació bàsica</string>
   <string name="ew_emergency_birthday">Data de naixement</string>
@@ -1036,6 +1046,7 @@ targeta mèdica"</string>
   <string name="ew_emergency_recent_medicine">Medicaments actius recents</string>
   <string name="ew_emergency_title">Tarja sanitària</string>
   <string name="ew_first_start_network_title">Termes i condicions</string>
+  <string name="ew_get_location">Ubica</string>
   <string name="ew_guide_law_agree">D\'acord</string>
   <string name="ew_guide_law_done">Entesos</string>
   <string name="ew_guide_law_exit">"No hi estic d'acord"</string>
@@ -1044,11 +1055,19 @@ targeta mèdica"</string>
   <string name="ew_guide_next_text">Següent</string>
   <string name="ew_guide_play_audio">Reprodueix el so d\'avís</string>
   <string name="ew_guide_play_audio_last">Reprodueix el so d\'avís (%ds)</string>
-  <string name="ew_guide_statement_text">&lt;Data&gt;\"Aquesta renúncia s\'aplica a tots els usuaris (en endavant, \"vostès\") que activen la funció d\'avís de terratrèmols. En acceptar aquesta renúncia, subscriviu un contracte legalment vinculant amb Xiaomi Inc. i els seus afiliats (en endavant Xiaomi). Reconeixeu que heu llegit tot el contingut d\'aquesta exempció de responsabilitat i que enteneu i accepteu plenament tots els termes i condicions d\'aquesta exempció de responsabilitat; en cas contrari, haureu d’apagar immediatament la funció d’avís del terratrèmol.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Declaració especial&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; La funcionalitat d’alerta de terratrèmols ja està disponible en algunes zones seleccionades (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Toqueu per veure-ho&amp;lt;/a&amp;gt;). Més regions estaran disponibles en breu.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Renúncia&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Xiaomi proporciona les funcions d’avís de terratrèmols a l’aplicació Seguretat. Heu d’entendre que la informació d’alerta de terratrèmols la proporcionen les agències d’alerta precoç del govern. Xiaomi no supervisa aquestes agències i no té cap control sobre aquestes.&amp;lt;br&amp;gt; Xiaomi no promet ni garanteix la precisió, la validesa i la puntualitat de la informació d’avís de terratrèmols ni garanteix que el servei d’alerta de terratrèmols satisfaci totes les vostres necessitats.&amp;lt;br&amp;gt; Per rebre informació d’avís de terratrèmols, cal que mantingueu el dispositiu connectat a la xarxa mòbil. Els errors de la línia de comunicació de tercers, problemes tècnics, fallades dels equips de la xarxa o del terminal, la inestabilitat del sistema i altres esdeveniments de força major poden evitar que rebis informació d’avís de terratrèmols. Xiaomi no assumirà cap responsabilitat per les pèrdues causades per aquests esdeveniments.&amp;lt;br&amp;gt; Heu d’entendre que aquesta característica només es proporciona per a la vostra referència. L’avís que rebeu podria arribar segons després de l’inici d’un terratrèmol. L\'únic responsable dels riscos i conseqüències de les accions que realitzeu es basa en la informació proporcionada per aquesta funció.&amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
+  <string name="ew_guide_start">Activa</string>
+  <string name="ew_guide_start_agree">Activa</string>
+  <string name="ew_guide_start_find_area">Cerca de zones</string>
   <string name="ew_guide_tips_1">"Rebreu una notificació i un avís sonor dels propers terratrèmols previstos"</string>
   <string name="ew_guide_tips_2">La informació i el so d’alerta s’actualitzaran durant el terratrèmol</string>
   <string name="ew_guide_tips_3">"Podreu trobar el refugi més proper, trucar al vostre contacte d’emergència i presentar la vostra targeta mèdica si cal"</string>
   <string name="ew_guide_title">Veure una demostració</string>
+  <string name="ew_info_agreement">Exempcions de responsabilitat</string>
+  <string name="ew_info_other">Altres raons</string>
+  <string name="ew_info_range">Abast del servei</string>
+  <string name="ew_info_rule">Regles</string>
+  <string name="ew_info_rule_warning">Quant al sistema d’avís</string>
+  <string name="ew_info_service_range">Abast del servei</string>
   <string name="ew_list_all">Tot</string>
   <string name="ew_list_empty_text">Encara no hi ha avisos</string>
   <string name="ew_list_not_receive_tips">* L’epicentre es troba molt lluny. Pot ser que no sentiu el terratrèmol.</string>
@@ -1076,19 +1095,31 @@ targeta mèdica"</string>
   <string name="ew_main_setting_show_desc">Demostració</string>
   <string name="ew_main_setting_warning_desc">Més informació</string>
   <string name="ew_main_settings">Configuració</string>
+  <string name="ew_main_warning_all_title">Consulteu els avisos emesos anteriorment</string>
   <string name="ew_main_warning_list">Veure els avisos</string>
   <string name="ew_main_warning_list_tips">Veure</string>
-  <string name="ew_main_warning_list_title">Historial d\'avisos</string>
+  <string name="ew_main_warning_list_title">Veure l\'historial d\'advertències</string>
+  <string name="ew_not_support_area">"Els avisos no s'admeten en aquesta àrea"</string>
   <string name="ew_push_message">Intensitat estimada: %s. Espereu una petita sacsejada.</string>
   <string name="ew_push_title">Avís de terratrèmol de %s</string>
   <string name="ew_safe_place_no_maps_tips">"No es pot cercar ara. Instal·leu primer Baidu Maps o Amap."</string>
-  <string name="ew_setting_desc_message">"El sistema estima la intensitat del terratrèmol en funció de la magnitud del terratrèmol, de la ubicació de l'epicentre i de la distància de vostè. Com més gran sigui la intensitat del terratrèmol, més devastació podria provocar el terratrèmol a la vostra ubicació. Quan la intensitat estimada sigui superior a 2,0, rebreu un avís de terratrèmol fort; quan la intensitat estimada sigui inferior a 2,0, podeu triar si rebre les notificacions del sistema."</string>
-  <string name="ew_setting_desc_title">Quant a la intensitat estimada</string>
+  <string name="ew_setting_desc_message">MIUI estima la intensitat del terratrèmol en funció de la seva magnitud, la ubicació de l’epicentre i la vostra ubicació. Com més gran sigui la intensitat estimada, més devastador serà el terratrèmol a la vostra zona.</string>
+  <string name="ew_setting_desc_title">Quina és la intensitat estimada?</string>
   <string name="ew_setting_more_title">Més informació sobre els avisos de terratrèmols</string>
-  <string name="ew_setting_normal_push_message">Per terratrèmols amb intensitat inferior a 2,0</string>
+  <string name="ew_setting_normal_push_message">Quan la intensitat estimada és inferior al llindar d’advertència</string>
   <string name="ew_setting_normal_push_title">Rebre notificacions del sistema</string>
-  <string name="ew_setting_strong_push_message">Per terratrèmols amb una intensitat de 2,0 o superiors</string>
+  <string name="ew_setting_strong_push_message">Quan la intensitat estimada sigui superior al llindar d’advertència</string>
   <string name="ew_setting_strong_push_title">Avisa sobre terratrèmols forts (Activat per defecte)</string>
+  <string name="ew_settings_choose_level">Estableix el llindar d\'advertència</string>
+  <string name="ew_settings_choose_level_title">Intensitat estimada: %s</string>
+  <string name="ew_settings_choose_level_value_1">" (Vibració en edificis de gran alçada)"</string>
+  <string name="ew_settings_choose_level_value_2">" (Vibració)"</string>
+  <string name="ew_settings_choose_level_value_3">" (Vibració forta)"</string>
+  <string name="ew_settings_choose_level_value_4">" (Vibració severa)"</string>
+  <string name="ew_settings_push_tips">Els avisos sobre les zones situades fora de la vostra ubicació es presentaran només en forma de notificacions.</string>
+  <string name="ew_subscribe_area_title">Gestioneu les àrees afegides</string>
+  <string name="ew_subscribe_city">Àrees afegides</string>
+  <string name="ew_subscribe_search_hint">Cerca de zones</string>
   <string name="examination_score_100">Tot es veu bé!</string>
   <string name="examination_score_60_0">Escaneja-ho ara</string>
   <string name="examination_score_80_100">Es poden optimitzar alguns elements</string>
@@ -1263,6 +1294,11 @@ targeta mèdica"</string>
   <string name="free_time_traffic_settings">Límit de dades en hora vall</string>
   <string name="free_time_traffic_title">Introduir límit de dades en hora vall</string>
   <string name="free_traffic_settings">Configuració d\'ús de dades en hora vall</string>
+  <string name="function_auto_reject_detail">"Quant a aquesta funció:
+1. Mentre jugueu, totes les trucades entrants a la targeta SIM sense servei de dades mòbils es rebutjaran automàticament.
+2. Veuràs notificacions sobre trucades perdudes i l'altra persona escoltarà un missatge d'àudio que indica que estàs ocupat en aquest moment.
+3. Aquesta funció només és compatible amb els operadors de telefonia mòbil de la Xina."</string>
+  <string name="function_auto_reject_title">Rebutja les trucades VoLTE a targetes SIM sense servei de dades</string>
   <string name="function_close">Desactivat</string>
   <string name="function_gwsd_detail">"Sobre aquesta característica:
  1. Quan utilitzeu dades mòbils en una SIM de dades o en una targeta SIM regular connectada a una xarxa VoLTE, la connexió no es veurà interrompuda per trucades entrants fins que no us el prengueu.
@@ -1525,7 +1561,10 @@ de les teves sessions de joc"</string>
   <string name="gtb_exit_game_to_gtb">Obre la caixa de jocs</string>
   <string name="gtb_exit_game_to_home">Torna a la pantalla d\'inici</string>
   <string name="gtb_setting_item_summary_smart_5g">Sempre que Game Turbo detecti una xarxa 5G, pot connectar el vostre dispositiu a la millor xarxa disponible per reduir el retard de la xarxa</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Augmenteu la velocitat de connexió entre un 10% i un 20% quan estigueu connectat a routers Mi / Redmi</string>
   <string name="gtb_setting_item_title_smart_5g">Optimització de xarxa 5G</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Augment de la velocitat del meu WiFi</string>
+  <string name="gtb_wlan_speed_tips">Utilitzant Mi WiFi…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
@@ -1929,7 +1968,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_exit_power_save_mode">S\'ha desactivat l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
-  <string name="notification_garbage_clean_botton_text">Clar</string>
+  <string name="notification_garbage_clean_botton_text">Esborra</string>
   <string name="notification_garbage_clean_hint">Netegeu l’espai d’emmagatzematge</string>
   <string name="notification_garbage_clean_size">Allibera %s</string>
   <string name="notification_garbage_cleanup_summary">Netegeu la brossa (%s) per accelerar el dispositiu</string>
@@ -1943,7 +1982,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="notification_masked_item">Amaga les notificacions</string>
   <string name="notification_masked_subtitle">Amaga les notificacions d\'aplicacions protegides amb bloqueig de l\'aplicació</string>
   <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
-  <string name="notification_whatsapp_clean_button_text">Clar</string>
+  <string name="notification_whatsapp_clean_button_text">Esborra</string>
   <string name="notification_whatsapp_clean_size">La memòria cau de WhatsApp va arribar al %s</string>
   <string name="notify_channel_mipush">Missatges push de seguretat</string>
   <string name="notify_channel_name_behavior">Historial de comportament</string>
@@ -3352,6 +3391,8 @@ Dades extres en ús"</string>
   <string name="vb_advanced_settings_after_open">Després</string>
   <string name="vb_advanced_settings_before_open">Abans</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Feu que els objectes en moviment siguin més nítids millorant les animacions. Aquesta característica requereix un major consum d’energia.</string>
+  <string name="vb_fps_settings">Freqüència d’actualització automàtica</string>
+  <string name="vb_fps_settings_tips">Aquesta funció ajusta la freqüència d’actualització de la pantalla a la freqüència de fotogrames de vídeo, cosa que estalvia bateria i facilita la reproducció. Si activeu els comentaris flotants, es desactivarà la freqüència d\'actualització automàtica.</string>
   <string name="vb_quick_func_auto_bgm">Reconèixer la música de fons</string>
   <string name="vb_quick_func_hangup_listening">Reprodueix el so del vídeo amb pantalla apagada</string>
   <string name="vb_quick_func_screen_capture">Captura de pantalla</string>
