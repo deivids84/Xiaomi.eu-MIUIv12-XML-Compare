@@ -63,6 +63,21 @@
   <string name="all_resources">Tot</string>
   <string name="already_latest_version">Actualitzat</string>
   <string name="am">am</string>
+  <string name="anonymous_resource_link_error">"No s'ha pogut afegir"</string>
+  <string name="anonymous_resource_link_hint">"Alguns elements no s’afegeixen al vostre compte. Voleu afegir ara?"</string>
+  <string name="anonymous_resource_link_now">Afegir</string>
+  <string name="anonymous_resource_link_retry">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
+  <string name="anonymous_resource_link_retry_cancel">Surt</string>
+  <string name="anonymous_resource_link_retry_confirm">Torneu-ho a provar</string>
+  <string name="anonymous_resource_link_success">S\'ha afegit amb èxit</string>
+  <string name="anonymous_resource_linking">S\'està afegint…</string>
+  <string name="anonymous_resource_login_confirm">Inicia la sessió</string>
+  <string name="anonymous_resource_login_title">Inicia sessió primer</string>
+  <string name="anonymous_resource_unlink">No, gràcies</string>
+  <string name="anonymous_resource_unlink_cancel">Surt</string>
+  <string name="anonymous_resource_unlink_confirm">"No"</string>
+  <string name="anonymous_resource_unlink_hint">"Si no afegiu elements, no s'associaran al vostre compte."</string>
+  <string name="anonymous_resource_unlink_title">Confirmeu l\'acció</string>
   <string name="app_ad_title">Recomanacions diàries</string>
   <string name="app_disable_transparent_wallpaper">Sense fons de pantalla transparent</string>
   <string name="app_enable_transparent_wallpaper">Amb fons de pantalla transparent</string>
@@ -354,6 +369,7 @@
   <string name="hide_pull_down_positive">​​Amaga</string>
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
+  <string name="home_daily">Fets destacats diaris</string>
   <string name="i_know">Ho tinc</string>
   <string name="icon_content_description">Icona de diàleg</string>
   <string name="in_the_end">No hi ha més elements a mostrar</string>
@@ -377,12 +393,14 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
   <string name="item_resource_audio_optional_color_ring">To de retorn de trucada</string>
   <string name="item_resource_audio_optional_notification_ring">Notificacions</string>
   <string name="item_resource_audio_optional_phone_ring">To</string>
+  <string name="item_view_role_description">Tabulador</string>
   <string name="kuyin_user_agreement_content">Les subscripcions personalitzades de tons de trucada són proporcionades per iFlytek. Heu d\'acceptar %s abans d\'utilitzar les subscripcions personalitzades. Voleu acceptar-les?</string>
   <string name="kuyin_user_agreement_content_href">Política de privadesa iFlytek</string>
   <string name="lab">Laboratori de temes</string>
   <string name="like_list">M\'agrada</string>
   <string name="live_wallpaper">Fons de pantalla dinàmics</string>
   <string name="loading">Un moment…</string>
+  <string name="loading_picture">S\'està carregant la imatge…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
   <string name="loading_resource_detail_info">Un moment…</string>
   <string name="local_photos">Fotos locals</string>
@@ -401,6 +419,8 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
   <string name="lockscreen_wallpaper">Bloqueja la pantalla</string>
   <string name="lockstyle_personal_settings">Personalitza</string>
   <string name="long_click_can_hide_resource">Mantingueu premut per ocultar els elements</string>
+  <string name="material_slider_range_end">Final de gamma,</string>
+  <string name="material_slider_range_start">Inici del rang,</string>
   <string name="mi_wallpaper">Fons de pantalla MIUI</string>
   <string name="midnight">Nit</string>
   <string name="mine_tab_not_login">"Inicieu la sessió per veure els elements.
@@ -449,6 +469,15 @@ mm"</string>
   <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol correctament</string>
   <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
+  <string name="miuix_compat_contact">Contactes</string>
+  <string name="miuix_compat_dialog_button">D\'acord</string>
+  <string name="miuix_compat_dialog_cancel">Surt</string>
+  <string name="miuix_compat_dialog_checkbox">"No ho tornis a mostrar"</string>
+  <string name="miuix_compat_dialog_content">"La versió actual de \"%s\" no és compatible amb aquest tema."</string>
+  <string name="miuix_compat_dialog_ok">D\'ACORD</string>
+  <string name="miuix_compat_dialog_title">El tema predeterminat s\'ha aplicat a \"%s\"</string>
+  <string name="miuix_compat_dialog_update_title">Cal una actualització</string>
+  <string name="miuix_compat_mms">Missatges</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -508,6 +537,7 @@ mm"</string>
   <string name="morning">Matí</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Més de %1$d notificacions noves</string>
   <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
   <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
   <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
@@ -772,6 +802,7 @@ mm"</string>
   <string name="resource_share_subject">Comparteix el tema: %1$s</string>
   <string name="resource_share_text">"He pensat que podria agradar-te aquest tema: %1$s! Enllaç: %2$s"</string>
   <string name="resource_share_title">Comparteix</string>
+  <string name="resource_status_error">"Hi ha hagut un error. Ara no es pot veure aquest fons de pantalla."</string>
   <string name="resource_system_title">Recursos del sistema</string>
   <string name="resource_tab_to_view">Premeu per veure.</string>
   <string name="resource_tip_select_none">Cap seleccionat</string>
@@ -838,6 +869,15 @@ mm"</string>
   <string name="settings_search_keyword_font_online">Tipus de lletra en línia</string>
   <string name="settings_search_keyword_font_style">Format de tipus de lletra</string>
   <string name="settings_search_keyword_font_wechat">Tipus de lletra WeChat</string>
+  <string name="share_copy_theme_url">Copia l\'URL del tema</string>
+  <string name="share_copy_url_success">Text copiat</string>
+  <string name="share_copy_wallpaper_url">Copia l\'URL del fons de pantalla</string>
+  <string name="share_picture_loading">S\'està carregant la imatge…</string>
+  <string name="share_save_success">Desat</string>
+  <string name="share_save_to_photo">Galeria</string>
+  <string name="share_theme_content_text">"Podeu descarregar un tema increïble \"%1$s\" aquí: %2$s. Des de "</string>
+  <string name="share_vipaccount">La meva comunitat</string>
+  <string name="share_wallpaper_content_text">"Podeu descarregar un increïble fons de pantalla \"%1$s\" aquí: %2$s. Des de "</string>
   <string name="shortcut_add">Afegeix</string>
   <string name="shortcut_cancel">No gràcies</string>
   <string name="shortcut_message">Afegeix una drecera a la pantalla d\'inici!</string>
@@ -1163,6 +1203,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
   <string name="wallpaper_set_as_incall_show">Estableix com a vídeo de perfil</string>
   <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>
   <string name="wallpaper_setting_all">Tots els fons de pantalla</string>
+  <string name="wallpaper_setting_library">Música</string>
   <string name="wallpaper_setting_live">En directe</string>
   <string name="wallpaper_settings">Configuració del fons de pantalla</string>
   <string name="wallpaper_settings_loading_text">Un moment…</string>
@@ -1183,15 +1224,5 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
   <string name="xiaoai_speech_not_installed_download">Baixa</string>
   <string name="xiaoai_speech_not_installed_message">Baixeu i instal·leu l\'assistent de veu Mi AI per continuar.</string>
   <string name="xiaoai_speech_not_installed_title">"L'assistent de veu Mi AI no està instal·lat."</string>
-  <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">Ha fallat la connexió del Gestor de baixades, comproveu l\'estat del Gestor de baixades al Gestor d\'aplicacions.</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
-Mida: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Presentació de la versió %1$s
-Mida de l'actualització Delta: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s actualització!</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">L\'emmagatzematge no està disponible. Comproveu la targeta SD.</string>
-  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-  <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
   <string name="yesterday">Ahir</string>
 </resources>
