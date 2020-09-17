@@ -43,7 +43,7 @@
   <string name="about_ad_service_instructions">Quant als serveis de publicitat i privacitat</string>
   <string name="about_phone_device_name_warning">El nom del dispositiu és visible per a les aplicacions del telèfon. Altres persones també poden veure\'l quan us connecteu a dispositius Bluetooth o configureu un punt d’accés WLAN.</string>
   <string name="about_phone_enter_xiaomi_net">Aprèn més</string>
-  <string name="about_settings">Quant al dispositiu</string>
+  <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
   <string name="ac_enable_summary">Estableix una contrasenya per a aplicacions individuals</string>
   <string name="ac_enable_title">Bloquejador d\'aplicacions</string>
@@ -172,6 +172,10 @@ Podeu&amp;# 8217; fer zoom al teclat o a la barra de navegació."</string>
   <string name="accessibility_setting_item_control_timeout_title">Hora de prendre mesures (temps d\'espera d\'accessibilitat)</string>
   <string name="accessibility_settings">Facilitat d\'accés</string>
   <string name="accessibility_settings_summary">Lectors de pantalla, visualització, controls d\'interacció</string>
+  <string name="accessibility_settings_tabs_general">Configuració general</string>
+  <string name="accessibility_settings_tabs_hearing">Audició</string>
+  <string name="accessibility_settings_tabs_physical">Físic</string>
+  <string name="accessibility_settings_tabs_visual">Visió</string>
   <string name="accessibility_settings_title">Configuració de Facilitat d\'accés</string>
   <string name="accessibility_shortcut_description">Permet que la drecera de la funció s\'activi des de la pantalla de bloqueig. Manteniu les dues tecles de volum durant uns segons.</string>
   <string name="accessibility_shortcut_edit_dialog_summary_hardware">Premeu &amp; manteniu les dues tecles de volum</string>
@@ -406,6 +410,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
   <string name="agps_roaming_summary">Utilitza dades mòbils per ajudar al GPS quan esteu en itinerància</string>
   <string name="ai_button_title">Botó Mi AI</string>
   <string name="ai_button_title_global">Botó AI</string>
+  <string name="ai_call_assistant">Trucades AI</string>
   <string name="ai_key">Botó AI</string>
   <string name="ai_key_double_click">Doble pulsació</string>
   <string name="ai_key_long_press">Premeu i manteniu</string>
@@ -1238,7 +1243,7 @@ Selecció: mode canal"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccioneu Còdec Bluetooth LDAC d'àudio
 Selecció: qualitat de reproducció"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency">Còdec Bluetooth LHDC d\'àudio: Latència</string>
-  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Seleccioneu Còdec Bluetooth LHDC d'àudio
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Seleccioneu còdec Bluetooth LHDC d'àudio:
 Latència"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Còdec Bluetooth LHDC d\'àudio: Qualitat de reproducció</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Seleccioneu còdec Bluetooth LHDC d'àudio:
@@ -1394,6 +1399,8 @@ Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius
   <string name="bt_lhdc_property">Propietats</string>
   <string name="bt_pre_summary">Ofereix una experiència d\'àudio d\'alta qualitat</string>
   <string name="bt_rarely_used_device_title">Dispositius poc utilitzats (%d)</string>
+  <string name="bt_show_notification_summary">Mostra una notificació permanent a l\'ombra Notificació</string>
+  <string name="bt_show_notification_title">Notifiqueu les connexions Bluetooth</string>
   <string name="bt_trace_log">Activa el registre de seguiment amb Bluetooth</string>
   <string name="bt_trace_log_summary">Captura els registres de traces Bluetooth</string>
   <string name="btn_back">Enrera</string>
@@ -3115,6 +3122,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="header_category_wireless_networks">Xarxa</string>
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="headset_settings_title">Efectes de so</string>
+  <string name="hearing_aids_category">Eines d’assistència auditiva</string>
   <string name="heavy_weight_stop_description">Aquesta aplicació es pot aturar de forma segura. Si l\'atureu, podeu perdre part del treball actual.</string>
   <string name="help_and_feedback_title">Ajuda i feedback</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
@@ -3182,6 +3190,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
   <string name="how_restore_backup_title">Com puc restaurar els elements de còpia de seguretat?</string>
   <string name="http_invoke_app">Aplicacions web</string>
   <string name="http_invoke_app_summary">Obriu aplicacions més ràpidament sense instal·lar-les</string>
+  <string name="huanji_history_title">Transferències Mi Mover</string>
   <string name="hwui_force_dark_summary">Substitueix la funció de \"força la foscor\" per \"estar sempre actiu\"</string>
   <string name="hwui_force_dark_title">Evita forçar la foscor</string>
   <string name="icon_content_description">Icona de diàleg</string>
@@ -3226,6 +3235,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
   <string name="information_dialog_button_text">Ja està!</string>
   <string name="information_label">Informació</string>
   <string name="input_assistance">Assistència d\'entrada</string>
+  <string name="input_device_category">Dispositiu d\'entrada</string>
   <string name="input_method">Teclat</string>
   <string name="input_method_bottom_close">Desactivat</string>
   <string name="input_method_bottom_open">Activat</string>
@@ -3243,11 +3253,18 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
   <string name="input_method_function_no_function_des">"No mostris cap drecera"</string>
   <string name="input_method_function_switch">Canvia entre teclats</string>
   <string name="input_method_function_switch_des">Toqueu per canviar a un teclat diferent</string>
+  <string name="input_method_function_switch_keyboard_language">Canvia d\'idioma</string>
+  <string name="input_method_function_switch_keyboard_language_des">Toca per canviar entre els idiomes d\'entrada</string>
+  <string name="input_method_function_switch_keyboard_type">Canvia de teclat</string>
+  <string name="input_method_function_switch_keyboard_type_des">Toqueu per canviar entre diferents teclats</string>
   <string name="input_method_function_voice">Entrada de veu</string>
   <string name="input_method_function_voice_des">Toqueu per utilitzar l\'entrada de veu</string>
   <string name="input_method_function_xiaoai">Entrada de veu Mi AI</string>
   <string name="input_method_function_xiaoai_des">Toqueu per utilitzar l’entrada de veu Mi AI</string>
   <string name="input_method_manage">Gestiona els teclats</string>
+  <string name="input_method_middle_function_move_cursor">Mou el cursor</string>
+  <string name="input_method_middle_function_move_cursor_des">Manteniu premuda la zona central per moure el cursor</string>
+  <string name="input_method_middle_function_no_function_des">"No assigneu cap acció"</string>
   <string name="input_method_quick_access">Accés ràpid</string>
   <string name="input_method_quick_cloud_mode_title">Notificacions sobre el contingut del porta-retalls nou</string>
   <string name="input_method_quick_cloud_summary">Copieu els elements als equips compatibles i enganxeu-los al dispositiu</string>
@@ -3514,7 +3531,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
   <string name="layout_size_normal_text">Petita</string>
   <string name="layout_size_small_text">Extra petita</string>
   <string name="learn_more">Més informació</string>
-  <string name="led_colors_summary">Notificacions color clar</string>
+  <string name="led_colors_summary">Color clar de notificacions</string>
   <string name="led_frequence_summary">Definiu l’interval de pols per la llum LED</string>
   <string name="led_pulse_summary">Pols per a notificacions</string>
   <string name="led_settings">Llum LED</string>
@@ -4045,6 +4062,7 @@ No podeu revertir aquesta acció."</string>
   <string name="mi_upi_settings">Compte Mi Pay</string>
   <string name="micloud_service_summary">Sincronitza la llista d\'aplicacions, fa una còpia de seguretat de la configuració del sistema i la disposició de la pantalla d\'inici</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
+  <string name="middle_function_key">Zona central</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Fitxers diversos</string>
   <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
@@ -4215,8 +4233,8 @@ Si canvieu a %1$s, no cancel·lareu el servei de %2$s."</string>
   <string name="mqs_privacy_automatically_upload">Puja automàticament la pròxima vegada</string>
   <string name="mqs_privacy_dialog_cancel">Cancel·la</string>
   <string name="mqs_privacy_dialog_confirm">Puja</string>
-  <string name="mqs_privacy_dialog_content">Voleu penjar els registres per ajudar-nos a localitzar i resoldre aquest problema? Els registres poden contenir les vostres dades personals, inclosa la informació sobre la vostra ubicació.</string>
-  <string name="mqs_privacy_dialog_title">S\'ha produït un error</string>
+  <string name="mqs_privacy_dialog_content">Sembla que s’han produït errors recentment al dispositiu. Podeu penjar registres per ajudar-nos a localitzar i solucionar aquest problema. Els registres poden contenir la vostra informació personal, inclosa la informació sobre la vostra ubicació. Voleu penjar-lo ara?</string>
+  <string name="mqs_privacy_dialog_title">Carregant registres</string>
   <string name="mr_button_content_description">Botó d\'emissió</string>
   <string name="mr_cast_button_connected">Botó d\'emissió. Connectat</string>
   <string name="mr_cast_button_connecting">Botó d\'emissió. S\'està connectant</string>
@@ -4710,6 +4728,7 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
   <string name="oldman_uninstalled_des">El mode Lite elimina el desordre visual i manté la pantalla inicial simple i minimalista.</string>
   <string name="on">Activat</string>
   <string name="one_cacrt">un certificat CA</string>
+  <string name="one_key_migrate_record">Transfereix a %1$s</string>
   <string name="one_usercrt">un certificat d\'usuari</string>
   <string name="one_userkey">una clau d\'usuari</string>
   <string name="onehour">30 minuts</string>
@@ -4840,7 +4859,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
   <string name="password_toggle_content_description">Mostra la contrasenya</string>
   <string name="password_turned_off_text">S\'ha desactivat la contrasenya</string>
   <string name="password_turned_on_text">S\'ha activat la contrasenya</string>
-  <string name="password_unlock_title">Contrasenya</string>
+  <string name="password_unlock_title">Bloqueig de pantalla</string>
   <string name="payment_summary">%1$s com a predeterminat</string>
   <string name="peak_refresh_rate_summary">La taxa de refresc augmenta automàticament de 60 a 90 Hz per a algun contingut. Aumenta l’ús de la bateria.</string>
   <string name="peak_refresh_rate_title">Pantalla llisa</string>
@@ -5715,6 +5734,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
   <string name="search_airplane_mode">Mode avió;Mode avió;Mode de vol;Avió;Avió;Vol</string>
   <string name="search_alarm_sound_title">So de l\'alarma;to d\'alarma;alarma</string>
   <string name="search_ambient_display_screen_title">Pantalla ambiental; Sempre en pantalla</string>
+  <string name="search_android_auto">automòbil; cotxe</string>
   <string name="search_android_beam_settings_title">NFC;Transmissió Android;Trasmissió</string>
   <string name="search_apn_settings">APN;Noms dels punt d\'accés</string>
   <string name="search_app_invisible">Aplicació invisible;Aplicacions invisibles</string>
@@ -6315,6 +6335,9 @@ Toqueu dos cops per obrir Recents."</string>
   <string name="smart_battery_manager_title">Gestor de bateria</string>
   <string name="smart_battery_summary">Limiteu la bateria per a aplicacions que no utilitzeu sovint</string>
   <string name="smart_battery_title">Gestiona les aplicacions automàticament</string>
+  <string name="smart_home_title">Smart Home</string>
+  <string name="smart_home_value_none">Mai</string>
+  <string name="smart_home_value_unknown">Desconeguda</string>
   <string name="smart_notifications_title">Notificacions adaptatives</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
   <string name="smartcover_sensitive_summary">Bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
@@ -7084,7 +7107,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_password_title">Contrasenya</string>
   <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
   <string name="unlock_set_unlock_pattern_title">Patró</string>
-  <string name="unlock_set_unlock_pin_summary">Introduïu els números %1$d%2$d per desbloquejar el dispositiu</string>
+  <string name="unlock_set_unlock_pin_summary">Introdueixi %1$d-%2$d dígits a dispositiu de desbloqueig</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
@@ -7463,6 +7486,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
   <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
   <string name="vision_settings_suggestion_title">Canvi de mida de lletra</string>
   <string name="vision_settings_title">Configuració de visió</string>
+  <string name="voice_access">Controls de veu</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Veu</string>
   <string name="voice_helper_title">Assistent de veu</string>
