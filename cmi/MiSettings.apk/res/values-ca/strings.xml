@@ -379,6 +379,7 @@
   <string name="usage_device_limit_app_prolong_time2">Afegeix 40 minuts</string>
   <string name="usage_device_limit_app_prolong_time3">Afegeix 60 minuts</string>
   <string name="usage_device_limit_app_prolong_time4">"Sense límits avui"</string>
+  <string name="usage_device_limit_app_prolong_time5">Afegiu temps una vegada</string>
   <string name="usage_device_limit_notifation_summary_start">"Arribareu al vostre límit d'aquí %1$s"</string>
   <string name="usage_device_limit_notifation_title">Temps restant d\'avui</string>
   <string name="usage_device_limit_time_over">"Heu arribat al límit d’avui (%1$s)"</string>
