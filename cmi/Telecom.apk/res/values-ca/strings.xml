@@ -428,11 +428,11 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
   <string name="notification_channel_in_call_service_crash">Aplicacions de telèfon bloquejades</string>
   <string name="notification_channel_incoming_call">Trucades entrants</string>
   <string name="notification_channel_missed_call">Trucades perdudes</string>
-  <string name="notification_crashedInCallService_body">La teva aplicació de telèfon %s s\'ha bloquejat. La trucada es va continuar fent servir l\'aplicació de telèfon que es troba amb el dispositiu.</string>
-  <string name="notification_crashedInCallService_title">Aplicació de telèfon bloquejada</string>
   <string name="notification_disconnectedCall_body">S\'ha desconnectat la trucada al %s causa de la realització d\'una trucada d\'emergència.</string>
   <string name="notification_disconnectedCall_generic_body">La vostra trucada s\'ha desconnectat a causa de la realització d\'una trucada d\'emergència.</string>
   <string name="notification_disconnectedCall_title">Trucada desconnectada</string>
+  <string name="notification_incallservice_not_responding_body">La trucada feia servir l\'aplicació de telèfon que s\'inclou amb el dispositiu</string>
+  <string name="notification_incallservice_not_responding_title">%s deixat de respondre</string>
   <string name="notification_incoming_call">%1$s trucada de %2$s</string>
   <string name="notification_incoming_video_call">%1$s videotrucada de %2$s</string>
   <string name="notification_missedCallTicker">Trucada perduda de %s</string>
