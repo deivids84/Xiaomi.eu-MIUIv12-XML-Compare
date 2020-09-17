@@ -67,6 +67,7 @@
   <string name="action_update_phone">Canvia el número de telèfon</string>
   <string name="activate_email_notice">Assegureu-vos d’activar el vostre compte en 24 hores</string>
   <string name="activity_not_found_notice">"No trobo l'aplicació"</string>
+  <string name="ad">Anunci</string>
   <string name="ad_buy">Compra</string>
   <string name="ad_download">descarregar</string>
   <string name="ad_join">Unir-se a la comunitat</string>
@@ -95,6 +96,7 @@
   <string name="auth_fail_warning">Sessió expirada. Inicieu la sessió de nou.</string>
   <string name="auto_play_next_off">La reproducció automàtica està desactivada</string>
   <string name="auto_play_next_on">La reproducció automàtica està activada</string>
+  <string name="back_to_mainpage">Descobridor</string>
   <string name="before_yestoday">fa 2 dies</string>
   <string name="bind_sign_in_title">Afegeix Compte Mi</string>
   <string name="cancel">Cancel·la</string>
@@ -183,9 +185,6 @@
   <string name="com_facebook_smart_login_confirmation_continue_as">Continua com a %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Confirmeu la sessió</string>
   <string name="com_facebook_tooltip_default">"Tens el control: tria quina informació vols compartir amb les aplicacions."</string>
-  <string name="com_mixpanel_android_close">Tanca</string>
-  <string name="com_mixpanel_android_done">Fet</string>
-  <string name="com_mixpanel_android_notification_image">No es mostra la imatge</string>
   <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del vostre dispositiu. Permeteu l'accés a la Configuració."</string>
   <string name="com_permission_title">Permisos necessaris</string>
   <string name="comment_model_add_comment">Afegeix un comentari</string>
@@ -211,6 +210,8 @@
   <string name="comment_model_send_forbid_tips">Compte suspesa</string>
   <string name="comment_model_send_success">S\'ha enviat correctament</string>
   <string name="common_cancel">Cancel · lar</string>
+  <string name="common_copyright_unsupported_audio">"No es pot reproduir la pista d'àudio a causa de restriccions de drets d'autor"</string>
+  <string name="common_copyright_unsupported_video">"No es pot reproduir aquest vídeo a causa de restriccions de copyright"</string>
   <string name="common_google_play_services_enable_button">Activa</string>
   <string name="common_google_play_services_enable_text">"%1$s no funcionarà tret que activeu els serveis de Google Play."</string>
   <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
@@ -315,6 +316,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="favorite_fail">"No s'ha pogut afegir a favorits. Torna-ho a provar."</string>
   <string name="favorite_success">S\'ha afegit als favorits correctament</string>
   <string name="fcm_fallback_notification_channel_label">Divers</string>
+  <string name="fcm_push_title">Vídeos populars</string>
   <string name="feedback">Feedback</string>
   <string name="feedback_activity_title">Feedback</string>
   <string name="feedback_contact_empty">Introduïu les vostres dades de contacte</string>
@@ -671,6 +673,9 @@ Envieu aquest codi al supervisor."</string>
   <string name="notification_bar_player_subtitle">Mostra el jugador minimitzat a l\'ombra de notificació</string>
   <string name="notification_bar_player_title">Minimitza el reproductor</string>
   <string name="notification_open_tip">Activa per rebre les notificacions</string>
+  <string name="notification_recall_action">Activa</string>
+  <string name="notification_recall_desc">Mi Video us pot notificar sobre els vídeos populars i les vostres subscripcions.</string>
+  <string name="notification_recall_title">Activa les notificacions</string>
   <string name="notify_apk_installed">S\'ha baixat correctament</string>
   <string name="ok">D\'acord</string>
   <string name="order_recently_subscribe">Subscripcions recents</string>
@@ -680,7 +685,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="ovp_category">Categories</string>
   <string name="ovp_confirm_delete_favor">Voleu eliminar els articles seleccionats dels preferits?</string>
   <string name="ovp_default_plugin_name">Plug-in HD</string>
-  <string name="ovp_detail_back_to_watch_more">Descobriu més elements de la pàgina principal</string>
+  <string name="ovp_detail_back_to_watch_more">Descobriu més vídeos brillants</string>
   <string name="ovp_detail_collapse_summary">Amagar</string>
   <string name="ovp_detail_collect">Afegir a preferits</string>
   <string name="ovp_detail_comment">Comentar</string>
@@ -870,6 +875,7 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="permission_storage">Per desar recordatoris i tons de trucada</string>
   <string name="permission_storage_desc">Per accedir a elements, desar fitxers, mostrar i reproduir vídeos locals</string>
   <string name="permission_title">Permisos necessaris</string>
+  <string name="pgc_push_title">Subscripcions</string>
   <string name="phone_bind_too_many">Aquest telèfon s\'ha associat a diversos comptes Mi en un període curt de temps. Proveu d\'utilitzar un altre número de telèfon.</string>
   <string name="phone_hint">Número de telèfon</string>
   <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
@@ -1027,6 +1033,7 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="remaining_space">Disponible: %s</string>
   <string name="remaining_space_not_enough">"No es pot descarregar a causa d'un espai d'emmagatzematge insuficient"</string>
   <string name="reminder">Atenció</string>
+  <string name="rename">Canvia el nom</string>
   <string name="report">Informe</string>
   <string name="report_content_dislike">Violència o comportament inadequat</string>
   <string name="report_content_fakement">Spam o frau</string>
