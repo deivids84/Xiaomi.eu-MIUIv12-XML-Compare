@@ -64,6 +64,9 @@
   <string name="framwork_base_service">Per proveir-vos d’aquests serveis, Mi Services Framework (compte Mi, Mi Push, Mi Stats, MIUI BI) necessita connectar-vos a Internet, accedir a la vostra ubicació, número de telèfon, IMEI i IMSI i permetre al vostre dispositiu rebre notificacions push.</string>
   <string name="game_introduction">El complement de Jocs us permet iniciar sessió, crear comandes, completar pagaments, utilitzar cupons i participar en esdeveniments de promoció.</string>
   <string name="google_service_introduction">Per poder funcionar amb normalitat, Google Play necessita connectar-se a Internet, accedir a la vostra ubicació, poder enregistrar àudio, realitzar trucades, accedir als esdeveniments del calendari, a l\'historial de trucades, als sensors, a l\'emmagatzematge, a la càmera, a la informació del dispositiu i als comptes.</string>
+  <string name="home_settings_miui_home">Clàssic</string>
+  <string name="home_settings_poco_launcher">Calaix d\'aplicacions</string>
+  <string name="home_settings_title">Seleccioneu el llançador predeterminat</string>
   <string name="ime_privacy_policy">Política de privadesa del teclat seleccionat</string>
   <string name="ime_privacy_policy_no_network">Sense connexió de xarxa. Vegeu la política de privadesa d\'aquest teclat a %s.</string>
   <string name="input_method_category">"Seleccioneu el teclat per defecte que s'utilitzarà per escriure correus, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>
