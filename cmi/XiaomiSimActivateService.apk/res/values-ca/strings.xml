@@ -122,7 +122,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="phone_verify_text">"%1$s no obtindrà el número de telèfon. Només s'assegurarà que el número sigui vàlid. Hi esteu d'acord?"</string>
   <string name="phone_verify_title">Permet a %1$s verificar el número de telèfon</string>
   <string name="privacy_revoke_failed_msg">L’activació requereix concedir autorització per tal que Missatges pugui obtenir el vostre número de telèfon.</string>
-  <string name="privacy_revoke_tips">Després de revocar l\'autorització, Missatges deixarà de recopilar dades i eliminarà totes les seves dades dels seus servidors. La sincronització amb Mi Cloud, Mi Message i altres funcions de missatgeria ja no estaran disponibles. Voleu revocar l\'autorització de totes maneres?</string>
+  <string name="privacy_revoke_tips">Després de revocar l\'autorització, l\'aplicació deixarà de recopilar les vostres dades i suprimirà totes les dades dels seus servidors. La sincronització amb Xiaomi Cloud, Mi Message i altres funcions de missatgeria ja no estaran disponibles. Vols revocar l\'autorització de totes maneres?</string>
   <string name="sim_unactivated_title">"La vostra targeta SIM no està activada"</string>
   <string name="waiting_sim_in_service">S\'està esperant que s’activi la SIM</string>
 </resources>
