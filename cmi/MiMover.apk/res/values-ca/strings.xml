@@ -109,6 +109,9 @@ Visiteu https://appleid.apple.com/#!&amp;pàgina = inicieu la sessió per desact
   <string name="dialog_backup_password_cancel">Cancel · lar</string>
   <string name="dialog_backup_password_change_machine_tips">"No podreu transferir còpies de seguretat protegides amb contrasenya. Desactiveu la contrasenya de còpia de seguretat abans d’utilitzar Mi Mover."</string>
   <string name="dialog_backup_password_verify">D\'acord</string>
+  <string name="dialog_connect_ap_timeout_button">Connecta</string>
+  <string name="dialog_connect_ap_timeout_message">Sembla que la connexió automàtica triga massa temps. Proveu de connectar-vos manualment.</string>
+  <string name="dialog_connect_ap_timeout_title">Connecta manualment</string>
   <string name="dialog_forbidden_use_tips">"Actualment, Mi Mover no admet la transferència de dades cap a o des de les tauletes."</string>
   <string name="dialog_rating_desc_ask">Com et sents de Mi Mover?</string>
   <string name="dialog_rating_desc_less">Feu-nos uns quants suggeriments per millorar la nostra aplicació?</string>
@@ -220,6 +223,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
   <string name="guest_install_app_hint_ensure">descarregar</string>
   <string name="guest_install_app_hint_summary">"La nova versió de Mi Mover no és compatible amb la instal·lada en aquest dispositiu. Baixeu i instal·leu la nova versió."</string>
   <string name="guest_install_app_hint_title">Descarregueu la nova versió de Mi Mover</string>
+  <string name="guest_manual_connect_link_text">Connecteu-vos manualment al dispositiu nou</string>
   <string name="guest_unfinished_task_alert_btn_negative">Comença de nou</string>
   <string name="guest_unfinished_task_alert_btn_positive">Continuar</string>
   <string name="guest_unfinished_task_alert_message">Sembla que teniu tasques de transferència inacabades. Voleu continuar amb la transferència?</string>
@@ -243,6 +247,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
   <string name="host_dialog_known_button">Ho tinc</string>
   <string name="host_dialog_message">Assegureu-vos que la versió més recent de Mi Mover estigui instal·lada a l\'altre dispositiu; en cas contrari, dos dispositius no podrien connectar-se.</string>
   <string name="host_dialog_title">"No es pot connectar durant molt de temps"</string>
+  <string name="host_manual_connect_link_text">Si el dispositiu antic triga massa a trobar el punt d\'accés, proveu de connectar-vos manualment.</string>
   <string name="host_memory_insuff_cancel">Cancel · lar</string>
   <string name="host_memory_insuff_confirm">Torna a seleccionar</string>
   <string name="host_memory_insuff_summary">"Al nou dispositiu no hi ha prou espai d'emmagatzematge per iniciar una transferència."</string>
@@ -316,6 +321,11 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
   <string name="main_chooser_item_android_others">Importa des d\'un altre telèfon Android</string>
   <string name="main_chooser_item_ios">Importa des d\'un iPhone</string>
   <string name="main_chooser_title">Seleccioneu dispositiu antic</string>
+  <string name="manual_connection_content1">1. Toqueu \"Connecta al dispositiu nou manualment\" al dispositiu antic.</string>
+  <string name="manual_connection_content2">2. Seleccioneu el següent punt d\'accés WLAN.</string>
+  <string name="manual_connection_content3">3. Introduïu aquesta contrasenya al dispositiu antic per connectar-vos.</string>
+  <string name="manual_connection_summary2">"Si no trobeu aquest punt d'accés, actualitzeu la llista de les xarxes WLAN disponibles i torneu-ho a provar."</string>
+  <string name="manual_connection_title">Connecteu-vos manualment al dispositiu antic</string>
   <string name="message_request_package_stats_perm">Toqueu \"Continuar\" per obrir la configuració i concediu a Mi Mover els permisos necessaris.</string>
   <string name="midnight">AM</string>
   <string name="miui_need_location_permission_summary">"Permet a Mi Mover accedir a la vostra ubicació per trobar dispositius propers. No podreu utilitzar Mi Mover si no concediu aquest permís."</string>
@@ -403,11 +413,9 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
   <string name="new_wait_link_first">"1. Obriu Mi Mover al dispositiu antic.
 2. Toqueu \"Sóc remitent\" i espereu un moment.
 3. Seleccioneu el punt hotspot següent al dispositiu antic."</string>
-  <string name="new_wait_link_message_1">Vés a Configuració, introdueix \"Mi Mover\" a la barra de cerca i toca \"Mi Mover\" als resultats de la cerca.</string>
   <string name="new_wait_link_message_2">"El botó \"Sóc remitent\" es troba a la pàgina inicial de Mi Mover."</string>
-  <string name="new_wait_link_title_1">1. Vés a Configuració del dispositiu antic.</string>
-  <string name="new_wait_link_title_2">2. Introduïu \"Mi Mover\" a la barra de cerca.</string>
-  <string name="new_wait_link_title_3">3. Toqueu \"Mi Mover\" als resultats de la cerca.</string>
+  <string name="new_wait_link_title_2">"1. Toqueu \"Sóc un remitent\" i espereu un moment."</string>
+  <string name="new_wait_link_title_3">2. Seleccioneu el següent punt d\'accés WLAN al dispositiu antic.</string>
   <string name="next">Pròxim</string>
   <string name="nickname">Sobrenom</string>
   <string name="night">PM</string>
@@ -415,6 +423,16 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
   <string name="no_network">"No es pot connectar a la xarxa"</string>
   <string name="no_sim">No s\'ha detectat cap targeta SIM.</string>
   <string name="noon">PM</string>
+  <string name="not_support_data_content1">1. Elements específics del model de dispositiu</string>
+  <string name="not_support_data_content2">2. Dades de les aplicacions seleccionades</string>
+  <string name="not_support_data_content3">3. Segones dades espacials</string>
+  <string name="not_support_data_content4">4. Aplicacions dobles</string>
+  <string name="not_support_data_link">"Elements que no es poden transferir"</string>
+  <string name="not_support_data_summary1">"Els temes, els fons de pantalla, les targetes de transport i les claus no es poden transferir mitjançant Mi Mover."</string>
+  <string name="not_support_data_summary2">Algunes aplicacions estableixen mesures de seguretat estrictes per evitar la transferència de dades de les aplicacions. Aquestes aplicacions poden incloure aplicacions bancàries o serveis financers.</string>
+  <string name="not_support_data_summary3">"A causa de les restriccions del sistema, els elements del segon espai no es poden transferir mitjançant Mi Mover."</string>
+  <string name="not_support_data_summary4">"Les aplicacions dobles i les seves dades tampoc no es poden transferir. Tanmateix, podeu transferir les aplicacions principals corresponents."</string>
+  <string name="not_support_data_title">"Elements que no es poden transferir"</string>
   <string name="note">Notes</string>
   <string name="nothing_chosen">Seleccioneu els elements primer</string>
   <string name="notif_icloud_canceled_summary">Cancel·lat</string>
@@ -443,6 +461,11 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
   <string name="old_task_cleared">S\'han eliminat les tasques antigues correctament</string>
   <string name="old_wait_link">Seleccioneu els elements que voleu transferir al dispositiu antic</string>
   <string name="old_wait_link_extra">Toqueu \"Transfereix\"</string>
+  <string name="open_photo_and_contacts_cloud_sync_complete">Iniciar</string>
+  <string name="open_photo_and_contacts_cloud_sync_content1">%d. Activeu la sincronització per als contactes i els elements de la galeria.</string>
+  <string name="open_photo_and_contacts_cloud_sync_content2">%d. Toqueu \"Sincronitza ara\".</string>
+  <string name="open_photo_and_contacts_cloud_sync_summary">Activeu la sincronització perquè els contactes i els elements de la galeria apareguin en aquest dispositiu.</string>
+  <string name="open_photo_and_contacts_cloud_sync_title">Sincronitzeu els contactes i els elements de la galeria</string>
   <string name="option_feedback_title">Feedback</string>
   <string name="option_privacy_policy">Política de privacitat</string>
   <string name="organization">Organització</string>
@@ -594,7 +617,7 @@ Allibereu almenys %s."</string>
   <string name="sunday">Diumenge</string>
   <string name="sunday_short">Sol</string>
   <string name="sunday_shortest">S</string>
-  <string name="switching_to_5g">Canvia a la xarxa…5 GHz</string>
+  <string name="switching_to_5g">Canvi al canal de transferència d\'alta velocitat…</string>
   <string name="sync_data_to_mi_cloud_content1">%dToqueu \"Sincronitza ara\" a la pestanya \"Contactes\".</string>
   <string name="sync_data_to_mi_cloud_content2">%dToca \"Fes una còpia de seguretat ara\" a la pestanya \"Fotos\".</string>
   <string name="sync_data_to_mi_cloud_summary">Obriu Xiaomi Cloud al vostre iPhone i seguiu aquests passos per sincronitzar dades. Toqueu el botó següent quan s\'ha finalitzat la sincronització.</string>
