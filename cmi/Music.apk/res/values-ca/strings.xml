@@ -231,9 +231,14 @@
   <string name="dialog_renew_positive_text">SÍ, VULL ROCKEJAR COM UN PROFESSIONAL</string>
   <string name="dialog_renew_success">Gràcies per la vostra confirmació</string>
   <string name="dialog_score_btn_good">Valora</string>
+  <string name="dialog_score_msg_score_explorer">T\'agrada Mi Music?</string>
+  <string name="dialog_score_msg_score_not_good">Podria donar-nos la seva opinió?</string>
+  <string name="dialog_score_msg_score_perfect">Bonic! Valoreu també la nostra aplicació a Play Store?</string>
   <string name="dialog_score_prompt_bad">"Gràcies pels vostres comentaris! Farem tot el possible per millorar la nostra aplicació i serveis."</string>
   <string name="dialog_score_prompt_good">Gràcies pel teu suport! Voleu també valorar la nostra aplicació a Google Play?</string>
   <string name="dialog_score_title">Valoreu la nostra aplicació</string>
+  <string name="dialog_score_toast_rate">Califiqueu primer la nostra aplicació</string>
+  <string name="dialog_score_toast_scroll_down_score_midrop">Desplaceu-vos cap avall per puntuar la nostra aplicació</string>
   <string name="dialog_song_sort_type">Tipus d\'ordenació</string>
   <string name="dialog_song_sort_type_name">Per nom</string>
   <string name="dialog_song_sort_type_playing_times">Per número de reproduccions</string>
@@ -355,6 +360,7 @@
   <string name="evening">Tarda</string>
   <string name="exo_controls_fastforward_description">Avanç ràpid</string>
   <string name="exo_controls_fullscreen_description">Mode de Pantalla completa</string>
+  <string name="exo_controls_hide">Amaga els controls del reproductor</string>
   <string name="exo_controls_next_description">Pista següent</string>
   <string name="exo_controls_pause_description">Pausa</string>
   <string name="exo_controls_play_description">Reprodueix</string>
@@ -363,8 +369,11 @@
   <string name="exo_controls_repeat_off_description">No ho repeteixis</string>
   <string name="exo_controls_repeat_one_description">Repeteix-ho una vegada</string>
   <string name="exo_controls_rewind_description">Rebobina</string>
-  <string name="exo_controls_shuffle_description">Aleatori</string>
+  <string name="exo_controls_show">Mostra els controls del reproductor</string>
+  <string name="exo_controls_shuffle_off_description">Aleatori desactivat</string>
+  <string name="exo_controls_shuffle_on_description">Aleatori activat</string>
   <string name="exo_controls_stop_description">Atura</string>
+  <string name="exo_controls_vr_description">Mode VR</string>
   <string name="exo_download_completed">Baixada completada</string>
   <string name="exo_download_description">Baixa</string>
   <string name="exo_download_downloading">Baixant</string>
@@ -372,6 +381,9 @@
   <string name="exo_download_notification_channel_name">Baixades</string>
   <string name="exo_download_removing">Suprimint les baixades</string>
   <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_role_alternate">Alternat</string>
+  <string name="exo_track_role_commentary">Comentari</string>
+  <string name="exo_track_role_supplementary">Suplementari</string>
   <string name="exo_track_selection_auto">Auto</string>
   <string name="exo_track_selection_none">Cap</string>
   <string name="exo_track_selection_title_audio">Àudio</string>
@@ -967,6 +979,7 @@ Sigues Feliç"</string>
   <string name="shuffle_music">Reproducció aleatòria</string>
   <string name="shuffle_off_notif">Reproducció aleatòria desactivada.</string>
   <string name="shuffle_on_notif">Reproducció aleatòria activada.</string>
+  <string name="shuffle_play_toast_text">Barrejar cançons…</string>
   <string name="similar_albums">Àlbums similars</string>
   <string name="similar_playlists">Llistes de reproducció similars</string>
   <string name="similar_songs">Cançons similars</string>
@@ -1131,6 +1144,8 @@ Sigues Feliç"</string>
   <string name="toast_not_pro">Aquesta funció només està disponible per als membres PRO.</string>
   <string name="toast_uhd_songs_for_download">S\'ha establert la qualitat de baixada a alta</string>
   <string name="toast_uhd_songs_for_stream">S\'ha establert la qualitat de transmissió a alta</string>
+  <string name="toast_will_play_list_when_ad_pause">La llista de reproducció començarà a reproduir-se després dels anuncis</string>
+  <string name="toast_will_play_song_when_ad_pause">Aquesta cançó començarà a reproduir-se després dels anuncis</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>
   <string name="top_chart_title">Llistes</string>
@@ -1148,7 +1163,7 @@ Sigues Feliç"</string>
   <string name="upgrade_music_message">Les actualitzacions estan a punt. Reinicieu per actualitzar.</string>
   <string name="upgrading_in_backstage">S\'està actualitzant en segon pla…</string>
   <string name="upload_favorite_dialog_title">Carregueu les cançons al núvol per poder-les accedir a altres dispositius sincronitzats. Podeu desactivar aquesta funció a la configuració.</string>
-  <string name="upload_favorite_setting_summary">Carregueu cançons al núvol per accedir-hi a altres dispositius</string>
+  <string name="upload_favorite_setting_summary">Si afegiu cançons en línia a les favorites, les pengeu al núvol i us permetrà accedir-hi en altres dispositius</string>
   <string name="upload_favorite_setting_title">Sincronitza cançons</string>
   <string name="upload_playlist_to_hungama_negative_text">"Mantenir local"</string>
   <string name="upload_playlist_to_hungama_positive_text">Sincronització</string>
