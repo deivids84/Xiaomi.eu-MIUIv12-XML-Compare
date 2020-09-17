@@ -87,6 +87,9 @@
   <string name="auto_identify_btn_title">Aquest missatge s\'envia des d\'un número desconegut.</string>
   <string name="auto_identify_confirmation">Podria portar uns quants minuts activar aquesta característica.</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
+  <string name="banner_btn_install">_Instal·la</string>
+  <string name="banner_btn_not_now">Ara no</string>
+  <string name="banner_btn_open">Obre\'l</string>
   <string name="batch_adding_progress_message">S\'està afegint&#8230;</string>
   <string name="batch_deleting_message_progress_message">S\'està eliminant…</string>
   <string name="batch_deleting_progress_message">S\'està eliminant…</string>
@@ -111,7 +114,7 @@
   <string name="button_resend_message">Envia de nou</string>
   <string name="button_unfold">Desplega</string>
   <string name="call_sender">Truca al remitent</string>
-  <string name="can_not_send_by_rcs">"No puc utilitzar la missatgeria de China Mobile"</string>
+  <string name="can_not_send_by_rcs">"No es pot utilitzar la missatgeria 5G"</string>
   <string name="can_not_view_group_chat_stranger">"No puc veure els detalls dels desconeguts."</string>
   <string name="cannot_add_picture_and_video">"No es pot afegir vídeo i foto a una diapositiva."</string>
   <string name="cannot_add_slide_anymore">"No es poden afegir més diapositives."</string>
@@ -203,6 +206,7 @@
   <string name="debug_enable_success">Disponible Depuració</string>
   <string name="debug_export_db">Exporta base de dades</string>
   <string name="debug_title">Depuració</string>
+  <string name="default_google_message_promo_content">"Heu definit Messages by Google com a aplicació de missatgeria predeterminada. Toqueu \"Obre\" per començar a enviar missatges de text."</string>
   <string name="delete">Elimina</string>
   <string name="delete_block_conversation">Suprimeix aquesta conversa</string>
   <string name="delete_bookmark">Suprimeix dels preferits</string>
@@ -256,6 +260,7 @@
   <string name="edit_phrase">Edita les respostes ràpides</string>
   <string name="edit_slide_activity">Edita la diapositiva</string>
   <string name="edit_slideshow_activity">Edita la presentació</string>
+  <string name="enable_classify_tip_dialog_content">Això tornarà a llançar l\'aplicació de missatgeria. Voleu continuar igualment?</string>
   <string name="enabled">Activat</string>
   <string name="english_subject_limit">40 caràcters</string>
   <string name="enter_edit_mode">Edita els missatges</string>
@@ -367,6 +372,8 @@
   <string name="from_pkg_name">Des de l\'aplicació:</string>
   <string name="ft_cfs_dialog_content">"No es poden entregar els fitxers mitjançant RCS. Voleu enviar un enllaç en un missatge de text?"</string>
   <string name="ft_cfs_dialog_title">Transferència de fitxers alternativa</string>
+  <string name="google_message_promo_content">Xiaomi recomana canviar a Missatges de Google. Permet enviar missatges de text a través de Wi-Fi, compartir suports d’alta qualitat i molt més. &lt;font color=\"#B3000000\"&gt;&lt;a href=\"https://support.google.com/messages/answer/6089066\"&gt;Veure detalls&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="google_message_promo_title">Actualitzeu l\'aplicació de missatgeria</string>
   <string name="group_already_kicked_hint">"No es poden enviar els missatges. No ets membre d'aquest xat de grup."</string>
   <string name="group_member_is_composing">Escrivint…</string>
   <string name="group_message">Missatge de grup</string>
@@ -404,6 +411,8 @@
   <string name="imageview_ad">Anunci</string>
   <string name="importing_progress_private_message">S\'està important&#8230;</string>
   <string name="in_sms">Missatge</string>
+  <string name="installed_google_message_promo_content">Xiaomi recomana utilitzar Missatges de Google. Permet enviar missatges de text a través de Wi-Fi, compartir suports d’alta qualitat i molt més.</string>
+  <string name="installed_google_message_promo_title">Comenceu a utilitzar Missatges</string>
   <string name="insufficient_drm_rights">Drets DRM insuficients.</string>
   <string name="invalid_conversation">Conversa no vàlida</string>
   <string name="invalid_destination">Adreça de destí no vàlida.</string>
@@ -656,6 +665,9 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
   <string name="perm_purpose_rcs_account">"Per mostrar la guia per a principiants als usuaris nous"</string>
   <string name="perm_purpose_rcs_phone_state">Per accedir a l\'IMEI per identificar el dispositiu</string>
   <string name="perm_purpose_rcs_storage">Per desar imatges, vídeos, fitxers i altres fitxers adjunts dels RCS</string>
+  <string name="permission_retry_deny">Surt</string>
+  <string name="permission_retry_dialog_msg">La missatgeria necessita permisos per poder funcionar amb normalitat. Per donar els permisos necessaris, toqueu \"Configuració\", seleccioneu \"Permisos d\'aplicacions\" i permeteu que l\'aplicació accedeixi al telèfon, als SMS i als contactes.</string>
+  <string name="permission_retry_setting">Configuració de xarxa</string>
   <string name="phrase_confirm_delete_message">Aquesta resposta s\'eliminarà.</string>
   <string name="phrase_empty">Sense respostes</string>
   <string name="phrase_from">Des de %1s</string>
@@ -695,6 +707,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
   <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
   <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
   <string name="pref_summary_delivery_ringtone">Recepció de notificacions de so pels missatges lliurats.</string>
+  <string name="pref_summary_enable_classify">Mou els missatges promocionals i financers a pestanyes separades</string>
   <string name="pref_summary_manage_sim_messages">Administra els missatges emmagatzemats en la targeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
   <string name="pref_summary_mms_read_reports">Mostra una notificació a la vista de conversa quan el destinatari baixi continguts MMS</string>
@@ -713,6 +726,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
   <string name="pref_title_card_format">Format de targeta compartida</string>
   <string name="pref_title_collapse_ad_notification">Notificacions en grup sobre missatges promocionals</string>
   <string name="pref_title_delivery_reports">Estat de lliurament</string>
+  <string name="pref_title_enable_classify">Agrupa els missatges automàticament</string>
   <string name="pref_title_fwd_sender_info">Reenvia informació del remitent</string>
   <string name="pref_title_manage_sim_messages">Emmagatzematge de la targeta SIM</string>
   <string name="pref_title_miui_card">Envia a través de targeta</string>
@@ -856,15 +870,15 @@ Mireu els recomanats!"</string>
   <string name="rcs_list_bottom_loading">Un moment…</string>
   <string name="rcs_list_bottom_search">S\'està cercant…</string>
   <string name="rcs_main_purpose">Aquesta característica us permet enviar i rebre missatges de RCS. La missatgeria de RCS es proporcionada per China Mobile.</string>
-  <string name="rcs_message">Missatges de RCS</string>
+  <string name="rcs_message">Missatges 5G</string>
   <string name="rcs_message_disable">"No es pot veure aquest missatge al Segon espai"</string>
-  <string name="rcs_message_title">Missatgeria RCS</string>
+  <string name="rcs_message_title">Missatgeria 5G</string>
   <string name="rcs_more_bar_title">Més informació</string>
-  <string name="rcs_msg">Missatgeria de China Mobile</string>
+  <string name="rcs_msg">Missatgeria 5G</string>
   <string name="rcs_my_black_chatbot_title">Llista de bloqueig</string>
-  <string name="rcs_not_online">"No puc utilitzar la missatgeria de China Mobile. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
-  <string name="rcs_offline">No heu iniciat la sessió a UC. Espereu un minut o dos i torneu-ho a provar.</string>
-  <string name="rcs_offline_hint">"La missatgeria de China Mobile està desconnectada. No es pot reenviar aquest missatge."</string>
+  <string name="rcs_not_online">"No es pot utilitzar la missatgeria 5G. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+  <string name="rcs_offline">No heu iniciat la sessió a la missatgeria 5G. Espereu un minut o dos i torneu-ho a provar.</string>
+  <string name="rcs_offline_hint">"La missatgeria 5G està fora de línia. No es pot reenviar aquest missatge."</string>
   <string name="rcs_pref_button_login">Inicia la sessió</string>
   <string name="rcs_pref_button_logout">Tanca la sessió</string>
   <string name="rcs_pref_category_rcs">Missatgeria RCS</string>
@@ -887,7 +901,7 @@ Mireu els recomanats!"</string>
   <string name="rcs_recipient_type_group">Reenvia al xat de grup</string>
   <string name="rcs_recipient_type_pc">Reenvia a l\'ordinador</string>
   <string name="rcs_remember_my_choice">Recorda la meva elecció</string>
-  <string name="rcs_resend_not_online">"No puc utilitzar la missatgeria de China Mobile"</string>
+  <string name="rcs_resend_not_online">"No es pot utilitzar la missatgeria 5G"</string>
   <string name="rcs_resend_sim_card_not_insert">"Sembla que la vostra targeta SIM no està instal·lada"</string>
   <string name="rcs_search_group_local">Les meves mini apps</string>
   <string name="rcs_search_group_recommend">Mini aplicacions recomanades</string>
@@ -896,17 +910,17 @@ Mireu els recomanats!"</string>
   <string name="rcs_search_result_server_data_empty">"No s'ha pogut trobar mini aplicacions en línia"</string>
   <string name="rcs_send_hello">Hola!</string>
   <string name="rcs_send_rms_remind_change">Configuració</string>
-  <string name="rcs_send_rms_remind_desp">China Mobile Messaging és un servei de missatgeria instantània proporcionat per China Mobile. Podeu desactivar aquesta funció a la configuració.</string>
-  <string name="rcs_send_rms_remind_title">Envia missatges utilitzant la missatgeria de China Mobile</string>
+  <string name="rcs_send_rms_remind_desp">La missatgeria 5G és un servei de missatgeria instantània proporcionat per China Mobile. Podeu desactivar aquesta funció a Configuració.</string>
+  <string name="rcs_send_rms_remind_title">Utilitzeu la missatgeria 5G</string>
   <string name="rcs_service_agreement">Acord de servei</string>
-  <string name="rcs_setting">Configuració de la missatgeria de China Mobile</string>
+  <string name="rcs_setting">Configuració de missatgeria 5G</string>
   <string name="rcs_setting_tips">Podeu canviar a mètodes d’entrega alternatius a la configuració de Missatgeria.</string>
   <string name="rcs_silence_message">Silencia les notificacions de missatges</string>
-  <string name="rcs_summary_auto_resend_mms">"Convertiu els missatges multimèdia de China Mobile a MMS després que no es pugui enviar el missatge original. El vostre operador us cobrarà per aquest missatge."</string>
-  <string name="rcs_summary_auto_resend_sms">"Convertiu els missatges de text de China Mobile en SMS després que no es pugui enviar el missatge original. El vostre operador us cobrarà per aquest missatge."</string>
+  <string name="rcs_summary_auto_resend_mms">"Converteix els missatges multimèdia 5G a MMS després que no es pugui enviar el missatge original. El vostre operador us cobrarà aquest missatge."</string>
+  <string name="rcs_summary_auto_resend_sms">"Converteix els missatges de text 5G a SMS després que no es pugui enviar el missatge original. El vostre operador us cobrarà aquest missatge."</string>
   <string name="rcs_summary_silence_message">Silencia les notificacions de missatges quan el client d\'escriptori estigui funcionant</string>
-  <string name="rcs_unavailable">"Ja no puc utilitzar la missatgeria de China Mobile. La targeta SIM de China Mobile no és la vostra targeta de dades predeterminada."</string>
-  <string name="rcs_up_not_online">RCS està fora de línia. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
+  <string name="rcs_unavailable">"Ara no es pot utilitzar la missatgeria 5G. La targeta SIM China Mobile no és la vostra targeta de dades predeterminada."</string>
+  <string name="rcs_up_not_online">La missatgeria 5G està fora de línia. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
   <string name="rcs_wait_for_retry_text">S\'està esperant…</string>
   <string name="received_at_time">Rebut a les: %1s</string>
   <string name="received_label">"Rebut: "</string>
@@ -1013,7 +1027,7 @@ Mireu els recomanats!"</string>
   <string name="send_message_notification_msg">Toqueu per veure els detalls de la sol·licitud.</string>
   <string name="send_message_notification_tickerText">El dispositiu està sol·licitant permís</string>
   <string name="send_message_notification_title">Permís sol·licitat</string>
-  <string name="send_rms_editor_hints">Missatgeria de China Mobile</string>
+  <string name="send_rms_editor_hints">Missatgeria 5G</string>
   <string name="send_signature_confirm_dialog_message">No hi ha contingut. Voleu enviar només la vostra signatura?</string>
   <string name="send_signature_confirm_dialog_title">Envia el missatge</string>
   <string name="send_sms">Envia el missatge</string>
@@ -1092,6 +1106,7 @@ Mireu els recomanats!"</string>
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_conversation_title">Notificacions</string>
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
+  <string name="sp_msg_entry">Serveis</string>
   <string name="sqlite_disk_full">L\'espai d\'emmagatzematge del dispositiu està ple.</string>
   <string name="sqlite_low_memory">No hi ha prou espai d\'emmagatzematge</string>
   <string name="status_failed">Han fallat</string>
@@ -1210,6 +1225,9 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
   <string name="to_label">"Per "</string>
   <string name="to_send_wrapper">Seran enviats a %s</string>
   <string name="toast_failed_to_close_priv_auth">"No s'ha pogut revocar l'autorització. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+  <string name="toast_not_show_camera_perm_req">Permetre que la missatgeria faci servir la càmera per poder utilitzar aquesta funció</string>
+  <string name="toast_not_show_microphone_perm_req">Permetre que la missatgeria faci servir el micròfon per poder utilitzar aquesta funció</string>
+  <string name="toast_not_show_storage_perm_req">Permetre que la missatgeria accedeixi a l’emmagatzematge per poder utilitzar aquesta funció</string>
   <string name="toast_pending_hangup_msg">El missatge s’enviarà un cop finalitzi la trucada</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>
