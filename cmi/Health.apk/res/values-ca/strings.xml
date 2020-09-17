@@ -235,7 +235,7 @@ Si decidiu suprimir les dades de salut després de triar conservar-les, podeu fe
   <string name="deep_sleep">Son profund</string>
   <string name="deep_sleep_duration">Durada del son profund</string>
   <string name="deep_sleep_duration_decrease_description">El vostre son profund és massa curt</string>
-  <string name="deep_sleep_duration_description">"Quan la gent dorm, hi haurà moviments oculars ràpids periòdics, de manera que el son pot dividir-se en el son de moviments oculars ràpids i el son de moviments oculars no ràpids. El somni profund es produeix durant períodes de son amb moviments oculars no ràpids, rel que representa entre el 20 i el 25% de tot el son nocturn. Durant el son profund, hi ha una activitat menys conscient i el cervell es troba en un estat relativament estàtic, del qual és difícil despertar."</string>
+  <string name="deep_sleep_duration_description">"Quan la gent dorm, es produeixen moviments oculars ràpids periòdics. El son es pot dividir en son de moviment ràpid dels ulls (REM) i son de moviment ocular no ràpid (NREM). El son profund es produeix durant els períodes de son NREM, que representen aproximadament 20 a 25%% de la durada total del son. El cervell descansa durant el son profund, mostrant nivells baixos d’activitat conscient, de manera que despertar no és fàcil."</string>
   <string name="deep_sleep_duration_increase_description">El vostre son profund és massa llarg</string>
   <string name="deep_sleep_duration_normal_description">Teniu una quantitat suficient de son profund</string>
   <string name="delete">Suprimeix</string>
@@ -246,6 +246,7 @@ Si decidiu suprimir les dades de salut després de triar conservar-les, podeu fe
   <string name="delete_all_data_sources_description">Voleu suprimir totes les fonts de dades afegides?</string>
   <string name="delete_avatar">Suprimeix la foto actual</string>
   <string name="delete_contact">Suprimeix</string>
+  <string name="delete_dailog_confirm_msg_wear">Voleu suprimir %1$s ara?</string>
   <string name="delete_data_source">Suprimeix la font de dades</string>
   <string name="delete_dialog_close_sync_msg">Per suprimir %1$s, desactiveu primer la sincronització amb el dispositiu corresponent.</string>
   <string name="delete_dialog_confirm_msg_cloud">Voleu suprimir %1$s juntament amb les dades relacionades emmagatzemades en aquest dispositiu i al núvol?</string>
@@ -253,6 +254,7 @@ Si decidiu suprimir les dades de salut després de triar conservar-les, podeu fe
   <string name="delete_menstruation_record_confirm">Voleu suprimir aquest registre?</string>
   <string name="delete_origin_data_description">Voleu suprimir totes les dades generades per %1$s?</string>
   <string name="delete_record">Suprimeix els registres</string>
+  <string name="delete_wear_data_toast">"No es poden suprimir les dades proporcionades per %1$s"</string>
   <string name="description">Detalls</string>
   <string name="detection_has_no_data">No hi ha dades</string>
   <string name="detection_not_start">"Encara no heu començat"</string>
@@ -381,6 +383,10 @@ Si el vostre dispositiu apareix a la llista, podeu afegir les fonts de dades man
   <string name="exercise_recog_confirm_walk">Estàveu caminant entre les %1$s i les %2$s?</string>
   <string name="exercise_record">Historial d’entrenaments</string>
   <string name="exercise_record_no_data">Encara no hi ha elements</string>
+  <string name="exercise_remind_content_improve_goal">Mantingueu-vos més saludables augmentant progressivament l’objectiu d’activitat</string>
+  <string name="exercise_remind_content_lower_goal">Mantingueu la motivació establint objectius que podeu assolir</string>
+  <string name="exercise_remind_title_improve_goal">Estableix un objectiu més alt</string>
+  <string name="exercise_remind_title_lower_goal">Establir un objectiu realista</string>
   <string name="exercise_reminder_accomplished">Heu assolit el vostre objectiu d’activitat!</string>
   <string name="exercise_reminder_title">Recordatori d’activitat</string>
   <string name="exercise_reminder_unaccomplished">"Encara no heu assolit el vostre objectiu. Seguiu!"</string>
@@ -496,8 +502,36 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="home_tip_sync_immediately">"Alguns elements no s'han sincronitzat. Toqueu per sincronitzar-ho ara."</string>
   <string name="home_tip_syncing">S\'estan sincronitzant les dades de salut…</string>
   <string name="hour">h</string>
+  <string name="hr_choose_detect_state">En quin estat es troba ara mateix?</string>
+  <string name="hr_detect">Mesureu la freqüència cardíaca</string>
+  <string name="hr_detect_desc">"Durant la mesura, el flaix del telèfon s’utilitzarà com a font de llum contínua i la càmera detectarà canvis en el flux sanguini. A continuació, s’analitzaran les imatges i es determinarà la freqüència cardíaca en funció dels patrons repetits."</string>
+  <string name="hr_detect_finished">Fet!</string>
+  <string name="hr_detect_principle_desc_1">"Podeu mesurar la freqüència cardíaca només tapant el flaix i la càmera del telèfon amb un dit. El flaix s’utilitzarà com a font de llum contínua i la càmera detectarà canvis en el flux sanguini. A continuació, s’analitzaran les imatges i es determinarà la freqüència cardíaca en funció dels patrons repetits."</string>
+  <string name="hr_detect_principle_desc_2">Diverses proves mostren que el marge d’error d’aquest mètode és d’uns 2 pulsacions per minut.</string>
+  <string name="hr_detect_principle_desc_3">"Tingueu en compte que els factors externs (per exemple, la temperatura, el to de la pell, el moviment) poden provocar mesures inexactes o incompletes. Preneu diverses mesures per assegurar-vos que la vostra lectura actual sigui exacta. Els resultats proporcionats aquí són només per a la vostra referència. Aquest mètode de mesura no pot substituir l'equip mèdic professional."</string>
+  <string name="hr_detect_principle_title">Mesurant la freqüència cardíaca</string>
+  <string name="hr_detect_report_title">Informe de freqüència cardíaca</string>
+  <string name="hr_detect_state_after_activity">Actiu recentment</string>
+  <string name="hr_detect_state_after_activity_desc">"Acabeu de fer un entrenament."</string>
+  <string name="hr_detect_state_regular">Normal</string>
+  <string name="hr_detect_state_regular_desc">"Estàs treballant o estudiant com de costum."</string>
+  <string name="hr_detect_state_reseting">Descans</string>
+  <string name="hr_detect_state_reseting_desc">"Estàs completament relaxat o acabes de despertar."</string>
+  <string name="hr_disturb_detect">Mesura interrompuda</string>
+  <string name="hr_disturb_detect_desc">Comença de nou. Intenteu no moure el dit durant la mesura.</string>
   <string name="hr_heart_rate_unit">Freqüència cardíaca (BPM)</string>
+  <string name="hr_in_detect">"Mesura de la freqüència cardíaca. No moveu el dit."</string>
   <string name="hr_input_heart_rate">Registrar la freqüència cardíaca</string>
+  <string name="hr_measure_heart_rate">Mesura</string>
+  <string name="hr_open_permission_desc">"Xiaomi Health necessita accedir a la càmera del telèfon per poder mesurar la freqüència cardíaca. Permetre?"</string>
+  <string name="hr_open_permission_title">Permisos necessaris</string>
+  <string name="hr_phone_detect_records">Historial de mesures del telèfon</string>
+  <string name="hr_pre_detect">"Cobriu completament el flaix i la càmera
+amb un dit"</string>
+  <string name="hr_pre_detect_finger">Comprovant&#8230;</string>
+  <string name="hr_pre_detect_finger_desc">"Comprovació de si el flaix i la càmera estan completament coberts. No moveu el dit."</string>
+  <string name="hr_see_report">Visualitza l\'informe</string>
+  <string name="hr_start_detect">Iniciar</string>
   <string name="hr_state">Estat</string>
   <string name="hr_state_active">Actiu</string>
   <string name="hr_state_fast">Ràpid</string>
@@ -512,6 +546,8 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="indoor_rinding">Ciclisme interior</string>
   <string name="indoor_running">Cinta de córrer</string>
   <string name="input_body_weight">Introduïu les dades de pes per obtenir consells de salut</string>
+  <string name="inquire_recover_data">Voleu restaurar les dades de salut ara?</string>
+  <string name="inquire_recover_data_subtitle">"Sembla que hi ha dades de salut associades al vostre compte de Mi (%1$s). Voleu activar la sincronització amb el núvol i restaurar les dades ara?"</string>
   <string name="instructions_provider">Instruccions proporcionades per Miao Health</string>
   <string name="insufficient">No és suficient</string>
   <string name="jump_over">Omet</string>
@@ -554,7 +590,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="late">Tard</string>
   <string name="light_sleep">Son lleuger</string>
   <string name="light_sleep_duration">Durada del son lleuger</string>
-  <string name="light_sleep_duration_description">Quan la gent dorm, es produeixen moviments oculars ràpids i periòdics. El son es pot dividir en el son amb moviments ràpids oculars (REM) i el son amb moviments no ràpids oculars (NREM). El son lleuger es produeix durant els períodes de son NREM, representant al voltant del 50 al 60% de la durada total del son. Durant un son lleuger, la consciència es redueix gradualment i el cervell és relativament estàtic, però encara es pot despertar fàcilment.</string>
+  <string name="light_sleep_duration_description">Quan la gent dorm, es produeixen moviments oculars ràpids periòdics. El son es pot dividir en son de moviment ràpid dels ulls (REM) i son de moviment ocular no ràpid (NREM). El son lleuger es produeix durant els períodes de son NREM, que representen aproximadament 50 a 60%% de la durada total del son. Durant el son lleuger, la consciència es redueix gradualment i el cervell és relativament estàtic, però encara es pot despertar fàcilment.</string>
   <string name="light_sleep_time_decrease_description">El vostre son lleuger és massa curt</string>
   <string name="light_sleep_time_increase_description">El vostre son lleuger és massa llarg</string>
   <string name="light_sleep_time_normal_description">Teniu una quantitat suficient de son lleuger</string>
@@ -731,6 +767,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="open_stand_assistant">Toca per començar el seguiment de quan esteu drets</string>
   <string name="open_swimming">Nedar amb aigües obertes</string>
   <string name="open_sync">Activa la sincronització</string>
+  <string name="open_sync_and_enter_app">Activa la sincronització</string>
   <string name="open_unrestricted_permissions">Per fer un seguiment amb més exactitud del son, permet que Xiaomi Health s\'executi sempre en segon pla.</string>
   <string name="organ_donation_volunteer">Donant voluntari d’òrgans</string>
   <string name="origin">Font</string>
@@ -800,7 +837,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="rem_Duration_increase_description">El son REM és massa llarg</string>
   <string name="rem_duration">Durada del son REM</string>
   <string name="rem_duration_decrease_description">El son REM és massa curt</string>
-  <string name="rem_duration_description" formatted="false">REM es refereix al ràpid moviment ocular. El son es pot dividir en el son amb moviment ràpid ocular (REM) i el son amb moviment no ràpid ocular (NREM). El son amb moviment ràpid ocular representa aproximadament entre el 20 i el 25% de la durada total del son. Quan la gent es desperta en aquesta etapa, entre el 74 i el 95% d’ells diu que han somiat i són capaços de recordar els seus somnis. El cervell és molt actiu i el cos està completament relaxat durant el son REM, cosa que fa que aquesta fase del son sigui essencial per mantenir les funcions cognitives.</string>
+  <string name="rem_duration_description">REM es refereix al ràpid moviment ocular. El son es pot dividir en son de moviment ràpid dels ulls (REM) i son de moviment ocular no ràpid (NREM). El son ràpid per moviment ocular representa aproximadament entre 20 i 25%% de la durada total del son. Quan la gent es desperta en aquesta etapa, de 74 a 95%% d\'ells dir que han estat somiant i són capaços de recordar els seus somnis. El cervell és molt actiu i el cos està completament relaxat durant el son REM, cosa que fa que aquesta fase del son sigui essencial per mantenir les funcions cognitives.</string>
   <string name="rem_duration_normal_description">La durada del son REM és normal</string>
   <string name="remarks">Observació</string>
   <string name="remind">Recorda</string>
@@ -880,7 +917,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="sleep_deep_light_no_data_improvement">"No es poden detectar les fases de son. Estem millorant els nostres algorismes. Estigueu atents!"</string>
   <string name="sleep_detection_enable">Analitza el cicle del son</string>
   <string name="sleep_detection_feedback">Comentaris</string>
-  <string name="sleep_detection_guide_four_description">El seguiment del son consumirà al voltant d’un 1% de la bateria diàriament.</string>
+  <string name="sleep_detection_guide_four_description">El seguiment del son consumirà aproximadament 1%% de la vostra bateria diàriament.</string>
   <string name="sleep_detection_guide_four_high_power_description">Assegureu-vos que el dispositiu està prou carregat abans d’anar a dormir. Una bateria baixa pot interrompre el seguiment del son.</string>
   <string name="sleep_detection_guide_four_high_power_title">Manteniu el dispositiu carregat</string>
   <string name="sleep_detection_guide_four_title">Consum energètic baix</string>
@@ -1366,6 +1403,7 @@ Voleu actualitzar-ho ara?</string>
   <string name="weight_setting">Configuració del pes</string>
   <string name="weight_trend_offset_date">"De %1$s a %2$s: "</string>
   <string name="weight_unit_kg">KG</string>
+  <string name="welcome_back">Ben tornat!</string>
   <string name="welcome_exercise">Seguiment dels entrenaments</string>
   <string name="welcome_exercise_description">Porteu el dispositiu amb vosaltres per fer el seguiment dels entrenaments automàticament</string>
   <string name="welcome_sedentary">Seguiu movent-vos</string>
