@@ -130,16 +130,12 @@
   <string name="lock_screen_tip_toast">Permeteu les notificacions a la pantalla de bloqueig a \"Format\"</string>
   <string name="lockscreen_notifications">Notificacions a la pantalla de bloqueig</string>
   <string name="lockscreen_notifications_short">Bloqueja la pantalla</string>
-  <string name="menu_setting_recommend_to_minus">Mostra menys notificacions</string>
-  <string name="menu_setting_recommend_to_normal">"No reduïu les notificacions"</string>
+  <string name="menu_setting_aggregatation_feedback">Opcions d’agrupament</string>
+  <string name="menu_setting_feedback_donot_classify">"No agrupeu"</string>
+  <string name="menu_setting_more_settings">Més configuracions</string>
   <string name="menu_setting_show_in_home">"No agrupis"</string>
-  <string name="menu_setting_tip_recommend_minus">"Veureu menys notificacions a partir de %s"</string>
-  <string name="menu_setting_tip_recommend_normal">"Les notificacions del %s no es reduiran"</string>
   <string name="menu_setting_tip_show_in_home">"Les notificacions del %s no s’agruparan"</string>
   <string name="menu_setting_tip_unfold">Totes les notificacions d\'aquesta aplicació es consideraran importants</string>
-  <string name="menu_setting_toast_recommend_minus">"Veureu menys notificacions a partir de %s"</string>
-  <string name="menu_setting_toast_recommend_normal">"Les notificacions de %s no es reduiran"</string>
-  <string name="menu_setting_toast_show_in_home">"Les notificacions de %s no s’agruparan"</string>
   <string name="menu_setting_unfold">Important</string>
   <string name="midnight">Nit</string>
   <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
@@ -223,6 +219,7 @@
   <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a la selecció d’un dia</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'entrada de text</string>
   <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció d\'un any</string>
+  <string name="mune_setting_prefix_category">"Agrupa amb "</string>
   <string name="night">Vespre</string>
   <string name="noon">Migdia</string>
   <string name="not_sent_recently">No recentment</string>
@@ -238,8 +235,6 @@
   <string name="notification_fold_summary">Agrupa les notificacions sense importància automàticament</string>
   <string name="notification_fold_title">Notificacions en grup</string>
   <string name="notification_manager">Notificacions de les aplicacions</string>
-  <string name="notification_setting_menu_feedback_text">"Aquesta notificació no hauria de ser aquí?
-Informeu d'aquest número &gt;"</string>
   <string name="notification_style_android">Android</string>
   <string name="notification_style_miui">MIUI</string>
   <string name="off">Desactivat</string>
@@ -251,6 +246,7 @@ Informeu d'aquest número &gt;"</string>
   <string name="saturday_short">Ds.</string>
   <string name="saturday_shortest">ds.</string>
   <string name="search_menu_title">Cerca</string>
+  <string name="setting_menu_success">S\'ha establert amb èxit</string>
   <string name="settings_guide_title">Necessiteu altres configuracions?</string>
   <string name="show_badge_notifications">Insígnies de les notificacions</string>
   <string name="show_badge_notifications_short">Insígnies</string>
@@ -338,8 +334,7 @@ Informeu d'aquest número &gt;"</string>
   <string name="time_picker_dialog_title">Establiu l\'hora</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
-  <string name="tip_feedback_success">S\'ha enviat correctament</string>
-  <string name="tip_select_category">Seleccioneu la categoria de notificacions</string>
+  <string name="tip_feedback_thanks">Gràcies pels vostres comentaris!</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>
   <string name="tuesday">Dimarts</string>
