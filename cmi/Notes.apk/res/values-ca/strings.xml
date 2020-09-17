@@ -116,6 +116,7 @@
   <string name="early_morning">Matí</string>
   <string name="edit_header_done_description">Fet</string>
   <string name="edit_header_lock_description">Nota oculta</string>
+  <string name="edit_note_hint_title">Càrrec</string>
   <string name="empty_folder_import_notes">Importa les notes</string>
   <string name="empty_folder_no_notes">No hi ha notes aquí</string>
   <string name="enable_sync">Sincronitza</string>
