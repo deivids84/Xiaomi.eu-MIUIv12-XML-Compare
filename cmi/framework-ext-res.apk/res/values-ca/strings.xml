@@ -6,6 +6,11 @@
   <string name="all_call_livetalk_remain_mins">Minuts restants: %1$s nacional o %2$s internacional</string>
   <string name="always">Sempre</string>
   <string name="alwaysUsePrompt">Recorda la meva elecció</string>
+  <string name="application_cannot_open_alipay_payment_code">"No s'ha pogut obrir el codi de pagament d'Alipay"</string>
+  <string name="application_cannot_open_alipay_scanner">"No s'ha pogut obrir l'escàner Alipay"</string>
+  <string name="application_cannot_open_weixin_payment_code">"No s'ha pogut obrir el codi de pagament de WeChat"</string>
+  <string name="application_cannot_open_weixin_scanner">"No s'ha pogut obrir l'escàner WeChat"</string>
+  <string name="application_not_install_content">"Sembla que l'aplicació que realitza aquesta acció no està instal·lada al dispositiu. Podeu instal·lar aquesta aplicació o assignar una acció diferent a aquest gest."</string>
   <string name="apply_password_action">D\'acord</string>
   <string name="apply_password_confirm_dlg_msg">Utilitzeu la contrasenya actual de la pantalla de bloqueig per accedir a la configuració de %s.</string>
   <string name="apply_password_confirm_dlg_title">%s contrasenya</string>
@@ -112,6 +117,8 @@
   <string name="input_method_clipboard_clear_all_phrase_title">S\'està netejant el porta-retalls</string>
   <string name="input_method_clipboard_copy_success">S\'ha copiat correctament</string>
   <string name="input_method_clipboard_delete_success">S\'ha suprimit correctament</string>
+  <string name="input_method_clipboard_move_cursor_guide1">Manteniu premuda la zona blava per moure el cursor</string>
+  <string name="input_method_clipboard_move_cursor_guide2">Mou el dit horitzontalment</string>
   <string name="input_method_clipboard_participle">Paraules separades</string>
   <string name="input_method_clipboard_settings_button">Configuració</string>
   <string name="input_method_clipboard_tips">Els articles copiats se suprimiran del porta-retalls al cap de 48 hores</string>
