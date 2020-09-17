@@ -150,6 +150,8 @@
   <string name="auto_add_app_shortcut">Col·loca les aplicacions noves a la Pantalla d\'inici</string>
   <string name="auto_delete_category_dialog_content">Les aplicacions actuals s\'eliminaran d\'aquesta categoria i se suprimirà la categoria. Voleu suprimir aquesta categoria?</string>
   <string name="auto_delete_category_dialog_title">Supressió de la categoria</string>
+  <string name="auto_disable_screenbuttons_summary">Feu doble toc sobre qualsevol botó de navegació per tornar a activar-lo</string>
+  <string name="auto_disable_screenbuttons_title">Deshabilita automàticament els botons de navegació</string>
   <string name="back">esquena</string>
   <string name="backup_fail">"No s'ha pogut crear la còpia de seguretat del llançador"</string>
   <string name="bad_wallpaper_source_prompt">"No es pot carregar el fons de pantalla"</string>
@@ -322,6 +324,7 @@
   <string name="invalid_contact_shortcut">El contacte no és vàlid</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="is_system_wallpaper_message">"No es poden eliminar els recursos del sistema"</string>
+  <string name="key_shortcut_settings_title">Dreceres dels botons</string>
   <string name="launcher_not_exist">Inici s\'ha aturat, torneu a la pantalla inicial i proveu altre cop.</string>
   <string name="launcher_pull_down_title">Llisqueu avall a la Pantalla d\'inici</string>
   <string name="launcher_search_bar_provider_title">Proveïdor de barres de cerca</string>
@@ -509,6 +512,8 @@
   <string name="reset_fail">"No s'ha pogut restaurar"</string>
   <string name="reset_scene_prompt">La pantalla es restablirà a la disposició per defecte.</string>
   <string name="reset_title">Restaura</string>
+  <string name="resource_canary_leak_tip">té filtració!</string>
+  <string name="resource_canary_wait_for_heapdump_message">S\'està buidant la instantània del munt ...</string>
   <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_locked_toast">La disposició de la pantalla d\'inici està bloquejada</string>
   <string name="screen_number">Pantalla %d</string>
@@ -586,8 +591,6 @@
   <string name="uninstall_xspace_dialog_title_format">Desinstal·lació de l\'aplicació duplicada \"%s\"</string>
   <string name="unknown_artist_name">Artista desconegut</string>
   <string name="unnamed_folder_name">Carpeta</string>
-  <string name="unstable_dialog_message">Aquest dispositiu està inscrit al programa de visualització prèvia per a desenvolupadors d\'Android 11. El programa permet als desenvolupadors i entusiastes d\'Android provar versions anteriors a Android 11. Aquesta versió prèvia a la publicació pot contenir errors i defectes que puguin afectar el funcionament normal del dispositiu.</string>
-  <string name="unstable_dialog_title">Programa de visualització prèvia per a desenvolupadors d\'Android</string>
   <string name="v7_preference_off">DESACTIVAT</string>
   <string name="v7_preference_on">ACTIVAT</string>
   <string name="wallpaper">Fons de pantalla</string>
@@ -606,5 +609,10 @@
   <string name="widgets_preview_title">Afegeix el giny</string>
   <string name="work_mode_off_label">"Les notificacions estan desactivades i les aplicacions no estan disponibles ara"</string>
   <string name="work_mode_on_label">Administrat per la vostra organització</string>
+  <string name="work_profile_first_content">Les dades personals estan &amp; ocultes de les aplicacions de la feina</string>
+  <string name="work_profile_got_button">D\'acord</string>
+  <string name="work_profile_next_button">Endavant</string>
+  <string name="work_profile_second_content">Les dades de les aplicacions de treball &amp; són visibles per al vostre administrador de TI</string>
+  <string name="work_profile_title">Perfil professional</string>
   <string name="work_profile_toggle_label">Perfil del treball</string>
 </resources>
