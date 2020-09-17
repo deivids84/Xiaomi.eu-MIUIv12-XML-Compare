@@ -149,6 +149,7 @@
   <string name="enable_usb">Connectar el dispositiu USB</string>
   <string name="encrypt_error">"No s'han pogut ocultar els fitxers, intenta de nou"</string>
   <string name="encrypt_prefix">OCULT</string>
+  <string name="encrypt_setting">Xifratge</string>
   <string name="encrypt_success">Ocultats correctament</string>
   <string name="encrypt_success_first_five">"Fitxer encriptat i ocult. Podeu veure els fitxers ocults tirant avall a la pàgina inicial del Gestor de fitxers."</string>
   <string name="encrypting">Encriptant&#8230;</string>
@@ -286,6 +287,7 @@
   <string name="no_wifi">No hi ha cap xarxa detectada</string>
   <string name="not_set">Sense especificar</string>
   <string name="not_support_documentui">"DocumentUI no és compatible amb aquest dispositiu"</string>
+  <string name="not_use">Ara no</string>
   <string name="notif_server_starting">Iniciant servidor FTP&#8230;</string>
   <string name="notif_title">El servidor FTP està funcionant</string>
   <string name="online_not_support">"No es pot veure aquest fitxer en línia de moment."</string>
@@ -303,6 +305,8 @@
   <string name="operation_delete_confirm_message">Voleu eliminar-ho?</string>
   <string name="operation_delete_confirm_message_folder">"S'eliminarà tot el contingut de la carpeta. "</string>
   <string name="operation_deleting">S\'està eliminant…</string>
+  <string name="operation_encrypt_summary">Xifra fitxers a la carpeta privada. El desxifratge de fitxers grans pot trigar més del previst.</string>
+  <string name="operation_encrypt_title">Xifra fitxers privats</string>
   <string name="operation_favorite">Destaca</string>
   <string name="operation_hide_sys">"No mostrar fitxers ocults"</string>
   <string name="operation_info">Detalls</string>
@@ -356,6 +360,9 @@
   <string name="private_folder">Carpeta oculta</string>
   <string name="private_folder_no_file_hints">Manteniu premuts els fitxers o les carpetes per afegir-los a la vostra carpeta privada</string>
   <string name="private_folder_update">S\'estan actualitzant els fitxers ocults&#8230;</string>
+  <string name="private_folder_update_msg">El gestor de fitxers introdueix una mesura de seguretat addicional: ara podeu xifrar fitxers privats.</string>
+  <string name="private_folder_update_msg_summary">El desxifrat farà que l’eliminació de fitxers de la carpeta privada sigui més lenta. Podeu activar i desactivar el xifratge a Configuració.</string>
+  <string name="private_folder_update_tips">Nova característica</string>
   <string name="private_toast_hint2">Per amagar un fitxer, prem i manté, després afegeix-ho a una carpeta oculta.</string>
   <string name="promot_enctypt_password">Introduïu la contrasenya utilitzada per desblocar el vostre dispositiu</string>
   <string name="pull_to_enter_private">Estireu cap avall per obrir la carpeta privada</string>
@@ -461,6 +468,7 @@
   <string name="unlock_pattern_title">Nova contrasenya</string>
   <string name="upload_user_photo">Pujar</string>
   <string name="usb_label">USB</string>
+  <string name="use">Utilitza</string>
   <string name="use_to_all">Aplica a tots</string>
   <string name="used">Usat </string>
   <string name="user_guide_continue_use">D\'acord</string>
