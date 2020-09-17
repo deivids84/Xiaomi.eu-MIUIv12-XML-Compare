@@ -55,6 +55,8 @@
   <string name="disconnecting_peripheral">S\'està desconnectant de %1$s</string>
   <string name="failed_to_enable_bt">No s\'ha pogut activar el Bluetooth</string>
   <string name="nfcUserLabel">Nfc</string>
+  <string name="nfc_blocking_alert_message">Toca per obtenir informació sobre com es corregeix.</string>
+  <string name="nfc_blocking_alert_title">És possible que l’NFC estigui bloquejat</string>
   <string name="pair_no">No</string>
   <string name="pair_yes">Sí</string>
   <string name="pairing_peripheral">S\'està vinculant %1$s</string>
