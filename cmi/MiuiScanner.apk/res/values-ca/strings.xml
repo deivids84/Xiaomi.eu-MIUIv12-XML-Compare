@@ -63,6 +63,7 @@
   <string name="calories_logo_text">Suport de IA proporcionat per Health Hope</string>
   <string name="calories_request_interface_text">Suport de IA</string>
   <string name="camera_error_title">Error de la càmera</string>
+  <string name="can_only_be_English_Chinese">L’idioma de traducció en línia només pot ser l’anglès i el xinès simplificat</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_pdf_save">S\'ha cancel·lat l\'enviament de PDF</string>
   <string name="carsHome_title">Cotxe</string>
@@ -115,6 +116,7 @@
   <string name="crop_title_study">Retalla la foto</string>
   <string name="crop_title_translation">Seleccioneu el text a traduir</string>
   <string name="cropping">Retallar…</string>
+  <string name="current_word_is_locked">La paraula actual està bloquejada</string>
   <string name="delete">Suprimeix</string>
   <string name="document_color_picture">Color</string>
   <string name="document_color_picture_tip">S\'està convertint a color&#8230;</string>
@@ -188,9 +190,12 @@
   <string name="function">Característiques</string>
   <string name="general_error">"No s'ha pogut reconèixer"</string>
   <string name="general_feedback">Informe de resultat equivocat</string>
-  <string name="general_location">La funció d’identificació del magatzem necessita obtenir informació d’ubicació per autoritzar</string>
+  <string name="general_location">Permetre que Scanner accedeixi a la vostra ubicació per obtenir serveis basats en la ubicació</string>
   <string name="general_location_dialog">Dianping proporciona algunes característiques del reconeixement d\'objectes. Si voleu reconèixer objectes a les botigues, Dianping ha d’utilitzar les fotografies que feu mentre feu servir aquesta funció juntament amb les seves dades d’ubicació per proporcionar-vos els resultats rellevants.</string>
   <string name="general_location_prompt">Accés a la ubicació</string>
+  <string name="general_no">"No s'ha pogut trobar resultats"</string>
+  <string name="general_no_found">Mireu aquests productes</string>
+  <string name="general_plant">Podeu estar buscant aquests:</string>
   <string name="general_recognized">"Resultat: "</string>
   <string name="general_title">Feu una foto d’un objecte a reconèixer</string>
   <string name="got_it">Entesos</string>
@@ -198,6 +203,7 @@
   <string name="grayscale">Escala de grisos</string>
   <string name="history">Historial</string>
   <string name="history_empty">Encara no hi ha elements</string>
+  <string name="hold_down">Mantén premut per agafar la paraula</string>
   <string name="if_open_result">Mostra el resultat de l\'escaneig quan tornes a l\'aplicació</string>
   <string name="if_to_open_milogo_scanning">Reconèixer el logotip de Xiaomi</string>
   <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
@@ -224,8 +230,16 @@
   <string name="language_entry_japanese">Japonès</string>
   <string name="language_entry_korean">Coreà</string>
   <string name="language_entry_spanish">Espanyol</string>
+  <string name="local_ocr_recognition">Reconeixement local d\'OCR</string>
+  <string name="local_ocr_recognition_str">S\'ha canviat a la traducció fora de línia</string>
   <string name="logistics">Entrega urgent</string>
   <string name="low_version_tip">L\'escàner no funciona en el sistema actual, si us plau actualitza a la última MIUI</string>
+  <string name="mihome_goto_install">_Instal·la</string>
+  <string name="mihome_goto_update">Actualitza ara</string>
+  <string name="mihome_install_message">Instal·leu i inicieu la sessió a l\'aplicació Mi Home primer.</string>
+  <string name="mihome_install_title">Instal·la Mi Home</string>
+  <string name="mihome_update_message">Actualitzeu Mi Home a la seva última versió i torneu-ho a provar.</string>
+  <string name="mihome_update_title">Actualitza Mi Home</string>
   <string name="mipayin_dialog_more">Més</string>
   <string name="mipayin_dialog_title">Obert amb</string>
   <string name="miracast_connect">Emet</string>
@@ -271,9 +285,14 @@
   <string name="not_set">Sense especificar</string>
   <string name="note">Notes:</string>
   <string name="now_state">"Estat actual: "</string>
+  <string name="offline_translation">Traducció fora de línia</string>
   <string name="once">Només una vegada</string>
+  <string name="online_ocr_recognition">Reconeixement OCR en línia</string>
+  <string name="online_ocr_recognition_str">Ja heu canviat a la traducció en línia</string>
+  <string name="online_translation">Traducció en línia</string>
   <string name="open_url">Obre l\'URL</string>
   <string name="original_image">Original</string>
+  <string name="page_does_not_exist">La pàgina no existeix, no pot saltar</string>
   <string name="password_toggle_content_description">Mostra la contrasenya</string>
   <string name="pay_no_tip">"No tornis a mostrar-ho"</string>
   <string name="pay_save_this_choose">Recorda la meva elecció</string>
@@ -308,6 +327,8 @@
   <string name="qureyGoods">Cerca de productes</string>
   <string name="recognize">Escanejar</string>
   <string name="recognize_fail">"No s'ha pogut llegir el codi"</string>
+  <string name="release_lock">Desbloqueja el bloqueig</string>
+  <string name="release_locked_word">Deixa anar la paraula bloquejada</string>
   <string name="request_server_failed">"No s'ha pogut connectar amb el servidor"</string>
   <string name="result_of_identifying_text_is_empty">"No s'ha pogut reconèixer el text"</string>
   <string name="save">Desa</string>
@@ -362,6 +383,7 @@
   <string name="suggested_submission_success">S\'han enviat els vostres comentaris correctament</string>
   <string name="switch_open">Activa</string>
   <string name="take_a_picture">Càmera</string>
+  <string name="take_the_word">Manteniu premut el botó següent per prendre la paraula</string>
   <string name="taobao">Taobao</string>
   <string name="tel">Telèfon</string>
   <string name="text_to_be_translated_cannot_be_empty">L’escàner necessita text per traduir</string>
@@ -416,12 +438,15 @@
   <string name="welcome_to_thesweepversion">Us donem la benvinguda a l\'Escàner Beta!</string>
   <string name="wifi_details">WLAN:</string>
   <string name="wifi_exist_fail">El punt d\'accés \"%1$s\" ja existeix. Suprimiu-lo i torneu a escanejar el codi per connectar-vos.</string>
+  <string name="wifi_low_version_prompt">sol·licitud de wifi</string>
   <string name="wifi_open_fail">"No es pot activar la WLAN"</string>
   <string name="wifi_psd_toolong">La contrasenya és massa llarga. Introduïu la contrasenya manualment.</string>
   <string name="wifi_pwd">Contrasenya:</string>
   <string name="wifi_security">Seguretat:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="will_be_sent_tothe_background_review">" (La sol·licitud s'enviarà aviat per a la seva revisió.)"</string>
+  <string name="word_to_be_recognized_is_aligned_with_cross">La paraula a reconèixer està alineada amb la creu</string>
+  <string name="word_translation">Traducció de paraules</string>
   <string name="wx_not_installed_toast">Aquesta característica ha d’utilitzar WeChat. Instal·leu primer WeChat.</string>
   <string name="xiaoai_dialog">"Proveu de dir 
 vull escanejar a Mi AI"</string>
