@@ -47,7 +47,7 @@
   <string name="account_has_been_set">Canvia</string>
   <string name="account_invalid_user_avatar">Aquesta foto no és vàlida. Proveu-ne una de diferent.</string>
   <string name="account_limit_update_birthday">"No es pot actualitzar l'aniversari en aquest moment"</string>
-  <string name="account_mibi_center">Crèdit Mi</string>
+  <string name="account_mibi_center">Crèdits Mi</string>
   <string name="account_mibi_charge">Recàrrega</string>
   <string name="account_no_set">Cap</string>
   <string name="account_none">Cap</string>
@@ -82,7 +82,7 @@
   <string name="activate_email_notice">Assegureu-vos d’activar el vostre compte en 24 hores</string>
   <string name="activity_not_found_notice">"No es pot trobar l'aplicació"</string>
   <string name="add_account">Connecta el compte</string>
-  <string name="agreement_and_privacy">Política de privadesa i Acord d’usuari</string>
+  <string name="agreement_and_privacy">Termes i condicions</string>
   <string name="app_name">Compte Mi</string>
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar-la més tard</string>
   <string name="authorize_title">Autorització</string>
@@ -222,6 +222,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="health_state_not_activated">No està activat</string>
   <string name="health_state_not_installed">No està instal·lat</string>
   <string name="health_state_not_support">No és compatible amb aquesta versió</string>
+  <string name="help_center">Consells:</string>
   <string name="i_agree">D\'acord</string>
   <string name="i_agree_continue">D\'acord</string>
   <string name="identity">Identificació</string>
@@ -352,7 +353,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="passport_error_verify_activator_phone_title">"No s'ha pogut verificar el número de telèfon"</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restablir la vostra contrasenya.</string>
-  <string name="passport_first_login_prompt">El compte Mi es crearà automàticament quan inicieu la sessió per primera vegada.</string>
+  <string name="passport_first_login_prompt">El meu compte es crearà automàticament quan utilitzeu un número de telèfon per primera vegada.</string>
   <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
@@ -583,7 +584,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>
   <string name="update_phone_notice">Canvia la configuració de seguretat</string>
   <string name="update_phone_number_notice_message">Abans d’actualitzar el número de telèfon, heu de verificar la vostra identitat.</string>
-  <string name="used_cloud_storage_info">Emmagatzematge utilitzat %s</string>
+  <string name="used_cloud_storage_info">S\'ha utilitzat %s</string>
   <string name="user_avatar_update_title">Canvia la foto de perfil</string>
   <string name="user_avatar_uploading">Un moment…</string>
   <string name="v7_preference_off">DESACTIVAT</string>
