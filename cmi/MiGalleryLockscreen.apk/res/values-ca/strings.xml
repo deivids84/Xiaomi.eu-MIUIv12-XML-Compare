@@ -579,6 +579,7 @@ mm"</string>
   <string name="search_menu_title">Cerca</string>
   <string name="search_str">Popular ara</string>
   <string name="see_all">Mostra-ho tot</string>
+  <string name="see_detail">Mostra</string>
   <string name="see_more">Mostra\'n més</string>
   <string name="see_more_content">Mostra\'n més</string>
   <string name="select_package">Seleccioneu una versió</string>
@@ -743,6 +744,7 @@ mm"</string>
   <string name="toast_update_no_more_newest_feeds">No hi ha elements nous de moment</string>
   <string name="top_search_tip">Cerqueu les categories que us agraden</string>
   <string name="torch">Llanterna</string>
+  <string name="understand_band_story">Aprèn més</string>
   <string name="uninstall_introducation_text_desc">El Carrusel de fons de pantalla proporciona imatges de qualitat directament a la pantalla de bloqueig. Assegureu-vos que podeu prescindir de les seves funcions abans de desinstal·lar l\'aplicació.</string>
   <string name="uninstall_introduction_text_title">Quant al Carrusel de fons de pantalla</string>
   <string name="uninstall_warning_text_desc">"Sense el Carrusel de fons de pantalla, no podreu rebre fons de la pantalla de bloqueig nous amb regularitat. Tanmateix, podreu descarregar i instal·lar de nou l'aplicació. Voleu suprimir el Carrusel de fons de pantalla?"</string>
