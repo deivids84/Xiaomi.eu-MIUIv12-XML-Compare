@@ -40,8 +40,8 @@
   <string name="pkcs12_file_password_dialog_title">Extreu de %s</string>
   <string name="pkcs12_password_dialog_title">Extreu el certificat</string>
   <string name="redirect_ca_certificate_close_button">Tanca</string>
-  <string name="redirect_ca_certificate_message">Els certificats CA poden posar en perill la vostra privadesa i s’han d’instal·lar a Configuració</string>
-  <string name="redirect_ca_certificate_title">"No es poden instal·lar certificats CA"</string>
+  <string name="redirect_ca_certificate_title">Instal·leu els certificats de CA a Configuració</string>
+  <string name="redirect_ca_certificate_with_app_info_message">Aquest certificat de %1$s s’ha d’instal·lar a Configuració. Instal·leu només certificats de CA d’organitzacions de confiança.</string>
   <string name="select_certificate_usage_title">Trieu un tipus de certificat</string>
   <string name="unable_to_save_cert">"No s'ha pogut desar el certificat. L'emmagatzematge de credencials no està activat o no s'ha iniciat correctament."</string>
   <string name="user_cert_is_added">S\'ha instal·lat el certificat d\'usuari</string>
