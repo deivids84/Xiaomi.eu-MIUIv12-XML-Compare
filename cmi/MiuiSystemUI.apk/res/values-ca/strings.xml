@@ -754,6 +754,9 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
   <string name="face_unlock_passwork">Utilitzeu la contrasenya</string>
   <string name="face_unlock_passwork_and_fingerprint">Utilitzeu la contrasenya o l\'empremta</string>
+  <string name="face_unlock_passwork_and_fingerprint_v11">Introduïu la contrasenya o utilitzeu l\'empremta digital per desbloquejar-la</string>
+  <string name="face_unlock_pattern_and_fingerprint_v11">Dibuixa un patró o fes servir empremta digital per desbloquejar-lo</string>
+  <string name="face_unlock_pin_and_fingerprint_v11">Introduïu el PIN o utilitzeu l\'empremta digital per desbloquejar-lo</string>
   <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
   <string name="face_unlock_reveal_mouth">Feu visible els llavis</string>
   <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració per a %1$s"</string>
@@ -885,8 +888,11 @@ Quan el telèfon s’hagi refredat, funcionarà amb normalitat."</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No es pot permutar els espais mentre l'estalvi de bateria Ultra estigui activat"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Heu d\'entrar al Primer espai després del reinici del dispositiu</string>
   <string name="input_password_hint_text">Introduïu la contrasenya</string>
+  <string name="input_password_hint_text_v11">Introduïu la contrasenya</string>
   <string name="input_pattern_hint_text">Dibuixeu el patró de desbloqueig</string>
+  <string name="input_pattern_hint_text_v11">Patró de dibuix</string>
   <string name="input_pin_code">Introduïu el PIN</string>
+  <string name="input_pin_hint_text_v11">Introduïu el PIN</string>
   <string name="input_puk_code">Introduïu el PUK</string>
   <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
   <string name="installer_cd_button_title">Instal·leu l\'aplicació Transferència de fitxers d\'Android per a Mac</string>
@@ -1107,11 +1113,6 @@ d MMMM"</string>
   <string name="lockscreen_access_pattern_start">S\'ha començat el patró</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
   <string name="lockscreen_charging_msg">S\'està carregant</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Heu intentat desbloquejar el telèfon %1$d vegades. Després d\' %2$d intents incorrectes, el telèfon es restablirà als valors de fàbrica i es perdran totes les dades d\'usuari.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Heu introduït incorrectament la vostra contrasenya %1$d vegades. Després d' %2$d intents incorrectes, se li demanarà que desbloquejar el telèfon amb el seu accés al compte de La meva
-
- Torna a intentar-ho en %3$d segons."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon incorrectament %d vegades. El telèfon es restablirà als valors per defecte de fàbrica.</string>
   <string name="lockscreen_none">Cap</string>
   <string name="lockscreen_shortcut_left">Drecera esquerra</string>
   <string name="lockscreen_shortcut_right">Drecera dreta</string>
@@ -1158,7 +1159,7 @@ una captura de pantalla en desplaçament"</string>
   <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
   <string name="miui_ringer_total">No molesteu</string>
   <string name="miui_ringer_total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
-  <string name="miui_screen_rotation_freeze_message">Gir automàtic desactivat.</string>
+  <string name="miui_screen_rotation_freeze_message">Orientació de pantalla bloquejada en mode horitzontal</string>
   <string name="miui_toast_zen_dnd_to_off">Els sons i la vibració han tornat a la normalitat</string>
   <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
@@ -1683,7 +1684,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
   <string name="screenshot_failed_in_landscape_mode">"No es poden fer captures de pantalla en desplaçament en mode horitzontal"</string>
   <string name="screenshot_failed_title">"No s'ha pogut obtenir la captura de pantalla."</string>
   <string name="screenshot_failed_to_capture_text">"L'aplicació o la vostra empresa no permet capturar la pantalla"</string>
-  <string name="screenshot_failed_to_capture_title">"Aquesta aplicació no permet fer captures de pantalla"</string>
+  <string name="screenshot_failed_to_capture_title">"Aquí no es poden fer captures de pantalla"</string>
   <string name="screenshot_failed_to_save_text">"No es pot desar la captura de pantalla perquè no hi ha prou espai d'emmagatzematge."</string>
   <string name="screenshot_failed_to_save_title">No hi ha prou espai d\'emmagatzematge per a noves captures de pantalla</string>
   <string name="screenshot_failed_to_save_unknown_text">S\'ha produït un error mentre es desava la captura de pantalla.</string>
@@ -1740,6 +1741,8 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
   <string name="show_silently">Mostra les notificacions en silenci</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
+  <string name="sim_state_locked_dialog_title">La targeta SIM no és vàlida</string>
+  <string name="sim_state_locked_puk_dialog_message">"Heu introduït un codi PUK incorrecte almenys %d vegades. La vostra targeta SIM no és vàlida ara. Substituïu aquesta targeta SIM per una altra."</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
   <string name="small_window_guide_title">Finestres flotants</string>
   <string name="small_window_notification_text">Toqueu per obtenir més informació sobre aquesta funció de MIUI %d</string>
