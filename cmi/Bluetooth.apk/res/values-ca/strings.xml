@@ -131,7 +131,7 @@
     <string name="status_success">La transferència de fitxers s\'ha completat correctament.</string>
     <string name="status_unknown_error">Error desconegut.</string>
     <string name="switch_audio_device_bt_a2dp">Bluetooth (Àudio multimèdia)</string>
-    <string name="switch_audio_device_bt_a2dp_summary">Reprodueix àudio multimèdia en un dispositiu connectat</string>
+    <string name="switch_audio_device_bt_a2dp_summary">Reprodueix l\'àudio multimèdia en un dispositiu connectat</string>
     <string name="switch_audio_device_bt_hfp">Bluetooth (Trucades)</string>
     <string name="switch_audio_device_bt_hfp_summary">Reprodueix l\'àudio de les trucades en un dispositiu connectat. Aquesta funció s\'ha de desactivar manualment.</string>
     <string name="switch_audio_device_default">Per defecte</string>
