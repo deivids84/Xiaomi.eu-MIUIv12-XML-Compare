@@ -1962,7 +1962,7 @@ d MMM"</string>
     <string name="usb_share_net_info">"Utilitza la connexió a internet de l'ordinador"</string>
     <string name="usb_storage_error_message">S\'ha produït un error en intentar veure el dispositiu com USB d\'emmagatzematge.</string>
     <string name="usb_storage_message">"Ha connectat a l'ordinador via USB. Premeu el botó de més avall si voleu transferir fitxers entre l'ordinador i el dispositiu USB Android."</string>
-    <string name="usb_storage_notification_message">Seleccionar per copiar fitxers al/des del seu ordinador.</string>
+    <string name="usb_storage_notification_message">Seleccioneu fitxers per copiar al/des del vostre ordinador.</string>
     <string name="usb_storage_notification_title">USB connectat</string>
     <string name="usb_storage_stop_message">"Abans d'extreure la seva clau de memòria USB, assegureu-vos que ha desmuntat (\"expulsat\") el dispositiu USB Android del seu ordinador."</string>
     <string name="usb_storage_stop_notification_message">Seleccioneu per desactivar emmagatzematge USB.</string>
