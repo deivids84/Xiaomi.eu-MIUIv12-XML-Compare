@@ -1944,9 +1944,9 @@ d MMM"</string>
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">"L'usuari que ha iniciat la sessió en aquest dispositiu no pot activar la depuració per USB. Per utilitzar aquesta funció, canvieu a un usuari administrador."</string>
     <string name="usb_debugging_secondary_user_title">No es permet la depuració per USB</string>
-    <string name="usb_debugging_title">Permetre depuració USB?</string>
-    <string name="usb_device_confirm_prompt">Obrir %1$s al connectar aquest dispositiu USB?</string>
-    <string name="usb_device_permission_prompt">Permet a l\'aplicació %1$s accés al dispositiu USB?</string>
+    <string name="usb_debugging_title">Voleu permetre la depuració per USB?</string>
+    <string name="usb_device_confirm_prompt">Voleu obrir %1$s en connectar aquest dispositiu USB?</string>
+    <string name="usb_device_permission_prompt">Permeteu a l\'aplicació %1$s accedir al dispositiu USB?</string>
     <string name="usb_mode_dont_ask">No tornar a preguntar</string>
     <string name="usb_mode_mount_storage_title">Obrir emmagatzematge USB?</string>
     <string name="usb_mode_notification">Emmagatzematge USB</string>
