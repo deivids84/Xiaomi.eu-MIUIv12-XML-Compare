@@ -678,7 +678,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="divider_menu_select_apps">Tria</string>
     <string name="divider_menu_swap_task">Alterna</string>
     <string name="dlg_confirm_kill_storage_users_text">Si activa l\'emmagatzematge USB, algunes aplicacions que està usant s\'aturaran i poden no estar disponibles fins que desactivi l\'emmagatzematge USB.</string>
-    <string name="dlg_confirm_kill_storage_users_title">Activa emmagatzematge USB</string>
+    <string name="dlg_confirm_kill_storage_users_title">Activa l\'emmagatzematge USB</string>
     <string name="dlg_error_title">L\'operació USB ha fallat</string>
     <string name="dlg_ok">D\'acord</string>
     <string name="dnd_is_off">No molesteu està desactivat</string>
@@ -727,7 +727,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="expanded_header_battery_not_charging">No s\'està carregant</string>
     <string name="expanded_notification_manager">Gestiona les notificacions</string>
     <string name="experimental">Experimental</string>
-    <string name="ext_media_badremoval_notification_message">Desmunta la targeta SD abans de treure-la per evitar la pèrdua de dades.</string>
+    <string name="ext_media_badremoval_notification_message">Desmunteu l\'emmagatzematge USB abans d\'extreure\'l per evitar la pèrdua de dades.</string>
     <string name="ext_media_badremoval_notification_title">Targeta SD extreta inesperadament</string>
     <string name="ext_media_checking_notification_message">Comprovar errors.</string>
     <string name="ext_media_checking_notification_title">Preparant targeta SD</string>
@@ -740,8 +740,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="ext_media_safe_remove">Extreure de forma segura</string>
     <string name="ext_media_safe_unmount_notification_message">Ara pot extreure la targeta SD de forma segura.</string>
     <string name="ext_media_safe_unmount_notification_title">És segur extreure la targeta SD</string>
-    <string name="ext_media_unmountable_notification_message">Targeta SD malmesa. Podria ser necessari reformatearla.</string>
-    <string name="ext_media_unmountable_notification_title">Targeta SD malmesa</string>
+    <string name="ext_media_unmountable_notification_message">L\'emmagatzematge USB està malmès. Pot ser que l\'hàgiu de formatar.</string>
+    <string name="ext_media_unmountable_notification_title">Emmagatzematge USB malmès</string>
     <string name="external_source_trusted">Permès</string>
     <string name="external_source_untrusted">No permès</string>
     <string name="face_dialog_looking_for_face">Us estem buscant…</string>
@@ -1948,7 +1948,7 @@ d MMM"</string>
     <string name="usb_device_confirm_prompt">Voleu obrir %1$s en connectar aquest dispositiu USB?</string>
     <string name="usb_device_permission_prompt">Permeteu a l\'aplicació %1$s accedir al dispositiu USB?</string>
     <string name="usb_mode_dont_ask">No tornar a preguntar</string>
-    <string name="usb_mode_mount_storage_title">Obrir emmagatzematge USB?</string>
+    <string name="usb_mode_mount_storage_title">Voleu obrir l\'emmagatzematge USB?</string>
     <string name="usb_mode_notification">Emmagatzematge USB</string>
     <string name="usb_mtp_text">Fitxers</string>
     <string name="usb_notification">USB connectat</string>
@@ -1966,7 +1966,7 @@ d MMM"</string>
     <string name="usb_storage_notification_title">USB connectat</string>
     <string name="usb_storage_stop_message">"Abans d'extreure la seva clau de memòria USB, assegureu-vos que ha desmuntat (\"expulsat\") el dispositiu USB Android del seu ordinador."</string>
     <string name="usb_storage_stop_notification_message">Seleccioneu per desactivar emmagatzematge USB.</string>
-    <string name="usb_storage_stop_notification_title">Desactiva emmagatzematge USB</string>
+    <string name="usb_storage_stop_notification_title">Desactiva l\'emmagatzematge USB</string>
     <string name="usb_storage_stop_title">Unitat USB en ús</string>
     <string name="usb_storage_title">USB connectat</string>
     <string name="use_mtp_button_title">Munta com a reproductor multimèdia (MTP)</string>
