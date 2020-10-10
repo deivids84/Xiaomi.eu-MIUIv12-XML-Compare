@@ -4275,7 +4275,7 @@ Si canvieu a %1$s, no cancel·lareu el servei de %2$s."</string>
     <string name="msd_driver_download">Baixa el controlador</string>
     <string name="msd_driver_download_mac">Baixeu el controlador i instal·leu Android File Transfer.</string>
     <string name="msd_driver_download_mac_url">Baixeu els controladors des d\'http://www.android.com/filetransfer/</string>
-    <string name="msd_driver_download_xp">Descarregueu Mi Phone Manager per utilitzar el telèfon com a dispositiu d\'emmagatzematge USB.</string>
+    <string name="msd_driver_download_xp">Baixeu Mi Phone Manager per utilitzar el vostre telèfon com si fos un dispositiu d\'emmagatzematge USB.</string>
     <string name="msd_driver_download_xp_url">Obteniu el conductor a http://zhushou.xiaomi.com/</string>
     <string name="msd_help_summary">"No podeu accedir al dispositiu?
 Seleccioneu el sistema operatiu:"</string>
@@ -7303,7 +7303,7 @@ o auriculars amb endolls de 3,5 mm."</string>
     <string name="usb_tethering_errored_subtext">No s\'ha pogut compartir la connexió per USB</string>
     <string name="usb_tethering_storage_active_subtext">"No es pot relacionar quan s'utilitza l'emmagatzematge USB"</string>
     <string name="usb_tethering_subtext">Comparteix la connexió a Internet del telèfon mitjançant l\'USB</string>
-    <string name="usb_tethering_unavailable_subtext">"USB no està connectat"</string>
+    <string name="usb_tethering_unavailable_subtext">"L'USB no està connectat"</string>
     <string name="usb_title">USB</string>
     <string name="usb_use">Funcions de l\'USB</string>
     <string name="usb_use_MIDI">MIDI</string>
