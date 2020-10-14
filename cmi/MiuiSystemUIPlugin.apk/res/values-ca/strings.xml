@@ -197,6 +197,7 @@
     <string name="no_avaliable_application">No hi ha aplicacions disponibles</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense definir</string>
+    <string name="notification_control_center">Notificacions &amp; Centre de control</string>
     <string name="online">En línia</string>
     <string name="pm">pm</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
