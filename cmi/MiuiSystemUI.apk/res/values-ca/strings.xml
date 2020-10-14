@@ -1298,6 +1298,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="notification_channel_storage">Emmagatzematge</string>
     <string name="notification_channel_switch_accessibility">Permet les notificacions des d’aquest canal</string>
     <string name="notification_channel_usb">USB</string>
+    <string name="notification_control_center">Notificacions &amp; Centre de control</string>
     <string name="notification_default_channel_desc">"Aquesta aplicació no té categories de notificació"</string>
     <string name="notification_done">Fet</string>
     <string name="notification_group_collapse_button_text">Plega</string>
@@ -1385,7 +1386,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="plugins">Connectors</string>
     <string name="pointer_location">Ubicació del punter</string>
     <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-    <string name="power_charging_duration">%1$s - %2$s fins cobrar</string>
+    <string name="power_charging_duration">%1$s - %2$s fins a la càrrega completa</string>
     <string name="power_discharge_by">Hauria de durar fins a aproximadament %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Hauria de durar fins a aproximadament %1$s basant-se en el vostre ús (%2$s)</string>
     <string name="power_discharge_by_only">Hauria de durar fins a aproximadament %1$s</string>
@@ -1422,7 +1423,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
 
 \"<b>Nivell 0</b>\" 
 - Bloqueja totes les notificacions de l'aplicació "</string>
-    <string name="power_remaining_charging_duration_only">%1$s esquerra fins el càrrec</string>
+    <string name="power_remaining_charging_duration_only">Queden %1$s fins a la càrrega completa</string>
     <string name="power_remaining_duration_only">Falten uns %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Queda aproximadament %1$s basant-se en el vostre ús</string>
     <string name="power_remaining_duration_only_short">Falten %1$s</string>
@@ -1569,7 +1570,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_rssi_emergency_only">Només trucades d\'emergència</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screenbutton_label">Botons</string>
-    <string name="quick_settings_screenlock_label">Bloca la pantalla</string>
+    <string name="quick_settings_screenlock_label">Blocat</string>
     <string name="quick_settings_screenshot_label">Captura de pantalla</string>
     <string name="quick_settings_secondary_label_until">Fins %s</string>
     <string name="quick_settings_settings_label">Configuració</string>
