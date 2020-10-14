@@ -166,7 +166,7 @@
     <string name="miui_feedback_edit_submit_directly">Envia</string>
     <string name="miui_feedback_edit_title_occurrence_time">Seleccioneu l\'hora</string>
     <string name="miui_feedback_edit_title_reproductivity">Seleccioneu la reproductivitat</string>
-    <string name="miui_feedback_edit_toast_description_required">Cal escriure una descripció</string>
+    <string name="miui_feedback_edit_toast_description_required">Descriviu primer el tema</string>
     <string name="miui_feedback_edit_toast_module_required">Seleccioneu un element</string>
     <string name="miui_feedback_edit_toast_more_desc_required">La descripció ha de ser més llarga</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Seleccioneu la categoria</string>
