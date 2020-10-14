@@ -532,7 +532,7 @@ Taxa de mostreig"</string>
     <string name="call_description_recording">S\'està enregistrant&#8230;</string>
     <string name="call_forward_option">Opcions de desviament de trucades</string>
     <string name="call_forwarding_number_hint">Desvia les trucades a</string>
-    <string name="call_forwarding_settings">Configuració del desviament de trucades</string>
+    <string name="call_forwarding_settings">Desviament de trucada</string>
     <string name="call_forwarding_settings_with_label">Configuració del desviament de trucades (%s)</string>
     <string name="call_record_add_numbers">Afegeix números</string>
     <string name="call_record_auto_always">Tots els números</string>
