@@ -20,6 +20,14 @@
         <item quantity="other">Podeu crear fins a %d clons alhora.</item>
         <item quantity="one">Podeu crear fins a %d clon alhora.</item>
     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
