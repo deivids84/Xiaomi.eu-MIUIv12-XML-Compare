@@ -1275,7 +1275,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_custom_tint_title">Colors</string>
     <string name="pref_customization_title">Personalitza</string>
     <string name="pref_document_mode">Documents</string>
-    <string name="pref_dual_camera_video">Davant i darrere</string>
+    <string name="pref_dual_camera_video">Vídeo dual</string>
     <string name="pref_face_beauty_title">Embellidor</string>
     <string name="pref_fingerprint_capture_title">Obturador d\'empremtes dactilars</string>
     <string name="pref_front_denoise_summary">Reduir els sorolls generats darrere de la càmera frontal</string>
@@ -1480,7 +1480,7 @@ El mode Ultra gran angular us ajuda quan no podeu desplaçar-vos més lluny de l
     <string name="unknow_error">Error desconegut</string>
     <string name="unsupported_microphones_3d_record_tips">"El so 3D no és compatible amb micròfons externs"</string>
     <string name="unsupported_microphones_audio_zoom_tips">"El zoom d'àudio no és compatible amb micròfons externs"</string>
-    <string name="update_loading">Descarregat %1$s</string>
+    <string name="update_loading">Baixat %1$d%%</string>
     <string name="update_start">Actualitza el %1$s</string>
     <string name="user_agree">D\'acord</string>
     <string name="user_define_watermark_cancel">Cancel·la</string>
