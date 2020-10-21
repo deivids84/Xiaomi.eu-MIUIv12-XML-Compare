@@ -5337,8 +5337,6 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="quick_reply_title">Respostes ràpides</string>
     <string name="quick_settings_developer_tiles">Rajoles de desenvolupador de configuració ràpida</string>
     <string name="quick_settings_label">Commutadors</string>
-    <string name="quick_settings_under_keyguard_summary">Permet l\'accés a la configuració ràpida mentre el dispositiu està bloquejat</string>
-    <string name="quick_settings_under_keyguard_title">Accés a la configuració ràpida</string>
     <string name="quiet">Mode No molesteu</string>
     <string name="quiet_group">Mode No molesteu</string>
     <string name="quiet_important_interruptions_mode">Només permetre excepcions</string>
