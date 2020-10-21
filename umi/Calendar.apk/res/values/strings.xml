@@ -441,10 +441,10 @@
     <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">MM/dd</string>
+    <string name="fmt_date_numeric_month_day">M/d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">MM/dd/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">MM/dd</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -462,7 +462,7 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -1084,6 +1084,8 @@ Check network settings and try again."</string>
     <string name="setting_show_reject_agenda">Show declined events</string>
     <string name="setting_sms_import">导入短信事件</string>
     <string name="setting_title_about">About</string>
+    <string name="setting_title_ai_time_parser">智能提取日程时间</string>
+    <string name="setting_title_ai_time_parser_summary">智能提取并设定创建日程标题中的时间</string>
     <string name="setting_title_debug">导出日志</string>
     <string name="setting_title_holiday_display">Show holidays</string>
     <string name="setting_title_import_todo">Import tasks</string>
