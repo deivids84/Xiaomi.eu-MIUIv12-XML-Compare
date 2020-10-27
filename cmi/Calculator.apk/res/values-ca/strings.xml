@@ -216,7 +216,7 @@
     <string name="label_from_date">Des de</string>
     <string name="label_history">Historial</string>
     <string name="label_interest">Interès (percentatge)</string>
-    <string name="label_investment_duration">Durada per defecte</string>
+    <string name="label_investment_duration">Durada</string>
     <string name="label_loan_tenure">Tinença del préstec</string>
     <string name="label_months">Mesos</string>
     <string name="label_no_history">Encara no hi ha elements</string>
