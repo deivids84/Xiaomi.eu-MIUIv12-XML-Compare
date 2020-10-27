@@ -390,6 +390,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="additional_permissions_more">%1$d més</string>
     <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>
     <string name="adjust_3d_depth_title">"Ajusta la profunditat dels jocs 3D"</string>
+    <string name="adjust_temperature_title">Temperatura del color</string>
     <string name="admin_device_owner_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades amb aquest dispositiu, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
     <string name="admin_disabled_other_options">L\'administrador ha desactivat altres opcions.</string>
     <string name="admin_more_details">Més detalls</string>
@@ -399,6 +400,8 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="advanced_apps">Avançat</string>
     <string name="advanced_battery_graph_subtext">L\'estimació de la bateria es basa en l\'ús del dispositiu</string>
     <string name="advanced_battery_title">Ús avançat de la bateria</string>
+    <string name="advanced_gesture">Gestos personalitzats</string>
+    <string name="advanced_screen_paper_mode_title">Mode lectura</string>
     <string name="advanced_section_header">Avançat</string>
     <string name="advanced_security_title">Avançat</string>
     <string name="advanced_settings">Configuració addicional</string>
@@ -661,6 +664,8 @@ Canvieu la configuració ara?"</string>
     <string name="audio_files_title">Fitxers d\'àudio</string>
     <string name="audio_profile_settings_title">Perfils d\'àudio</string>
     <string name="audio_record_proc_title">Redueix la fressa de fons</string>
+    <string name="auto_adjst_effect_summary">Ajusteu la temperatura del color a la llum ambiental automàticament per mantenir un nivell de confort òptim</string>
+    <string name="auto_adjust_effect_title">Ajusteu la temperatura del color automàticament</string>
     <string name="auto_brightness_default_title">Per defecte</string>
     <string name="auto_brightness_description">La brillantor de la pantalla s’ajustarà automàticament al vostre entorn i activitats. Podeu moure el control lliscant manualment per ajudar a la brillantor adaptativa a aprendre les vostres preferències.</string>
     <string name="auto_brightness_disclaimer">Optimitza el nivell de brillantor per a la llum disponible. Quan aquesta funció estigui activada, encara podreu ajustar la brillantor temporalment.</string>
@@ -1575,6 +1580,7 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="certificate_warning_dont_install">No instal·leu</string>
     <string name="certificate_warning_install_anyway">Instal·leu de totes maneres</string>
     <string name="change">Canvia</string>
+    <string name="change_brightness">Ajusteu la brillantor</string>
     <string name="change_lock_screen_password_title">Canvia el bloqueig de la pantalla</string>
     <string name="change_password">Canvia el bloqueig de pantalla</string>
     <string name="change_security_lock">Prova altres formes de desbloqueig</string>
@@ -1610,6 +1616,8 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="choose_unlock_face_msg">Establiu un bloqueig de pantalla abans de gravar les dades de la cara.</string>
     <string name="choose_unlock_fingerprint_msg">Establiu el bloqueig de pantalla abans d’afegir la vostra empremta digital.</string>
     <string name="choose_voice_input_title">Trieu l\'entrada de veu</string>
+    <string name="classic_mode_summary">Canvieu a colors més càlids per reduir la quantitat de llum blava</string>
+    <string name="classic_mode_title">Clàssic</string>
     <string name="cleaner">Netejador</string>
     <string name="clear_activities">Esborra els valors per defecte</string>
     <string name="clear_activities_summary">Utilitza aquesta aplicació per a algunes operacions per defecte</string>
@@ -2457,6 +2465,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="done">Fet</string>
     <string name="done_button">Fet</string>
     <string name="double_click_power_key">Premeu dues vegades el botó d\'encesa</string>
+    <string name="double_click_volume_down_when_lock">Feu doble clic a baixar el volum quan la pantalla estigui bloquejada</string>
     <string name="double_tap_power_for_camera_suggestion_title">Obre la càmera ràpidament</string>
     <string name="double_tap_power_for_camera_summary">Per obrir la càmera ràpidament, premeu el botó d\'encesa dues vegades. Funciona des de qualsevol pantalla.</string>
     <string name="double_tap_power_for_camera_title">Obriu la càmera ràpidament</string>
@@ -2520,6 +2529,7 @@ Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="edge_to_edge_navigation_title">Navegació per gestos</string>
     <string name="edit_rule">Edita les regles</string>
     <string name="edit_rules">Edita</string>
+    <string name="effect_preview">Vista prèvia</string>
     <string name="eighthours">8 hores</string>
     <string name="emergency_address_summary">S\'utilitza com a ubicació quan feu una trucada d\'emergència mitjançant Wi-Fi</string>
     <string name="emergency_address_title">Actualització de l\'adreça d\'emergència</string>
@@ -3029,6 +3039,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="gentle_notifications_display_summary_shade_status_lock">Mostra-ho a l\'àrea desplegable, a la barra d’estat i a la pantalla de bloqueig</string>
     <string name="gentle_notifications_education">Les notificacions discretes són sempre silencioses i sempre apareixen a l\'àrea desplegable</string>
     <string name="gentle_notifications_title">Notificacions discretes</string>
+    <string name="gesture_function_dialog_message">%1$s s\'utilitza per a \"%2$s\". Voleu substituir-lo per \"%3$s\"?</string>
     <string name="gesture_not_supported_dialog_message">No és compatible amb l\'aplicació d\'inici per defecte, %s</string>
     <string name="gesture_not_supported_positive_button">Canvia l\'aplicació d\'inici per defecte</string>
     <string name="gesture_preference_summary">Gestos ràpids per controlar el telèfon</string>
@@ -3039,6 +3050,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="gesture_setting_off">Desactivats</string>
     <string name="gesture_setting_on">Activats</string>
     <string name="gesture_settings_activity_title">Configuració gestual</string>
+    <string name="gesture_settings_title">Dreceres de gestos</string>
     <string name="gesture_wakeup_summary">Podeu tocar dues vegades per apagar la pantalla quan s’aplica el tema per defecte o clàssic</string>
     <string name="gesture_wakeup_title">Doble toc a la pantalla per a activar-la</string>
     <string name="getConfiguredNetworks">xarxes configurades</string>
@@ -3159,6 +3171,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="high_power_prompt_body">"\"Voleu que l'aplicació %1$s es mantingui connectada en segon pla? Pot fer servir bateria."</string>
     <string name="high_power_prompt_title">Voleu que s\'ignorin les optimitzacions de la bateria?</string>
     <string name="high_power_system">L\'optimització de la bateria no és disponible</string>
+    <string name="hint_unadjustable_text">"No es pot ajustar manualment. La temperatura del color s’ajusta automàticament ara."</string>
     <string name="history_details_title">Detalls de l\'historial</string>
     <string name="history_toggled_on_summary">Les vostres notificacions recents i esgotades apareixeran aquí</string>
     <string name="history_toggled_on_title">No hi ha notificacions recents</string>
@@ -3362,6 +3375,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="key_combination_power_back">Encesa + enrere</string>
     <string name="key_combination_power_home">Encesa + inici</string>
     <string name="key_combination_power_menu">Encesa + menú</string>
+    <string name="key_combination_power_volume_down">Baixada de volum + alimentació</string>
     <string name="key_fsg_dialog_message">"Esteu utilitzant els gestos de pantalla completa per a la navegació. Les funcions relacionades amb els botons no estan disponibles ara. Voleu canviar als botons?"</string>
     <string name="key_fsg_dialog_negative">Cancel·la</string>
     <string name="key_fsg_dialog_positive">Canvia als botons</string>
@@ -3898,6 +3912,7 @@ com el PIN del primer espai. "</string>
     <string name="long_press_menu_key_when_lock">Pulsació llarga al botó menú a la pantalla de bloqueig</string>
     <string name="long_press_power_key">Mantingueu premut el botó d\'encesa</string>
     <string name="long_press_power_key_half_of_second">Mantingueu premut el botó d\'engegada durant 0,5 s per activar l\'assistent de Google</string>
+    <string name="long_press_power_key_half_second">Mantén premut el botó d\'engegada durant %ss</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Premeu llargament el botó d\'engegada &lt;font color=#999999&gt;més ràpid i més convenient&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Mantén premut per abaixar el volum</string>
     <string name="lost_internet_access_cancel">Continua a la Wi-Fi</string>
@@ -4088,6 +4103,7 @@ No podeu revertir aquesta acció."</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Mi Pay Account</string>
     <string name="mi_pay_summary">Targeta de transport / Mi Pay / Key card</string>
+    <string name="mi_pay_summary_without_nfc">Mi Pay</string>
     <string name="mi_service">Mi Service</string>
     <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
     <string name="mi_shopping_mall">El meu centre comercial</string>
@@ -4876,6 +4892,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="page_layout_page2_title">Previsualització</string>
     <string name="page_tab_title_summary">Tots</string>
     <string name="page_tab_title_support">Suport</string>
+    <string name="paper_color_title">Colors</string>
     <string name="paper_mode_auto_twilight_summary">Canvi automàtic de mode de lectura després de l\'ocàs</string>
     <string name="paper_mode_auto_twilight_title">"Mode penombra"</string>
     <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
@@ -4885,8 +4902,12 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel·la</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Configuració</string>
     <string name="paper_mode_get_location_dlg_title">Estableix la ubicació</string>
+    <string name="paper_mode_reset">Restaura els valors predeterminats</string>
     <string name="paper_mode_side_effect_hint">Una intensitat més elevada pot afectar la manera de mostrar el contingut</string>
     <string name="paper_mode_start_time_title">Activa</string>
+    <string name="paper_mode_summary">Canvieu a colors més càlids i afegiu textura de paper als fons per reduir la fatiga ocular</string>
+    <string name="paper_mode_title">Mida del paper</string>
+    <string name="papger_effect_category">Mode</string>
     <string name="partial_connectivity_text">És possible que algunes aplicacions i serveis no funcionin a causa de la connectivitat limitada. Voleu fer-ho servir de totes maneres?</string>
     <string name="passpoint_content">%1$s certificats</string>
     <string name="passpoint_label">S\'ha desat mitjançant</string>
@@ -5565,7 +5586,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen">Pantalla</string>
     <string name="screen_cancel">Cancel·la</string>
     <string name="screen_color_and_optimize">Colors i contrast</string>
-    <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
+    <string name="screen_color_and_optimize_disabled">"No es poden ajustar l'esquema de colors i la temperatura del color en mode de lectura"</string>
     <string name="screen_color_temperature">Temperatura del color</string>
     <string name="screen_color_temperature_and_saturation">Colors i saturació</string>
     <string name="screen_compatibility_label">Compatibilitat de pantalla</string>
@@ -5609,10 +5630,11 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_on_proximity_sensor_summary">Bloqueja el telèfon automàticament en ficar-lo a la butxaca</string>
     <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
     <string name="screen_optimize">Colors</string>
-    <string name="screen_optimize_disabled">"No es pot ajustar el contrast quan el mode de lectura estigui activat"</string>
+    <string name="screen_optimize_disabled">"No es pot ajustar l'esquema de colors al mode de lectura"</string>
     <string name="screen_paper_mode_adjust_level">Intensitat</string>
     <string name="screen_paper_mode_apps_loading">Un moment…</string>
     <string name="screen_paper_mode_apps_title">Utilitza mode lectura</string>
+    <string name="screen_paper_mode_description">El mode de lectura ajusta els colors i les textures dels elements de la pantalla perquè els vostres ulls es relaxin</string>
     <string name="screen_paper_mode_global_summary">Utilitza mode lectura per a totes les aplicacions</string>
     <string name="screen_paper_mode_global_title">Totes les aplicacions</string>
     <string name="screen_paper_mode_hdr_toast">"El mode de lectura es desactivarà mentre reproduïu vídeos HDR. Es tornarà a activar automàticament després de finalitzar la reproducció."</string>
@@ -5634,6 +5656,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termes i condicions</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualitza la llista d\'aplicacions que utilitzen el mode lectura automàticament</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualitza automàticament</string>
+    <string name="screen_paper_texture">Textura</string>
     <string name="screen_pinning_description">"El fixació de l’aplicació us permet mantenir l’aplicació actual fins a desactivar-la. Aquesta funció es pot utilitzar, per exemple, per permetre a un amic de confiança jugar un joc específic. 
 
 Quan s'aplica una aplicació, l'aplicació fixada pot obrir altres aplicacions i es podran accedir a dades personals. 
@@ -6150,6 +6173,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="set_data_warning">Estableix l\'avís de dades</string>
     <string name="set_jeejen_prompt_message">El mode Lite s\'establirà com a llançador predeterminat. Podeu canviar el llançador per defecte a Configuració &gt; Configuració del sistema &gt; Pantalla d\'inici &amp; Recents &gt; Iniciador predeterminat.</string>
     <string name="set_jeejen_prompt_title">Confirmeu els canvis</string>
+    <string name="set_screen_paper_mode">Mode lectura</string>
     <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
     <string name="settings_ad_loading">S\'està carregant…</string>
     <string name="settings_ad_loading_unavailable">"No s'ha pogut carregar la informació."</string>
@@ -6929,6 +6953,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="tethering_interface_options">Lligadura</string>
     <string name="tethering_settings_not_available">Canvia la configuració de la connexió compartida en el primer espai</string>
+    <string name="texture_adjust_temperature_title">Temperatura del color</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Desperta l\'assistent de veu en mode de pantalla completa (sense botons virtuals)</string>
     <string name="theme_customization_device_default">Per defecte del dispositiu</string>
     <string name="theme_settings_title">Temes</string>
