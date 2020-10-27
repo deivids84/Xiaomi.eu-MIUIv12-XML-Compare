@@ -760,6 +760,11 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>4K (ampliat, segur)</item>
         <item>720p, 1080p (pantalla dual)</item>
     </string-array>
+    <string-array name="paper_color_values">
+        <item>Colors complets</item>
+        <item>Colors clars</item>
+        <item>Blanc i negre</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Permet</item>
         <item>Pregunta</item>
