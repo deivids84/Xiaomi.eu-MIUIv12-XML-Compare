@@ -714,8 +714,11 @@ en el mode Retrat"</string>
     <string name="lighting_phantom">fantasma</string>
     <string name="lighting_rainbow">Arc de Sant Martí</string>
     <string name="link_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=%s</string>
+    <string name="live_draft_continue">Currículum</string>
+    <string name="live_draft_empty">Sense elements</string>
     <string name="live_edit_exit_confirm">Atura</string>
     <string name="live_edit_exit_message">Voleu aturar la filmació?</string>
+    <string name="live_edit_exit_message_draft">Desa com a esborrany</string>
     <string name="live_edit_share_title">Comparteix</string>
     <string name="live_error_confirm">Ajusta l\'hora</string>
     <string name="live_error_message">Algunes funcions poden no funcionar correctament quan l\'hora del sistema és incorrecte.</string>
@@ -743,6 +746,8 @@ en el mode Retrat"</string>
     <string name="live_sticker_network_error_hint">Error de xarxa</string>
     <string name="live_sticker_tab_name">Adhesiu màgic TikTok</string>
     <string name="live_sticker_updating">S\'està actualitzant…</string>
+    <string name="live_workspace_title">Esborranys</string>
+    <string name="live_workspace_title_edit">Selecciona els ítems a suprimir</string>
     <string name="location_access_allow">Permet</string>
     <string name="location_permission_des">Recorda les ubicacions de les fotos i vídeos</string>
     <string name="location_permission_not_ask_again">Permeteu que la càmera accedeixi a la vostra ubicació a Configuració.</string>
@@ -1012,9 +1017,9 @@ amb un cos més clar i un retrat més bonic"</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Proveu el mode Retrat.
 Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_960_watermark_title">Marca d\'aigua 960 FPS</string>
+    <string name="pref_a_c_f">Mapes</string>
     <string name="pref_advance_settings">Configuració addicional</string>
     <string name="pref_ai_detect">Detecció d\'IA</string>
-    <string name="pref_audio_chart">Mapes</string>
     <string name="pref_audio_denoise_title">Reducció de soroll d’àudio</string>
     <string name="pref_audio_focus_entry_front">Davant</string>
     <string name="pref_audio_focus_entry_rear">Darrere</string>
