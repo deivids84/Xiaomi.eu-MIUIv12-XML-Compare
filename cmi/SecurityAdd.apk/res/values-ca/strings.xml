@@ -168,6 +168,7 @@
     <string name="gb_weixinpay_can_not_complete">"No es pot completar el pagament. Instal·leu-lo per continuar."</string>
     <string name="gdpr_msg"><Data>\"Per utilitzar les funcions bàsiques de seguretat, heu d\'acceptar que Xiaomi recopilarà, processarà i utilitzarà les vostres dades personals, inclosa informació sobre les formes d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre programari maliciós, com així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificats a la nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privadesa&lt;/a&gt;\"</Data></string>
     <string name="icon_content_description">Icona de diàleg</string>
+    <string name="install_success">%s Instal·lació correcta</string>
     <string name="lucky_result_title">Sobres vermells</string>
     <string name="main_toolbar_purchase">Recàrrega</string>
     <string name="midnight">Nit</string>
