@@ -1260,6 +1260,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="mr_dialog_transferable_header">Reprodueix en grup</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositius</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="mtrl_picker_cancel">Cancel·la</string>
     <string name="mtrl_picker_confirm">Desa</string>
@@ -1580,7 +1581,6 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_tiles">per defecte</string>
     <string name="quick_settings_tiles_old_mode">cel·la,wifi,bt,llanterna,bateria,captura de pantalla,edita</string>
     <string name="quick_settings_tiles_retail_mode">cel·la,estalvi de bateria,mode d’energia,llanterna,rotació,ubicació</string>
-    <string name="quick_settings_tiles_stock">cel·la,wifi, lanterna,silencia,captura de pantalla,bt,lluminositat automatica,avió,bloqueig de pantalla,GPS,rotació,papermode,nit,silenci,estalvi de bateria,estalvi de bateria extrem,powermode,vibra,punt d\'accés,sincronització,botó de pantalla,powerpower,nfc,edita,mode cotxe,mode feina</string>
     <string name="quick_settings_tiles_super_save">cel·la,wifi,bt,gps,vibra</string>
     <string name="quick_settings_time_label">Temps</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per afegir un element, premeu-lo continuadament i llavors arrossegueu-lo a la part superior del panell.</string>
@@ -1588,6 +1588,9 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_user_new_user">Nou usuari</string>
     <string name="quick_settings_user_title">Usuari</string>
     <string name="quick_settings_vibrate_label">Vibració</string>
+    <string name="quick_settings_vowifi_label">Trucades Wi-Fi</string>
+    <string name="quick_settings_vowifi_sim1_label">WLAN trucant a SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">WLAN trucant a SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Augmentant la velocitat</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancel·la</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirma</string>
