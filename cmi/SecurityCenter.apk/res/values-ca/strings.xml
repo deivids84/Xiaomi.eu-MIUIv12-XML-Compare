@@ -258,7 +258,7 @@
     <string name="app_behavior_notification_title_now_location">%1s està accedint a la vostra ubicació en segon pla</string>
     <string name="app_behavior_notification_title_single_group">%1s ha realitzat múltiples accions sensibles</string>
     <string name="app_behavior_notification_title_storage">%1s ha canviat fitxers en segon pla</string>
-    <string name="app_behavior_now_running">Córrer</string>
+    <string name="app_behavior_now_running">S\'està executant</string>
     <string name="app_behavior_perm_allow_always_danger_tip">Les aplicacions poden realitzar accions delicades quan es concedeixen permisos</string>
     <string name="app_behavior_perm_change_dialog_desc_title">Sobre aquest permís:</string>
     <string name="app_behavior_perm_change_tip_allow">Aquesta acció (%1s) ara està permesa</string>
@@ -640,6 +640,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="battery_estimate_charge_time_title">Temps de càrrega</string>
     <string name="battery_estimate_usage_time_title">Temps d\'ús</string>
     <string name="battery_health_left_battery_text">Bateria restant</string>
+    <string name="battery_health_level_text">Salut de la bateria</string>
     <string name="battery_health_status_text">Estat de la bateria</string>
     <string name="battery_health_temperature_text">Temperatura de la bateria</string>
     <string name="battery_health_title_text">Salut de la bateria</string>
@@ -660,6 +661,10 @@ No perdreu cap dada d'aplicació."</string>
     <string name="battery_stats_wake_lock_label">Despert</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_status_good">Funciona amb normalitat</string>
+    <string name="battery_status_level_excellent">Excel·lent</string>
+    <string name="battery_status_level_good">Bo</string>
+    <string name="battery_status_level_normal">Normal</string>
+    <string name="battery_status_level_poor">Pobre</string>
     <string name="battery_status_overheat">Sobreescalfat</string>
     <string name="battery_status_unknown">Error desconegut</string>
     <string name="battery_temperature_title">Temperatura</string>
