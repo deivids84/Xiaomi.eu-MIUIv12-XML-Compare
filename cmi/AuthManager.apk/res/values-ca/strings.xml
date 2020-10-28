@@ -118,12 +118,12 @@
     <string name="background_location_access_reminder_notification_title">%s ha estat utilitzant la vostra ubicació</string>
     <string name="clipboard_ai_allow_once">Es permet que %1$s accedeixi automàticament als elements del porta-retalls</string>
     <string name="clipboard_data">Elements del porta-retalls</string>
-    <string name="clipboard_data_request">%1$s intenta accedir als elements del porta-retalls</string>
-    <string name="clipboard_deny_notification_content">Aquest intent s\'ha bloquejat. Toca per gestionar els permisos.</string>
-    <string name="clipboard_deny_notification_operation">Gestionar</string>
-    <string name="clipboard_deny_notification_title">%1$s intenta accedir als elements del porta-retalls</string>
+    <string name="clipboard_data_request">%1$s està intentant accedir als elements del porta-retalls</string>
+    <string name="clipboard_deny_notification_content">Aquest intent s\'ha bloquejat. Toqueu per gestionar els permisos.</string>
+    <string name="clipboard_deny_notification_operation">Gestiona</string>
+    <string name="clipboard_deny_notification_title">%1$s està intentant accedir als elements del porta-retalls</string>
     <string name="clipboard_may_sensitive">Informació possiblement sensible</string>
-    <string name="clipboard_read_allow_once">S\'han accedit %1$s elements al porta-retalls</string>
+    <string name="clipboard_read_allow_once">%1$s ha accedit als elements del porta-retalls</string>
     <string name="default_permission_description">realitzar accions desconegudes</string>
     <string name="go_perm_manager">Gestiona els permisos</string>
     <string name="grant_dialog_button_allow">Permet</string>
