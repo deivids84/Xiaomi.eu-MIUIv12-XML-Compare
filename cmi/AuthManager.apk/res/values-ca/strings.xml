@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_ACTION_REJECT_CLEAR">Restringiu i esborreu el porta-retalls</string>
+    <string name="HIPS_ACTION_REJECT_CLEAR">Restringir i esborrar el porta-retalls</string>
     <string name="HIPS_Action_Accept">Permet</string>
     <string name="HIPS_Action_Accept_Once">Permet-ho un cop</string>
-    <string name="HIPS_Action_Accept_This">Permet-ho un cop</string>
+    <string name="HIPS_Action_Accept_This">Permet-ho una vegada</string>
     <string name="HIPS_Action_Reject">Denega</string>
     <string name="HIPS_Action_Reject_Once">Denega-ho un cop</string>
     <string name="HIPS_Action_Reject_This">Restringeix una vegada</string>
@@ -92,7 +92,7 @@
     <string name="HIPS_Perm_process_nfc_Desc">accedir al maquinari de comunicacions de camp proper (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accedir a l\'aplicació Telèfon</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorar les trucades entrants</string>
-    <string name="HIPS_Perm_read_clipboard">Accediu als elements del porta-retalls</string>
+    <string name="HIPS_Perm_read_clipboard">Accedir als elements del porta-retalls</string>
     <string name="HIPS_Perm_read_clipboard_Desc">Permetre que les aplicacions accedeixin als elements del porta-retalls</string>
     <string name="HIPS_Perm_read_notification_sms">SMS de servei</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">llegir SMS de servei</string>
@@ -104,7 +104,7 @@
     <string name="HIPS_Perm_show_when_locked_Desc">mostrar-se a la pantalla de bloqueig</string>
     <string name="HIPS_Perm_use_sip">Serveis de vídeo</string>
     <string name="HIPS_Perm_use_sip_Desc">utilitzar SIP per a la transmissió de vídeo</string>
-    <string name="HIPS_Perm_write_clipboard">Deseu els elements al porta-retalls</string>
+    <string name="HIPS_Perm_write_clipboard">Desar els elements al porta-retalls</string>
     <string name="HIPS_Perm_write_clipboard_Desc">Permet que les aplicacions desin elements al porta-retalls</string>
     <string name="HIPS_SecurityPrompt_Caption">Avís de seguretat</string>
     <string name="HIPS_SecurityPrompt_Reject">Denega (%d)</string>
