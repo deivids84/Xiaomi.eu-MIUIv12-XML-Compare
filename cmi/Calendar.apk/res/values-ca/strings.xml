@@ -129,7 +129,7 @@
     <string name="clear_net_mock_success">S\'ha esborrat la xarxa simulada correctament</string>
     <string name="clear_text_end_icon_content_description">Neteja el text</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
-    <string name="click_for_create_event">Feu clic a crear esdeveniment per a %s</string>
+    <string name="click_for_create_event">Feu clic a Crea un esdeveniment per a %s</string>
     <string name="click_paste">Feu clic per enganxar</string>
     <string name="close_alarm">Desactiva</string>
     <string name="content_confirm_close_chinese_calendar">Tots els esdeveniments basats en el calendari tradicional xinès es convertiran al calendari gregorià un cop desactivada aquesta funció. Els anys i mesos del calendari gregorià s’utilitzaran per a esdeveniments repetitius.</string>
@@ -169,7 +169,7 @@
     <string name="description_calendar_edit_event">Aplicacions del sistema/Calendari/Agenda</string>
     <string name="directory_searching_fmt">S\'està cercant %s…</string>
     <string name="discard_label">Cancel·la</string>
-    <string name="display_to_calendar">Mostra a Calendar</string>
+    <string name="display_to_calendar">Mostra al Calendari</string>
     <string name="does_not_repeat">Esdeveniment únic</string>
     <string name="dropdown_delete_button_desc">Suprimeix %s dels destinataris</string>
     <string name="early_morning">Matí</string>
