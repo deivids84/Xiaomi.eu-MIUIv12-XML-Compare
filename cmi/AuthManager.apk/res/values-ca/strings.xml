@@ -110,14 +110,14 @@
     <string name="HIPS_SecurityPrompt_Reject">Denega (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restringir i esborrar el porta-retalls (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Denega-ho un cop (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject_This">Restringeix una vegada (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_This">Restringeix-ho una vegada (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s està intentant de %2$s</string>
     <string name="Su_Package_Forbidden2">"no té accés d'administrador."</string>
     <string name="app_name">Permisos</string>
     <string name="background_location_access_reminder_notification_content">Aquesta aplicació sempre pot accedir a la vostra ubicació. Toqueu per canviar-ho.</string>
     <string name="background_location_access_reminder_notification_title">%s ha estat utilitzant la vostra ubicació</string>
     <string name="clipboard_ai_allow_once">Es permet que %1$s accedeixi automàticament als elements del porta-retalls</string>
-    <string name="clipboard_data">Articles de porta-retalls</string>
+    <string name="clipboard_data">Elements del porta-retalls</string>
     <string name="clipboard_data_request">%1$s intenta accedir als elements del porta-retalls</string>
     <string name="clipboard_deny_notification_content">Aquest intent s\'ha bloquejat. Toca per gestionar els permisos.</string>
     <string name="clipboard_deny_notification_operation">Gestionar</string>
