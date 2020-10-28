@@ -75,19 +75,19 @@
     <string name="common_google_play_services_notification_channel_name">Disponibilitat dels serveis de Google Play</string>
     <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Torneu-ho a provar.</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s no s'executarà sense els serveis de Google Play, aquests no són compatibles amb el vostre dispositiu."</string>
-    <string name="common_google_play_services_update_button">Actualiza</string>
-    <string name="common_google_play_services_update_text">"%1$s no s'executaran llevat que actualitzeu els serveis de Google Play."</string>
-    <string name="common_google_play_services_update_title">Actualitza els serveis de Google Play</string>
-    <string name="common_google_play_services_updating_text">"%1$s no s’executarà sense els serveis de Google Play, que s’actualitzen actualment."</string>
-    <string name="common_google_play_services_wear_update_text">Cal una nova versió dels serveis de Google Play. Aviat s\'actualitzaran automàticament.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no funcionarà sense els serveis de Google Play, que no son compatibles amb el vostre dispositiu."</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà tret que actualitzeu els serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitzeu els serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els serveis de Google Play, que actualment s'estan actualitzant."</string>
+    <string name="common_google_play_services_wear_update_text">Cal una nova versió dels serveis de Google Play. S\'actualitzarà pròximament.</string>
     <string name="common_open_on_phone">Obre al telèfon</string>
-    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text">Inicia la sessió</string>
     <string name="common_signin_button_text_long">Inicia la sessió amb Google</string>
     <string name="convert_currency">Convertidor de moneda</string>
     <string name="convertion_unit">Convertidor d\'unitats</string>
     <string name="convertion_unit_area">Convertidor d\'àrees</string>
-    <string name="convertion_unit_data">Convertidor d\'unitats</string>
+    <string name="convertion_unit_data">Convertidor de dades</string>
     <string name="convertion_unit_length">Convertidor de longitud</string>
     <string name="convertion_unit_radix">Sistema numèric</string>
     <string name="convertion_unit_temperature">Convertidor de temperatura</string>
@@ -96,7 +96,7 @@
     <string name="convertion_unit_volume">Convertidor de volum</string>
     <string name="convertion_unit_weight">Convertidor de massa</string>
     <string name="cosDesc">cosinus</string>
-    <string name="currency_dialog_privacy_content"><Data>convertidor de divises ha de connectar-se a Internet per obtenir els últims tipus de canvi de divises. Llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar aquesta funció.</Data></string>
+    <string name="currency_dialog_privacy_content"><Data>El convertidor de divises ha de connectar-se a Internet per obtenir els últims tipus de canvi de divises. Llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i la&lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar aquesta funció.</Data></string>
     <string name="currency_update_connect_to_get_data">Webull proporciona els tipus de canvi. Connecteu-vos a la xarxa per obtenir la informació més recent.</string>
     <string name="currency_update_support">Webull proporciona els tipus de canvi.</string>
     <string name="currency_update_time_format">Webull proporciona els tipus de canvi (%s)</string>
@@ -110,7 +110,7 @@
     <string name="description_title">Quant a la Calculadora</string>
     <string name="deselect_all">Desselecciona</string>
     <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
-    <string name="dialog_privacy_content"><Data>A més de les funcions bàsiques d’una calculadora, la nostra aplicació també conté una calculadora científica i un convertidor polivalent. Algunes funcions necessiten connectar-se a Internet per funcionar amb normalitat. Heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar Calculadora.</Data></string>
+    <string name="dialog_privacy_content"><Data>A més de les funcions bàsiques d’una calculadora, la nostra aplicació també conté una calculadora científica i un convertidor polivalent. Algunes funcions necessiten connectar-se a Internet per funcionar amb normalitat. Heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar la Calculadora.</Data></string>
     <string name="dialog_privacy_title">Termes i condicions</string>
     <string name="dialog_rating_desc_ask">Què en penseu de la Calculadora?</string>
     <string name="dialog_rating_desc_less">Podria donar-nos la seva opinió?</string>
