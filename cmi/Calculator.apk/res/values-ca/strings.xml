@@ -177,7 +177,7 @@
     <string name="install_scanner_to_continued_use">L’escàner s’ha desinstal·lat. Voleu instal·lar-lo de nou?</string>
     <string name="interest_rate_hint">Introduïu la taxa d\'interès</string>
     <string name="investment_invalid_duration">La durada de la inversió ha de ser superior a zero</string>
-    <string name="investment_type_once">Un sol cop</string>
+    <string name="investment_type_once">Una vegada</string>
     <string name="investment_type_recurring">Periòdic</string>
     <string name="item_page_title_investment">Calculadora d\'inversions</string>
     <string name="item_title_aa_payment">Divideix la factura</string>
