@@ -43,14 +43,14 @@
     <string name="account_and_calendar">Comptes</string>
     <string name="account_import_calendar">Importa el calendari</string>
     <string name="account_manager_delete">Suprimeix el compte</string>
-    <string name="account_manager_delete_calendar_tips">Voleu suprimir ara el calendari associat a aquest compte?</string>
+    <string name="account_manager_delete_calendar_tips">Voleu suprimir ara el calendari associat amb aquest compte?</string>
     <string name="account_manager_delete_dialog">Voleu suprimir aquest compte ara?</string>
     <string name="account_manager_delete_events">Suprimeix els esdeveniments</string>
     <string name="account_manager_install_email">Instal·leu el client de correu electrònic del sistema</string>
     <string name="account_manager_install_email_tips">Torneu a instal·lar el client de correu electrònic del sistema per poder restaurar els vostres comptes i afegir-ne de nous</string>
-    <string name="account_manager_install_immediately">_Instal·la</string>
+    <string name="account_manager_install_immediately">Instal·la</string>
     <string name="account_manager_installing">S\'està instal·lant…</string>
-    <string name="account_manager_not_display">"No mostris"</string>
+    <string name="account_manager_not_display">"No ho mostris"</string>
     <string name="account_manager_settings_sync">Freqüència de sincronització</string>
     <string name="account_manager_settings_sync_immediately">Sincronitza ara</string>
     <string name="account_manager_tips">"No es pot suprimir el compte. Podeu fer-ho a l'aplicació corresponent."</string>
@@ -63,7 +63,7 @@
     <string name="action_label">Torna</string>
     <string name="action_text_card_manager">Canal</string>
     <string name="actionbar_button_up_description">Enrere</string>
-    <string name="add_account_success">S\'ha afegit amb èxit</string>
+    <string name="add_account_success">S\'ha afegit correctament</string>
     <string name="add_anniversary">Afegeix commemoració</string>
     <string name="add_caldav_account">Afegiu un compte de CalDAV</string>
     <string name="add_countdown">Afegeix compte enrere</string>
@@ -104,7 +104,7 @@
     <string name="birthday_term">Aniversari</string>
     <string name="birthday_term_chinese_calendar">"Aniversari de %1$s (Calendari xinès tradicional)"</string>
     <string name="calendar_account_settings">Configuració del compte</string>
-    <string name="calendar_import_source">Origen</string>
+    <string name="calendar_import_source">Font</string>
     <string name="calendar_subscription_group_title">Subscripció al calendari</string>
     <string name="can_not_create_long_event">El nom de l\'esdeveniment és massa llarg</string>
     <string name="can_not_modify_allday_event">"Els esdeveniments de tot el dia no es poden modificar"</string>
