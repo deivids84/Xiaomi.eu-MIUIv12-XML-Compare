@@ -1250,8 +1250,8 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d'a
     <string name="the_valentines_day">"Dia de Sant Valentí"</string>
     <string name="the_water_lantern_festival">Festa dels fanals d\'aigua</string>
     <string name="thursday">Dijous</string>
-    <string name="thursday_short">Dj</string>
-    <string name="thursday_shortest">dj</string>
+    <string name="thursday_short">Dj.</string>
+    <string name="thursday_shortest">dj.</string>
     <string name="time_picker_dialog_title">Establiu l\'hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
