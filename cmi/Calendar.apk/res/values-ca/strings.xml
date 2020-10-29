@@ -623,8 +623,8 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="saving_event">S\'ha desat l\'esdeveniment</string>
-    <string name="saving_event_with_guest">S\'estan enviant actualitzacions…</string>
-    <string name="search_calendar">"Calendari;Agenda;Recordatori"</string>
+    <string name="saving_event_with_guest">S\'estan enviant les actualitzacions…</string>
+    <string name="search_calendar">"Data;Termes solars;Lunar;Almanac;Fortuna;Agenda;Reunió;Recordatori;Vacances;Vacances;Aniversari;2016;2017;Festival de primavera;Dia de Cap d'Any;Dia Internacional del Treball;Festival de mitja tardor"</string>
     <string name="search_calendar_edit_event">Reunió;Recordatori;Agenda</string>
     <string name="search_calendar_settings">Calendari;Agenda;Recordatori</string>
     <string name="search_events">Cerca d\'esdeveniments</string>
