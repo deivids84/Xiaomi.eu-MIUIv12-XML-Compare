@@ -609,7 +609,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="repeat_interval_frequency_year_single">any</string>
     <string name="repeat_label_choose_day">Trieu el dia</string>
     <string name="repeat_label_choose_month">Trieu el mes</string>
-    <string name="repeat_label_choose_time">Trieu l\'hora per al recordatori</string>
+    <string name="repeat_label_choose_time">Trieu l\'hora del recordatori</string>
     <string name="repeat_label_choose_week">Trieu la setmana</string>
     <string name="repeat_label_day">Dia</string>
     <string name="repeat_label_frequency">Freqüència</string>
