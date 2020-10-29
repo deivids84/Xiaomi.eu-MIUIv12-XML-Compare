@@ -228,7 +228,7 @@
     <string name="event_create">Nou esdeveniment</string>
     <string name="event_delete">Suprimeix l\'esdeveniment</string>
     <string name="event_edit">Edita l\'esdeveniment</string>
-    <string name="event_import">Importar esdeveniments</string>
+    <string name="event_import">Importa els esdeveniments</string>
     <string name="event_info_descrip">Descripció</string>
     <string name="event_info_end">Final</string>
     <string name="event_info_jump_to_email">Vés al correu</string>
