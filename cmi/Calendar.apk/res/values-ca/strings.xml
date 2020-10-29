@@ -697,8 +697,8 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="subscribe_card_success_for_homepage">Us heu subscrit a \"%1$s\" correctament</string>
     <string name="subscribe_channel_subscribe">Subscriviu-vos</string>
     <string name="subscribe_channel_subscribing">Subscrit</string>
-    <string name="subscribe_text">Afegir</string>
-    <string name="subscribing_card">Subscripcions</string>
+    <string name="subscribe_text">Afegeix</string>
+    <string name="subscribing_card">Subscrit</string>
     <string name="summary_import_by_caldav">Donem suport als comptes de CalDAV de Feishu i iCloud</string>
     <string name="summary_import_by_email">Donem suport a comptes d’Exchange corporatius, QQ Mail i Outlook</string>
     <string name="summary_import_by_local">Donem suport als fitxers ICS</string>
