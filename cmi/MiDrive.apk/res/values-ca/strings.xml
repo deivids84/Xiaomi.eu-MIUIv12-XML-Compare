@@ -32,10 +32,10 @@
     <string name="account_change_message">"Esteu canviant al compte %1$s. Veureu les dades de Mi Drive associades a aquest compte."</string>
     <string name="account_change_title">Canvi de compte</string>
     <string name="account_info_desc">Gestioneu la informació del compte</string>
-    <string name="ai_ppt_to_pdf">Convertit a PDF</string>
+    <string name="ai_ppt_to_pdf">Convertiu les diapositives a PDF</string>
+    <string name="ai_ppt_to_pdf_view_all">Mostra-ho tot</string>
     <string name="ai_recommend_pdf">Convertit a PDF</string>
     <string name="album">Galeria</string>
-    <string name="all">Totes</string>
     <string name="app_function">Emmagatzematge, previsualització, baixada de fitxers i molt més</string>
     <string name="app_is_running">L\'aplicació s\'està executant…</string>
     <string name="app_name">Mi Drive</string>
