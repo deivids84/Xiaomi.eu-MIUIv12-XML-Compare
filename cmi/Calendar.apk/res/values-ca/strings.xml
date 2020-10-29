@@ -662,9 +662,8 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="shortcut_next_agenda">Esdeveniment següent</string>
     <string name="shortcut_settings">Configuració</string>
     <string name="show_day_view">Mostra el dia</string>
-    <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
     <string name="solar_date_content_desc">Data segons el calendari gregorià</string>
-    <string name="solar_lunar_convert_description">Gregorià a xinès tradicional</string>
+    <string name="solar_lunar_convert_description">Del gregorià al xinès tradicional</string>
     <string name="solar_lunar_convert_description_2">Canvia entre els calendaris xinès tradicional i gregorià</string>
     <string name="solar_lunar_convert_tab">Converteix</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
@@ -694,7 +693,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="solar_to_lunar_chinese_calendar">Gregorià a xinès</string>
     <string name="start_date_calculate">Calcula</string>
     <string name="subscribe_card">Subscriviu-vos ara</string>
-    <string name="subscribe_card_success">Us heu subscrit amb èxit. Consulteu els detalls a la pàgina d\'inici.</string>
+    <string name="subscribe_card_success">Us heu subscrit correctament. Consulteu els detalls a la pàgina d\'inici.</string>
     <string name="subscribe_card_success_for_homepage">Us heu subscrit amb èxit a «%1$s»</string>
     <string name="subscribe_channel_subscribe">Subscriviu-vos</string>
     <string name="subscribe_channel_subscribing">Subscrit</string>
