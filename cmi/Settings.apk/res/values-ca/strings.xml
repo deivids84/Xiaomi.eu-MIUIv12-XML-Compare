@@ -6418,6 +6418,7 @@ Toqueu dos cops per obrir Recents."</string>
     <string name="smart_home_value_none">Mai</string>
     <string name="smart_home_value_unknown">Desconeguda</string>
     <string name="smart_notifications_title">Notificacions adaptatives</string>
+    <string name="smart_space_clock">En un cop d’ull</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
     <string name="smartcover_sensitive_summary">Bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
     <string name="smartcover_sensitive_title">Mode Smartcover</string>
