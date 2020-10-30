@@ -692,7 +692,7 @@ Canvieu la configuració ara?"</string>
 1. Executeu aquesta funció una o dues vegades si trobeu que la vostra altaveu està bloquejada per la pols.
 2. Si l’altaveu està fort bloquejat, executeu aquesta funció de 2 a 5 vegades mentre agiteu el dispositiu amb l’altaveu cap a baix."</string>
     <string name="auto_clean_summary">Reprodueix un àudio de 30 segons per netejar l’altaveu</string>
-    <string name="auto_clean_title">Altaveu clar</string>
+    <string name="auto_clean_title">Neteja l\'altaveu</string>
     <string name="auto_connect_disable">La connexió automàtica està desactivada</string>
     <string name="auto_disable_screenbuttons_ask">Demana\'m si ho vull deshabilitar</string>
     <string name="auto_disable_screenbuttons_auto">Sempre deshabilitat</string>
