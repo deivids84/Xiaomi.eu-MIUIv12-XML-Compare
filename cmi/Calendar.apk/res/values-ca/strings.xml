@@ -773,7 +773,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="toast_invalid_url">L\'URL no és vàlid</string>
     <string name="toast_login_by_exchange">Seleccioneu el servei de l\'Exchange per iniciar la sessió</string>
     <string name="toast_no_authority">"No es pot accedir al compte. Comproveu la configuració del compte i torneu-ho a provar."</string>
-    <string name="toast_sync_failed">"No s'ha pogut fer la sincronització"</string>
+    <string name="toast_sync_failed">"No s'ha pogut sincronitzar"</string>
     <string name="toast_sync_success">S\'ha sincronitzat correctament</string>
     <string name="today">Avui</string>
     <string name="today_at_time_fmt">Avui a les %s</string>
