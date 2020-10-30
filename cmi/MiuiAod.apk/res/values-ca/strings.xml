@@ -31,6 +31,7 @@
     <string name="accessibility_battery_level">%d per cent de bateria.</string>
     <string name="accessibility_battery_level_charging">S\'està carregant la bateria, %d per cent.</string>
     <string name="actionbar_button_up_description">Enrere</string>
+    <string name="add_custom_image">Imatge personalitzada</string>
     <string name="add_from_album">Afegeix des de la Galeria</string>
     <string name="afternoon">Tarda</string>
     <string name="align_type">Alinea</string>
@@ -287,6 +288,8 @@ dd/MM"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="select_notification_animation_style">Seleccioneu l\'efecte especial</string>
     <string name="select_notification_notify_style">Seleccioneu l\'efecte de les notificacions</string>
+    <string name="share">Comparteix</string>
+    <string name="share_to_community">Comparteix a Mi Community</string>
     <string name="show_battery">Mostra l\'estat de la bateria</string>
     <string name="show_battery_status">Mostra l\'estat de la bateria</string>
     <string name="show_lunar">Mostra el calendari xinès tradicional</string>
@@ -326,6 +329,7 @@ meravellosa està a punt de passar"</string>
     <string name="step_component_info_active_tip">Xiaomi Health proporciona el recompte de passes. Accepteu els termes i condicions de Xiaomi Health per continuar.</string>
     <string name="step_component_info_desc">El recompte de passes es convertirà en un trofeu quan el vostre objectiu sigui assolit. Xiaomi Health proporciona el recompte de passes.</string>
     <string name="step_component_info_tip">Xiaomi Health proporciona el recompte de passes. Instal·leu o actualitzeu Xiaomi Health i accepteu els seus termes i condicions per continuar.</string>
+    <string name="step_to_image_community">Trobeu més informació a Mi Community</string>
     <string name="summary">"Per reduir el consum d'energia, els elements no es mostraran quan el dispositiu estigui a les fosques durant molt de temps."</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
