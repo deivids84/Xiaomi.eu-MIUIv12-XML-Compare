@@ -702,7 +702,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="summary_import_by_caldav">Donem suport als comptes de CalDAV de Feishu i iCloud</string>
     <string name="summary_import_by_email">Donem suport a comptes d’Exchange corporatius, QQ Mail i Outlook</string>
     <string name="summary_import_by_local">Donem suport als fitxers ICS</string>
-    <string name="summary_import_by_url">Afegiu una subscripció a URL</string>
+    <string name="summary_import_by_url">Afegiu una subscripció URL</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
