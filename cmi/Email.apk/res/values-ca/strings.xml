@@ -1252,7 +1252,7 @@ Espereu fins que se sincronitzi completament o visualitzeu el missatge al vostre
     <string name="show_server_cet">Mostra el certificat</string>
     <string name="signature">" %s"</string>
     <string name="signature_black_shark">Enviat des del meu telèfon Blackshark</string>
-    <string name="silent_ringtone">Silenciós</string>
+    <string name="silent_ringtone">Silenci</string>
     <string name="single_new_message_notification_big_text">"%1$s 
 %2$s"</string>
     <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
