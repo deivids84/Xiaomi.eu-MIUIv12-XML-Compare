@@ -788,7 +788,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="too_long_location">El nom de la ubicació és massa llarg</string>
     <string name="too_long_name">El nom és massa llarg</string>
     <string name="train_detail_title">Itinerari del tren</string>
-    <string name="train_event_add_arrive_station">Premeu per afegir destí</string>
+    <string name="train_event_add_arrive_station">Toqueu per afegir una destinació</string>
     <string name="train_event_arrive">Arriba en %1$s</string>
     <string name="train_event_arrive_station_saved">S\'ha desat correctament el destí</string>
     <string name="train_event_choose_arrive_station">Seleccioneu el destí</string>
