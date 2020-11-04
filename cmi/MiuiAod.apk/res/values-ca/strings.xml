@@ -36,7 +36,10 @@
     <string name="afternoon">Tarda</string>
     <string name="align_type">Alinea</string>
     <string name="always_style">Sempre</string>
+    <string name="always_style_symmary">Consumeix més energia</string>
     <string name="am">am</string>
+    <string name="ambient_display_screen_title">Sempre en pantalla</string>
+    <string name="ambient_display_screen_title_sp">Pantalla ambiental</string>
     <string name="aod_close_color_inversion">"Aquesta funció no es pot combinar amb la inversió del color. Desactiveu primer la inversió de color."</string>
     <string name="aod_component">Elements visualitzats</string>
     <string name="aod_dual_clock_date">HH:mm dd/MM</string>
@@ -263,6 +266,8 @@ dd/MM"</string>
     <string name="notification_anim_star">Llum de les estrelles</string>
     <string name="notification_nothing">Cap</string>
     <string name="notification_screen_on">Il·lumina la pantalla</string>
+    <string name="off">Desactivat</string>
+    <string name="on">Activat</string>
     <string name="only_show_bg_description">"No mostris ni l'hora, ni la data ni altres elements"</string>
     <string name="only_show_bg_title">Mostra només el fons</string>
     <string name="open_aod_mode">Activa</string>
@@ -282,6 +287,7 @@ dd/MM"</string>
     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
     <string name="scheduled_mode_msg">Període actiu: %s</string>
     <string name="scheduled_style">Planificat</string>
+    <string name="scheduled_style_summary">Estableix l’hora personalitzada</string>
     <string name="scope_des">Cada calidoscopi conté 5 patrons diferents que es mostraran al seu torn cada vegada que s\'il·lumini la pantalla.</string>
     <string name="scope_icon">Estil del calidoscopi</string>
     <string name="scope_time">Calidoscopi</string>
@@ -339,6 +345,7 @@ dd/M"</string>
     <string name="super_wallpaper_date_inter">"EEEE
 M / dd"</string>
     <string name="temporary_style">Durant 10 segons després de tocar-lo</string>
+    <string name="temporary_style_summary">Recomanat</string>
     <string name="text_color">Color del text</string>
     <string name="text_length_exceed_limit_alert">* El text que heu introduït és massa llarg</string>
     <string name="text_size">Mida del text</string>
