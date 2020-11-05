@@ -2508,7 +2508,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="dual_wifi_switching_prompt">Canvi entre xarxes</string>
     <string name="dual_wifi_switching_summary">La velocitat WLAN de doble banda necessita utilitzar dues bandes WLAN diferents. Si us connecteu a una xarxa principal diferent, es perdrà la connexió auxiliar.</string>
     <string name="dump_log">Obté registres relacionats amb els problemes</string>
-    <string name="dump_log_summary">"Aquesta funció està dissenyada per a generar el registre 284 en versions Alfa i Beta de MIUI. Utilitzeu-lo amb precaució.
+    <string name="dump_log_summary">"Aquesta característica està dissenyada per generar el registre 284 a la versió beta de MIUI. Utilitzeu-lo amb precaució.
 Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="dump_log_title">Sobre aquesta funció</string>
     <string name="easymode_hint">Toqueu per desactivar el mode Lite</string>
@@ -2537,7 +2537,7 @@ Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="emergency_info_title">Informació d\'emergència</string>
     <string name="emergency_sos_title">SOS d\'emergència</string>
     <string name="emergency_tone_alert">Avís</string>
-    <string name="emergency_tone_silent">Silenciosa</string>
+    <string name="emergency_tone_silent">Silenci</string>
     <string name="emergency_tone_summary">Defineix el comportament quan es fa una trucada d\'emergència</string>
     <string name="emergency_tone_title">To d\'emergència</string>
     <string name="emergency_tone_vibrate">Vibració</string>
@@ -3112,6 +3112,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="gxzw_dialog_ok">Entesos</string>
     <string name="gxzw_dialog_title">Quant al sensor d’empremtes a la pantalla</string>
     <string name="gxzw_enroll_again">Aixequeu el dit i premeu de nou l\'escàner d\'empremtes</string>
+    <string name="gxzw_lowlight_open_summary">Baixeu la brillantor de la icona d’empremta digital en condicions de poca llum. És possible que el dispositiu es desbloquegi més lentament quan aquesta funció estigui activada.</string>
+    <string name="gxzw_lowlight_open_title">Desbloqueig d’empremta digital amb poca llum</string>
     <string name="gxzw_quick_open_enable_summary">Utilitzeu les dreceres gestuals per obrir aplicacions o utilitzar les funcions de l\'aplicació quan el dispositiu estigui desbloquejat</string>
     <string name="gxzw_quick_open_enable_title">Dreceres de les empremtes</string>
     <string name="gxzw_quick_open_fast_summary">Feu lliscar el dit per utilitzar una drecera un cop desbloquejat el dispositiu.</string>
@@ -4728,7 +4730,7 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
     <string name="notification_settings_work_profile">L\'accés a les notificacions no està disponible per a les aplicacions en el perfil de feina.</string>
     <string name="notification_shade_shortcut_title">Drecera a l\'àrea de notificacions</string>
     <string name="notification_show_lights_title">Parpelleig del llum</string>
-    <string name="notification_silence_title">Silenciós</string>
+    <string name="notification_silence_title">Silenci</string>
     <string name="notification_sound_default">So de notificació per defecte</string>
     <string name="notification_sound_dialog_title">So de notificació per defecte</string>
     <string name="notification_sound_title">Altres notificacions &amp; recordatoris</string>
@@ -5524,7 +5526,7 @@ Reinicieu el dispositiu i torneu-ho a provar."</string>
     <string name="ring_volume_option_title">Volum del so de la trucada</string>
     <string name="ring_volume_title">Volum de notificació &amp;</string>
     <string name="ringer_mode_setting_summary">Silenci les trucades i notificacions entrants</string>
-    <string name="ringer_mode_setting_title">Mode silenciós</string>
+    <string name="ringer_mode_setting_title">Mode silenci</string>
     <string name="ringtone_slot_setting_title">Configuració de SIM única</string>
     <string name="ringtone_title">So de trucada</string>
     <string name="ringtone_uniform_setting_title">Configuració de SIM dual</string>
@@ -6292,7 +6294,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="silent_notifications_status_bar">Amagueu les notificacions silencioses a la barra d\'estat</string>
     <string name="silent_off">Desactivat</string>
     <string name="silent_settings">Silenci/DND</string>
-    <string name="silent_standard">Silenciós</string>
+    <string name="silent_standard">Silenci</string>
     <string name="silent_time">Durada del mode silenci</string>
     <string name="silent_total">No molesteu</string>
     <string name="sim_bad_pin">El PIN ha de contenir 4-8 dígits</string>
@@ -6990,7 +6992,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_layout_current">Mida del text</string>
     <string name="title_layout_current2">Mida del text</string>
     <string name="title_layout_current2_weight">Mida del text i pes de la lletra</string>
-    <string name="title_miui_music_mute_by_user">Mode silenciós</string>
+    <string name="title_miui_music_mute_by_user">Mode silenci</string>
     <string name="title_of_auto_launch_manage">Inici automàtic</string>
     <string name="to_close">Desactiva</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
