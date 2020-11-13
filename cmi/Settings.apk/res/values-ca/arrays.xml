@@ -485,7 +485,7 @@
         <item>false</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Bloqueja la pantalla</item>
+        <item>Pantalla de bloqueig</item>
         <item>Mode d\'infants</item>
         <item>Mode de mainada</item>
         <item>Gestor de fitxers</item>
