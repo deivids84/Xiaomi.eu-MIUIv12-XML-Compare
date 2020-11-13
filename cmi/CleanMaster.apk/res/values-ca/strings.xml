@@ -207,7 +207,7 @@
     <string name="clean_summary">S\'han netejat %1$s</string>
     <string name="clear_bigfiles">Elimineu fitxers grans, fotos duplicades i altres elements obsolets</string>
     <string name="clear_immediately">Neteja-ho ara</string>
-    <string name="clear_safe_notify">Barra de notificacions de seguretat</string>
+    <string name="clear_safe_notify">Giny de l\'àrea de notificacions</string>
     <string name="clip_board_history_desc">Contingut copiat/retallat</string>
     <string name="clipboard">Porta-retalls</string>
     <string name="close">Tanca</string>
@@ -505,7 +505,7 @@
     <string name="msg_update_error_code_unknown_error">Error desconegut</string>
     <string name="name_debuglog_dir">Registre de depuració Bsp</string>
     <string name="name_optimizer">Política de privadesa</string>
-    <string name="nb_clear_set">Neteja de la ROM, veure la bateria i informació de la llista de bloqueig a l\'àrea de notificacions</string>
+    <string name="nb_clear_set">Netegeu la memòria cau, visualitzeu la informació de la bateria i de la llista de bloqueig a l\'àrea de notificacions</string>
     <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="news_change">Canvia</string>
     <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
@@ -561,7 +561,7 @@
     <string name="notification_wechat_clean_high_level_text_b">"La paperera de WeChat alenteix el dispositiu"</string>
     <string name="notification_wechat_clean_low_level_hint">Allibereu espai d’emmagatzematge</string>
     <string name="notification_wechat_clean_low_level_text">"Esborra les escombraries de WeChat"</string>
-    <string name="notification_wechat_clean_middle_level_hint">Esborreu la paperera per rebre notificacions sense demores</string>
+    <string name="notification_wechat_clean_middle_level_hint">Netegeu la paperera per rebre notificacions sense retards</string>
     <string name="notification_wechat_clean_middle_level_text_a">"Les escombraries de WeChat ocupen molt d'espai d'emmagatzematge"</string>
     <string name="notification_wechat_clean_middle_level_text_b">"La paperera de WeChat alenteix l'aplicació"</string>
     <string name="notification_whatsapp_clean_button_text">Esborra</string>
