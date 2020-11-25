@@ -482,7 +482,9 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="share_sdk_btn_quit_share_text">Deixa de compartir</string>
     <string name="share_sdk_btn_resend_share_text">Reenvia</string>
     <string name="share_sdk_btn_send_share_text">Envia la invitació</string>
+    <string name="share_sdk_btn_stop_share_confirm_text">Voleu deixar de compartir articles amb aquesta persona?</string>
     <string name="share_sdk_btn_stop_share_text">Deixa de compartir</string>
+    <string name="share_sdk_btn_undo_invitation_confirm_text">Recordeu la invitació ara?</string>
     <string name="share_sdk_btn_undo_invitation_text">Recorda la invitació</string>
     <string name="share_sdk_business_btn_grant_permission_text">Accepta i continua</string>
     <string name="share_sdk_business_family_invite_preference_summary">"Comparteix la ubicació i controla els dispositius dels altres"</string>
