@@ -22,11 +22,6 @@
         <item>Mes següent</item>
         <item>Tria la data</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>Respon</item>
-        <item>Respon a tots</item>
-        <item>Endavant</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Diminut</item>
         <item>Petit</item>
