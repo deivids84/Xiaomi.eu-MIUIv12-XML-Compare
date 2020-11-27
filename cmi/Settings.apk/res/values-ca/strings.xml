@@ -4661,7 +4661,7 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
     <string name="notification_channels_other">Altres</string>
     <string name="notification_content_block_summary">No mostris mai notificacions al panell o en dispositius perifèrics</string>
     <string name="notification_content_block_title">Mostra les notificacions</string>
-    <string name="notification_control_center">Notificacions &amp; Centre de control</string>
+    <string name="notification_control_center">Notificacions i Centre de control</string>
     <string name="notification_conversation_add_to_home">Afegir a casa</string>
     <string name="notification_conversation_important">Prioritat</string>
     <string name="notification_conversation_summary">%1$s • %2$s</string>
