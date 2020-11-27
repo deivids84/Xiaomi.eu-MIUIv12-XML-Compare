@@ -1363,7 +1363,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="notification_channel_unsilenced">Aquestes notificacions us avisaran</string>
     <string name="notification_content_gesture_nav_available">Aneu a Configuració per actualitzar la navegació del sistema</string>
     <string name="notification_content_system_nav_changed">S\'ha actualitzat la navegació del sistema. Per fer canvis, aneu a Configuració.</string>
-    <string name="notification_control_center">Centre de control i notificacions</string>
+    <string name="notification_control_center">Notificacions i Centre de control</string>
     <string name="notification_conversation_bubble">Mostrar bombolla</string>
     <string name="notification_conversation_channel_settings">Configuració</string>
     <string name="notification_conversation_favorite">Conversa important</string>
