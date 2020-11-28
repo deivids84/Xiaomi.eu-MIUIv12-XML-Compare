@@ -291,7 +291,7 @@
     <string name="menu_item_sort_by_name">Ordena pel nom</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
-    <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·la</string>
