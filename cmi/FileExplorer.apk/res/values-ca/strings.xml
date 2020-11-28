@@ -454,7 +454,7 @@
     <string name="title_app_tags">Aplicacions</string>
     <string name="title_expire_video">A punt d\'expirar</string>
     <string name="title_recent">Recents</string>
-    <string name="title_select_volume">Seleccionar volum</string>
+    <string name="title_select_volume">Seleccioneu una carpeta</string>
     <string name="toast_file_not_can_read">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
     <string name="tools">EINES</string>
     <string name="transfer_done">Fitxers moguts correctament.</string>
