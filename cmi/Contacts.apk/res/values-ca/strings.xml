@@ -1207,5 +1207,5 @@ Trieu una de les següents opcions: "</string>
     <string name="yellowpage_provider_label">Assistència tècnica per al reconeixement de l\'identificador de l\'emissor/remitent de trucada</string>
     <string name="yellowpage_search_the_yellowpage">Cerca en les pàgines grogues</string>
     <string name="yesterday">Ahir</string>
-    <string name="zero_items_selected">Seleccionar elements</string>
+    <string name="zero_items_selected">Seleccioneu els elements</string>
 </resources>
