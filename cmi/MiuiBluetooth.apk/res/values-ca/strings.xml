@@ -385,7 +385,7 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="mi_home_device_find">Descobreix dispositius</string>
     <string name="mi_home_device_ignore">Ignora</string>
     <string name="mi_home_device_start_binding">Vincula-ho ara</string>
-    <string name="mi_key_alert_dialog_message">Premeu \"D\'acord\" per silenciar l\'alarma.</string>
+    <string name="mi_key_alert_dialog_message">Toqueu D\'acord per silenciar l\'alarma.</string>
     <string name="mi_key_alert_dialog_title">Alarma de Mi-Key</string>
     <string name="mi_key_find_mikey">Troba la Mi-Key</string>
     <string name="mi_key_find_phone">Troba el dispositiu</string>
