@@ -7007,7 +7007,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="time_spent_in_app_pref_title">Temps de pantalla</string>
     <string name="time_unit_just_now">Ara mateix</string>
     <string name="time_zen_mode_turn_off">Final</string>
-    <string name="time_zen_mode_turn_on">Començar</string>
+    <string name="time_zen_mode_turn_on">Comença</string>
     <string name="time_zone_auto_stub">Selecciona el fus horari</string>
     <string name="timed_titlei">Temporitzador %d</string>
     <string name="timezone_settings">Fus horari</string>
