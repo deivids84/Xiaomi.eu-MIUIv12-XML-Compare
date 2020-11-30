@@ -129,9 +129,9 @@ Parleu al micròfon frontal, haureu d'escoltar la vostra veu per l'altaveu"</str
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prova de funcionament del micròfon principal. 
 
 Sostingueu el telèfon com si vostè estigués fent una trucada, parleu pel micròfon principal, ha d'escoltar la veu amb ressò"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Test de trucada simulada.
+    <string name="cit_audio_lb_summary_phonecall">"Prova de trucada simulada.
 
-Sostingui el telèfon com si fes una trucada i parleu al micròfon principal, hauríeu sentir la seva veu amb ressò. Feu la prova en un ambient silenciós"</string>
+Mantingueu el telèfon com si féssiu una trucada i parleu pel micròfon principal, hauríeu de sentir la veu a l'altaveu. Feu la prova en un entorn silenciós"</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Prova de funcionament del micròfon posterior. 
 
 Gireu el telèfon, parleu al micròfon, hauríeu d'escoltar la vostra veu per l'altaveu"</string>
