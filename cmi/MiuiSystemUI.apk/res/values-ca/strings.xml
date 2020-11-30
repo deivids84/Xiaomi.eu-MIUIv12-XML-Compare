@@ -145,7 +145,7 @@
     <string name="accessibility_no_wimax">Sense WiMAX.</string>
     <string name="accessibility_not_connected">Sense connexió.</string>
     <string name="accessibility_notification_dismissed">Notificació descartada.</string>
-    <string name="accessibility_notification_section_header_gentle_clear_all">Esborra totes les notificacions silencioses</string>
+    <string name="accessibility_notification_section_header_gentle_clear_all">Neteja totes les notificacions silencioses</string>
     <string name="accessibility_notifications_button">Notificacions.</string>
     <string name="accessibility_one_bar">Una barra.</string>
     <string name="accessibility_output_chooser">Canvia el dispositiu de sortida</string>
@@ -699,7 +699,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
     <string name="disconnect_vpn">Desconnecta la VPN</string>
     <string name="dnd_is_off">No molestar està desactivat</string>
-    <string name="dnd_notification_warnings_title">DND està activat. Les notificacions es silencien i les vibracions estan desactivades.</string>
+    <string name="dnd_notification_warnings_title">No molestis està activat. Les notificacions es silencien i la vibració està desactivada.</string>
     <string name="dnd_suppressing_shade_text">Notificacions en pausa per No molestar</string>
     <string name="do_disclosure_generic">Aquest dispositiu és gestionat per l\'organització</string>
     <string name="do_disclosure_with_name">Aquest dispositiu és gestionat per %s</string>
@@ -901,7 +901,7 @@ Voleu continuar mostrant-los?"</string>
     <string name="inline_ok_button">Aplicar</string>
     <string name="inline_silent_button_alert">Alerta</string>
     <string name="inline_silent_button_keep_alerting">Seguiu avisant</string>
-    <string name="inline_silent_button_silent">Silenciós</string>
+    <string name="inline_silent_button_silent">Silenci</string>
     <string name="inline_silent_button_stay_silent">Queda callat</string>
     <string name="inline_stop_button">Atura les notificacions</string>
     <string name="inline_turn_off_notifications">Desactiva les notificacions</string>
@@ -1387,9 +1387,9 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="notification_priority_title">Prioritat</string>
     <string name="notification_section_header_alerting">Notificacions</string>
     <string name="notification_section_header_conversations">Converses</string>
-    <string name="notification_section_header_gentle">Silenciós</string>
+    <string name="notification_section_header_gentle">Silenci</string>
     <string name="notification_section_header_incoming">Novetat</string>
-    <string name="notification_silence_title">Silenciós</string>
+    <string name="notification_silence_title">Silenci</string>
     <string name="notification_tap_again">Toqueu de nou per obrir-ho</string>
     <string name="notification_unblockable_desc">"Aquestes notificacions no es poden modificar."</string>
     <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
@@ -2039,7 +2039,7 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="volume_ringer_hint_unmute">activa el so</string>
     <string name="volume_ringer_hint_vibrate">vibració</string>
     <string name="volume_ringer_status_normal">Anell</string>
-    <string name="volume_ringer_status_silent">Silencia</string>
+    <string name="volume_ringer_status_silent">Silenci</string>
     <string name="volume_ringer_status_vibrate">Vibrar</string>
     <string name="volume_stream_content_description_mute">%1$s. Toqueu per silenciar. Els serveis d’accessibilitat poden estar silenciats.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. Toqueu per silenciar.</string>
@@ -2048,7 +2048,7 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toqueu per activar la vibració.</string>
     <string name="volume_stream_limited_dnd">%s — Només prioritats</string>
     <string name="volume_stream_muted">%s silenci</string>
-    <string name="volume_stream_muted_dnd">%s silenciós — Silenci total</string>
+    <string name="volume_stream_muted_dnd">%s silenci — Silenci total</string>
     <string name="volume_stream_suppressed">%1$s en silenci — %2$s</string>
     <string name="volume_stream_vibrate">%s en vibració</string>
     <string name="volume_stream_vibrate_dnd">%s vibració — Només prioritats</string>
