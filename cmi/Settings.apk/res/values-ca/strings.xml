@@ -6506,7 +6506,7 @@ Abans d’utilitzar els nostres serveis, llegiu i accepteu els nostres %s."</str
     <string name="sound_category_system_title">Sistema</string>
     <string name="sound_dashboard_summary">Volum, vibració, no molestis</string>
     <string name="sound_effects_enable_title">Sons en tocar</string>
-    <string name="sound_mode">Mode silenciós &amp; DND</string>
+    <string name="sound_mode">Mode silenci i No molestis</string>
     <string name="sound_settings">So</string>
     <string name="sound_settings_example_summary">Volum de notificació del número &amp; al 80%</string>
     <string name="sound_settings_summary">Volum de notificació &amp; anella %1$s</string>
@@ -7034,7 +7034,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="toggle_collapse_after_clicked_title">Redueix després de tocar-ho</string>
     <string name="total">No molesteu</string>
     <string name="total_info">Reduïu les trucades entrants, les notificacions i restringiu les vibracions</string>
-    <string name="total_info_no_vibrator">Silenci les trucades i notificacions entrants</string>
+    <string name="total_info_no_vibrator">Silencia les trucades i notificacions entrants</string>
     <string name="total_memory">Memòria total</string>
     <string name="total_size">%s en total</string>
     <string name="total_size_label">Total</string>
@@ -8712,7 +8712,7 @@ Quan desactiveu No molestar, trobareu les notificacions perdudes lliscant avall 
     <string name="zen_mode_starred_contacts_title">Contactes destacats</string>
     <string name="zen_mode_start_time">Hora d\'inici</string>
     <string name="zen_mode_summary">Reduïu les trucades entrades, les notificacions, els suports i desactiveu les vibracions</string>
-    <string name="zen_mode_summary2">Silencieu les trucades i les notificacions, desactiveu les vibracions</string>
+    <string name="zen_mode_summary2">Silencia les trucades i les notificacions, desactiva la vibració</string>
     <string name="zen_mode_summary_alarms_only_by_time">Canvia al mode Només alarmes fins a %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Canviar a només les alarmes per temps indefinit</string>
     <string name="zen_mode_summary_always">Canvia al mode Interromp sempre</string>
