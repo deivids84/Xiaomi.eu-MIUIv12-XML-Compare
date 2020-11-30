@@ -384,7 +384,7 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">No demanis confirmació en eliminar una nota de manera gestual</string>
     <string name="pref_desc_todo_float_mode">Llisqueu des de la vora de la pantalla per obrir la caixa d’eines de tasques</string>
     <string name="pref_remind_type_summary">Reprodueix el so del recordatori en mode Silenci</string>
-    <string name="pref_remind_type_summary_new">Ignora el mode Silenciós i continua reproduint el so fins que no s’apague l’alarma</string>
+    <string name="pref_remind_type_summary_new">Ignora el mode Silenci i continua reproduint el so fins que l’alarma estigui desactivada</string>
     <string name="pref_remind_type_title">Ignora el mode Silenci</string>
     <string name="pref_remind_type_title_new">Recordatoris d’alta prioritat</string>
     <string name="pref_title_cloud_trash_bin">Elimina notes al Mi Cloud</string>
