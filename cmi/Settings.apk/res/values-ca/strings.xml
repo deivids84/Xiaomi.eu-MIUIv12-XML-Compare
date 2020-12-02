@@ -570,7 +570,7 @@ Canvieu la configuració ara?"</string>
     <string name="app_list_preference_none">Cap</string>
     <string name="app_memory_use">Memoria en ús</string>
     <string name="app_mobile">Dades mòbils</string>
-    <string name="app_name">Preferència</string>
+    <string name="app_name">difumina</string>
     <string name="app_name_label">Aplicació</string>
     <string name="app_name_na">Ús de dades</string>
     <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
@@ -5494,7 +5494,9 @@ Reinicieu el dispositiu i torneu-ho a provar."</string>
     <string name="reset_title">Restabliment</string>
     <string name="resetting_second_space_passwd">Restableix la contrasenya del Segon espai</string>
     <string name="resident_timezone_summary">Segon rellotge</string>
-    <string name="resolution_qhd_summary">3200 × 1440 (consumeix més energia)</string>
+    <string name="resolution_fhd_summary">2400 × 1080 (estalvia bateria)</string>
+    <string name="resolution_qhd_summary">3200 × 1440 (afegeix claredat)</string>
+    <string name="resolution_sub_title">MIUI pot tancar les aplicacions que s’executen en segon pla mentre canvia la resolució</string>
     <string name="resolver_settings_label">Ordena</string>
     <string name="restore_default_apn">S\'està restaurant la configuració APN per defecte.</string>
     <string name="restore_default_apn_completed">S\'ha restablert la configuració APN per defecte.</string>
@@ -5595,7 +5597,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="rx_wifi_speed">Velocitat d\'enllaç</string>
     <string name="safety_and_regulatory_info">Manual de seguretat i regulació</string>
     <string name="save">Desa</string>
-    <string name="save_battery_mode">Estalvieu energia amb QHD +</string>
+    <string name="save_battery_mode">Estalvia bateria amb WQHD+</string>
     <string name="save_battery_mode_summary">Canvieu la resolució automàticament per estalviar energia</string>
     <string name="saved_network">Desat per %1$s</string>
     <string name="saved_wifi">Xarxes desades</string>
