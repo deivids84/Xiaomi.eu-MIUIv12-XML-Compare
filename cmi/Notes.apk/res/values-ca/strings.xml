@@ -365,6 +365,8 @@
     <string name="note_sort_way">Seleccioneu com voleu ordenar les notes</string>
     <string name="notealert_enter">Fer una ullada</string>
     <string name="notealert_ok">Ignorar</string>
+    <string name="notes_description_content">"Notes és una aplicació del sistema. No podreu utilitzar aquesta aplicació després de desinstal·lar-la."</string>
+    <string name="notes_description_title">Voleu desinstal·lar Notes?</string>
     <string name="notification_content_add_todo_from_other_app">Heu afegit una nova tasca. Toqueu per veure-ho.</string>
     <string name="notify_alarm_title">Recordatori de nota</string>
     <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
