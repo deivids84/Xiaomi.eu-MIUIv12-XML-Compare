@@ -446,7 +446,7 @@
     <string name="save_to_gallery_icon_name">Desa-ho a la galeria</string>
     <string name="save_to_gallery_success_message">S\'ha desat correctament</string>
     <string name="search">Notes</string>
-    <string name="search_hint">Cercar notes</string>
+    <string name="search_hint">Cerca notes</string>
     <string name="search_keyword_notes">Notes;Anotació</string>
     <string name="search_label">S\'està cercant…</string>
     <string name="search_menu_title">Cerca</string>
