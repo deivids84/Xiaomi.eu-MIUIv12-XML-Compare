@@ -122,7 +122,6 @@
     <string name="background_location_access_reminder_notification_content">Aquesta aplicació sempre pot accedir a la vostra ubicació. Toqueu per canviar-ho.</string>
     <string name="background_location_access_reminder_notification_title">%s ha estat utilitzant la vostra ubicació</string>
     <string name="clipboard_ai_allow_once">Es permet que %1$s accedeixi automàticament als elements del porta-retalls</string>
-    <string name="clipboard_data">Elements del porta-retalls</string>
     <string name="clipboard_data_request">%1$s està intentant accedir als elements del porta-retalls</string>
     <string name="clipboard_deny_notification_content">Aquest intent s\'ha bloquejat. Toqueu per gestionar els permisos.</string>
     <string name="clipboard_deny_notification_operation">Gestiona</string>
