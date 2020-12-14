@@ -821,6 +821,7 @@ Proveu a canviar a un compte de correu diferent."</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permeteu que el correu accedeixi a la informació d\'emmagatzematge, contactes i calendari a la Configuració</string>
     <string name="open_external_storage_and_contacts_permission">Permeteu que el correu accedeixi a l\'emmagatzematge i als contactes a la Configuració</string>
     <string name="open_notification_kingagent">Activa les notificacions de punts d\'enterrament</string>
+    <string name="open_pdf_error">No s\'ha pogut obrir el fitxer PDF. Baixeu altres eines d\'obertura de PDF i torneu-ho a provar més tard.</string>
     <string name="optimization_suggestion">Suggeriment d\'optimització</string>
     <string name="others_mail">Altres</string>
     <string name="others_mail_des">Altres serveis de correu privat o corporatiu</string>
