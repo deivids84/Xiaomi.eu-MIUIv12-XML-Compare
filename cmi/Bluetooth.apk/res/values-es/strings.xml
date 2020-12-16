@@ -75,7 +75,7 @@
     <string name="incoming_file_confirm_cancel">Rechazar</string>
     <string name="incoming_file_confirm_content">¿Aceptar archivo entrante?</string>
     <string name="incoming_file_confirm_ok">Aceptar</string>
-    <string name="incoming_file_confirm_timeout_content">Se ha agotado el tiempo para aceptar el archivo entrante de \"%1$s\".</string>
+    <string name="incoming_file_confirm_timeout_content">Se agotó el tiempo mientras se aceptaba el archivo entrante de \"%1$s\"</string>
     <string name="incoming_file_confirm_timeout_ok">Aceptar</string>
     <string name="incoming_file_confirm_title">Transferencia de archivos</string>
     <string name="incoming_file_toast_msg">Archivo entrante de otro dispositivo. Confirma que quieres recibir este archivo</string>
