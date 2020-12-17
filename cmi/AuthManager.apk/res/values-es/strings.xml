@@ -96,8 +96,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorizar llamadas entrantes</string>
     <string name="HIPS_Perm_read_clipboard">Acceder a elementos en el portapapeles</string>
     <string name="HIPS_Perm_read_clipboard_Desc">Permitir que aplicaciones accedan a los elementos del portapapeles</string>
-    <string name="HIPS_Perm_read_notification_sms">SMS de servicios</string>
-    <string name="HIPS_Perm_read_notification_sms_Desc">leer SMS de servicio</string>
+    <string name="HIPS_Perm_read_notification_sms">Servicio SMS</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">leer servicio SMS</string>
     <string name="HIPS_Perm_recognition">Acceder a información de actividad</string>
     <string name="HIPS_Perm_recognition_Desc">Permita que la aplicación acceda a la información de su actividad</string>
     <string name="HIPS_Perm_service_foreground">Servicios en primer plano</string>
@@ -109,7 +109,7 @@
     <string name="HIPS_Perm_use_sip">Servicios de vídeo</string>
     <string name="HIPS_Perm_use_sip_Desc">usar el Protocolo de Inicio de Sesión para transmitir vídeo</string>
     <string name="HIPS_Perm_write_clipboard">Guardar elementos en el portapapeles</string>
-    <string name="HIPS_Perm_write_clipboard_Desc">Permitir que las aplicaciones guarden elementos en el portapapeles</string>
+    <string name="HIPS_Perm_write_clipboard_Desc">Permitir a las aplicaciones guardar elementos en el portapapeles</string>
     <string name="HIPS_SecurityPrompt_Caption">Aviso de seguridad</string>
     <string name="HIPS_SecurityPrompt_Reject">Denegar (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restringir y borrar el portapapeles (%d)</string>
