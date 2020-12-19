@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_ACTION_REJECT_CLEAR">Restringir y limpiar portapapeles</string>
-    <string name="HIPS_Action_Accept">Allow</string>
-    <string name="HIPS_Action_Accept_Once">Allow once</string>
-    <string name="HIPS_Action_Accept_This">Allow once</string>
-    <string name="HIPS_Action_Reject">Deny</string>
-    <string name="HIPS_Action_Reject_Once">Deny once</string>
-    <string name="HIPS_Action_Reject_This">Restrict once</string>
+    <string name="HIPS_Action_Accept">Permitir</string>
+    <string name="HIPS_Action_Accept_Once">Permitir una vez</string>
+    <string name="HIPS_Action_Accept_This">Permitir una vez</string>
+    <string name="HIPS_Action_Reject">Denegar</string>
+    <string name="HIPS_Action_Reject_Once">Denegar una vez</string>
+    <string name="HIPS_Action_Reject_This">Restringir una vez</string>
     <string name="HIPS_Perm_Access_Gallery">Acceder a la Galería</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permitir que esta aplicación acceda a los elementos de su galería</string>
     <string name="HIPS_Perm_AudioRecorder">Record audio</string>
