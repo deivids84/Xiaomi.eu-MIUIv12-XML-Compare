@@ -1013,7 +1013,7 @@ Motivo: \"%s\""</string>
     <string name="simContacts_emptyLoading">Cargando contactos desde la tarjeta SIM…</string>
     <string name="simContacts_title">Contactos de la tarjeta SIM</string>
     <string name="sim_capacity">Ver espacio en la tarjeta SIM</string>
-    <string name="sim_capacity_content">%d total | %d usados</string>
+    <string name="sim_capacity_content">%1$d total | %2$d usados</string>
     <string name="sim_card_no_free_space_message">No hay suficiente espacio</string>
     <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
     <string name="sim_contact_existing">El contacto ya existe</string>
