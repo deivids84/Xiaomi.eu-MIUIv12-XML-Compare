@@ -7255,13 +7255,13 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="usage_state_app_usage_detail_title">Detalles de uso de la aplicación</string>
     <string name="usage_state_app_usage_list_title">"Tiempo de uso aplicaciones hoy"</string>
     <string name="usage_state_app_usage_list_week_title">"Tiempo de uso aplicaciones (últimos 7 días)"</string>
-    <string name="usage_state_app_usage_tip_title">Tiempo de uso entre %d:00 y %d:00</string>
+    <string name="usage_state_app_usage_tip_title">Tiempo de pantalla entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_app_use_time">Uso de pantalla de aplicación</string>
     <string name="usage_state_channel_mouth">Últimos 30 días</string>
     <string name="usage_state_channel_week">Últimos 7 días</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %d:00 y %d:00</string>
-    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado %d:00 and %d:00</string>
+    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %1$d:00 y %2$d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_friday">Vie</string>
     <string name="usage_state_go_more">Más aplicaciones</string>
     <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
@@ -7881,7 +7881,6 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_calling_off_explanation">Si has activado las llamadas Wi-Fi, tu teléfono puede establecer las llamadas por redes Wi-Fi o por la red de tu operador, en función de la preferencia que hayas establecido y de qué señal tenga más potencia. Antes de activar esta función, consulta con tu proveedor las tarifas aplicables y otros detalles.</string>
     <string name="wifi_calling_pref_managed_by_carrier">Configuración gestionada por el operador</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Preferencia de itinerancia</string>
-    <string name="wifi_calling_roaming_mode_summary">De %1$s</string>
     <string name="wifi_calling_roaming_mode_title">Preferencia de itinerancia</string>
     <string name="wifi_calling_settings_activation_instructions">Activar llamadas WLAN</string>
     <string name="wifi_calling_settings_title">Llamadas Wi-Fi</string>
