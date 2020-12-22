@@ -17,12 +17,6 @@
         <item>Máximo 3 procesos</item>
         <item>Máximo 4 procesos</item>
     </string-array>
-    <string-array name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item>Mi VR</item>
-        <item>Xiaomi desgaste</item>
-    </string-array>
     <string-array name="ble_profile_mi_band">
         <item>Vibrar al sonar</item>
         <item>Vibrar al recibir mensaje</item>
