@@ -42,12 +42,12 @@
     <string name="ambient_display_screen_title_sp">Pantalla ambiental</string>
     <string name="aod_close_color_inversion">"Esta función no puede ser combinada con inversión del color. Desactiva inversión del color primero."</string>
     <string name="aod_component">Elementos mostrados</string>
-    <string name="aod_dual_clock_date">HH: mm MM / dd</string>
-    <string name="aod_dual_clock_date_12">hh: mm MM / dd aa</string>
+    <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+    <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
-    <string name="aod_lock_screen_date_12_signature">dd/MM</string>
-    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_12_signature">d/M</string>
+    <string name="aod_lock_screen_date_signature">d/M</string>
     <string name="aod_lock_screen_date_smartcover">"EE
 dd/MM"</string>
     <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
@@ -136,7 +136,7 @@ dd/MM"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">D</string>
-    <string name="fmt_time_minute">mill</string>
+    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
@@ -343,7 +343,7 @@ está a punto de suceder"</string>
     <string name="super_wallpaper_date">"EE
 dd/MM"</string>
     <string name="super_wallpaper_date_inter">"EEEE
-dd/MM"</string>
+dd/M"</string>
     <string name="temporary_style">Durante 10 segundos después de tocar</string>
     <string name="temporary_style_summary">Recomendado</string>
     <string name="text_color">Color del texto</string>
