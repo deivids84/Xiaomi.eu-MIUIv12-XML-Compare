@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="settings_search_earth">
-        <item>Inicio</item>
-        <item>Fondos de pantalla / Super fondos de pantalla / Inicio</item>
+        <item>Hogar</item>
+        <item>Fondos de pantalla/ Super fondos de pantalla/Hogar</item>
         <item>Tierra; Super fondos de pantalla; Edición Tierra; Fondo de pantalla</item>
     </string-array>
     <string-array name="settings_search_mars">
