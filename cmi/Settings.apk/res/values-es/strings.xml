@@ -5076,7 +5076,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="power_remaining_duration_only_enhanced">Alrededor de %1$s restante en función de su uso</string>
     <string name="power_remaining_duration_only_short">%1$s restante</string>
     <string name="power_remaining_duration_only_shutdown_imminent">El teléfono puede apagarse pronto</string>
-    <string name="power_remaining_duration_shutdown_imminent">El teléfono puede apagarse pronto (%2$s)</string>
+    <string name="power_remaining_duration_shutdown_imminent">El dispositivo puede apagarse pronto (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos del %1$s restante (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Queda menos del %1$s</string>
     <string name="power_remaining_more_than_subtext">Más de %1$s restantes (%2$s)</string>
