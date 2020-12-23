@@ -229,7 +229,7 @@
     <string name="instruction_pre_phone">Toqueu per iniciar el servidor FTP</string>
     <string name="just_now">ara</string>
     <string name="kilobyteShort">KB</string>
-    <string name="launcher_icon_add_description">Afegiu una drecera a la pantalla d\'inici</string>
+    <string name="launcher_icon_add_description">Afegeix una drecera a la pantalla d\'inici</string>
     <string name="launcher_icon_remove_description_content">"El Gestor de fitxers és una aplicació del sistema. No podreu gestionar els fitxers del dispositiu després de suprimir la drecera de la pantalla d'inici."</string>
     <string name="launcher_icon_remove_description_title">Voleu suprimir \"Gestor de fitxers\" de la pantalla d\'inici?</string>
     <string name="list_mode">Vista de llista</string>
