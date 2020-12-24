@@ -1735,7 +1735,6 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="condition_zen_summary_phone_muted">Teléfono silenciado</string>
     <string name="condition_zen_summary_with_exceptions">Con excepciones</string>
     <string name="condition_zen_title">No molestar está activado</string>
-    <string name="config_charging_function_name">cargando</string>
     <string name="config_list_label">Redes configuradas</string>
     <string name="configure">Configurar</string>
     <string name="configure_apps">Configurar aplicaciones</string>
@@ -3617,8 +3616,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_agps_apn_choose_dialog_title">Tipos de APN</string>
     <string name="location_agps_apn_summary">Selecciona el tipo de APN preferida</string>
     <string name="location_agps_apn_type">Tipos de APN</string>
-    <string name="location_agps_def_network_mode">CASA</string>
-    <string name="location_agps_def_reset_type">TENDENCIA</string>
     <string name="location_agps_params_settings_title">Ajustes A-GPS</string>
     <string name="location_agps_pref_apn_title">APN preferida</string>
     <string name="location_agps_pref_network_title">Redes preferidas</string>
