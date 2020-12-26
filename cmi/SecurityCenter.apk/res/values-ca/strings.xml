@@ -2461,7 +2461,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_battery_app_detail">Ús de la bateria de l\'aplicació</string>
     <string name="power_center_battery_charge_night">Estalvieu la bateria mentre es carrega a la nit</string>
     <string name="power_center_battery_charge_times">Carregada avui</string>
-    <string name="power_center_battery_chargefull_time">Fins que estigui completament carregat</string>
+    <string name="power_center_battery_chargefull_time">Fins a la càrrega completa</string>
     <string name="power_center_battery_detail">Detalls</string>
     <string name="power_center_battery_duration">Temps restant</string>
     <string name="power_center_battery_hardware">Maquinari %s</string>
