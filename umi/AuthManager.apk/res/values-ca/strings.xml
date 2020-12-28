@@ -151,7 +151,9 @@
     <string name="app_name">Permisos</string>
     <string name="background_location_access_reminder_notification_content">Aquesta aplicació sempre pot accedir a la vostra ubicació. Toqueu per canviar-ho.</string>
     <string name="background_location_access_reminder_notification_title">%s ha estat utilitzant la vostra ubicació</string>
+    <string name="blur_location_is_on_tip">%1$s ha iniciat el servei d\'ubicació aproximada. Voleu mantenir activat el servei d’ubicació aproximada?</string>
     <string name="blur_location_now_tip">La ubicació aproximada està activada</string>
+    <string name="blur_location_title">Ubicació aproximada</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="clipboard_ai_allow_once">Es permet que %1$s accedeixi automàticament als elements del porta-retalls</string>
     <string name="clipboard_data">"Contingut: "</string>
@@ -182,6 +184,7 @@
     <string name="go_behavior_record">Historial de comportament de l\'aplicació</string>
     <string name="go_perm_manager">Gestiona els permisos</string>
     <string name="go_setting">Configuració</string>
+    <string name="gold_master_dialog_reject">Rebutja (%d)</string>
     <string name="grant_dialog_button_allow">Permet</string>
     <string name="grant_dialog_button_allow_always">Permet permanentment</string>
     <string name="grant_dialog_button_allow_background">Permet permanentment</string>
