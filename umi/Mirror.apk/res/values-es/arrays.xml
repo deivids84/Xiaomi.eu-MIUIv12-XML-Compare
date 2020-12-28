@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_tips_title">
+        <item>"¿No puedes conectarte usando un código QR?"</item>
+        <item>"¿No puede encontrar dispositivos móviles con su computadora?"</item>
+        <item>"¿No puedes bloquear tu dispositivo móvil?"</item>
+        <item>Compatibilidad</item>
+    </string-array>
+</resources>
