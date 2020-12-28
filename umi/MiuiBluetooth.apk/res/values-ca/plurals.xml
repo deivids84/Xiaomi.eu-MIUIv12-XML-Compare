@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Mantingueu premut el botó de la capsa durant %1$d segons</item>
+        <item quantity="one">Mantingueu premut el botó de la capsa durant %1$d segon</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segons</item>
+        <item quantity="one">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segon</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Mantén premut durant %1$d segons per restablir-lo</item>
+        <item quantity="one">Mantén premut durant %1$d s per restablir</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>
+        <item quantity="one">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositius connectats</item>
+        <item quantity="one">%1$d dispositiu connectat</item>
+    </plurals>
+</resources>
