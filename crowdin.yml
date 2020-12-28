@@ -1,5 +1,5 @@
 files:
-  - source: /cmi/**/values/*.xml
+  - source: /umi/**/values/*.xml
     ignore:
       - /*_stable/
-    translation: /cmi/**/values-%two_letters_code%/%original_file_name%
+    translation: /umi/**/values-%two_letters_code%/%original_file_name%
