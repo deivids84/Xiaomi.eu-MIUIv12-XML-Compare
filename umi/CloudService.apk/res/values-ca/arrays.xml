@@ -35,8 +35,8 @@
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Sincronitzeu els contactes, els missatges, les notes, el calendari i molt més</item>
         <item>Feu una còpia de seguretat de les aplicacions, del disseny de la pantalla d\'inici i del fons de pantalla</item>
-        <item>Back up important settings, including Wi-Fi and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Feu una còpia de seguretat de les configuracions importants, inclosa la Wi-Fi i la pantalla</item>
+        <item>"Bloquegeu el dispositiu remotament si es perd"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronitza les dades de l\'aplicació</item>
