@@ -26,6 +26,12 @@
         <item>Feu una còpia de seguretat de la configuració important, inclosa la WLAN i la pantalla</item>
         <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sincronitza els vostres contactes, missatges, notes, calendari i molt més</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronitza les dades de l\'aplicació</item>
         <item>Còpia de seguretat del disseny de la pantalla d\'inici</item>
