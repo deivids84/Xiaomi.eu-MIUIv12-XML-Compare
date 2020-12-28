@@ -185,6 +185,7 @@
     <string name="go_perm_manager">Gestiona els permisos</string>
     <string name="go_setting">Configuració</string>
     <string name="gold_master_dialog_reject">Rebutja (%d)</string>
+    <string name="gold_master_dialog_title">%1$s vol llegir el porta-retalls</string>
     <string name="grant_dialog_button_allow">Permet</string>
     <string name="grant_dialog_button_allow_always">Permet permanentment</string>
     <string name="grant_dialog_button_allow_background">Permet permanentment</string>
@@ -197,6 +198,7 @@
     <string name="grant_dialog_storage_category_title">Aquesta aplicació requereix permisos per accedir a la galeria i als missatges de les aplicacions de xarxes socials</string>
     <string name="grant_dialog_storage_gallery_title">Galeria</string>
     <string name="grant_dialog_storage_sociality_title">Missatges en aplicacions de xarxes socials</string>
+    <string name="keep_blur_location">Manté activat</string>
     <string name="keep_notice_me">Segueix notificant</string>
     <string name="location_settings">Configuració d\'ubicació</string>
     <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació d\'aquest dispositiu. L’accés a la ubicació es pot modificar des de la configuració d’ubicació.</string>
@@ -208,9 +210,11 @@
     <string name="miuix_appcompat_cancel_description">Cancel·la</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha actualitzat correctament</string>
