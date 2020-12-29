@@ -1087,6 +1087,8 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="severe_abnormal">Crisis hipertensivas</string>
     <string name="severe_abnormal_tip">Todos los días después de levantarse, después del almuerzo y antes de acostarse</string>
     <string name="share">Compartir</string>
+    <string name="share_card_title_outdoor_hiking">Senderismo %s</string>
+    <string name="share_card_title_outdoor_riding">Ciclismo</string>
     <string name="skip">Saltar</string>
     <string name="skip_to_next_item_button_content_description">Saltar al siguiente elemento</string>
     <string name="skip_to_previous_item_button_content_description">Saltar al elemento anterior</string>
