@@ -401,10 +401,15 @@
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data final</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Canvia el mode d\'entrada del calendari</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a la selecció del dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d’entrada de text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció de l\'any</string>
     <string name="name_empty">Introduïu un nom</string>
     <string name="need_read_storage_permission">"El Gestor de fitxers necessita permís per accedir a l'emmagatzematge del dispositiu per funcionar correctament."</string>
     <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
     <string name="new_folder_name">Carpeta sense nom</string>
+    <string name="night">Vespre</string>
     <string name="no">No</string>
     <string name="no_apk">Toqui per obtenir aplicacions.</string>
     <string name="no_app_tags">Buit</string>
@@ -412,6 +417,7 @@
     <string name="no_enough_storage_title">No hi ha espai suficient</string>
     <string name="no_file">Buit</string>
     <string name="no_wifi">No hi ha cap xarxa detectada</string>
+    <string name="noon">Migdia</string>
     <string name="not_set">Sense especificar</string>
     <string name="not_support_documentui">"DocumentUI no és compatible amb aquest dispositiu"</string>
     <string name="not_use">Ara no</string>
@@ -464,6 +470,7 @@
     <string name="partial_cancel_successful">"No s'han pogut treure alguns fitxers. La resta van ser moguts a %s."</string>
     <string name="partial_delete_failure">"No s'han pogut eliminar alguns fitxers, intenta de nou"</string>
     <string name="partial_encrypt_success">"No s'han pogut amagar alguns fitxers, intenta de nou"</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_name_email">Correu</string>
     <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu que el Gestor de fitxers accedeixi als fitxers des de la configuració."</string>
     <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu al Gestor de fitxers accedir als fitxers des de la configuració"</string>
@@ -484,6 +491,7 @@
     <string name="phone_storage_zip_title">Fitxers:&#160;</string>
     <string name="pick_file">Seleccioneu fitxers</string>
     <string name="pick_folder">Triar carpeta</string>
+    <string name="pm">pm</string>
     <string name="port_range">El port ha d\'estar entre 1024 i 65535</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="privacy_policy">Política de privadesa</string>
@@ -518,6 +526,9 @@
     <string name="rlv_pull_to_refresh">Tira avall per recarregar</string>
     <string name="rlv_refreshing">S\'està actualitzant&#8230;</string>
     <string name="rlv_release_to_refresh">Deixeu anar per actualitzar</string>
+    <string name="saturday">Dissabte</string>
+    <string name="saturday_short">Ds.</string>
+    <string name="saturday_shortest">ds.</string>
     <string name="save_file_to_mishare">"Desat a la carpeta de Mi Share"</string>
     <string name="search_app">Font</string>
     <string name="search_app_more">Més</string>
