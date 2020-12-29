@@ -75,6 +75,7 @@
     <string name="bh_adjusting">Calibrando…</string>
     <string name="bh_app_name">Servicios de Mi Carrier</string>
     <string name="bh_app_name_short">Servicios del operador</string>
+    <string name="bh_back">Atrás</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recargar saldo</string>
     <string name="bh_bugreport">Comentarios comerciales</string>
@@ -89,6 +90,7 @@
     <string name="bh_charge_number">Relleno %1$s</string>
     <string name="bh_charged_phone_number">Número de teléfono: %1$s</string>
     <string name="bh_close_traffic_package">Cerrar los detalles del plan del operador</string>
+    <string name="bh_confirm">Aceptar</string>
     <string name="bh_contact_number">%1$s de tus contactos</string>
     <string name="bh_current_no_sim">"La tarjeta SIM no está insertada"</string>
     <string name="bh_current_sim_number">Número de teléfono SIM actual %1$s</string>
@@ -101,6 +103,7 @@
     <string name="bh_exchange_number">Cambie el número</string>
     <string name="bh_fetch_balance">Consultar saldo</string>
     <string name="bh_flow_exceed">Superó el límite</string>
+    <string name="bh_funtion_desc">¡Bienvenido a Mi Carrier Services! Puedes usar esta aplicación para comprobar el saldo de tu teléfono, comprar minutos de llamadas y datos móviles, y más. Esta aplicación necesita conectarse a la red para poder funcionar con normalidad.</string>
     <string name="bh_get_balance_success">Comprobado con éxito. Es posible que la información se actualice con un retraso aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccionar desde contactos</string>
     <string name="bh_goto_set">Establecer</string>
