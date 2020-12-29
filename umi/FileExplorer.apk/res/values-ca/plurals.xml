@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d min</item>
+        <item quantity="one">d\'aquí a 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d fitxers temporals de WeChat Video s'eliminaran, voleu fer-ne còpies?"</item>
         <item quantity="one">"%1$d fitxer temporal de WeChat Video s'eliminara, voleu fer-ne còpia?"</item>
