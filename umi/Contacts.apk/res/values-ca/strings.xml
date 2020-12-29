@@ -75,6 +75,7 @@
     <string name="bh_adjusting">S\'està calibrant…</string>
     <string name="bh_app_name">Serveis de l\'operador Mi</string>
     <string name="bh_app_name_short">Serveis de l\'operador</string>
+    <string name="bh_back">Enrere</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recàrrega saldo</string>
     <string name="bh_bugreport">Comentaris empresarials</string>
@@ -89,6 +90,7 @@
     <string name="bh_charge_number">Recàrrega %1$s</string>
     <string name="bh_charged_phone_number">Número de telèfon: %1$s</string>
     <string name="bh_close_traffic_package">Tanca els detalls del pla de l\'operador</string>
+    <string name="bh_confirm">D\'acord</string>
     <string name="bh_contact_number">%1$s dels vostres contactes</string>
     <string name="bh_current_no_sim">"La targeta SIM no està inserida"</string>
     <string name="bh_current_sim_number">Número de telèfon de la SIM actual %1$s</string>
@@ -101,6 +103,7 @@
     <string name="bh_exchange_number">Canvia de número</string>
     <string name="bh_fetch_balance">Comproveu el saldo</string>
     <string name="bh_flow_exceed">Va superar el límit</string>
+    <string name="bh_funtion_desc">Us donem la benvinguda a Mi Carrier Services. Podeu utilitzar aquesta aplicació per comprovar el saldo del telèfon, comprar minuts de trucades i dades mòbils i molt més. Aquesta aplicació ha de connectar-se a la xarxa per poder funcionar amb normalitat.</string>
     <string name="bh_get_balance_success">S\'ha comprovat correctament. La informació es pot actualitzar amb un retard aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccioneu un dels contactes</string>
     <string name="bh_goto_set">Conjunt</string>
