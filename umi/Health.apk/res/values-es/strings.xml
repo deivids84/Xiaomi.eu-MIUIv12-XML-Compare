@@ -1089,6 +1089,16 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="share">Compartir</string>
     <string name="share_card_title_outdoor_hiking">Senderismo %s</string>
     <string name="share_card_title_outdoor_riding">Ciclismo</string>
+    <string name="share_card_title_outdoor_running">Correr</string>
+    <string name="share_card_title_outdoor_walking">Caminar</string>
+    <string name="share_card_title_pool_swimming">Natación %s</string>
+    <string name="share_card_title_riding">Ciclismo</string>
+    <string name="share_card_title_rope_skipping">Saltar a la Comba</string>
+    <string name="share_card_title_running">Correr</string>
+    <string name="share_card_title_stair_climbing">Subir escaleras</string>
+    <string name="share_card_title_swimming">Natación</string>
+    <string name="share_card_title_treadmill">Cinta de correr %s</string>
+    <string name="share_card_title_walking">Caminar %s</string>
     <string name="skip">Saltar</string>
     <string name="skip_to_next_item_button_content_description">Saltar al siguiente elemento</string>
     <string name="skip_to_previous_item_button_content_description">Saltar al elemento anterior</string>
