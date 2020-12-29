@@ -624,6 +624,8 @@ Torneu a començar."</string>
     <string name="hr_report_regular_normal_desc">"La freqüència cardíaca actual és normal. El cor pot suportar bé l’estrès i el cos pot resistir la pressió externa. Tanmateix, no s’ha d’oblidar que els canvis en la freqüència cardíaca poden ser els signes de malalties cardíaques. Sempre vigileu la freqüència cardíaca, especialment durant l’exercici."</string>
     <string name="hr_report_regular_slow_desc">"La freqüència cardíaca actual és massa lenta. Al voltant del 15% de les persones poden experimentar bradicàrdia fisiològica, que és un ritme sinusal lent inferior a 60 BPM. Si aquesta afecció no provoca marejos, apagades, vertigen o desmais, és probable que no necessiteu cap tractament. No obstant això, si teniu tensió toràcica o altres símptomes, consulteu el vostre metge a temps."</string>
     <string name="hr_report_resting_fast_desc">La freqüència cardíaca en repòs és més ràpida del normal, cosa que podria ser signe de taquicàrdia. Una dieta baixa en sal i oli, pèrdua de pes, deixar de fumar i l\'alcohol, la consciència de salut mental i l\'activitat física us poden ajudar a disminuir la freqüència cardíaca en repòs.</string>
+    <string name="hr_report_resting_normal_desc">"La freqüència cardíaca en repòs és normal. La freqüència cardíaca en repòs és el nombre de vegades que el cor batega per minut quan estàs en repòs. El millor moment per mesurar la freqüència cardíaca en repòs és quan et lleves al matí, mentre estàs estirat al llit i no fas cap activitat física. Preneu-vos una estona per respirar profundament abans de mesurar la freqüència cardíaca en repòs per relaxar completament el cos."</string>
+    <string name="hr_report_resting_slow_desc">La freqüència cardíaca en repòs és més lenta del normal, cosa que podria ser signe de bradicàrdia. Els períodes prolongats de batec cardíac lent poden causar isquèmia i hipòxia, així com altres trastorns cardiovasculars i cerebrovasculars. La freqüència cardíaca en repòs està estretament relacionada amb la vostra dieta, activitat, nivells d’estrès, hàbits de son i condició física general. Mantingueu un estil de vida saludable i presteu atenció al vostre cos per evitar problemes. Si teniu tensió toràcica, marejos, apagades, vertigen o desmais, consulteu el vostre metge a temps.</string>
     <string name="hr_see_report">Visualitza l\'informe</string>
     <string name="hr_start_detect">Comenceu a experimentar</string>
     <string name="hr_state">Estat</string>
@@ -938,6 +940,7 @@ Torneu a començar."</string>
     <string name="oar_time">Temps de conducció</string>
     <string name="oauth_account_failed">"No s'ha pogut obtenir la informació del compte"</string>
     <string name="oauth_account_failed_desc">Per afegir fonts de dades, Xiaomi health ha d’utilitzar el vostre Compte Mi. Inicieu la sessió per continuar.</string>
+    <string name="oauth_invalid">Sessió expirada. Torneu a iniciar la sessió.</string>
     <string name="ok">D\'acord</string>
     <string name="open">Activa</string>
     <string name="open_data_sync_description">Activeu la sincronització amb el núvol per sincronitzar les dades de salut d\'altres fonts.</string>
@@ -1023,6 +1026,8 @@ Torneu a començar."</string>
     <string name="rb_gender_female">Sexe: Dona</string>
     <string name="rb_gender_male">Sexe: Home</string>
     <string name="reach_standard">Compleix la norma</string>
+    <string name="recog_permission_dialog_content">Permet que Xiaomi Health accedeixi a la informació de la vostra activitat per poder veure el recompte de passos.</string>
+    <string name="recog_permission_dialog_title">Permisos necessaris</string>
     <string name="recommand_body_weight_msg">Pes objectiu recomanat: %1$.1f kg. Arribar a l’IMC %2$.1f per reduir el risc de patir malalties cardiovasculars i hepàtiques.</string>
     <string name="record_blood_pressure">Registre de mesuraments</string>
     <string name="record_blood_pressure_exception1">"No s'ha pogut desar. La pressió sistòlica no pot ser inferior a la pressió diastòlica."</string>
@@ -1111,6 +1116,9 @@ Torneu a començar."</string>
     <string name="severe_abnormal">Crisis hipertensives</string>
     <string name="severe_abnormal_tip">Cada dia després d\'aixecar-se, després de dinar i abans d\'anar a dormir</string>
     <string name="share">Comparteix</string>
+    <string name="share_card_key_avg_pace">Ritme</string>
+    <string name="share_card_key_consume">Calories</string>
+    <string name="share_card_key_groups">Intervals</string>
     <string name="skip">Omet</string>
     <string name="skip_to_next_item_button_content_description">Salta a l\'element següent</string>
     <string name="skip_to_previous_item_button_content_description">Salta a l\'element anterior</string>
