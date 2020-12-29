@@ -29,10 +29,13 @@
     <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="action_mode_deselect_all">Desselecciona-ho tot</string>
     <string name="action_mode_select_all">Selecciona-ho tot</string>
+    <string name="actionbar_button_up_description">Enrere</string>
     <string name="ad_download">Baixada</string>
     <string name="add_private">Amaga els fitxers ara</string>
     <string name="add_private_files">Afegeix fitxers</string>
+    <string name="afternoon">Tarda</string>
     <string name="aggree_desc">Permeteu a aquesta aplicació connectar-se a Internet i atorgar els permisos obligatoris enumerats anteriorment.</string>
+    <string name="am">am</string>
     <string name="app_all_purpose">Us donem la benvinguda al Gestor de fitxers! Podeu utilitzar aquesta aplicació per gestionar els fitxers emmagatzemats al dispositiu.</string>
     <string name="app_function">Gestioneu els fitxers del dispositiu</string>
     <string name="app_name">Fitxers</string>
@@ -82,6 +85,8 @@
     <string name="category_type_other">Altres</string>
     <string name="category_video">Vídeos</string>
     <string name="category_zip">Fitxers</string>
+    <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="clean_hint">Tocar per alliberar espai</string>
     <string name="click_to_switch_volume">Toqueu per canviar de volums</string>
     <string name="click_to_switch_volume_pad">Toqueu per canviar entre l\'emmagatzematge intern i la targeta SD</string>
