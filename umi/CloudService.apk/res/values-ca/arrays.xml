@@ -111,6 +111,11 @@
         <item>Activa la sincronització</item>
         <item>Notes;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sincronitzeu les notes amb Xiaomi Cloud</item>
+        <item>Activeu la sincronització</item>
+        <item>Notes;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+    </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Sincronitza el Tauler d\'aplicacions amb Xiaomi Cloud</item>
         <item>Activa la sincronització</item>
