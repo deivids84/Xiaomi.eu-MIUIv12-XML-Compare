@@ -242,6 +242,8 @@
 Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_dspt_provision">Utilitzeu Xiaomi Cloud per sincronitzar dades, localitzar el dispositiu i compartir coses amb els amics.</string>
     <string name="micloud_dspt_provision_china">Utilitzeu Xiaomi Cloud per sincronitzar dades, localitzar el dispositiu i compartir coses amb els amics.</string>
+    <string name="micloud_dspt_provision_china_v2">Utilitzeu Xiaomi Cloud per sincronitzar dades, localitzar el dispositiu i compartir coses amb els amics.</string>
+    <string name="micloud_dspt_provision_v2">Utilitzeu Xiaomi Cloud per sincronitzar dades, localitzar el dispositiu i compartir coses amb els amics.</string>
     <string name="micloud_dspt_provision_xms">Utilitzeu Xiaomi Cloud per sincronitzar dades.</string>
     <string name="micloud_dspt_provision_xms_china">Utilitzeu Xiaomi Cloud per sincronitzar les dades.</string>
     <string name="micloud_find_device_close_alert_content">"Si desactiveu Troba el dispositiu, no podreu localitzar el dispositiu mitjançant aquesta funció. Si el vostre dispositiu admet NFC, totes les vostres targetes bancàries i claus se suprimiran de Mi Pay. Les persones amb qui compartiu la ubicació no podran rebre actualitzacions sobre el vostre parador."</string>
@@ -262,6 +264,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_find_device_guide_fail_reopen">Podeu activar Troba el dispositiu al Compte Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Comprova la teva connexió de xarxa i torna a intentar-ho.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronitza contactes, fotos, notes i molt més amb Xiaomi Cloud</string>
+    <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronitzeu contactes, fotos, notes i molt més amb Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_noti_content">Protegiu les vostres dades fins i tot quan es perdi el vostre dispositiu</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Les seves dades de QQ estaran segures fins i tot si perd el seu dispositiu</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Les seves dades de WeChat estaran segures fins i tot si perd el seu dispositiu</string>
@@ -379,6 +382,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_setting_gallery_summary">Fotos i vídeos</string>
     <string name="micloud_setting_music_summary">Llistes de reproducció i favorits</string>
     <string name="micloud_setting_notes_summary">Notes</string>
+    <string name="micloud_setting_notes_summary_v2">Notes</string>
     <string name="micloud_setting_personal_assistant_summary">Targetes i característiques del Tauler d\'aplicacions</string>
     <string name="micloud_setting_phrase_summary">Frases freqüents</string>
     <string name="micloud_setting_recorder_summary">Enregistraments d\'àudio i de trucades</string>
