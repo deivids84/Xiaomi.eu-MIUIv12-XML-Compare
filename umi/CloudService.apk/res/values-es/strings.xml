@@ -241,6 +241,8 @@
 Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_dspt_provision">Usa Xiaomi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con tus amigos.</string>
     <string name="micloud_dspt_provision_china">Usa Xiaomi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con tus amigos.</string>
+    <string name="micloud_dspt_provision_china_v2">Usa Xiaomi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con tus amigos.</string>
+    <string name="micloud_dspt_provision_v2">Usa Xiaomi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con tus amigos.</string>
     <string name="micloud_dspt_provision_xms">Usa Xiaomi Cloud para sincronizar los datos.</string>
     <string name="micloud_dspt_provision_xms_china">Usa Xiaomi Cloud para sincronizar los datos.</string>
     <string name="micloud_find_device_close_alert_content">"Si desactivas esta función, no podrás localizar tu dispositivo si lo pierdes."</string>
@@ -261,6 +263,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_guide_fail_reopen">Puedes activar Encontrar dispositivo en Cuenta Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Comprueba tu conexión de red e inténtalo de nuevo.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
+    <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_noti_content">Protege tus datos incluso si pierdes tu dispositivo</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Tus datos de QQ estarán a salvo, incluso si pierde el dispositivo</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Tus datos de WeChat estarán a salvo, incluso si pierde el dispositivo</string>
@@ -378,6 +381,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_setting_gallery_summary">Fotos y vídeos</string>
     <string name="micloud_setting_music_summary">Listas de reproducción y favoritos</string>
     <string name="micloud_setting_notes_summary">Notas</string>
+    <string name="micloud_setting_notes_summary_v2">Notas</string>
     <string name="micloud_setting_personal_assistant_summary">Tarjetas y funciones de la Bóveda de aplicaciones</string>
     <string name="micloud_setting_phrase_summary">Frases frecuentes</string>
     <string name="micloud_setting_recorder_summary">Grabaciones de audio y llamadas</string>
