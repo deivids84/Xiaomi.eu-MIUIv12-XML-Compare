@@ -1135,6 +1135,14 @@ Torneu a començar."</string>
     <string name="share_card_title_outdoor_walking">Caminar %s</string>
     <string name="share_card_title_pool_swimming">Natació a la piscina %s</string>
     <string name="share_card_title_riding">Ciclisme %s</string>
+    <string name="share_card_title_rope_skipping">Saltar la corda %s</string>
+    <string name="share_card_title_rowing_machine">Rem %s</string>
+    <string name="share_card_title_running">Correr %s</string>
+    <string name="share_card_title_stair_climbing">Pujar escales</string>
+    <string name="share_card_title_swimming">Natació %s</string>
+    <string name="share_card_title_treadmill">Cinta de córrer %s</string>
+    <string name="share_card_title_walking">Caminar %s</string>
+    <string name="share_card_title_yoga">Ioga</string>
     <string name="skip">Omet</string>
     <string name="skip_to_next_item_button_content_description">Salta a l\'element següent</string>
     <string name="skip_to_previous_item_button_content_description">Salta a l\'element anterior</string>
@@ -1142,6 +1150,7 @@ Torneu a començar."</string>
     <string name="skipping_detection_no">"No s'ha pogut detectar l'entrenament."</string>
     <string name="skipping_detection_no_hint">Eviteu llocs sorollosos i mantingueu aquest dispositiu a prop.</string>
     <string name="skipping_kcal">Calories</string>
+    <string name="skipping_pause">Entrenament en pausa</string>
     <string name="skipping_pause_tips">En pausa | Repreneu l\'entrenament per continuar el seguiment automàticament</string>
     <string name="skipping_ready">Ja podeu començar l’entrenament</string>
     <string name="skipping_ready_hint_one">Mantingueu aquest dispositiu a no més d’un metre de distància.</string>
@@ -1150,8 +1159,11 @@ Torneu a començar."</string>
     <string name="skipping_reset_time">Descans</string>
     <string name="skipping_start_counting">Comença</string>
     <string name="skipping_time">Durada</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Puja</string>
+    <string name="skipping_upload_dialog_msg">Quan el dispositiu estigui connectat a %s, podeu optar per carregar l\'àudio gravat durant els entrenaments per tal de millorar la precisió de les estadístiques de l\'entrenament. Per protegir la vostra privadesa, els fitxers d\'àudio es xifraran.</string>
     <string name="skipping_upload_dialog_reject_not_remind">No, gràcies</string>
     <string name="skipping_upload_dialog_title">Puja l\'àudio</string>
+    <string name="skipping_upload_tips">Pugeu l\'àudio per fer les estadístiques més precises</string>
     <string name="sleep">Dormir</string>
     <string name="sleep_and_get_up_time">Horari de dormir</string>
     <string name="sleep_auto_start_perm_grant">Permisos concedits</string>
@@ -1164,6 +1176,7 @@ Torneu a començar."</string>
     <string name="sleep_deep">Son profund</string>
     <string name="sleep_deep_light_analysis">Son lleuger i son profund</string>
     <string name="sleep_deep_light_close_tip">L’anàlisi del son profund està desactivada</string>
+    <string name="sleep_deep_light_no_data">"No s'ha pogut fer un seguiment del son. Si col·loqueu el dispositiu mòbil al costat del coixí, les dades de son seran més precises."</string>
     <string name="sleep_detection_enable">Analitza el cicle del son</string>
     <string name="sleep_detection_feedback">Comentaris</string>
     <string name="sleep_detection_guide_four_description">El seguiment del son només consumeix aproximadament l’1% de la bateria per nit</string>
@@ -1363,6 +1376,9 @@ les dades de son"</string>
     <string name="sport_step_max_frequency">El més alt</string>
     <string name="sport_step_min_frequency">El més baix</string>
     <string name="sport_title_step_frequency">Cadència</string>
+    <string name="sport_tts_1">Un</string>
+    <string name="sport_tts_2">Dos</string>
+    <string name="sport_tts_3">Tres</string>
     <string name="sport_tts_begin_riding">Comença a pedalar</string>
     <string name="sport_tts_begin_running">Comença a córrer</string>
     <string name="sport_tts_begin_walking">Comença a caminar</string>
