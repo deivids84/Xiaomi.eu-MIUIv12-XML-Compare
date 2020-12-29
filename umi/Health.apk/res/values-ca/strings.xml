@@ -596,6 +596,13 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="hr_fp_area">Escàner d’empremtes</string>
     <string name="hr_fp_detect_desc">La sang flueix als dits amb cada batec del cor. La llum brillant a la zona de l’escàner d’empremtes que hi ha a la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca.</string>
     <string name="hr_fp_detect_principle_desc">"La sang no és del tot opaca; per tant, la llum pot passar a través d'ella. Amb cada batec del cor, la sang flueix cap als dits, bloquejant més llum que entre els batecs del cor. La llum brillant a la zona de l’escàner d’empremtes que hi ha a la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca."</string>
+    <string name="hr_fp_detect_principle_desc_2">"Nota: Assegureu-vos que el dit cobreixi completament la icona d’empremtes durant el mesurament. No apliqueu força, ja que pot bloquejar el flux sanguini a la punta del dit i fer que els resultats siguin inexactes. Aquesta mesura només es proporciona com a referència. No pot substituir les proves mèdiques."</string>
+    <string name="hr_fp_detect_principle_desc_3">Les nostres proves demostren que aquest mètode mesura la freqüència cardíaca amb un error de només ≤3 BPM.</string>
+    <string name="hr_fp_detect_start_desc">Cobriu la icona amb el dit</string>
+    <string name="hr_fp_detecting">"No moveu el dit"</string>
+    <string name="hr_fp_not_put_well">"El dit es va moure.
+Torneu a començar."</string>
+    <string name="hr_fp_report_common_desc">La freqüència cardíaca normal oscil·la entre 60 i 100 batecs per minut. Una freqüència cardíaca inferior a 60 BPM és un signe de bradicàrdia, mentre que una freqüència cardíaca superior a 100 BPM s’accepta com taquicàrdia en adults.</string>
     <string name="hr_heart_rate_unit">Freqüència cardíaca (BPM)</string>
     <string name="hr_in_detect">No deixeu anar els dits mentre feu la prova</string>
     <string name="hr_input_heart_rate">Registrar la freqüència cardíaca</string>
@@ -607,6 +614,7 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="hr_pre_detect_finger">Comprovant&#8230;</string>
     <string name="hr_re_detect_title">Comença de nou</string>
     <string name="hr_report_active_desc">Mesurar la freqüència cardíaca immediatament després de fer exercici us pot ajudar a ajustar els hàbits d’exercici, ja que els entrenaments de diferent intensitat tenen diferents zones de freqüència cardíaca òptimes. Si la freqüència cardíaca és massa alta, l’activitat pot perjudicar la vostra salut i provocar marejos, opressió al pit i altres riscos. La freqüència cardíaca baixa pot ser un signe de baixa efectivitat d’un entrenament concret.</string>
+    <string name="hr_report_active_high_desc">"La freqüència cardíaca ens indica que practiqueu una activitat física d’intensitat relativament alta. El cor i els pulmons estan treballant molt."</string>
     <string name="hr_report_common_desc">El cos humà manté la freqüència cardíaca normal durant les activitats diàries i oscil·la entre 60 i 100 batecs per minut. Una freqüència cardíaca inferior a 60 BPM és un signe de bradicàrdia, mentre que una freqüència cardíaca superior a 100 BPM s’accepta com taquicàrdia en adults.</string>
     <string name="hr_see_report">Visualitza l\'informe</string>
     <string name="hr_start_detect">Comenceu a experimentar</string>
