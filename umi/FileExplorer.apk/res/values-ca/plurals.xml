@@ -128,9 +128,17 @@
         <item quantity="other">Recolliu &amp;lt;font color=#fc7050&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; gemes més per participar en sorteig</item>
         <item quantity="one">Recolliu &amp;lt;font color=#fc7050&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; gema més per participar en el sorteig</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d seleccionats</item>
         <item quantity="one">%1$d seleccionat</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa 1 minut</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s comentaris</item>
