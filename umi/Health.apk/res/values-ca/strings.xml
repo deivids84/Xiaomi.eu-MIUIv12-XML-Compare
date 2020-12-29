@@ -77,6 +77,7 @@ per afegir targetes"</string>
     <string name="allergic_drugs_hint">Introduïu la medicació i la reacció a la mateixa</string>
     <string name="allow_notice_periods">Període de temps actiu</string>
     <string name="altitude">Altitud</string>
+    <string name="altitude_pressure_hint">*L\'altitud calculada en funció de la pressió atmosfèrica és aproximada</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">am</string>
     <string name="app_setting">Aplicacions</string>
@@ -591,6 +592,10 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="hr_detect_state_reseting_desc">Només cal despertar-se o relaxar-se completament</string>
     <string name="hr_disable_in_split_screen">"No es pot mesurar la freqüència cardíaca mentre s'utilitza la pantalla dividida"</string>
     <string name="hr_disturb_detect">Interrupció de detecció</string>
+    <string name="hr_finger_permission_desc">Per mesurar la freqüència cardíaca, aquesta funció ha d’accedir a l’escàner d’empremtes per poder detectar els canvis en el flux sanguini. Ho voleu permetre?</string>
+    <string name="hr_fp_area">Escàner d’empremtes</string>
+    <string name="hr_fp_detect_desc">La sang flueix als dits amb cada batec del cor. La llum brillant a la zona de l’escàner d’empremtes que hi ha a la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca.</string>
+    <string name="hr_fp_detect_principle_desc">"La sang no és del tot opaca; per tant, la llum pot passar a través d'ella. Amb cada batec del cor, la sang flueix cap als dits, bloquejant més llum que entre els batecs del cor. La llum brillant a la zona de l’escàner d’empremtes que hi ha a la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca."</string>
     <string name="hr_heart_rate_unit">Freqüència cardíaca (BPM)</string>
     <string name="hr_in_detect">No deixeu anar els dits mentre feu la prova</string>
     <string name="hr_input_heart_rate">Registrar la freqüència cardíaca</string>
@@ -1105,6 +1110,8 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="skipping_reset_time">Descans</string>
     <string name="skipping_start_counting">Comença</string>
     <string name="skipping_time">Durada</string>
+    <string name="skipping_upload_dialog_reject_not_remind">No, gràcies</string>
+    <string name="skipping_upload_dialog_title">Puja l\'àudio</string>
     <string name="sleep">Dormir</string>
     <string name="sleep_and_get_up_time">Horari de dormir</string>
     <string name="sleep_auto_start_perm_grant">Permisos concedits</string>
