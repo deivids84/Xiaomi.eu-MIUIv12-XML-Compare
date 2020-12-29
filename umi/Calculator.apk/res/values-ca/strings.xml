@@ -101,7 +101,7 @@
     <string name="currency_update_support">Webull proporciona els tipus de canvi.</string>
     <string name="currency_update_time_format">Webull proporciona els tipus de canvi (%s)</string>
     <string name="currency_update_updating">S\'estan actualitzant les taxes…</string>
-    <string name="date_format">dd, MMM yyyy</string>
+    <string name="date_format">dd MMM yyyy</string>
     <string name="date_time_picker_dialog_title">Definiu la data i l\'hora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">dia</string>
