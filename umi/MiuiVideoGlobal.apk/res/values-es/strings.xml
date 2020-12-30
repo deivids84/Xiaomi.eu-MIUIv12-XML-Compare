@@ -32,6 +32,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="account_bind_secure_email_title">Agregar correo de recuperación</string>
     <string name="account_bind_secure_phone_title">Agregar número de teléfono de recuperación</string>
     <string name="account_crop_user_avatar">Recortar foto</string>
@@ -68,6 +69,8 @@
     <string name="activate_email_notice">Asegúrate de activar tu cuenta antes de 24 horas</string>
     <string name="activity_not_found_notice">"No se pudo localizar la aplicación"</string>
     <string name="ad">Anuncio</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostrar eventos en el panel de notificaciones</string>
+    <string name="ad_bar_notification_setting_title">Eventos</string>
     <string name="ad_buy">Comprar</string>
     <string name="ad_download">Descargas</string>
     <string name="ad_join">Unirse a la comunidad</string>
@@ -149,6 +152,7 @@
     <string name="cast_tracks_chooser_dialog_ok">Aceptar</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Subtítulos</string>
     <string name="cast_unmute">Activar sonido</string>
+    <string name="catchplay_video">Captura de juego</string>
     <string name="change_activate_email">Cambiar dirección de correo electrónico</string>
     <string name="change_password">Cambiar contraseña</string>
     <string name="character_counter_content_description">Límite de caracteres excedido %1$d de %2$d</string>
@@ -398,6 +402,7 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Creando video…</string>
     <string name="galleryplus_gallery_video_slow_edit">Cámara lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostrar marcas</string>
+    <string name="galleryplus_is_higher_definition">Vista previa HD</string>
     <string name="galleryplus_network_connect_check">"No fue posible conectarse a la red"</string>
     <string name="galleryplus_network_connect_confirm">Conéctese a Wi-Fi o active los datos móviles en la configuración de red.</string>
     <string name="galleryplus_network_error">"No se pudo conectar a la red"</string>
