@@ -393,7 +393,16 @@
     <string name="orca">Orca</string>
     <string name="other_parameter">Altres</string>
     <string name="p3_color_region_summary">Mostra tot el contingut de la pantalla en una gamma de colors P3</string>
+    <string name="parasitic_jaeger">Paràsit cuapunxegut</string>
+    <string name="personality_hint_ringtone">Sons personalitzats</string>
+    <string name="petaurus_breviceps">Petaure del sucre</string>
+    <string name="pied_crow">Corb pitblanc</string>
+    <string name="plains_zebra">Zebra</string>
+    <string name="platpus_info">"L'ornitorrinc és un tema important en l'estudi de la biologia evolutiva. També és una de les poques espècies de mamífers verinosos."</string>
+    <string name="platypus">Ornitorrinc</string>
     <string name="pm">pm</string>
+    <string name="polar_bear">Ós polar</string>
+    <string name="pomarine_jaeger">Paràsit cuaample</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="preview">Previsualització</string>
     <string name="primary_color_region">Original</string>
