@@ -282,6 +282,9 @@
     <string name="item_long_nose">Proboscidis</string>
     <string name="item_marsupial">Marsupials</string>
     <string name="item_meat">Carnívors</string>
+    <string name="item_monopore">Monotremes</string>
+    <string name="item_parrot">Psitaciformes</string>
+    <string name="item_perissodactyla">Perissodàctils</string>
     <string name="lock_summary">Protegiu les vostres dades personals</string>
     <string name="low_fps_description">Freqüència de refresc de pantalla baixa. Menor consum d’energia.</string>
     <string name="low_light_preview">Previsió de llum baixa</string>
