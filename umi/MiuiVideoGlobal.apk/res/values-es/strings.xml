@@ -412,6 +412,8 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_online_cta_disagree">"Rechazar"</string>
     <string name="galleryplus_online_cta_title">Términos y condiciones</string>
     <string name="galleryplus_online_video_loading">Un momento…</string>
+    <string name="galleryplus_orientation_lock">Orientación bloqueada con éxito</string>
+    <string name="galleryplus_orientation_unlock">La orientación de la pantalla está desbloqueada</string>
     <string name="galleryplus_permission_content">Otorgue a Mi Video los permisos necesarios para poder utilizar esta función.</string>
     <string name="galleryplus_permission_content2">"Para poder usar esta función, vaya a Configuración &gt; Aplicaciones &gt; Mi Video &gt; Permisos de la aplicación y permita que Mi Video haga lo siguiente:
 
@@ -466,6 +468,7 @@ Envíe este código al supervisor."</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">En línea</string>
     <string name="hot">Popular</string>
+    <string name="i_know">Entendido</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Identificación</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
