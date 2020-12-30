@@ -477,6 +477,7 @@
     <string name="southern_elephant_seal">Elefant marí meridional</string>
     <string name="southern_ground_hornbill">Calau terrestre meridional</string>
     <string name="spotted_hyaena">Hiena tacada</string>
+    <string name="spotted_hyaena_info">Les hienes són depredadors nocturns amb comportaments socials més complexos.</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Mostra tot el contingut de la pantalla en una gamma de colors sRGB</string>
     <string name="start_easymode">Activa el mode Lite</string>
@@ -493,6 +494,8 @@
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="superb_starling">Estornell superb</string>
+    <string name="tasmanian_devil">Diable de Tasmània</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_anti_aggression_day">Dia de la no-agressió</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
