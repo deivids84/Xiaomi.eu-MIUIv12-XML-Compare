@@ -415,12 +415,17 @@
     <string name="restore_default">Restaura els valors per defecte</string>
     <string name="retry">Torna-ho a provar</string>
     <string name="rgb_space_color">Espai de color RGB</string>
+    <string name="rhinoceros_info">"El rinoceront blanc és un poderós herbívor de temperament suau. Ben rar avui, està a punt d’extingir-se."</string>
     <string name="ringtone_slot_setting_title">Tons de trucada de la SIM dual</string>
     <string name="ringtone_sound">Tons de trucada</string>
     <string name="ringtone_title">Tons de trucada</string>
+    <string name="sacred_ibis">Ibis sagrat africà</string>
+    <string name="sanderling">Territ de tres dits</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
+    <string name="scarlet_macaw">Guacamai</string>
+    <string name="scarlet_macaw_info">Els guacamais són lloros del Nou Món de cua llarga, sovint colorits.</string>
     <string name="screen_cancel">Cancel·la</string>
     <string name="screen_confirm">Activa</string>
     <string name="screen_fps_summary_power_save">L\'ús d\'una freqüència fixa consumeix menys energia</string>
@@ -432,6 +437,7 @@
     <string name="screen_original_gamut_summary">Mostra tot el contingut de la pantalla en la gamma de colors més àmplia possible</string>
     <string name="screen_paper_mode_apps_loading">Un moment…</string>
     <string name="screen_time_lock">Bloqueig de temps de pantalla</string>
+    <string name="sea_otter">Llúdria marina</string>
     <string name="search_app_name">Cerca aplicacions</string>
     <string name="search_empty">No s\'ha trobat cap aplicació</string>
     <string name="search_menu_title">Cerca</string>
