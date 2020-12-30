@@ -496,6 +496,8 @@
     <string name="sunday_shortest">dg.</string>
     <string name="superb_starling">Estornell superb</string>
     <string name="tasmanian_devil">Diable de Tasmània</string>
+    <string name="tasmanian_devil_info">Els diables de Tasmània són petits carronyaires carnívors amb un tarannà malhumorat.</string>
+    <string name="tasmanian_native_hen">Polla de Tasmània</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_anti_aggression_day">Dia de la no-agressió</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
@@ -544,6 +546,7 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="title_activity_easy_mode">Mode Lite</string>
+    <string name="title_mix_match_sound">Barreja de natura</string>
     <string name="to_authorize">Doneu els permisos</string>
     <string name="today">Avui</string>
     <string name="today_usage_title">Avui</string>
