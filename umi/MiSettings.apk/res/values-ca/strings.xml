@@ -101,6 +101,8 @@
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="click_to_save">Toqueu \"Fet\" per establir un to de trucada general.</string>
     <string name="color_gamut">Gamma de colors</string>
+    <string name="common_brushtail">Pòssum comú</string>
+    <string name="common_ostrich">Estruç</string>
     <string name="contact_description">Toqueu les dreceres de la pantalla d\'inici per fer trucades</string>
     <string name="contact_title">Dreceres de contacte</string>
     <string name="contrast_ratio">Contrast</string>
@@ -112,7 +114,9 @@
     <string name="create_shortcut">Drecera a la pantalla d\'inici</string>
     <string name="created">S\'ha creat</string>
     <string name="created_successfully">S\'ha creat amb èxit</string>
+    <string name="crowned_hornbill">Calau coronat</string>
     <string name="cu_confirm">Estableix</string>
+    <string name="dall_sheep">Mufló de Dall</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="dc_light_hint_enable_title">Atenció</string>
     <string name="dc_light_hint_normal">L’atensament de corrent continu pot afectar la manera de mostrar alguns elements.</string>
