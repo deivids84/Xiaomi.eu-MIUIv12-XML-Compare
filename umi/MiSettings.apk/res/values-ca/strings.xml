@@ -292,6 +292,8 @@
     <string name="jaguar">Jaguar</string>
     <string name="jaguar_info">El jaguar és, en gran part, un depredador solitari d\'emboscada a la part superior de la cadena alimentària.</string>
     <string name="kinkajou">Kinkajú</string>
+    <string name="kinkajou_info">El Kinkajú és conegut pels seus hàbits nocturns i la cua totalment prènsil.</string>
+    <string name="koala">Coala</string>
     <string name="lock_summary">Protegiu les vostres dades personals</string>
     <string name="low_fps_description">Freqüència de refresc de pantalla baixa. Menor consum d’energia.</string>
     <string name="low_light_preview">Previsió de llum baixa</string>
