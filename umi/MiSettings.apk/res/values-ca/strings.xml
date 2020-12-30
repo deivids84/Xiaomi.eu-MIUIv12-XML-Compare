@@ -547,11 +547,15 @@
     <string name="time_picker_label_minute">M</string>
     <string name="title_activity_easy_mode">Mode Lite</string>
     <string name="title_mix_match_sound">Barreja de natura</string>
+    <string name="title_mix_match_tips">Toqueu els animals per escoltar demostracions. Podeu afegir fins a 5 animals a la barreja.</string>
+    <string name="title_submit_mix_match">Toqueu \"Aplica\" per definir un to general.</string>
     <string name="to_authorize">Doneu els permisos</string>
+    <string name="toco_toucan">Tucà toco</string>
     <string name="today">Avui</string>
     <string name="today_usage_title">Avui</string>
     <string name="today_use_time">Temps de pantalla: %1$s</string>
     <string name="tomorrow">Demà</string>
+    <string name="toucan_info">Els tucans tenen uns becs grans i acolorits. Sovint fan els nius en buits d’arbres.</string>
     <string name="touch_description">Els botons i dreceres optimitzats us ajudaran a evitar un toc accidental</string>
     <string name="touch_title">Controls tàctils millorats</string>
     <string name="trend_from_yesterday_equal">Igual que ahir</string>
