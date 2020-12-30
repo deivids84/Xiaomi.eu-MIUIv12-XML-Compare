@@ -832,8 +832,14 @@ Aquesta aplicació necessita connectar-se a Internet i requereix els permisos se
     <string name="vervet_monkey">Mona verda</string>
     <string name="wait_tip">Un moment…</string>
     <string name="walrus">Morsa</string>
+    <string name="walrus_info">Les morses són excel·lents bussejadores. Prefereixen les zones poc profundes i el farratge principalment del fons del mar.</string>
+    <string name="weddell_seal">Foca de Weddell</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="whipbird_eastern_whipbird">Fuet barbablanc</string>
+    <string name="white_bellied_sea_eagle">Pigarg cuablanc</string>
+    <string name="willow_grouse">Perdiu boreal</string>
+    <string name="wombat">Uombats</string>
     <string name="yesterday">Ahir</string>
 </resources>
