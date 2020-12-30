@@ -65,6 +65,11 @@
     <string name="black_rhinoceros">Rinoceront negre</string>
     <string name="black_swan">Cigne negre</string>
     <string name="blue_poison_dart_frog">Granota blava</string>
+    <string name="branch_bear">Ossos</string>
+    <string name="branch_cat">Fèlids</string>
+    <string name="branch_crake">Ràl·lids</string>
+    <string name="branch_deer">Cérvols</string>
+    <string name="branch_dog">Hienes</string>
     <string name="calendar_sound">Recordatoris d’esdeveniments</string>
     <string name="calendar_tip">Els sons de recordatori d\'esdeveniments funcionen per a recordatoris del calendari, notes i tasques</string>
     <string name="category_other">Altres</string>
