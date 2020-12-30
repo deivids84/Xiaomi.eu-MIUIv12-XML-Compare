@@ -294,6 +294,8 @@
     <string name="kinkajou">Kinkajú</string>
     <string name="kinkajou_info">El Kinkajú és conegut pels seus hàbits nocturns i la cua totalment prènsil.</string>
     <string name="koala">Coala</string>
+    <string name="laughing_kookaburra">Cucaburra</string>
+    <string name="laughing_kookaburra_info">Els Cucaburra són coneguts pels seus sons únics i són bons per caçar serps i altres rèptils.</string>
     <string name="lock_summary">Protegiu les vostres dades personals</string>
     <string name="low_fps_description">Freqüència de refresc de pantalla baixa. Menor consum d’energia.</string>
     <string name="low_light_preview">Previsió de llum baixa</string>
