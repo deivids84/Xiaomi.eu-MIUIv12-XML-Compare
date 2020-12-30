@@ -398,7 +398,6 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Creando video…</string>
     <string name="galleryplus_gallery_video_slow_edit">Cámara lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostrar marcas</string>
-    <string name="galleryplus_is_higher_definition">Vista previa en HD abierta</string>
     <string name="galleryplus_network_connect_check">"No fue posible conectarse a la red"</string>
     <string name="galleryplus_network_connect_confirm">Conéctese a Wi-Fi o active los datos móviles en la configuración de red.</string>
     <string name="galleryplus_network_error">"No se pudo conectar a la red"</string>
@@ -661,7 +660,6 @@ Envíe este código al supervisor."</string>
     <string name="my_favorite_channels">Mis canales</string>
     <string name="my_feedback_title">Mi retroalimentación</string>
     <string name="need_update_app">Actualiza Mi Video para usar sus funciones</string>
-    <string name="network_connect_info">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="network_failed">"No se pudo conectar a la red"</string>
     <string name="neverthink_player_loading">Cargando vídeo Neverthink …</string>
     <string name="new_channel_tip">¡Echa un vistazo a los nuevos canales!</string>
