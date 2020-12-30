@@ -122,9 +122,15 @@
     <string name="dc_light_hint_normal">L’atensament de corrent continu pot afectar la manera de mostrar alguns elements.</string>
     <string name="dc_light_hint_other">L\'atensió de corrent continu pot afectar la velocitat de refresc i la forma en què es visualitzen alguns elements.</string>
     <string name="dc_lignt_enable_hint">El mode anti-parpelleig ajustarà la velocitat de refrescament de la pantalla a 60 Hz. Canviar a la modalitat antitipament?</string>
+    <string name="delete_first_to_add_animal">Per afegir un element nou, suprimiu-ne un primer.</string>
     <string name="display_description">Icones més grans, text gran i menys desordre visual</string>
     <string name="display_title">Elements més grans</string>
+    <string name="dynamic_ringtone_desc">"Hem explorat diferents ecosistemes i hem recreat els seus diferents sons. Comenceu a explorar els sons de la natura amb nosaltres!"</string>
     <string name="early_morning">Matí</string>
+    <string name="eastern_grey_kangaroo">Cangur gris oriental</string>
+    <string name="eastern_grey_kangaroo_info">Els cangurs tenen potes posteriors grans i potents i peus grans adaptats per saltar.</string>
+    <string name="egyptian_goose">Oca d\'Egipte</string>
+    <string name="elephant_info">Els elefants són els animals terrestres més grans existents. El comerç d’ivori és una de les amenaces més grans per a les poblacions d’elefants.</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="evening">Tarda</string>
@@ -271,6 +277,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Això és tot per ara</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">No s\'han pogut carregar els elements</string>
+    <string name="mix_match_type_rare">Rara</string>
     <string name="mms">Missatgeria</string>
     <string name="monday">Dilluns</string>
     <string name="monday_short">Dl.</string>
@@ -467,6 +474,7 @@
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
+    <string name="two_toed_sloths_info">Els peresosos didàctils poden viatjar fàcilment d’arbre en arbre al cobricel arbori de les selves tropicals.</string>
     <string name="unlock_times_per_day">"Mitjana diària: "</string>
     <string name="unlock_times_per_hour">"Desbloquejos per hora: "</string>
     <string name="usage_agree">D\'acord</string>
