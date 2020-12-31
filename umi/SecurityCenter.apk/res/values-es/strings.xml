@@ -142,6 +142,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ayer a las %s</string>
     <string name="adjust_traffic_data">Establecer uso de datos</string>
     <string name="after_the_lock_screen">Bloquear aplicaciones con la pantalla</string>
+    <string name="ai_allow_all">Decidir por mi en todos los casos</string>
     <string name="alert_back_diving_mode_summary">¿Desactiva el modo inmersivo ahora?</string>
     <string name="alert_back_diving_mode_title">Modo inmersivo</string>
     <string name="alert_back_milink_hangup_tips_content">"El envío no se interrumpirá mientras finaliza una llamada. Puede presionar el botón de Encendido para activar la pantalla."</string>
@@ -1249,6 +1250,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="face_unlock_verity_dialog_summary">Verificar datos de faciales</string>
     <string name="face_unlock_verity_dialog_title_failed">"No puedo reconocerte"</string>
     <string name="face_unlock_verity_dialog_title_succeed">Verificado correctamente</string>
+    <string name="file_confirm_start_activity">"%s no tiene permiso para acceder a su Galería y aplicaciones de redes sociales. Esta aplicación quiere acceder a archivos almacenados en este dispositivo para compartir elementos. ¿Permitir?"</string>
     <string name="finger_remind_message">Añade tu huella primero. Toca para abrir Ajustes.</string>
     <string name="fingerprint_identify_msg">Activar desbloqueo con huella</string>
     <string name="fingerprint_not_identified_msg">"No se puede leer la huella dactilar. Introduce tu contraseña"</string>
@@ -1385,6 +1387,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="fw_blocked_join">" y "</string>
     <string name="fw_oversea">Bloquear llamadas desde el extranjero</string>
     <string name="fw_oversea_content">Bloquear llamadas entrantes desde números de teléfono extranjeros</string>
+    <string name="gallery_confirm_start_activity">"%s no tiene permiso para acceder a su Galería y aplicaciones de redes sociales. Esta aplicación quiere acceder a archivos almacenados en este dispositivo para compartir elementos. ¿Permitir?"</string>
     <string name="game_ad_recommendation">Todos están jugando</string>
     <string name="game_anti_disturb_msg">No molestar en juegos</string>
     <string name="game_booster">Juego Turbo</string>
@@ -3014,9 +3017,11 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="reach_daily_limit_value_title">Límite diario de datos alcanzado</string>
     <string name="read_all_sms">Leer todo</string>
     <string name="read_and_write_clipboard">Acceder y guardar elementos en el portapapeles</string>
+    <string name="read_clipboard_ai_action_desc">Recibir notificaciones siempre que el acceso esté permitido o restringido</string>
     <string name="read_clipboard_ai_close_no">Ahora no</string>
     <string name="read_clipboard_ai_close_tip">"Ya no recibirás notificaciones cuando las aplicaciones accedan al portapapeles. En cambio, solo podrán usar este permiso mientras esté usando la aplicación. ¿Ajustar permisos?"</string>
     <string name="read_clipboard_ai_close_yes">Ajustar</string>
+    <string name="read_clipboard_op_content">Recibir notificaciones siempre que el acceso esté permitido o restringido</string>
     <string name="read_clipboard_op_title">Notificar cuando las aplicaciones acceden a elementos en el portapapeles</string>
     <string name="read_clipboard_tip_content">Este permiso permite que las aplicaciones lean cualquier contenido que copie, que puede incluir información privada (por ejemplo, detalles de la cuenta, números de tarjetas bancarias y contraseñas).</string>
     <string name="read_clipboard_tip_title">Acceder a elementos en el portapapeles</string>
