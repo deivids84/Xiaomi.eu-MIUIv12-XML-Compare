@@ -3111,6 +3111,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="haptic_feedback_summary">Reciba una respuesta táctil a los gestos y controles del sistema.</string>
     <string name="haptic_feedback_title">Retroalimentación háptica</string>
     <string name="haptic_icon_sorting_12_content_description">Reorganizar iconos</string>
+    <string name="haptic_return_gesture_05_content_description">Regresando</string>
     <string name="hardkeyboard_category">Ajustes del teclado físico</string>
     <string name="hardware_info">Modelo y hardware</string>
     <string name="hardware_revision">Versión de hardware</string>
@@ -6925,6 +6926,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tap_to_wake">Tocar para activar</string>
     <string name="tap_to_wake_summary">Toca dos veces cualquier punto de la pantalla para activar el dispositivo</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_style">10 segundos después de tocar la pantalla</string>
     <string name="terms_title">Condiciones de uso</string>
     <string name="testing">Prueba</string>
     <string name="testing_phone_info">Información sobre el teléfono</string>
