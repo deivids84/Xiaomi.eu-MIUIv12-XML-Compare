@@ -4988,6 +4988,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés utilizando."</string>
+    <string name="picture_in_picture_app_detail_switch">Permitir imagen sobre imagen</string>
     <string name="picture_in_picture_app_detail_title">Imagen en imagen</string>
     <string name="picture_in_picture_empty_text">Las aplicaciones instaladas no admiten el modo Imagen en imagen</string>
     <string name="picture_in_picture_keywords">imagen PIP en</string>
@@ -7494,6 +7495,7 @@ Toca en más para añadir palabras."</string>
     <string name="user_exit_guest_dialog_remove">Quitar</string>
     <string name="user_exit_guest_title">Quitar invitado</string>
     <string name="user_experience_program">Programa de Experiencia de Usuario</string>
+    <string name="user_experience_program_summary">Permitir que Xiaomi recopile y analice los datos del usuario para mejorar nuestros productos y servicios. Lea los términos y condiciones de nuestro Programa de Experiencia de Usuario para obtener más información.</string>
     <string name="user_experience_program_title">Programa de Experiencia de Usuario</string>
     <string name="user_guest">Invitado</string>
     <string name="user_image_choose_photo">Seleccionar foto de la galería</string>
