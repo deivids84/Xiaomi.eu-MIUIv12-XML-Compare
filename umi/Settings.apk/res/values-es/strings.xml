@@ -397,6 +397,8 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="additional_permissions_more">%1$d más</string>
     <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales de sistema</string>
     <string name="adjust_3d_depth_title">"Ajuste profundidad 3D de juegos"</string>
+    <string name="adjust_font_size_answer_cn">¡Intente ajustar el tamaño del texto y ancho de la fuente con los controles deslizantes de abajo!</string>
+    <string name="adjust_font_size_answer_global">¡Intente ajustar el tamaño del texto con el control deslizante de abajo!</string>
     <string name="adjust_temperature_title">Colores</string>
     <string name="admin_device_owner_message">"El administrador puede supervisar y gestionar las aplicaciones y los datos asociados a este dispositivo, como los ajustes, los permisos, el acceso corporativo, la actividad de red y la información de ubicación del dispositivo."</string>
     <string name="admin_disabled_other_options">El administrador ha inhabilitado otras opciones</string>
@@ -2883,6 +2885,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">No importante</string>
     <string name="fold_title">Reglas para notificaciones agrupadas.</string>
+    <string name="font_setting_weight_toast">"La fuente actual no admite ajustar el ancho de la fuente"</string>
     <string name="font_settings_jump">Accesibilidad&gt; Tamaño de la pantalla</string>
     <string name="font_settings_recommend_title">"¿El tamaño del texto no es suficientemente grande?"</string>
     <string name="font_settings_summary_cn">Fuentes y tamaño del texto</string>
@@ -3170,6 +3173,7 @@ Puedes cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y 
     <string name="homepage_all_settings">Todos los ajustes</string>
     <string name="homepage_condition_footer_content_description">Ocultar</string>
     <string name="homepage_personal_settings">Sugerencias</string>
+    <string name="how_adjust_font_size">¿Cómo ajusto el tamaño del texto?</string>
     <string name="how_backup_content">"Puedes guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en tu dispositivo móvil, computadora o unidad USB.
 
 Dispositivo móvil
@@ -6264,6 +6268,8 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="show_background_processes">Procesos en caché</string>
     <string name="show_badge_notifications_short">Insignias</string>
     <string name="show_carrier_under_keyguard_title">Mostrar operador cuando el dispositivo está bloqueado</string>
+    <string name="show_charging_in_non_lockscreen_animation">Mostrar animación de carga después de desbloquear el dispositivo</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">Siga mostrando la animación de carga después de que su dispositivo esté desbloqueado, ocultándolo solo para la reproducción de video y otras escenas de pantalla completa similares</string>
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
     <string name="show_connected_devices_title">Dispositivos conectados</string>
     <string name="show_dev_already">Las opciones para desarrolladores ya están activadas.</string>
@@ -7003,6 +7009,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="title_miui_music_mute_by_user">Modo Silencio</string>
     <string name="title_of_auto_launch_manage">Autoencendido</string>
     <string name="to_close">Apagar</string>
+    <string name="toast_apply_font_fail">"No se puede establecer la fuente"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduce la contraseña</string>
     <string name="toast_need_login">Iniciar sesión en Cuenta Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"No se puede emitir cuando se establece la conexión WLAN y el punto de acceso está activado."</string>
