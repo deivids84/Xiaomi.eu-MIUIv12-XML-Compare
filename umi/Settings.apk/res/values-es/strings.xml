@@ -5097,6 +5097,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="power_usage_old_debug">%1$s izquierda (antiguo est)</string>
     <string name="power_usage_summary">Consumo de la batería</string>
     <string name="power_usage_summary_title">Batería y rendimiento</string>
+    <string name="power_usage_summary_title_new">Batería</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicaciones preinstaladas</string>
     <string name="pref_bg_network_title">Datos en segundo plano</string>
