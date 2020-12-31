@@ -544,6 +544,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="app_and_notification_dashboard_summary">Permisos, aplicaciones predeterminadas</string>
     <string name="app_and_notification_dashboard_title">Aplicaciones y notificaciones</string>
     <string name="app_backup">Copia de seguridad</string>
+    <string name="app_bluetooth_device_blacklist">Lista de bloqueo de Bluetooth</string>
     <string name="app_cellular_data_usage">Uso de datos de la aplicación</string>
     <string name="app_default_dashboard_title">Aplicaciones predeterminadas</string>
     <string name="app_detail">Detalles</string>
@@ -1040,6 +1041,8 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="bluetooth_audio_share_feature_notice_title">Compartir audio</string>
     <string name="bluetooth_battery_level">%1$s batería</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s de batería; R: %2$s de batería</string>
+    <string name="bluetooth_blacklist_cancel_remove_device">Cancelar</string>
+    <string name="bluetooth_blacklist_remove_device">Desbloquear</string>
     <string name="bluetooth_broadcasting">Emisiones</string>
     <string name="bluetooth_confirm_passkey_msg">Para vincular con:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Comprueba que se muestre la clave:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
     <string name="bluetooth_connect_failed">"No se pudo conectar. Inténtalo de nuevo."</string>
@@ -1069,6 +1072,8 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="bluetooth_device_advanced_profile_header_title">Usar para</string>
     <string name="bluetooth_device_advanced_rename_device">Cambiar nombre</string>
     <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth sincronizado</string>
+    <string name="bluetooth_device_blacklist_summary">Administrar dispositivos Bluetooth bloqueados</string>
+    <string name="bluetooth_device_blacklist_tital">Lista de bloqueo de Bluetooth</string>
     <string name="bluetooth_device_context_connect">Conectar</string>
     <string name="bluetooth_device_context_connect_advanced">Opciones…</string>
     <string name="bluetooth_device_context_disconnect">Desconectar</string>
@@ -1155,9 +1160,11 @@ Esto es lo que podría estar mal:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Seleccione el número máximo de dispositivos de audio Bluetooth conectados</string>
     <string name="bluetooth_max_connected_audio_devices_string">Máximo de dispositivos de audio Bluetooth conectados</string>
     <string name="bluetooth_menu_advanced">Ajustes avanzados</string>
+    <string name="bluetooth_message_move_out_of_blacklist">¿Desbloquear %1$s ahora?</string>
     <string name="bluetooth_mi_fast_connect">Emparejar dispositivos compatibles</string>
     <string name="bluetooth_mi_fast_connect_summary">Conéctese a dispositivos cercanos mediante un proceso de emparejamiento simplificado</string>
     <string name="bluetooth_middle_name">Funda</string>
+    <string name="bluetooth_move_out_of_blacklist">Desbloquear dispositivo</string>
     <string name="bluetooth_name_not_set">No se ha establecido ningún nombre; se utiliza el nombre de cuenta.</string>
     <string name="bluetooth_no_devices_found">No hay dispositivos Bluetooth cercanos.</string>
     <string name="bluetooth_not_visible_to_other_devices">Oculto para otros dispositivos Bluetooth</string>
@@ -1175,6 +1182,7 @@ Esto es lo que podría estar mal:
     <string name="bluetooth_pairing">Vinculando…</string>
     <string name="bluetooth_pairing_accept">Emparejar</string>
     <string name="bluetooth_pairing_accept_all_caps">EMPAREJAR</string>
+    <string name="bluetooth_pairing_add_to_blackfile">Bloquear</string>
     <string name="bluetooth_pairing_decline">Cancelar</string>
     <string name="bluetooth_pairing_device_down_error_message">"No se puede comunicar con %1$s."</string>
     <string name="bluetooth_pairing_dialog_contants_request">%1$s quiere acceder a tus contactos y al historial de llamadas.</string>
@@ -1188,7 +1196,8 @@ Esto es lo que podría estar mal:
     <string name="bluetooth_pairing_pref_title">Emparejar nuevo dispositivo</string>
     <string name="bluetooth_pairing_rejected_error_message">Emparejamiento rechazado por %1$s.</string>
     <string name="bluetooth_pairing_request">¿Vincular con %1$s?</string>
-    <string name="bluetooth_pairing_shares_phonebook">Permitir que %1$s acceda a tus contactos y al historial de llamadas</string>
+    <string name="bluetooth_pairing_shares_phonebook">Permitir acceso a sus contactos e historial de llamadas</string>
+    <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqueado con éxito. Puede administrar los elementos bloqueados en \"Configuración adicional\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">Emparejar da acceso a tus contactos y al historial de llamadas cuando están conectados.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compartir conexión a Internet local con el dispositivo</string>
     <string name="bluetooth_pan_profile_summary_use_for">Usar para acceso a Internet</string>
