@@ -600,7 +600,10 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="hr_pre_detect_finger">Revisando…</string>
     <string name="hr_re_detect_title">Volver a empezar</string>
     <string name="hr_report_active_desc">Medir su frecuencia cardíaca inmediatamente después de hacer ejercicio puede ayudarlo a ajustar sus hábitos de ejercicio, ya que los entrenamientos de diferente intensidad tienen diferentes zonas óptimas de frecuencia cardíaca. Si su frecuencia cardíaca es demasiado alta, la actividad podría ser perjudicial para su salud y provocar mareos, opresión en el pecho y otros riesgos. La frecuencia cardíaca baja puede ser un signo de baja efectividad de un entrenamiento en particular.</string>
+    <string name="hr_report_active_lower_mid_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de intensidad relativamente baja. Es adecuado para calentar y hacer ejercicios sencillos. Se recomienda a las personas con diversas condiciones de salud que realicen ejercicios de intensidad baja a moderada."</string>
+    <string name="hr_report_active_mid_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de intensidad moderada. Se recomienda que la mayoría de los adultos sanos realicen ejercicio de intensidad moderada a alta durante un total de 150 minutos por semana."</string>
     <string name="hr_report_common_desc">El cuerpo humano mantiene la frecuencia cardíaca normal durante las actividades diarias y varía de 60 a 100 latidos por minuto. Una frecuencia cardíaca inferior a 60 BPM es un signo de bradicardia, mientras que una frecuencia cardíaca superior a 100 BPM se acepta como taquicardia en adultos.</string>
+    <string name="hr_report_resting_slow_desc">Su frecuencia cardíaca en reposo es más lenta de lo normal, lo que podría ser un signo de bradicardia. Los períodos prolongados de latidos cardíacos lentos pueden causar isquemia e hipoxia, así como otros trastornos cardiovasculares y cerebrovasculares. La frecuencia cardíaca en reposo está estrechamente relacionada con su dieta, actividad, niveles de estrés, hábitos de sueño y condición física general. Mantenga un estilo de vida saludable y preste atención a su cuerpo para evitar problemas. Si experimenta opresión en el pecho, mareos, desmayos, vértigo o desmayos, consulte a su médico a tiempo.</string>
     <string name="hr_see_report">Vista del informe</string>
     <string name="hr_start_detect">Empiece a experimentar</string>
     <string name="hr_state">Estado</string>
@@ -1088,6 +1091,7 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="severe_abnormal">Crisis hipertensivas</string>
     <string name="severe_abnormal_tip">Todos los días después de levantarse, después del almuerzo y antes de acostarse</string>
     <string name="share">Compartir</string>
+    <string name="share_card_title_free_training">Ejercicio libre</string>
     <string name="share_card_title_outdoor_hiking">Senderismo %s</string>
     <string name="share_card_title_outdoor_riding">Ciclismo</string>
     <string name="share_card_title_outdoor_running">Correr</string>
