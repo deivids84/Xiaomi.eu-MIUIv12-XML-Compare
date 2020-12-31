@@ -2104,6 +2104,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="vlog_audio_open_toast">La banda sonora original está activada</string>
     <string name="vlog_audio_quiet">Tranquilo</string>
     <string name="vlog_audio_rumeng">Sueños</string>
+    <string name="vlog_audio_select_range_title">Seleccionar clip</string>
     <string name="vlog_audio_shenyin">Profundidad</string>
     <string name="vlog_audio_shiyi">Pensamientos</string>
     <string name="vlog_audio_wanyan">Metamorfosis</string>
