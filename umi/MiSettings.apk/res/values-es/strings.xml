@@ -200,6 +200,7 @@
     <string name="hsv_space_color_value">Valor</string>
     <string name="intelligent_recognition_item_summary">Usa un tono designado para las llamadas de taxis y servicios de reparto. Esta función funcionará cuando %s sea establecido como tu tono por defecto.</string>
     <string name="intelligent_recognition_item_title">Identificar servicios</string>
+    <string name="kinkajou_info">El kinkajou es conocido por sus hábitos nocturnos y una cola completamente prensil.</string>
     <string name="lock_summary">Protege tu información personal</string>
     <string name="low_fps_description">Frecuencia de actualización de pantalla baja. Menor consumo de energía.</string>
     <string name="low_light_preview">Previsualización con poca luz</string>
@@ -333,6 +334,7 @@
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Empieza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
+    <string name="spotted_hyaena_info">Las hienas son depredadores nocturnos con los comportamientos sociales más complejos.</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Mostrar todo el contenido de la pantalla en la gama de colores sRGB</string>
     <string name="start_easymode">Activar el modo Lite</string>
