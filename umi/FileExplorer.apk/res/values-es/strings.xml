@@ -86,7 +86,10 @@
     <string name="category_video">Vídeos</string>
     <string name="category_zip">Archivos</string>
     <string name="character_counter_content_description">%1$d de %2$d carácteres ingresados</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="clean_hint">Tocar para liberar espacio</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
+    <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="click_to_switch_volume">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
     <string name="click_to_switch_volume_pad">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
     <string name="clock_in">Registrándose…</string>
@@ -109,6 +112,7 @@
     <string name="data_consumption_confirm">Aceptar</string>
     <string name="data_consumption_message">"Esta aplicación necesita conectarse a Internet por Wi-Fi para funcionar con normalidad."</string>
     <string name="data_consumption_title">Conexión a Internet</string>
+    <string name="date_picker_lunar">Calendario Tradicional Chino</string>
     <string name="decompress_cancel">Cancelar</string>
     <string name="decompress_confirm">Extraer</string>
     <string name="decompress_corrupt">"No se pudo descomprimir los archivos. El paquete está dañado."</string>
