@@ -85,6 +85,7 @@
     <string name="category_type_other">Otros</string>
     <string name="category_video">Vídeos</string>
     <string name="category_zip">Archivos</string>
+    <string name="character_counter_content_description">%1$d de %2$d carácteres ingresados</string>
     <string name="clean_hint">Tocar para liberar espacio</string>
     <string name="click_to_switch_volume">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
     <string name="click_to_switch_volume_pad">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
