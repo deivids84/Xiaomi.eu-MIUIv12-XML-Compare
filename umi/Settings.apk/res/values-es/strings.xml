@@ -3353,6 +3353,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="interact_across_profiles_switch_enabled">Conectado</string>
     <string name="interact_across_profiles_title">Trabajo conectado &amp; aplicaciones personales</string>
     <string name="interaction_control_category_title">Controles de interacción</string>
+    <string name="interesting_text">Las sensaciones táctiles realistas hacen que su interacción con la pantalla sea más clara y articulada.</string>
     <string name="internal_memory">Almacenamiento interno</string>
     <string name="internal_storage">Almacenamiento interno</string>
     <string name="internet_connectivity_panel_title">Conexión a Internet</string>
@@ -3945,6 +3946,9 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="manual">Manual</string>
     <string name="manual_mode_disallowed_summary">No está disponible cuando se está conectado a %1$s</string>
     <string name="manually_add_network">Añadir red</string>
+    <string name="mashup_sound_africa">Sabana</string>
+    <string name="mashup_sound_amazon">Selva</string>
+    <string name="mashup_sound_arctic">El Ártico</string>
     <string name="master_clear_accounts">"
 
 Has iniciado sesión en las cuentas que se indican a continuación:
@@ -4972,6 +4976,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="personal_data_section_title">Datos personales</string>
     <string name="personal_profile_app_subtext">Personal</string>
     <string name="personal_section_title">Personal</string>
+    <string name="personalize_title">Fondo de pantalla &amp; personalización</string>
     <string name="phone_backup_summary">Haz una copia de seguridad y restaura elementos en este dispositivo</string>
     <string name="phone_backup_title">Dispositivo móvil</string>
     <string name="phone_call_noise_suppression">Supresión del ruido ambiente durante las llamadas</string>
