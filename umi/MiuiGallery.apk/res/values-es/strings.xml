@@ -1481,6 +1481,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="recommanded_face_abandon_tip">Eliminado de sugerencias</string>
     <string name="recommanded_face_added_tip">Añadido a \"%s\"</string>
     <string name="recommend_category_title">"Selecciones de la galería"</string>
+    <string name="recommend_page_label">Recomendado</string>
     <string name="recovery_merge">Combinar</string>
     <string name="recovery_merge_or_rename">Combinar álbumes</string>
     <string name="recovery_merge_or_rename_message">"Ya existe un álbum con este nombre. ¿Combinar ahora?"</string>
@@ -1823,9 +1824,14 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="text_edit_dialog_font_default">Predefinido</string>
     <string name="text_edit_dialog_keyboard">teclado</string>
     <string name="text_edit_dialog_style">Estilo</string>
+    <string name="text_edit_dialog_style_align_center">Alinear al centro</string>
+    <string name="text_edit_dialog_style_align_left">Ajustar a la izquierda</string>
+    <string name="text_edit_dialog_style_align_right">Right align</string>
     <string name="text_edit_dialog_style_bold">Negrita</string>
     <string name="text_edit_dialog_style_color">"Color  "</string>
     <string name="text_edit_dialog_style_shadow">Sombra</string>
+    <string name="text_edit_dialog_style_stroke">Contorno</string>
+    <string name="text_edit_dialog_style_toast">"No se puede colocar texto delineado en los fondos"</string>
     <string name="text_edit_dialog_style_transparent">Opacidad</string>
     <string name="text_edit_sub_menu_text">Burbuja</string>
     <string name="text_tab_bubble">Burbuja</string>
