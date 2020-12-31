@@ -169,6 +169,7 @@
     <string name="ok">Ok</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
+    <string name="privacy_all_purpose">¡Bienvenido a MIUI+ Beta! Puede usar esta aplicación para conectar su teléfono a una computadora y combinar dos dispositivos en una estación de trabajo.</string>
     <string name="privacy_describe_change_wifi_state">Para conectar dispositivos y transferir archivos mediante Wi-Fi</string>
     <string name="privacy_describe_location">Para encontrar computadoras cercanas y transferir archivos</string>
     <string name="privacy_describe_record_audio">Para redirigir la reproducción de audio a su computadora</string>
