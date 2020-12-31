@@ -60,7 +60,6 @@
     <string name="adjust_brightness">Brillantor</string>
     <string name="adjust_contrast">Contrast</string>
     <string name="adjust_saturation">Saturació</string>
-    <string name="adjust_sharpen">Nitidesa</string>
     <string name="adjust_vignette">Vinyeta</string>
     <string name="afternoon">Tarda</string>
     <string name="agreement_agree">Accepta</string>
@@ -970,7 +969,6 @@ estan disponible"</string>
     <string name="loading_gif_thumbnail">S\'està baixant la miniatura del GIF&#8230;</string>
     <string name="loading_image">S\'està baixant la imatge&#8230;</string>
     <string name="loading_image_thumbnail">S\'està baixant la miniatura&#8230;</string>
-    <string name="loading_members">S\'està carregant members026</string>
     <string name="loading_suspend">Baixada en pausa. Es reprendrà quan el Wi-Fi estigui disponible.</string>
     <string name="loading_text_format" formatted="false">S\'està suprimint la informació privada de les fotos (%d/%d)…</string>
     <string name="loading_video">S\'està baixant el vídeo&#8230;</string>
@@ -1140,7 +1138,6 @@ per personalitzar la galeria"</string>
     <string name="movie_save_successfully">S\'ha desat a Creativitat</string>
     <string name="movie_saving">S\'està creant el clip…</string>
     <string name="movie_tab_edit">Edita</string>
-    <string name="movie_tab_music">Música</string>
     <string name="movie_tab_template">Plantilla</string>
     <string name="movie_template_baby">Preciositat</string>
     <string name="movie_template_cool">Llums</string>
@@ -1158,7 +1155,6 @@ per personalitzar la galeria"</string>
     <string name="movie_template_travel">Viatjar</string>
     <string name="movie_template_xmas">Nadal</string>
     <string name="movie_video_long">Vídeo més llarg</string>
-    <string name="movie_video_short">10s vídeo</string>
     <string name="multi_view_tip_button_text">Entesos</string>
     <string name="multi_view_tip_sub_title">Separeu o ajunteu els dos dits per ajustar la mida dels elements mostrats.</string>
     <string name="multi_view_tip_title">Ampliació i reducció</string>
@@ -1378,7 +1374,6 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="photo_editor_talkback_recently">Utilitzades recentment</string>
     <string name="photo_editor_talkback_redo">Refés</string>
     <string name="photo_editor_talkback_undo">Desfés</string>
-    <string name="photo_editor_text">Filigrana</string>
     <string name="photo_font_cancel_download">Cancel·la</string>
     <string name="photo_font_download">Baixa</string>
     <string name="photo_font_download_failed_for_notwork">"No s'ha pogut baixar. Connecteu-vos a la xarxa i torneu-ho a provar."</string>
@@ -1822,9 +1817,6 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="text_edit_dialog_font_default">Per defecte</string>
     <string name="text_edit_dialog_keyboard">teclat</string>
     <string name="text_edit_dialog_style">Estil</string>
-    <string name="text_edit_dialog_style_align_center">Centre</string>
-    <string name="text_edit_dialog_style_align_left">Esquerra</string>
-    <string name="text_edit_dialog_style_align_right">Dreta</string>
     <string name="text_edit_dialog_style_bold">Negreta</string>
     <string name="text_edit_dialog_style_color">"Color  "</string>
     <string name="text_edit_dialog_style_shadow">Ombra</string>
