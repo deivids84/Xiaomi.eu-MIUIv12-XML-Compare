@@ -29,10 +29,13 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="action_mode_deselect_all">Deseleccionar todos</string>
     <string name="action_mode_select_all">Seleccionar todos</string>
+    <string name="actionbar_button_up_description">Atrás</string>
     <string name="ad_download">Descargas</string>
     <string name="add_private">Ocultar archivos ahora</string>
     <string name="add_private_files">Añadir archivos</string>
+    <string name="afternoon">Tarde</string>
     <string name="aggree_desc">Permite que esta aplicación se conecte a Internet y otorga los permisos obligatorios mencionados anteriormente.</string>
+    <string name="am">AM</string>
     <string name="app_all_purpose">¡Bienvenido al Gestor de archivos! Puedes usar esta aplicación para administrar los archivos almacenados en tu dispositivo.</string>
     <string name="app_function">Administra archivos en tu dispositivo</string>
     <string name="app_name">Archivos</string>
