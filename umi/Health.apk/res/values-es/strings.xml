@@ -588,6 +588,9 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="hr_detect_state_reseting_desc">Simplemente despierta o completamente relajado</string>
     <string name="hr_disable_in_split_screen">"No se puede medir la frecuencia cardíaca mientras se usa la pantalla dividida"</string>
     <string name="hr_disturb_detect">Interrupción de detección</string>
+    <string name="hr_finger_permission_desc">Para medir su frecuencia cardíaca, esta función necesita acceder al escáner de huellas digitales para poder detectar cambios en su flujo sanguíneo. ¿Permitir?</string>
+    <string name="hr_fp_detect_desc">La sangre fluye hacia sus dedos con cada latido. La luz brillante en el área del escáner de huellas dactilares debajo de la pantalla nos permite rastrear los cambios en su flujo sanguíneo, analizar los patrones y convertirlos en valores de frecuencia cardíaca.</string>
+    <string name="hr_fp_detect_principle_desc">"La sangre no es completamente opaca; por lo tanto, la luz puede pasar a través de ella. Con cada latido del corazón, la sangre fluye hacia los dedos, bloqueando más luz que entre latidos del corazón. La luz brillante en el área del escáner de huellas dactilares debajo de la pantalla nos permite rastrear los cambios en su flujo sanguíneo, analizar los patrones y convertirlos en valores de frecuencia cardíaca."</string>
     <string name="hr_fp_report_common_desc">Una frecuencia cardíaca normal varía de 60 a 100 latidos por minuto. Una frecuencia cardíaca inferior a 60 BPM es un signo de bradicardia, mientras que una frecuencia cardíaca superior a 100 BPM se acepta como taquicardia en adultos.</string>
     <string name="hr_heart_rate_unit">Frecuencia cardiaca (BPM)</string>
     <string name="hr_in_detect">No suelte los dedos durante la prueba</string>
@@ -1003,6 +1006,7 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="rb_gender_female">Género: Femenino</string>
     <string name="rb_gender_male">Género: Masculino</string>
     <string name="reach_standard">Cumple con el estándar</string>
+    <string name="recog_permission_dialog_content">Permite a Xiaomi Health acceder a tu información de actividad para poder ver el número de pasos.</string>
     <string name="recommand_body_weight_msg">Peso objetivo recomendado: %1$.1f kg. Alcance el IMC %2$.1f para reducir el riesgo de enfermedades cardiovasculares y hepáticas.</string>
     <string name="record_blood_pressure">Registrar medición</string>
     <string name="record_blood_pressure_exception1">"No se pudo guardar. La presión sistólica no puede ser más baja que la presión diastólica."</string>
