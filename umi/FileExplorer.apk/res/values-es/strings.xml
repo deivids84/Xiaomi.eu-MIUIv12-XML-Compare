@@ -164,6 +164,7 @@
     <string name="encrypt_success_first_five">"Cifrado y ocultado. Desliza hacia abajo en la pantalla de inicio del Gestor de archivos para ver los archivos."</string>
     <string name="encrypting">Encriptando…</string>
     <string name="eras_ad">CE</string>
+    <string name="eras_bc">AC</string>
     <string name="error_contains_sharer_path">"No se pueden cifrar archivos en la carpeta /MIUI/Gallery/cloud/sharer, mueva el archivo a otro directorio e inténtelo de nuevo"</string>
     <string name="error_create_dir">"No se pudo crear la carpeta"</string>
     <string name="error_create_file">"No se pudo crear el archivo"</string>
