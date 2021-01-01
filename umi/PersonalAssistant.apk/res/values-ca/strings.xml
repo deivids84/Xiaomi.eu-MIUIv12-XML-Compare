@@ -343,16 +343,10 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_sports_action_preview">Vista prèvia</string>
     <string name="app_sports_action_review">Reprodueix</string>
     <string name="app_sports_all_match">Tots els esdeveniments</string>
-    <string name="app_sports_club_title">Seleccioneu equips</string>
-    <string name="app_sports_dialog_msg_install">Instal·leu Hupu per poder utilitzar aquesta funció. Instal · lar ara?</string>
     <string name="app_sports_dialog_title_fav_league">Selecciona la lliga</string>
     <string name="app_sports_fav_add">Afegir</string>
-    <string name="app_sports_fav_cancel">Elimina aquest equip</string>
-    <string name="app_sports_fav_mine">Equip afegit</string>
-    <string name="app_sports_fav_title">Els meus equips</string>
     <string name="app_sports_more_match">més</string>
     <string name="app_sports_title">Esports</string>
-    <string name="app_sports_title_add_team">Afegiu equips</string>
     <string name="app_sports_title_all_leagues">Tots els partits</string>
     <string name="app_stock_more_add_stock">Afegir</string>
     <string name="app_stock_name_hszs">Penja Sen</string>
