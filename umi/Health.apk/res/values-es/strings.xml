@@ -1124,6 +1124,7 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="skipping_reset_time">Descanso</string>
     <string name="skipping_start_counting">Iniciar</string>
     <string name="skipping_time">Duración</string>
+    <string name="skipping_upload_tips">Subir audio para que las estadísticas sean más precisas</string>
     <string name="sleep">Sueño</string>
     <string name="sleep_and_get_up_time">Horario de acostarse</string>
     <string name="sleep_auto_start_perm_grant">Permisos concedidos</string>
@@ -1136,6 +1137,7 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="sleep_deep">Sueño profundo</string>
     <string name="sleep_deep_light_analysis">Sueño ligero y sueño profundo</string>
     <string name="sleep_deep_light_close_tip">El análisis de sueño profundo está desactivado</string>
+    <string name="sleep_deep_light_no_data">"No se pudo rastrear el sueño. Colocar su dispositivo móvil junto a la almohada hará que los datos del sueño sean más precisos."</string>
     <string name="sleep_detection_enable">Analiza tu ciclo de sueño</string>
     <string name="sleep_detection_feedback">Comentarios</string>
     <string name="sleep_detection_guide_four_description">El seguimiento del sueño consume solo alrededor del 1% de su batería por noche</string>
