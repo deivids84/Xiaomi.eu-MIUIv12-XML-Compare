@@ -997,6 +997,11 @@ estan disponible"</string>
     <string name="id_photo_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la WLAN. Voleu baixar el connector mitjançant les dades mòbils?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">Baixa el connector \"ID\"</string>
+    <string name="id_photo_download_with_metered_network_msg">Sembla que el dispositiu està connectat a una xarxa de pagament. La baixada dels fitxers originals pot comportar despeses addicionals. Voleu baixar-los de totes maneres?</string>
+    <string name="id_photo_download_with_metered_network_title">Xarxa de pagament</string>
+    <string name="id_photo_load_data_fail">"No s'han pogut carregar les dades"</string>
+    <string name="id_photo_module_finish">S\'ha baixat el connector \"ID\" correctament</string>
+    <string name="id_photo_module_loading">S\'està baixant el connector \"ID\"…</string>
     <string name="ignore_album">"No el mostris"</string>
     <string name="ignore_alert_title">"Voleu deixar de mostrar aquest àlbum? Premeu a dalt a la dreta per mostrar les fotos que heu ignorat."</string>
     <string name="ignore_face">Ignora aquesta persona</string>
@@ -1052,6 +1057,7 @@ estan disponible"</string>
     <string name="loading_gif_thumbnail">S\'està baixant la miniatura del GIF&#8230;</string>
     <string name="loading_image">S\'està baixant la imatge&#8230;</string>
     <string name="loading_image_thumbnail">S\'està baixant la miniatura&#8230;</string>
+    <string name="loading_members">S\'estan carregant els membres…</string>
     <string name="loading_suspend">Baixada en pausa. Es reprendrà quan el Wi-Fi estigui disponible.</string>
     <string name="loading_text_format" formatted="false">S\'està suprimint la informació privada de les fotos (%d/%d)…</string>
     <string name="loading_video">S\'està baixant el vídeo&#8230;</string>
@@ -1075,6 +1081,14 @@ estan disponible"</string>
     <string name="macarons_downloading">S\'està baixant el complement…</string>
     <string name="macarons_select_image_range">"No es poden utilitzar diverses imatges per crear una vinyeta màgica"</string>
     <string name="macarons_select_video">"No es poden utilitzar vídeos per crear vinyetes màgiques"</string>
+    <string name="magic_add_full">Podeu afegir fins a %1$d persones</string>
+    <string name="magic_background">Fons</string>
+    <string name="magic_brush">Pinzell</string>
+    <string name="magic_camera">Càmera</string>
+    <string name="magic_cancel">Cancel·la</string>
+    <string name="magic_comparison">Compara</string>
+    <string name="magic_compositing">S\'està processant…</string>
+    <string name="magic_custom_edit">Edita</string>
     <string name="main_discard_confirm_message">Hi ha canvis sense desar</string>
     <string name="main_discard_negative_btn">Descarta</string>
     <string name="main_discard_positive_btn">Desa i surt</string>
