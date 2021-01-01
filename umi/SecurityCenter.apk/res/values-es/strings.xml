@@ -196,6 +196,8 @@
     <string name="app_behavior_about_content_no_link">"MIUI puede mostrar cuándo las aplicaciones iniciaron otras aplicaciones, se iniciaron automáticamente, usaron permisos y realizaron acciones delicadas. Debido a problemas de compatibilidad con la versión de Android, es posible que algunos de estos registros no sean precisos. Si encuentras un registro del comportamiento de una aplicación que no sea preciso, repórtalo usando la aplicación \"Servicios y comentarios\"."</string>
     <string name="app_behavior_about_negative">Reportar imprecisiones</string>
     <string name="app_behavior_about_positive">Entendido</string>
+    <string name="app_behavior_access_gallery">%1s accedió a galería</string>
+    <string name="app_behavior_access_gallery_single">Esta aplicación accedió a la galería</string>
     <string name="app_behavior_allowed">Permitir</string>
     <string name="app_behavior_audio">%1s grabó audio</string>
     <string name="app_behavior_audio_bg">%1s grabó audio en segundo plano</string>
@@ -229,6 +231,8 @@
     <string name="app_behavior_contacts_bg">%1s accedió a tus contactos en segundo plano</string>
     <string name="app_behavior_contacts_bg_single">Esta app accedió a tus contactos en segundo plano</string>
     <string name="app_behavior_contacts_single">Esta app accedió a tus contactos</string>
+    <string name="app_behavior_delete_pic">%1s elementos eliminados de la Galería</string>
+    <string name="app_behavior_delete_pic_single">Esta aplicación eliminó elementos de la Galería</string>
     <string name="app_behavior_denied">Restringir</string>
     <string name="app_behavior_desc_allow_once">Permitido a la %1$s</string>
     <string name="app_behavior_desc_deny_once">Restringido a las %1$s</string>
