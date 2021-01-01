@@ -150,7 +150,23 @@
         <item>Declaració de salut</item>
         <item>Assegurança mèdica</item>
         <item>ID</item>
-        <item>Residence permit</item>
+        <item>Permís de residència</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Un cun</item>
+        <item>Dos cuns</item>
+        <item>Més petit que un cun</item>
+        <item>Més petit que dos cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Sol·licitud d’admissió</item>
+        <item>Xarxa d\'estudiants</item>
+        <item>Xarxa d\'estudiants per a escoles de primària</item>
+        <item>Perfil de la xarxa d\'estudiants</item>
+        <item>University admission</item>
+        <item>NCEE</item>
+        <item>Resume</item>
     </string-array>
     <string-array name="month">
         <item>Gener</item>
