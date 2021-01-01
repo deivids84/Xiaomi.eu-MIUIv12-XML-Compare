@@ -199,6 +199,12 @@
     <string name="file_name_existed">El nombre de archivo está tomado</string>
     <string name="file_name_invalid">"Los nombres de archivo no pueden contener los siguientes caracteres: /\\:*?&lt;&gt;"</string>
     <string name="file_not_exist">"El archivo no existe"</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="folder_name_empty">"El nombre de la carpeta no puede estar vacío"</string>
     <string name="folder_name_illegal">Nombre de carpeta no válido</string>
     <string name="found_router">Router conectado</string>
@@ -691,6 +697,8 @@
     <string name="view_type">Vista</string>
     <string name="wechat_video">Vídeo en %s</string>
     <string name="wednesday">Miércoles</string>
+    <string name="wednesday_short">Mié</string>
+    <string name="wednesday_shortest">Mié</string>
     <string name="wifi_state">Red Wi-Fi</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Sí</string>
