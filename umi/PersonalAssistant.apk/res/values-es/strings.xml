@@ -345,6 +345,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_sports_all_match">Todos los eventos</string>
     <string name="app_sports_dialog_title_fav_league">Seleccionar liga</string>
     <string name="app_sports_fav_add">Añadir</string>
+    <string name="app_sports_fav_cancel_club">Quitar este club</string>
+    <string name="app_sports_fav_cancel_league">Quitar esta liga</string>
     <string name="app_sports_more_match">MÁS</string>
     <string name="app_sports_title">Deportes</string>
     <string name="app_sports_title_all_leagues">Todos los partidos</string>
