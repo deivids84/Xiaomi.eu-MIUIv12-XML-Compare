@@ -741,6 +741,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_whitelist_roaming">Pont SSID: lliurament ràpid</string>
     <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSPA WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
+    <string name="xiaomi_account_bt_sync_name">Mi Nearby</string>
     <string name="zen_alarm_warning">"No sentireu la vostra següent alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la vostra següent alarma %1$s a menys que desactiveu aquesta opció abans"</string>
     <string name="zen_interruption_level_priority">Només amb prioritat</string>
