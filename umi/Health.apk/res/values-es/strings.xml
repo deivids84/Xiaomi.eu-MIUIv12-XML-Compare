@@ -1133,11 +1133,13 @@ Empiece de nuevo."</string>
     <string name="share_card_title_pool_swimming">Natación %s</string>
     <string name="share_card_title_riding">Ciclismo</string>
     <string name="share_card_title_rope_skipping">Saltar a la Comba</string>
+    <string name="share_card_title_rowing_machine">Remero %s</string>
     <string name="share_card_title_running">Correr</string>
     <string name="share_card_title_stair_climbing">Subir escaleras</string>
     <string name="share_card_title_swimming">Natación</string>
     <string name="share_card_title_treadmill">Cinta de correr %s</string>
     <string name="share_card_title_walking">Caminar %s</string>
+    <string name="share_card_title_yoga">Yoga</string>
     <string name="skip">Saltar</string>
     <string name="skip_to_next_item_button_content_description">Saltar al siguiente elemento</string>
     <string name="skip_to_previous_item_button_content_description">Saltar al elemento anterior</string>
@@ -1145,6 +1147,7 @@ Empiece de nuevo."</string>
     <string name="skipping_detection_no">"No se pudo detectar tu entrenamiento."</string>
     <string name="skipping_detection_no_hint">Evite los lugares ruidosos y mantenga este dispositivo cerca.</string>
     <string name="skipping_kcal">Calorías</string>
+    <string name="skipping_pause">Entrenamiento en pausa</string>
     <string name="skipping_pause_tips">Pausado | Reanude su entrenamiento para continuar con el seguimiento automáticamente</string>
     <string name="skipping_ready">Puedes comenzar tu entrenamiento ahora</string>
     <string name="skipping_ready_hint_one">Mantenga este dispositivo a no más de 1 metro de usted.</string>
@@ -1153,6 +1156,10 @@ Empiece de nuevo."</string>
     <string name="skipping_reset_time">Descanso</string>
     <string name="skipping_start_counting">Iniciar</string>
     <string name="skipping_time">Duración</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Subir</string>
+    <string name="skipping_upload_dialog_msg">Cuando su dispositivo está conectado a %s, puede optar por cargar el audio grabado durante los entrenamientos para mejorar la precisión de las estadísticas del entrenamiento. Para proteger su privacidad, los archivos de audio se cifrarán.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">No, gracias</string>
+    <string name="skipping_upload_dialog_title">Cargar audio</string>
     <string name="skipping_upload_tips">Subir audio para que las estadísticas sean más precisas</string>
     <string name="sleep">Sueño</string>
     <string name="sleep_and_get_up_time">Horario de acostarse</string>
@@ -1366,6 +1373,9 @@ datos de sueño"</string>
     <string name="sport_step_max_frequency">El más alto</string>
     <string name="sport_step_min_frequency">Bajísimo</string>
     <string name="sport_title_step_frequency">Cadencia</string>
+    <string name="sport_tts_1">Uno</string>
+    <string name="sport_tts_2">Dos</string>
+    <string name="sport_tts_3">Tres</string>
     <string name="sport_tts_begin_riding">Empieza a pedalear</string>
     <string name="sport_tts_begin_running">Empezar a correr</string>
     <string name="sport_tts_begin_walking">Empieza a caminar</string>
