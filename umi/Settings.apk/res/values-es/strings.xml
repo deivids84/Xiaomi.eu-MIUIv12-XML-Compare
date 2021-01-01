@@ -2466,6 +2466,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="doze_always_on_title">Siempre en</string>
     <string name="doze_summary">Activar pantalla al recibir notificaciones</string>
     <string name="doze_title">Nuevas notificaciones</string>
+    <string name="dpp_before_share_summary">¿Compartir la red WLAN \"%1$s\" con otra persona?</string>
     <string name="dpp_qrcode_generator_summary">Escanee este código QR con un dispositivo que admita Easy Connect</string>
     <string name="draw_overlay">Mostrar sobre otras aplicaciones</string>
     <string name="dsu_is_running">DSU se está ejecutando</string>
@@ -2520,6 +2521,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="edit_rules">Editar</string>
     <string name="effect_preview">Vista previa</string>
     <string name="eighthours">8 horas</string>
+    <string name="elastic_text">Aparecen avisos y menús desplegables con un pop elástico que enfoca más estos objetos</string>
     <string name="emergency_address_summary">Dirección que utilizan los servicios de emergencia como tu ubicación si llamas al 911 por Wi-Fi</string>
     <string name="emergency_address_title">Actualizar dirección de emergencia</string>
     <string name="emergency_info_summary">Información y contactos de %1$s</string>
@@ -4134,6 +4136,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_in_ear_check_summary">Pausar y reanudar la reproducción automáticamente mientras usa o se quita los auriculares</string>
     <string name="miheadset_last_version">El firmware está actualizado</string>
     <string name="miheadset_moreSettingsInAi">Ajustes adicionales</string>
+    <string name="miheadset_multi_connect_mode_summary">conectar más de un dispositivo al mismo tiempo</string>
     <string name="miheadset_next">siguiente</string>
     <string name="miheadset_ok_device">Aceptar</string>
     <string name="miheadset_openAnc">Supresión de ruido</string>
@@ -4378,6 +4381,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="mtrl_picker_date_format">dd MMM aaaa</string>
     <string name="mtrl_picker_header_prompt">Seleccione una fecha</string>
     <string name="mtrl_picker_range_header_prompt">Elija un rango de fechas</string>
+    <string name="muffled_text">Las frecuencias bajas acentúan suavemente las transiciones visuales y hacen que los gestos se sientan más naturales</string>
     <string name="multi_face_delete_message">Atención</string>
     <string name="multi_face_delete_show_message">¿Eliminar datos faciales ahora?</string>
     <string name="multi_face_input">Agregar datos faciales</string>
@@ -5636,6 +5640,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Mejora AI HDR</string>
+    <string name="screen_enhance_engine_s2h_pic_summary">"Procese videos con efectos HDR para resaltar más detalles en las áreas más claras y más oscuras. "</string>
     <string name="screen_enhance_engine_s2h_title">Mejora AI HDR</string>
     <string name="screen_enhance_engine_sr_for_pic">Mejorar imágenes</string>
     <string name="screen_enhance_engine_sr_for_video">Mejorar videos</string>
