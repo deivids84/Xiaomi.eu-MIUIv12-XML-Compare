@@ -1046,6 +1046,9 @@ disponibles"</string>
     <string name="magic_matting_download_failed_for_notwork">"No se pudo descargar. Verifique la configuración de su red e intentelo nuevamente."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Parece que su dispositivo no está conectado a Wi-Fi. ¿Descargar el complemento utilizando datos móviles?"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Parece que su dispositivo no está conectado a una WLAN. ¿Descargar el complemento utilizando datos móviles?"</string>
+    <string name="magic_more_fact">Parece que hay varias personas en esta foto</string>
+    <string name="magic_more_no_fact">"No se pudieron encontrar personas en esta foto"</string>
+    <string name="magic_special_guide_text">Funciona mejor con videos de una persona</string>
     <string name="magic_video_soundtrack_is_turned_off">Sonido original apagado</string>
     <string name="magic_video_soundtrack_is_turned_on">Sonido original encendido</string>
     <string name="main_discard_confirm_message">Hay cambios sin guardar</string>
