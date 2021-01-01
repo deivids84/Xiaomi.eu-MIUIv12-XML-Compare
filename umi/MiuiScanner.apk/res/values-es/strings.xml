@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Approval">Solicitar</string>
+    <string name="Approval">Aplicar</string>
     <string name="Enhance">Mejorado</string>
     <string name="WeChatqr_code_auto_processing">Abrir WeChat</string>
     <string name="Xiaomi_account_pending_approval">Revisando solicitud</string>
