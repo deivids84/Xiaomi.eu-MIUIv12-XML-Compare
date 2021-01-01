@@ -145,6 +145,13 @@
         <item>Educació</item>
         <item>Exàmens</item>
     </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Seguretat Social</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
+        <item>ID</item>
+        <item>Residence permit</item>
+    </string-array>
     <string-array name="month">
         <item>Gener</item>
         <item>Febrer</item>
