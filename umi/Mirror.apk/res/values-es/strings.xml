@@ -111,6 +111,7 @@
     <string name="log_warning">"Alternar los interruptores de registro puede aumentar los riesgos de seguridad y afectar el rendimiento. Utilice estos conmutadores solo cuando sea necesario."</string>
     <string name="message_log">Registros de mensajes</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
