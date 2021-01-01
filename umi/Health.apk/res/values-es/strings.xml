@@ -77,6 +77,7 @@ para añadir tarjetas"</string>
     <string name="allergic_drugs_hint">Introduce el medicamento y la reacción al mismo</string>
     <string name="allow_notice_periods">Periodo de tiempo activo</string>
     <string name="altitude">Altitud</string>
+    <string name="altitude_pressure_hint">*La altitud calculada en función de la presión atmosférica es aproximada</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">AM</string>
     <string name="app_setting">Aplicaciones</string>
@@ -589,9 +590,15 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="hr_disable_in_split_screen">"No se puede medir la frecuencia cardíaca mientras se usa la pantalla dividida"</string>
     <string name="hr_disturb_detect">Interrupción de detección</string>
     <string name="hr_finger_permission_desc">Para medir su frecuencia cardíaca, esta función necesita acceder al escáner de huellas digitales para poder detectar cambios en su flujo sanguíneo. ¿Permitir?</string>
+    <string name="hr_fp_area">Lector de huellas</string>
     <string name="hr_fp_detect_desc">La sangre fluye hacia sus dedos con cada latido. La luz brillante en el área del escáner de huellas dactilares debajo de la pantalla nos permite rastrear los cambios en su flujo sanguíneo, analizar los patrones y convertirlos en valores de frecuencia cardíaca.</string>
     <string name="hr_fp_detect_principle_desc">"La sangre no es completamente opaca; por lo tanto, la luz puede pasar a través de ella. Con cada latido del corazón, la sangre fluye hacia los dedos, bloqueando más luz que entre latidos del corazón. La luz brillante en el área del escáner de huellas dactilares debajo de la pantalla nos permite rastrear los cambios en su flujo sanguíneo, analizar los patrones y convertirlos en valores de frecuencia cardíaca."</string>
     <string name="hr_fp_detect_principle_desc_2">"Nota: Asegúrese de que el dedo cubre completamente el icono de huella dactilar durante la medición. No aplique la fuerza, ya que podría bloquear el flujo de sangre en la punta del dedo y hacer que los resultados sean inexactos. Esta medida sólo se proporciona para su referencia. No puede reemplazar las pruebas médicas."</string>
+    <string name="hr_fp_detect_principle_desc_3">Nuestras pruebas muestran que este método mide su frecuencia cardíaca con un error de solo ≤3 BPM.</string>
+    <string name="hr_fp_detect_start_desc">Cubra el icono con su dedo</string>
+    <string name="hr_fp_detecting">"No mueva su dedo"</string>
+    <string name="hr_fp_not_put_well">"Su dedo se movió.
+Empiece de nuevo."</string>
     <string name="hr_fp_report_common_desc">Una frecuencia cardíaca normal varía de 60 a 100 latidos por minuto. Una frecuencia cardíaca inferior a 60 BPM es un signo de bradicardia, mientras que una frecuencia cardíaca superior a 100 BPM se acepta como taquicardia en adultos.</string>
     <string name="hr_heart_rate_unit">Frecuencia cardiaca (BPM)</string>
     <string name="hr_in_detect">No suelte los dedos durante la prueba</string>
@@ -604,9 +611,14 @@ Espere hasta que el círculo se vuelva rojo."</string>
     <string name="hr_pre_detect_finger">Revisando…</string>
     <string name="hr_re_detect_title">Volver a empezar</string>
     <string name="hr_report_active_desc">Medir su frecuencia cardíaca inmediatamente después de hacer ejercicio puede ayudarlo a ajustar sus hábitos de ejercicio, ya que los entrenamientos de diferente intensidad tienen diferentes zonas óptimas de frecuencia cardíaca. Si su frecuencia cardíaca es demasiado alta, la actividad podría ser perjudicial para su salud y provocar mareos, opresión en el pecho y otros riesgos. La frecuencia cardíaca baja puede ser un signo de baja efectividad de un entrenamiento en particular.</string>
+    <string name="hr_report_active_high_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de intensidad relativamente alta. Su corazón y sus pulmones están trabajando duro."</string>
+    <string name="hr_report_active_higher_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de alta intensidad. Su corazón y sus pulmones están trabajando duro. Preste atención a su estado y deje de hacer ejercicio si se siente mal."</string>
     <string name="hr_report_active_lower_mid_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de intensidad relativamente baja. Es adecuado para calentar y hacer ejercicios sencillos. Se recomienda a las personas con diversas condiciones de salud que realicen ejercicios de intensidad baja a moderada."</string>
+    <string name="hr_report_active_lowest_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de baja intensidad. Estimule su cuerpo hasta cierto punto sin requerir mucha energía."</string>
     <string name="hr_report_active_mid_desc">"Su frecuencia cardíaca nos dice que está realizando una actividad física de intensidad moderada. Se recomienda que la mayoría de los adultos sanos realicen ejercicio de intensidad moderada a alta durante un total de 150 minutos por semana."</string>
     <string name="hr_report_common_desc">El cuerpo humano mantiene la frecuencia cardíaca normal durante las actividades diarias y varía de 60 a 100 latidos por minuto. Una frecuencia cardíaca inferior a 60 BPM es un signo de bradicardia, mientras que una frecuencia cardíaca superior a 100 BPM se acepta como taquicardia en adultos.</string>
+    <string name="hr_report_regular_fast_desc">Su frecuencia cardíaca actual es demasiado rápida. La actividad física excesiva, el consumo de alcohol, el trabajo físico intenso, el nerviosismo, la ansiedad o la ingesta de determinadas drogas pueden provocar taquicardia fisiológica. Además, las enfermedades cardiovasculares, la anemia, el hipertiroidismo, la hipoxia, la insuficiencia cardíaca y otras enfermedades pueden ser signos de taquicardia patológica. Si no se encuentra bien, consulte a su médico a tiempo.</string>
+    <string name="hr_report_regular_normal_desc">"Su frecuencia cardíaca actual es normal. Su corazón puede afrontar bien el estrés y su cuerpo puede resistir la presión externa. Sin embargo, no debe olvidar que los cambios en la frecuencia cardíaca pueden ser signos de una enfermedad cardíaca. Vigile siempre su frecuencia cardíaca, especialmente durante el ejercicio."</string>
     <string name="hr_report_resting_slow_desc">Su frecuencia cardíaca en reposo es más lenta de lo normal, lo que podría ser un signo de bradicardia. Los períodos prolongados de latidos cardíacos lentos pueden causar isquemia e hipoxia, así como otros trastornos cardiovasculares y cerebrovasculares. La frecuencia cardíaca en reposo está estrechamente relacionada con su dieta, actividad, niveles de estrés, hábitos de sueño y condición física general. Mantenga un estilo de vida saludable y preste atención a su cuerpo para evitar problemas. Si experimenta opresión en el pecho, mareos, desmayos, vértigo o desmayos, consulte a su médico a tiempo.</string>
     <string name="hr_see_report">Vista del informe</string>
     <string name="hr_start_detect">Empiece a experimentar</string>
