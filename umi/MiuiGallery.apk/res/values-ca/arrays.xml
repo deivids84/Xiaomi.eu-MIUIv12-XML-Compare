@@ -114,9 +114,36 @@
         <item>Converteix els fons en esbossos</item>
         <item>Fons d\'estil aquarel·la</item>
         <item>Cyberpunk retro</item>
-        <item>Misplaced vertical segments</item>
-        <item>Hazy blur</item>
-        <item>Futuristic feel</item>
+        <item>Segments verticals desplaçats</item>
+        <item>Difuminat borrós</item>
+        <item>Sensació futurista</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Esbós</item>
+        <item>Aquarel·la</item>
+        <item>RGB</item>
+        <item>Persianes</item>
+        <item>Finestra de boira</item>
+        <item>Tecnologia</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Contorn de colors</item>
+        <item>Contorn amb guions</item>
+        <item>Contorn fluorescent</item>
+        <item>Ombra de colors</item>
+        <item>Ona elèctrica</item>
+        <item>Actual</item>
+        <item>Text</item>
+        <item>Ales</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Viatges</item>
+        <item>Feina</item>
+        <item>Documents</item>
+        <item>Educació</item>
+        <item>Exàmens</item>
     </string-array>
     <string-array name="month">
         <item>Gener</item>
