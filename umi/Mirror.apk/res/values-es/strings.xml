@@ -220,6 +220,7 @@
     <string name="settings_privacy_policy">Política de Privacidad</string>
     <string name="settings_scanner_button">Escáner</string>
     <string name="settings_trusted">Conectar automáticamente</string>
+    <string name="settings_trusted_delete">Eliminar</string>
     <string name="settings_trusted_delete_dialog_msg">"No podrá conectarse a este dispositivo automáticamente después de que lo elimine de la lista."</string>
     <string name="settings_trusted_delete_dialog_title">¿Dejar de conectarse automáticamente?</string>
     <string name="settings_trusted_device_group">Dispositivos que se conectan automáticamente</string>
