@@ -27,6 +27,9 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="acc_bg_first_item_description">No hi ha opcions de fons</string>
+    <string name="acc_clear_button">Botó de neteja</string>
+    <string name="acc_clsoe_function_button">El botó per desactivar el so original</string>
     <string name="accept">D\'acord</string>
     <string name="accept_or_deny">%1$s us ha compartit l\'àlbum %2$s.</string>
     <string name="actionbar_button_up_description">Enrere</string>
