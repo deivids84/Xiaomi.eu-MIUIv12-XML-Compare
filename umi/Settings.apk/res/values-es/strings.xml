@@ -5634,6 +5634,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar</string>
     <string name="screen_effect">Contraste y colores</string>
+    <string name="screen_enhance_engine_ai_note_2">%d. Solo se pueden mejorar las imágenes de la aplicación Galería.</string>
     <string name="screen_enhance_engine_ai_open">Mejorar imágenes</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen AI</string>
     <string name="screen_enhance_engine_memc_note">"No se pueden mejorar los videos cuando la súper resolución está activada. Al activar los videos mejorados, desactivará la súper resolución."</string>
