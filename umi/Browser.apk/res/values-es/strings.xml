@@ -179,7 +179,7 @@
     <string name="cast_video">Emitir vídeo</string>
     <string name="channel_header_description">Toque para abrir. Mantenga pulsado para editar.</string>
     <string name="channel_header_title">Mis canales</string>
-    <string name="channel_more_description">Pulsa para añadir</string>
+    <string name="channel_more_description">Pulse para añadir</string>
     <string name="channel_more_title">Más canales</string>
     <string name="channel_network_error">Ocurrió un error de red. Verifique la configuración de su red y vuelva a intentarlo.</string>
     <string name="channel_no_data">"Eso es todo por ahora. ¡Échale un vistazo a otros canales!"</string>
