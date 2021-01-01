@@ -1405,6 +1405,8 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_editor_remove_watermark">Eliminar marca de agua</string>
     <string name="photo_editor_remove_watermark_on">Añadir marca de agua</string>
     <string name="photo_editor_remover">Eliminar</string>
+    <string name="photo_editor_remover2_edit_type_free">A mano</string>
+    <string name="photo_editor_remover2_edit_type_people">Quitar personas</string>
     <string name="photo_editor_rotate">Rotar</string>
     <string name="photo_editor_saving">Guardando…</string>
     <string name="photo_editor_sky">Cielo</string>
