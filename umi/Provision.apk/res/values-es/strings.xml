@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_next">Aceptar</string>
@@ -22,8 +23,10 @@
     <string name="backup_introduction">Puede utilizar esta aplicación para realizar copias de seguridad y restaurar elementos en su dispositivo.</string>
     <string name="calculator_introduction">Puede utilizar esta aplicación para realizar cálculos, convertir unidades y monedas y estimar los reembolsos de su hipoteca.</string>
     <string name="camera_introduction">Puede usar la cámara para tomar fotos y grabar videos.</string>
+    <string name="carrier_introduction">"Para proporcionarle mejores servicios, su dispositivo puede enviar periódicamente la información de la versión del dispositivo, los datos de identificación del dispositivo (incluyendo la dirección IMEI/IMSI/MSISDN/MAC, MEID/ICCID), e información de la ubicación aproximada (incluyendo el ID de la estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratuito. El Operador se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración del Operador específico prevalecerá. Consulte a su Operador sobre el coste de uso de este servicio."</string>
     <string name="clock_introduction">Puede usar esta aplicación para ver la hora, así como usar el temporizador, el reloj mundial, el cronómetro, configurar alarmas y más.</string>
     <string name="close_location_service_setting">Puede elegir desactivar el acceso a la ubicación en Configuración &gt; Configuración adicional &gt; Privacidad o restringir los permisos para aplicaciones individuales en Seguridad.</string>
+    <string name="cm_terms_content">"Con el fin de mejorar los servicios que se le brindan, el operador de red móvil de su elección puede subir sus datos personales y la información sobre este dispositivo en sus servidores mediante redes WLAN o conexión de datos móviles. Esta información solo se utilizará con fines estadísticos con el fin de mejorar la calidad de los servicios y proporcionar contenido más personalizado. Esta información no se utilizará para identificarle personalmente y no se divulgará a terceros."</string>
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puede utilizar esta aplicación para la navegación, así como para ver las coordenadas, la presión atmosférica y la altitud.</string>
     <string name="congratulation_label">"¡Listo para disfrutar!​"</string>
