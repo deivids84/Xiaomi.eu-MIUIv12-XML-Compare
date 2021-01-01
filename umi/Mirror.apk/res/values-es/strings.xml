@@ -177,6 +177,8 @@
     <string name="privacy_describe_location">Para encontrar computadoras cercanas y transferir archivos</string>
     <string name="privacy_describe_record_audio">Para redirigir la reproducción de audio a su computadora</string>
     <string name="privacy_describe_storage">Para enviar y recibir archivos</string>
+    <string name="relay_msg_photo_text">Guardado en la Galería con éxito</string>
+    <string name="relay_msg_screenshot_text">Guardado en la Galería con éxito</string>
     <string name="resource_log">Registros de recursos</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
