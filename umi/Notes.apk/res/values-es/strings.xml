@@ -363,6 +363,7 @@
     <string name="note_gesture_guide_step1">Mantén pulsado el signo \"más\" para crear una nota de voz</string>
     <string name="note_gesture_guide_step2">Mantén presionada una nota y luego arrástrala sobre otra nota para crear una carpeta</string>
     <string name="note_gesture_guide_step3">Mantén presionada una nota y luego arrástrala sobre una carpeta para mover allí la nota</string>
+    <string name="note_header_first_enter_guide">Desliza hacia abajo para ver más</string>
     <string name="note_invalid_mindnote_hint">"Los mapas mentales no están disponibles en esta versión. Actualice la aplicación para usar esta función."</string>
     <string name="note_link_email">Redactar correo</string>
     <string name="note_link_other">Abrir utilizando la aplicación de mapas</string>
