@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ir a inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Hecho</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_next">Aceptar</string>
