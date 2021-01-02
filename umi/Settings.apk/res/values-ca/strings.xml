@@ -2501,6 +2501,8 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="doze_summary">Quan la pantalla està fosca, s’activa per a les noves notificacions</string>
     <string name="doze_title">Pantalla despertada per a notificacions</string>
     <string name="dpp_before_share_summary">Voleu compartir la xarxa WLAN \"%1$s\" amb una altra persona?</string>
+    <string name="dpp_cannot_connect_target">"No es pot connectar a la xarxa de destinació"</string>
+    <string name="dpp_connect_success">S\'ha connectat correctament</string>
     <string name="dpp_qrcode_generator_summary">Escaneja aquest codi QR amb un dispositiu compatible amb Easy Connect</string>
     <string name="draw_overlay">Mostra a sobre d\'altres aplicacions</string>
     <string name="dsu_is_running">El DSU s\'està executant</string>
