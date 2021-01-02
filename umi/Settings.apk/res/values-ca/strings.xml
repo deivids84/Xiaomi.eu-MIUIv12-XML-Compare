@@ -1076,6 +1076,7 @@ Aplicacions:
     <string name="bluetooth_device_advanced_rename_device">Canvia el nom</string>
     <string name="bluetooth_device_advanced_title">S\'ha vinculat el dispositiu Bluetooth</string>
     <string name="bluetooth_device_blacklist_summary">Gestioneu els dispositius Bluetooth bloquejats</string>
+    <string name="bluetooth_device_blacklist_tital">Llista de bloqueig Bluetooth</string>
     <string name="bluetooth_device_context_connect">Connecta</string>
     <string name="bluetooth_device_context_connect_advanced">Opcions&#8230;</string>
     <string name="bluetooth_device_context_disconnect">Desconnecta</string>
@@ -1162,9 +1163,11 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Seleccioneu el nombre màxim de dispositius d\'àudio Bluetooth connectats</string>
     <string name="bluetooth_max_connected_audio_devices_string">Màxim de dispositius d’àudio Bluetooth connectats</string>
     <string name="bluetooth_menu_advanced">Avançat</string>
+    <string name="bluetooth_message_move_out_of_blacklist">Voleu desbloquejar %1$s ara?</string>
     <string name="bluetooth_mi_fast_connect">Vincula els dispositius compatibles</string>
     <string name="bluetooth_mi_fast_connect_summary">Connecteu-vos a dispositius propers mitjançant un procés de sincronització simplificat</string>
     <string name="bluetooth_middle_name">Caixa</string>
+    <string name="bluetooth_move_out_of_blacklist">Desbloqueja el dispositiu</string>
     <string name="bluetooth_name_not_set">No s\'ha definit cap nom; s\'utilitza el nom del compte</string>
     <string name="bluetooth_no_devices_found">No s\'han trobat dispositius Bluetooth a prop.</string>
     <string name="bluetooth_not_visible_to_other_devices">Invisible als altres dispositius Bluetooth</string>
@@ -1182,6 +1185,7 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_pairing">S\'està vinculant&#8230;</string>
     <string name="bluetooth_pairing_accept">Vincula</string>
     <string name="bluetooth_pairing_accept_all_caps">VINCULA</string>
+    <string name="bluetooth_pairing_add_to_blackfile">Bloqueja</string>
     <string name="bluetooth_pairing_decline">Cancel·la</string>
     <string name="bluetooth_pairing_device_down_error_message">"No es pot comunicar amb %1$s."</string>
     <string name="bluetooth_pairing_dialog_contants_request">%1$s vol accedir als contactes i a l\'historial de trucades.</string>
@@ -1196,6 +1200,7 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_pairing_rejected_error_message">%1$s ha rebutjat la vinculació.</string>
     <string name="bluetooth_pairing_request">Voleu vincular %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Permet l\'accés als contactes i a l\'historial de trucades</string>
+    <string name="bluetooth_pairing_toast_add_to_blackfile">Bloquejat correctament. Podeu gestionar els elements bloquejats a \"Configuració addicional\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">La vinculació dóna accés als contactes i al registre de trucades quan està connectat.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">S\'està compartint la connexió a Internet amb el dispositiu</string>
     <string name="bluetooth_pan_profile_summary_use_for">Utilitzat per a accés a Internet</string>
@@ -1888,6 +1893,8 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="credentials_settings_not_available">Les credencials no estan disponibles per aquest usuari</string>
     <string name="credentials_title">Emmagatzematge de credencials</string>
     <string name="credentials_title_verification">Certificació</string>
+    <string name="crisp_text">Les freqüències altes aporten claredat als detalls de cada acció</string>
+    <string name="critical_feedback">Comentaris crítics</string>
     <string name="cross_profile_calendar_summary">Mostra esdeveniments laborals al calendari personal</string>
     <string name="cross_profile_calendar_title">Calendari de perfils creuats</string>
     <string name="crypt_keeper_button_text">Xifra el telèfon</string>
@@ -2376,6 +2383,9 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="disconnected">S\'ha desconnectat</string>
     <string name="display_advanced_mode_summary">Opcions de gamma de colors</string>
     <string name="display_advanced_mode_title">Configuració avançada</string>
+    <string name="display_animate_category">Efectes animats</string>
+    <string name="display_animate_content">Reduïu els efectes animats que es mostren mentre es desbloqueja el dispositiu</string>
+    <string name="display_animate_title">Redueix les animacions</string>
     <string name="display_auto_rotate_rotate">Activat</string>
     <string name="display_auto_rotate_stay_in_current">Desactivat</string>
     <string name="display_auto_rotate_stay_in_landscape">Bloqueja\'l en horitzontal</string>
@@ -2490,6 +2500,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="doze_always_on_title">Pantalla ambiental</string>
     <string name="doze_summary">Quan la pantalla està fosca, s’activa per a les noves notificacions</string>
     <string name="doze_title">Pantalla despertada per a notificacions</string>
+    <string name="dpp_before_share_summary">Voleu compartir la xarxa WLAN \"%1$s\" amb una altra persona?</string>
     <string name="dpp_qrcode_generator_summary">Escaneja aquest codi QR amb un dispositiu compatible amb Easy Connect</string>
     <string name="draw_overlay">Mostra a sobre d\'altres aplicacions</string>
     <string name="dsu_is_running">El DSU s\'està executant</string>
