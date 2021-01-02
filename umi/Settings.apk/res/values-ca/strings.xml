@@ -2503,7 +2503,14 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="dpp_before_share_summary">Voleu compartir la xarxa WLAN \"%1$s\" amb una altra persona?</string>
     <string name="dpp_cannot_connect_target">"No es pot connectar a la xarxa de destinació"</string>
     <string name="dpp_connect_success">S\'ha connectat correctament</string>
+    <string name="dpp_not_support">"No es pot compartir aquesta xarxa"</string>
+    <string name="dpp_qr_code_summary">Connecteu-vos a una xarxa WLAN escanejant aquest codi QR.</string>
     <string name="dpp_qrcode_generator_summary">Escaneja aquest codi QR amb un dispositiu compatible amb Easy Connect</string>
+    <string name="dpp_scanner_summary">Col·loqueu el codi QR dins del marc</string>
+    <string name="dpp_shared_fail">"No s'ha pogut compartir la WLAN"</string>
+    <string name="dpp_shared_success">WLAN compartida correctament</string>
+    <string name="dpp_sharing_wifi_summary">S\'està compartint la WLAN…</string>
+    <string name="dpp_theme_title">WLAN compartida</string>
     <string name="draw_overlay">Mostra a sobre d\'altres aplicacions</string>
     <string name="dsu_is_running">El DSU s\'està executant</string>
     <string name="dsu_loader_description">Carregueu una imatge d’actualització de sistema dinàmic</string>
