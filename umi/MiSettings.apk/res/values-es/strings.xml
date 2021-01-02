@@ -54,7 +54,12 @@
     <string name="area_amazon">Selva</string>
     <string name="area_arctic">El Ártico</string>
     <string name="area_australia">Australia</string>
+    <string name="atarctic_shag">Cormorán antártico</string>
+    <string name="australia_introduction">El continente australiano es un refugio para especies endémicas raras.</string>
+    <string name="baboon_info">El babuino de oliva vive en grupos con una clasificación social desarrollada en función del dominio de cada individuo.</string>
     <string name="back">Atrás</string>
+    <string name="bear_info">Los osos son los carnívoros terrestres más grandes. Viven en regiones frías y son conocidos por su agudo sentido del olfato.</string>
+    <string name="black_backed_jackal">Chacal</string>
     <string name="calendar_sound">Recordatorios de eventos</string>
     <string name="calendar_tip">Los sonidos para recordatorios de eventos funcionan para recordatorios del calendario, notas y tareas</string>
     <string name="category_other">Otros</string>
