@@ -2909,6 +2909,8 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="flash_drive_backup_enable">Utilitzeu una unitat USB per fer còpies de seguretat o restaurar elements</string>
     <string name="flash_drive_backup_restore">Unitat USB</string>
     <string name="flash_drive_backup_restore_summary">Connecteu una unitat USB</string>
+    <string name="flashback_open_switch_summary">Mostra la informació clau quan les aplicacions es mostren com a finestres flotants</string>
+    <string name="flashback_summary">Mostra la informació clau quan les aplicacions es mostren com a finestres flotants</string>
     <string name="floating_window_switch_label">Activa les finestres flotants</string>
     <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
     <string name="fluency_mode">Animacions del sistema</string>
@@ -3154,6 +3156,7 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="haptic_feedback_progress">Nivell de resposta hàptica</string>
     <string name="haptic_feedback_summary">Rebre una resposta tàctil a gestos i controls del sistema</string>
     <string name="haptic_feedback_title">Resposta hàptica</string>
+    <string name="haptic_generate_small_window_gestures_09_content_description">Finestra flotant</string>
     <string name="hardkeyboard_category">Configuració de teclat físic</string>
     <string name="hardware_info">Model i maquinari</string>
     <string name="hardware_revision">Versió del maquinari</string>
@@ -7163,7 +7166,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="turn_on_keyguard_password_alert_foget_cacel">Ara no</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Entesos</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Entesos (%d segon)</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">"Recordeu la contrasenya de la vostra pantalla de bloqueig. Si la oblideu, haureu d'esborrar totes les dades del vostre dispositiu, incloses les fotos i els contactes i, a continuació, configurar-ne un de nova."</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">"Recordeu la contrasenya de la pantalla de bloqueig. Si l'oblideu, haureu d’esborrar totes les dades del dispositiu, incloses les fotos i els contactes, i definir-ne una de nova."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Recordeu la vostra contrasenya</string>
     <string name="turn_on_security_lock">Seleccioneu bloqueig de pantalla</string>
     <string name="turn_on_torch">Activa la llanterna</string>
@@ -7261,7 +7264,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
     <string name="unlock_set_unlock_password_title">Contrasenya</string>
     <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
     <string name="unlock_set_unlock_pattern_title">Patró</string>
-    <string name="unlock_set_unlock_pin_summary">Introdueixi %1$d-%2$d números de dispositiu de desbloqueig</string>
+    <string name="unlock_set_unlock_pin_summary">Introduïu %1$d-%2$d números per desbloquejar el dispositiu</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
     <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
