@@ -1082,6 +1082,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="report_content_violence">El discurs de l\'odi</string>
     <string name="report_fail">"No s'ha pogut informar Torna-ho a provar."</string>
     <string name="report_success">S\'ha informat correctament</string>
+    <string name="request_camera_permission_message">"Protegirem la vostra informació personal d’acord amb les lleis i regulacions pertinents. Aquesta aplicació necessita els permisos següents per funcionar amb normalitat:&lt;br&gt;&lt;br&gt;&lt;b&gt;Utilitzar la càmera (per configurar la foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no accepteu concedir aquests permisos, no podreu utilitzar algunes funcions d'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible per a vosaltres. Sempre podeu restringir els permisos o revocar la vostra autorització a la configuració."</string>
     <string name="resend_active_email">Reenvia</string>
     <string name="resend_email_reach_limit_message">"Heu sol·licitat massa correus de verificació. Assegureu-vos que el correu de verificació no estigui a la carpeta de correu brossa de la safata d'entrada."</string>
     <string name="resend_email_reach_limit_title">Massa intents</string>
