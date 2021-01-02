@@ -355,6 +355,8 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_sports_fav_cancel_club">Suprimeix aquest club</string>
     <string name="app_sports_fav_cancel_league">Suprimeix aquesta lliga</string>
     <string name="app_sports_fav_club">Club de preocupació</string>
+    <string name="app_sports_fav_league">Lliga de preocupació</string>
+    <string name="app_sports_fav_title">La meva preocupació</string>
     <string name="app_sports_more_match">més</string>
     <string name="app_sports_title">Esports</string>
     <string name="app_sports_title_all_leagues">Tots els partits</string>
