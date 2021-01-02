@@ -103,6 +103,7 @@
     <string name="install_preinstall_app">Cargando aplicaciones…</string>
     <string name="item_fingerprint">Huella dactilar</string>
     <string name="item_lock_screen_password">Solo bloqueo de pantalla</string>
+    <string name="item_lock_screen_password_only">Pantalla de Bloqueo</string>
     <string name="ktlocation_U">(Agente de servicio de KT)</string>
     <string name="ktposition_header">Compartir información de ubicación con agencias de rescate de emergencia</string>
     <string name="language_picker_other_languages_title">Más idiomas</string>
@@ -123,6 +124,8 @@
     <string name="move_data_dialog_cancel">Cancelar</string>
     <string name="move_data_dialog_title">Puede restringir la conexión de datos móviles en la Configuración más tarde</string>
     <string name="move_data_dialog_use">Usar</string>
+    <string name="msim_setting_default_data">SIM de datos</string>
+    <string name="msim_setting_default_voice">SIM predeterminada para llamadas</string>
     <string name="multisim_settings_category">Ajustes de SIM</string>
     <string name="multisim_settings_title">Se han detectado 2 tarjetas SIM</string>
     <string name="navigation_picker_gesture_guide">Guía de gestos</string>
@@ -204,13 +207,17 @@
     <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="protect_persoanl_info_statement">Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes.</string>
+    <string name="provision_back">Atrás</string>
     <string name="provision_inputmethod_policy_description">"
 Ver la Política de Privacidad del teclado seleccionado."</string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
+    <string name="provision_next">Siguiente</string>
+    <string name="provision_skip_underline">Omitir</string>
     <string name="recorder_introduction">Puede utilizar esta aplicación para grabar audio y realizar copias de seguridad de las grabaciones en la nube.</string>
     <string name="require_authority_statement">Para permitirnos brindarle servicios básicos, debe otorgar los siguientes permisos para que podamos recopilar su información personal:</string>
     <string name="require_network_authority_statement">Para permitirnos brindarle servicios básicos, debe conectarse a Internet y otorgar los siguientes permisos para que podamos recopilar su información personal:</string>
     <string name="screen_recording_introduction">"Esta aplicación te permite grabar lo que está sucediendo en tu pantalla."</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="security_introduction">Puede utilizar esta aplicación para eliminar la basura de su dispositivo, encontrar y neutralizar virus, optimizar el rendimiento de los juegos, ahorrar batería, administrar aplicaciones, permisos y más.</string>
     <string name="security_mobile_account_introduction">Para iniciar sesión y administrar cuentas del sistema</string>
     <string name="service_agreement">"He leído y acepto los términos y condiciones."</string>
@@ -237,6 +244,7 @@ Ver la Política de Privacidad del teclado seleccionado."</string>
     <string name="service_policy"><Data>Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt;.</Data></string>
     <string name="service_policy_download"><Data>Antes de utilizar nuestros servicios, lea y acepte &lt;a href=%1$s&gt;Política de privacidad de Xunlei&lt;/a &gt;.</Data></string>
     <string name="service_privacy_index">Política de Privacidad</string>
+    <string name="service_security_over_r"><Data>Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; antes de usar Seguridad.&lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android 11, un permiso único se retirará dentro de los 5 segundos posteriores a que la aplicación correspondiente deje de ejecutarse. Si abre la aplicación durante este breve período de tiempo, se retirará el permiso.</Data></string>
     <string name="servicestate_title">Declaración sobre servicios básicos</string>
     <string name="setting_locale">Estableciendo región…</string>
     <string name="shut_down">Apagar</string>
