@@ -32,6 +32,7 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Contrau</string>
+    <string name="access_denied_info">Massa intents. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="account_bind_secure_email_title">Afegiu un correu electrònic de recuperació</string>
     <string name="account_bind_secure_phone_title">Afegiu un número de telèfon de recuperació</string>
     <string name="account_crop_user_avatar">Escapça la foto</string>
@@ -68,6 +69,8 @@
     <string name="activate_email_notice">Assegureu-vos d’activar el vostre compte en 24 hores</string>
     <string name="activity_not_found_notice">"No trobo l'aplicació"</string>
     <string name="ad">Anunci</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostra els esdeveniments a l\'area de notificacions</string>
+    <string name="ad_bar_notification_setting_title">Esdeveniments</string>
     <string name="ad_buy">Compra</string>
     <string name="ad_download">descarregar</string>
     <string name="ad_join">Unir-se a la comunitat</string>
