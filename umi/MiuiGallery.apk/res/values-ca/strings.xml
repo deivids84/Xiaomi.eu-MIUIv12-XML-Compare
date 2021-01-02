@@ -1525,6 +1525,16 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="photo_editor_remove_watermark">Suprimeix la marca d\'aigua</string>
     <string name="photo_editor_remove_watermark_on">Afegeix la marca d\'aigua</string>
     <string name="photo_editor_remover">Esborra</string>
+    <string name="photo_editor_remover2_download_failed">"No s'ha pogut baixar AI Erase 2.0. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="photo_editor_remover2_download_failed_msg">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="photo_editor_remover2_download_finish">S\'ha descarregat AI Erase 2.0 correctament</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Sembla que no esteu connectat a la Wi-Fi. Voleu fer servir %1$d MB de dades mòbils per baixar AI Erase 2.0?"</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_title">Baixa AI Erase 2.0</string>
+    <string name="photo_editor_remover2_download_with_metered_network_msg">Sembla que el dispositiu està connectat a una xarxa de pagament. La baixada d’elements ara pot generar despeses addicionals. Voleu baixar-los de totes maneres?</string>
+    <string name="photo_editor_remover2_download_with_metered_network_title">Xarxa de pagament</string>
+    <string name="photo_editor_remover2_edit_type_free">Manualment</string>
+    <string name="photo_editor_remover2_edit_type_line">Suprimeix les línies</string>
+    <string name="photo_editor_remover2_edit_type_people">Suprimeix persones</string>
     <string name="photo_editor_rotate">Gira</string>
     <string name="photo_editor_saving">S\'està desant&#8230;</string>
     <string name="photo_editor_sky">Cel</string>
