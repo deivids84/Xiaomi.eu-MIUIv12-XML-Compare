@@ -193,10 +193,15 @@
     <string name="open_folder">Mostra</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="privacy_all_purpose">Us donem la benvinguda a MIUI+ Beta! Podeu utilitzar aquesta aplicació per connectar el telèfon a un ordinador i combinar dos dispositius en una mateixa estació de treball.</string>
     <string name="privacy_describe_change_wifi_state">Per connectar dispositius i transferir fitxers mitjançant Wi-Fi</string>
     <string name="privacy_describe_location">Per trobar equips propers i transferir fitxers</string>
     <string name="privacy_describe_record_audio">Per redirigir la reproducció d\'àudio a l\'ordinador</string>
     <string name="privacy_describe_storage">Per enviar i rebre fitxers</string>
+    <string name="relay_msg_photo_text">S\'ha desat a la galeria correctament</string>
+    <string name="relay_msg_photo_title">Nova imatge</string>
+    <string name="relay_msg_screenshot_text">S\'ha desat a la galeria correctament</string>
+    <string name="relay_msg_screenshot_title">Nova captura de pantalla</string>
     <string name="resource_log">Registres de recursos</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
@@ -205,6 +210,7 @@
     <string name="scanner_uninstalled_text">"Sembla que Scanner no està instal·lat al dispositiu. Instal·leu primer l’escàner."</string>
     <string name="scanner_uninstalled_title">Instal·leu l’escàner</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="settings_connect">Com connectar-se</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
     <string name="settings_connect_summary2">Escaneja el codi QR a la pantalla de l\'ordinador amb el dispositiu mòbil. Podeu utilitzar diverses aplicacions del sistema (per exemple, escàner, càmera, navegador Mi) per fer-ho.</string>
