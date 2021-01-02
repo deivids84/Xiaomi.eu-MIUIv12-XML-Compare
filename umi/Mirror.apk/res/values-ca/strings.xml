@@ -51,6 +51,7 @@
     <string name="eras_bc">a.C.</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Avançat</string>
+    <string name="fingerprint_error_hw_not_present">Aquest dispositiu no té sensor d\'empremtes</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
