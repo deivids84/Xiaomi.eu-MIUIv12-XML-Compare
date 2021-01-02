@@ -19,6 +19,14 @@
     <string name="abc_menu_sym_shortcut_label">Sym +</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Buscar consulta</string>
+    <string name="abc_searchview_description_search">Búsqueda</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Colapso</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_next">Aceptar</string>
@@ -39,6 +47,8 @@
     <string name="application_permissions">Permisos de la aplicación</string>
     <string name="back">Volver</string>
     <string name="backup_introduction">Puede utilizar esta aplicación para realizar copias de seguridad y restaurar elementos en su dispositivo.</string>
+    <string name="boot_video_replay">Volver a reproducir</string>
+    <string name="boot_video_skip">Omitir</string>
     <string name="calculator_introduction">Puede utilizar esta aplicación para realizar cálculos, convertir unidades y monedas y estimar los reembolsos de su hipoteca.</string>
     <string name="camera_introduction">Puede usar la cámara para tomar fotos y grabar videos.</string>
     <string name="carrier_introduction">"Para proporcionarle mejores servicios, su dispositivo puede enviar periódicamente la información de la versión del dispositivo, los datos de identificación del dispositivo (incluyendo la dirección IMEI/IMSI/MSISDN/MAC, MEID/ICCID), e información de la ubicación aproximada (incluyendo el ID de la estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratuito. El Operador se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración del Operador específico prevalecerá. Consulte a su Operador sobre el coste de uso de este servicio."</string>
@@ -55,6 +65,7 @@
     <string name="content_description_start">Iniciar</string>
     <string name="content_introduction">El Centro de contenido agrega contenido y servicios de múltiples canales. Aquí puede leer artículos, ver videos, ver elementos destacados diarios y recibir recomendaciones de contenido.</string>
     <string name="continue_to_enable_accessibility">Mantén pulsados dos dedos para activar la accesibilidad.</string>
+    <string name="data_traffic_enable_dialog_title">"Si no está conectado a WLAN ahora, su dispositivo utilizará datos móviles. El uso de datos móviles puede generar tarifas de operador adicionales."</string>
     <string name="desc_fingerprint">Utiliza tu huella para desbloquear el dispositivo, comprobar las transacciones de Mi Pago o para conectarte a aplicaciones y servicios.</string>
     <string name="desc_international_fingerprint">Use su huella dactilar para desbloquear el dispositivo o para iniciar sesión en aplicaciones y servicios.</string>
     <string name="diagnose_report">Envíe datos de diagnóstico para localizar y analizar problemas del sistema y mejorar la experiencia del usuario. Dichos datos pueden incluir información personal (por ejemplo, IP, ubicación, etc.)</string>
