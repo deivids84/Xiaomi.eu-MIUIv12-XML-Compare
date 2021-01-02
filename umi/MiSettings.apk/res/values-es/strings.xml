@@ -60,6 +60,15 @@
     <string name="back">Atrás</string>
     <string name="bear_info">Los osos son los carnívoros terrestres más grandes. Viven en regiones frías y son conocidos por su agudo sentido del olfato.</string>
     <string name="black_backed_jackal">Chacal</string>
+    <string name="black_headed_bulbul">Bulbul de cabeza negra</string>
+    <string name="black_howler_monkey">Mono Aullador negro</string>
+    <string name="black_rhinoceros">Rinoceronte negro</string>
+    <string name="black_swan">Cisne negro</string>
+    <string name="blue_poison_dart_frog">Rana azul</string>
+    <string name="branch_bear">Ursidae</string>
+    <string name="branch_cat">Felidae</string>
+    <string name="branch_crake">Rallidae</string>
+    <string name="branch_deer">Cérvidos</string>
     <string name="calendar_sound">Recordatorios de eventos</string>
     <string name="calendar_tip">Los sonidos para recordatorios de eventos funcionan para recordatorios del calendario, notas y tareas</string>
     <string name="category_other">Otros</string>
