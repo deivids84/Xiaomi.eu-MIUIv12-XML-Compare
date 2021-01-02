@@ -259,7 +259,7 @@
     <string name="accessibility_vpn_on">VPN activat.</string>
     <string name="accessibility_waiting_for_fingerprint">En espera de l’empremta</string>
     <string name="accessibility_wifi_name">Connectat a %s.</string>
-    <string name="accessibility_wifi_off">WLAN està desactivada.</string>
+    <string name="accessibility_wifi_off">La WLAN està desactivada.</string>
     <string name="accessibility_wifi_one_bar">WLAN una barra.</string>
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
@@ -1653,7 +1653,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_user_title">Usuari</string>
     <string name="quick_settings_vibrate_label">Vibració</string>
     <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
-    <string name="quick_settings_wifi_label">Wifi</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
     <string name="quick_settings_wifi_no_network">Sense xarxa</string>
     <string name="quick_settings_wifi_not_connected">No connectat</string>
     <string name="quick_settings_wifi_off_label">WLAN desactivada</string>
