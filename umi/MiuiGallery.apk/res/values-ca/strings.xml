@@ -1121,6 +1121,15 @@ estan disponible"</string>
     <string name="magic_make_save_title2">Desa els dos</string>
     <string name="magic_matting_cancel_download">Cancel·la</string>
     <string name="magic_matting_download">Baixa</string>
+    <string name="magic_matting_download_failed_for_notwork">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la WLAN. Voleu baixar el connector mitjançant les dades mòbils?"</string>
+    <string name="magic_matting_download_sdk_without_wifi_title">Baixa el connector \"Magic\"</string>
+    <string name="magic_matting_download_with_metered_network_msg">Sembla que el dispositiu està connectat a una xarxa de pagament. La baixada dels fitxers originals pot comportar despeses addicionals. Voleu baixar-los de totes maneres?</string>
+    <string name="magic_matting_download_with_metered_network_title">Xarxa de pagament</string>
+    <string name="magic_matting_face_fail">"No s'ha pogut processar la cara"</string>
+    <string name="magic_matting_load_data_fail">"No s'han pogut carregar les dades"</string>
+    <string name="magic_matting_module_finish">S\'ha baixat el connector \"Magia\" correctament</string>
     <string name="main_discard_confirm_message">Hi ha canvis sense desar</string>
     <string name="main_discard_negative_btn">Descarta</string>
     <string name="main_discard_positive_btn">Desa i surt</string>
