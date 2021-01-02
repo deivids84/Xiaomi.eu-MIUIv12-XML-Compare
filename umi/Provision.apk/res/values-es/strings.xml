@@ -251,6 +251,7 @@ Ver la Política de Privacidad del teclado seleccionado."</string>
     <string name="sim_card_detecting">Comprobando tarjeta SIM…</string>
     <string name="sim_card_detecting_check">"No se pudo encontrar la SIM card. Asegúrate de que la tarjeta SIM está bien instalada y hay suficientes fondos."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">¿Permitir la conexión a datos móviles? Si lo haces, la tarjeta SIM que insertes será usada para conectarse a la red de datos móviles.</string>
+    <string name="sim_card_detecting_title">Comprobando tarjeta SIM…</string>
     <string name="sim_card_detection">Insertar tarjeta SIM</string>
     <string name="sim_card_detection_info">Para insertar la tarjeta SIM, lea las instrucciones suministradas con tu dispositivo.</string>
     <string name="sim_card_detection_mobile_not_available">"La tarjeta SIM no se pudo conectar a la red"</string>
