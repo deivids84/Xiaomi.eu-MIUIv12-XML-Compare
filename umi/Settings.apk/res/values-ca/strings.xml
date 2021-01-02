@@ -1075,6 +1075,7 @@ Aplicacions:
     <string name="bluetooth_device_advanced_profile_header_title">Utilitza per a</string>
     <string name="bluetooth_device_advanced_rename_device">Canvia el nom</string>
     <string name="bluetooth_device_advanced_title">S\'ha vinculat el dispositiu Bluetooth</string>
+    <string name="bluetooth_device_blacklist_summary">Gestioneu els dispositius Bluetooth bloquejats</string>
     <string name="bluetooth_device_context_connect">Connecta</string>
     <string name="bluetooth_device_context_connect_advanced">Opcions&#8230;</string>
     <string name="bluetooth_device_context_disconnect">Desconnecta</string>
