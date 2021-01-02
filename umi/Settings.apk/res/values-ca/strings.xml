@@ -3201,6 +3201,8 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="haptic_fingerprint_unlock_16_content_description">Desbloqueig per empremta</string>
     <string name="haptic_generate_folder_08_content_description">Carpeta nova</string>
     <string name="haptic_generate_small_window_gestures_09_content_description">Finestra flotant</string>
+    <string name="haptic_icon_sorting_12_content_description">Reorganització de les icones</string>
+    <string name="haptic_index_bar_10_content_description">Barra de desplaçament</string>
     <string name="hardkeyboard_category">Configuració de teclat físic</string>
     <string name="hardware_info">Model i maquinari</string>
     <string name="hardware_revision">Versió del maquinari</string>
