@@ -235,6 +235,8 @@
     <string name="settings_feature_characteristics">Característiques especials</string>
     <string name="settings_feature_characteristics_summary_1">Copieu el text del telèfon i enganxeu-lo a l\'ordinador, afegiu imatges i sincronitzeu les modificacions dels documents.</string>
     <string name="settings_feature_characteristics_summary_2">Arrossegueu i deixeu anar els elements per transferir-los cap a i des del dispositiu.</string>
+    <string name="settings_feature_characteristics_summary_3">Acosteu el telèfon a un equip connectat prèviament per tornar a connectar-vos automàticament.</string>
+    <string name="settings_feature_characteristics_title_1">Sincronització i lliurament perfectes</string>
     <string name="settings_feature_characteristics_title_2">Transferir fitxers</string>
     <string name="settings_feature_characteristics_title_3">Connecta\'t automàticament</string>
     <string name="settings_feature_dnd_summary">Silencia les notificacions quan el dispositiu està connectat a un ordinador</string>
