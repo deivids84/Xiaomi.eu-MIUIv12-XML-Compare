@@ -291,10 +291,19 @@
     <string name="item_whale">Cetáceos</string>
     <string name="jaguar">Jaguar</string>
     <string name="jaguar_info">El jaguar es en gran parte un depredador solitario que acecha y se encuentra en la parte superior de la cadena alimenticia.</string>
+    <string name="kinkajou">Kinkajú</string>
     <string name="kinkajou_info">El kinkajou es conocido por sus hábitos nocturnos y una cola completamente prensil.</string>
+    <string name="koala">Koala</string>
+    <string name="laughing_kookaburra">Dacelo</string>
+    <string name="laughing_kookaburra_info">Los dacelos son conocidos por sus sonidos únicos y son buenos para cazar serpientes y otros reptiles.</string>
+    <string name="leopard">Leopardo</string>
+    <string name="lion">León</string>
+    <string name="lion_info">Los leones son depredadores feroces y poderosos. Viven en grupos y tienen un fuerte sentido del territorio.</string>
     <string name="lock_summary">Protege tu información personal</string>
+    <string name="long_tai1ed_iaeger">Págalo rabero</string>
     <string name="low_fps_description">Frecuencia de actualización de pantalla baja. Menor consumo de energía.</string>
     <string name="low_light_preview">Previsualización con poca luz</string>
+    <string name="marabou_stork">Cigüeña marabú</string>
     <string name="midnight">Noche</string>
     <string name="miuix_appcompat_cloud_state_disabled">La sincronización con la nube está desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube completado</string>
@@ -307,6 +316,12 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Eso es todo por ahora</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">No se pudieron cargar elementos</string>
+    <string name="mix_match_random">Aleatorio</string>
+    <string name="mix_match_submit">Enviar solicitud</string>
+    <string name="mix_match_type_bird">Pájaros</string>
+    <string name="mix_match_type_land">Aterrizar</string>
+    <string name="mix_match_type_polar">Polar</string>
+    <string name="mix_match_type_rare">Raro</string>
     <string name="mms">MMS</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
@@ -347,6 +362,7 @@
     <string name="month_september">Septiembre</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
+    <string name="moose">Alce</string>
     <string name="more">Más</string>
     <string name="more_ringtone">Todos los tonos de llamada</string>
     <string name="more_ringtones">Más sonidos</string>
@@ -774,5 +790,6 @@ Esta aplicación necesita conectarse a Internet y requiere los siguientes permis
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
+    <string name="wombat">Vombátidos</string>
     <string name="yesterday">Ayer</string>
 </resources>
