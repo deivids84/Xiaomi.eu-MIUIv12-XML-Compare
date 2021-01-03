@@ -7663,7 +7663,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="user_exit_guest_confirm_title">Voleu suprimir el convidat?</string>
     <string name="user_exit_guest_dialog_remove">Suprimeix</string>
     <string name="user_exit_guest_title">Suprimeix el convidat</string>
+    <string name="user_experience_open_url">Més informació sobre el Programa d\'experiència de l\'usuari</string>
     <string name="user_experience_program">Programa d\'experiència d\'usuari</string>
+    <string name="user_experience_program_summary">Permet que Xiaomi recopili i analitzi les dades dels usuaris per millorar els productes i serveis. Llegiu els termes i condicions del nostre Programa d’experiència d’usuari per obtenir més informació.</string>
     <string name="user_experience_program_title">Inscriviu-vos al programa d’experiència d’usuari</string>
     <string name="user_guest">Convidat</string>
     <string name="user_image_choose_photo">Selecciona una foto de la galeria</string>
