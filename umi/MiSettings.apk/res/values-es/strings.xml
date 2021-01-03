@@ -546,12 +546,16 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">L</string>
     <string name="title_activity_easy_mode">Modo Lite</string>
+    <string name="title_mix_match_sound">Mezcla de naturaleza</string>
     <string name="title_mix_match_tips">Toque animales para escuchar demostraciones. Puede agregar hasta 5 animales a la mezcla.</string>
+    <string name="title_submit_mix_match">Toque \"Aplicar\" para establecer un tono de llamada general.</string>
     <string name="to_authorize">Conceder permisos</string>
+    <string name="toco_toucan">Tucán toco</string>
     <string name="today">Hoy</string>
     <string name="today_usage_title">Hoy</string>
     <string name="today_use_time">Tiempo de pantalla: %1$s</string>
     <string name="tomorrow">mañana</string>
+    <string name="toucan_info">Los tucanes tienen picos grandes y coloridos. A menudo hacen sus nidos en los huecos de árboles.</string>
     <string name="touch_description">Los botones y accesos directos optimizados te ayudarán a evitar toques accidentales</string>
     <string name="touch_title">Controles táctiles mejorados</string>
     <string name="trend_from_yesterday_equal">Igual que ayer</string>
@@ -562,6 +566,7 @@
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="two_toed_sloths">Perezosos de dos dedos</string>
     <string name="two_toed_sloths_info">Los perezosos de dos dedos pueden viajar fácilmente de un árbol a otro en las copas de los árboles de las selvas tropicales.</string>
     <string name="unlock_times_per_day">"Media diaria: "</string>
     <string name="unlock_times_per_hour">"Desbloqueos por hora: "</string>
@@ -824,11 +829,17 @@ Esta aplicación necesita conectarse a Internet y requiere los siguientes permis
     <string name="usagestats_device_timeout_title">Alerta de tiempo de pantalla</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
+    <string name="vervet_monkey">Mono verde</string>
     <string name="wait_tip">Un momento…</string>
+    <string name="walrus">Morsa</string>
     <string name="walrus_info">Las morsas son excelentes buceadores. Prefieren las regiones de plataforma poco profundas y se alimentan principalmente en el fondo del mar.</string>
+    <string name="weddell_seal">Foca de Weddell</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
+    <string name="whipbird_eastern_whipbird">Zordala crestada oriental</string>
+    <string name="white_bellied_sea_eagle">Águila de cola blanca</string>
+    <string name="willow_grouse">Lagópodo común</string>
     <string name="wombat">Vombátidos</string>
     <string name="yesterday">Ayer</string>
 </resources>
