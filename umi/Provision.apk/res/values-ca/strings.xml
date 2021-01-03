@@ -250,6 +250,7 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
     <string name="sim_card_detecting">S\'està comprovant la targeta SIM&#8230;</string>
     <string name="sim_card_detecting_check">"No s'ha pogut trobar la targeta SIM. Assegureu-vos que la targeta SIM estigui instal·lada correctament i que disposi de prou saldo."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Voleu permetre la connexió a la xarxa de dades mòbils? Si ho fa, la targeta SIM que introduïu s\'utilitzarà per connectar-se a la xarxa de dades mòbils.</string>
+    <string name="sim_card_detecting_title">S\'està comprovant la targeta SIM…</string>
     <string name="sim_card_detection">Inseriu una targeta SIM</string>
     <string name="sim_card_detection_info">Per inserir la targeta SIM, llegiu les instruccions subministrades amb el dispositiu.</string>
     <string name="sim_card_detection_mobile_not_available">"La targeta SIM no s'ha pogut connectar a la xarxa"</string>
