@@ -6427,6 +6427,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="show_badge_notifications_short">Insígnies</string>
     <string name="show_carrier_under_keyguard_title">Mostra l\'operador quan el dispositiu està bloquejat</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostra l\'animació de càrrega després de desbloquejar el dispositiu</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">Continua mostrant l\'animació de càrrega després de desbloquejar el dispositiu, amagant-la només per a la reproducció de vídeo i altres escenes de pantalla completa similars</string>
     <string name="show_connected_devices_summary">Mostra els dispositius connectats</string>
     <string name="show_connected_devices_title">Dispositius connectats</string>
     <string name="show_dev_already">No cal, ja sou un desenvolupador.</string>
@@ -6659,12 +6660,15 @@ Abans d’utilitzar els nostres serveis, llegiu i accepteu els nostres %s."</str
     <string name="sound_category_system_title">Sistema</string>
     <string name="sound_dashboard_summary">Volum, vibració, no molestis</string>
     <string name="sound_effects_enable_title">Sons en tocar</string>
+    <string name="sound_haptic_settings">So i tacte</string>
     <string name="sound_mode">Mode silenci i No molestis</string>
     <string name="sound_settings">So</string>
     <string name="sound_settings_example_summary">Volum de notificació del número &amp; al 80%</string>
     <string name="sound_settings_summary">Volum de notificació &amp; anella %1$s</string>
     <string name="sound_settings_summary_silent">S\'ha silenciat el timbre</string>
     <string name="sound_settings_summary_vibrate">El timbre s\'ha configurat per vibrar</string>
+    <string name="sound_settings_tab_haptic">Tacte</string>
+    <string name="sound_settings_tab_sound">So</string>
     <string name="sound_stereo_mode_summary">Només disponible quan es reprodueixi so amb l\'altaveu</string>
     <string name="sound_stereo_mode_title">So estèreo</string>
     <string name="sound_title">So</string>
@@ -6674,6 +6678,7 @@ Abans d’utilitzar els nostres serveis, llegiu i accepteu els nostres %s."</str
     <string name="speaker_clean">Neteja l\'altaveu</string>
     <string name="special_access">Accés especial</string>
     <string name="special_access_more">Mostra\'n més</string>
+    <string name="special_preview">Demostracions</string>
     <string name="speed_label_fast">Ràpida</string>
     <string name="speed_label_medium">Mitjana</string>
     <string name="speed_label_okay">D\'acord</string>
@@ -7028,6 +7033,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="swipe_up_to_switch_apps_title">Navegació de 2 botons</string>
     <string name="switchNetworkToast">La connexió a xarxes mòbils pot generar tarifes addicionals</string>
     <string name="switch_access_service_on">Canvia l’accés</string>
+    <string name="switch_bootup_sound">Àudio d\'arrencada</string>
     <string name="switch_off_text">Apagat</string>
     <string name="switch_on_text">Activat</string>
     <string name="switch_screen_button_order">Simetria dels botons</string>
@@ -7077,6 +7083,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="system_print_service_help">Quant a la impressió</string>
     <string name="system_shortcut_wake">Desperta amb els botons de drecera</string>
     <string name="system_storage">Emmagatzematge del sistema</string>
+    <string name="system_touch">Resposta hàptica</string>
     <string name="system_ui_settings">Mostra el SystemUI Tuner</string>
     <string name="system_update_settings_list_item_title">Actualitzacions del sistema</string>
     <string name="take_call_on_title">Atendre la trucada</string>
@@ -7088,6 +7095,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tap_to_wake">Toca per activar-lo</string>
     <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_style">Durant 10 segons després de tocar-ho</string>
     <string name="terms_title">Termes i condicions</string>
     <string name="testing">S\'està provant</string>
     <string name="testing_phone_info">Informació del telèfon</string>
@@ -7169,6 +7177,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_font2">Maquetació de lletra &amp;</string>
     <string name="title_font_current">Tipus de lletra del sistema</string>
     <string name="title_font_current2">Font</string>
+    <string name="title_font_settings">Configuració del tipus de lletra</string>
     <string name="title_font_size">Mida de la lletra</string>
     <string name="title_hdmi_color_calibration">Correcció predeterminada de color</string>
     <string name="title_layout_current">Mida del text</string>
@@ -7177,6 +7186,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_miui_music_mute_by_user">Mode silenci</string>
     <string name="title_of_auto_launch_manage">Inici automàtic</string>
     <string name="to_close">Desactiva</string>
+    <string name="toast_apply_font_fail">"No es pot definir el tipus de lletra"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
     <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"No es pot emetre quan s'estableix la connexió WLAN i el punt d'accés està activat."</string>
