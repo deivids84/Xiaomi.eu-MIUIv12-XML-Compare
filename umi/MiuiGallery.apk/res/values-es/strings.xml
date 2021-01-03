@@ -374,6 +374,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cd_back">Restaurar</string>
     <string name="cd_btn_back">El botón Atrás</string>
     <string name="cd_revoke">Deshacer</string>
+    <string name="cd_zidingyianniu">El botón para personalizar el tamaño de la imagen</string>
     <string name="change_to_face_mode">Mostrar solo la cara</string>
     <string name="change_to_photo_mode">Mostrar previsualizaciones completas</string>
     <string name="change_to_visible">¿Restablecer esta persona?</string>
