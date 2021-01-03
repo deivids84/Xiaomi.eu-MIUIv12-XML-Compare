@@ -237,6 +237,8 @@
     <string name="settings_scanner_button">Escàner</string>
     <string name="settings_trusted_delete_dialog_title">Voleu deixar de connectar-vos automàticament?</string>
     <string name="settings_trusted_device_group">Dispositius que es connecten automàticament</string>
+    <string name="settings_trusted_device_none">No hi ha dispositius aquí</string>
+    <string name="settings_trusted_tips">Connecteu-vos als dispositius propers seleccionats automàticament quan el Bluetooth i la Wi-Fi estan activats</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Clar i brillant</string>
@@ -324,7 +326,10 @@
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
     <string name="worker_authorization_loading">Només un segon…</string>
+    <string name="worker_authorization_message">Després de connectar-vos, utilitzeu MIUI+ a l\'ordinador per gestionar els elements del dispositiu mòbil.</string>
     <string name="worker_authorization_title">Voleu connectar-vos ara?</string>
+    <string name="worker_authorization_trusted">Connecta\'t sempre</string>
+    <string name="worker_authorization_trusted_only_once">Connecta\'t una vegada</string>
     <string name="worker_authorized">%1$s acceptat la vostra sol·licitud</string>
     <string name="worker_connect_cancel_tips">Cancel·la</string>
     <string name="worker_connect_fail_btn_retry">Torna-ho a provar</string>
