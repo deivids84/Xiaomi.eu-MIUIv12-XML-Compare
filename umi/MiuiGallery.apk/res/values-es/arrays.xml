@@ -158,6 +158,25 @@
         <item>NCEE</item>
         <item>Resume</item>
     </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>United States</item>
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwán</item>
+        <item>Malasia</item>
+        <item>Nueva Zelanda</item>
+        <item>Italia</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Islandia</item>
+        <item>Kenia</item>
+    </string-array>
     <string-array name="month">
         <item>Enero</item>
         <item>Febrero</item>
