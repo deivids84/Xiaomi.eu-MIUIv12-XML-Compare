@@ -4503,6 +4503,7 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Trieu una data</string>
     <string name="mtrl_picker_range_header_prompt">Trieu un interval de dates</string>
+    <string name="muffled_text">Les freqüències baixes accentuen suaument les transicions visuals i fan que els gestos siguin més naturals</string>
     <string name="multi_face_delete_message">Atenció</string>
     <string name="multi_face_delete_show_message">Vols suprimir les dades de la cara ara?</string>
     <string name="multi_face_input">Afegiu dades de cara</string>
@@ -4528,6 +4529,8 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="my_device_info_account_preference_title">Compte</string>
     <string name="my_device_info_device_name_preference_title">Nom del dispositiu</string>
     <string name="n_cacrts">%d certificats de CA</string>
+    <string name="natural_haptic">Tacte natural</string>
+    <string name="natural_haptic_summary">Els nous patrons de retroalimentació hàptica aporten una dimensió addicional a tot el que veieu i toqueu a la pantalla.</string>
     <string name="nature_color">Per defecte</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Llisqueu cap amunt des de la part inferior de la pantalla i feu lliscar cap a l’esquerra o la dreta</string>
     <string name="navigation_guide_app_quick_switch_summary">Llisqueu cap a l’esquerra o a la dreta des de l’indicador de pantalla completa o a la part inferior de la pantalla</string>
@@ -5115,6 +5118,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="personal_data_section_title">Dades personals</string>
     <string name="personal_profile_app_subtext">Personal</string>
     <string name="personal_section_title">Personalització</string>
+    <string name="personalize_title">Personalització i fons de pantalla</string>
     <string name="phone_backup_summary">Fa una còpia de seguretat i restaura els elements d\'aquest dispositiu</string>
     <string name="phone_backup_title">Dispositiu mòbil</string>
     <string name="phone_call_noise_suppression">Supressió de fressa durant la trucada</string>
@@ -5125,6 +5129,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="picture_color_mode">Mode de color de la imatge</string>
     <string name="picture_color_mode_desc">Utilitza sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permet a aquesta aplicació crear una finestra d'imatge dins d'imatge mentre l'aplicació estigui oberta o després que la deixeu (per exemple, per seguir veient un vídeo). Aquesta finestra es mostrarà sobre d'altres aplicacions que utilitzeu."</string>
+    <string name="picture_in_picture_app_detail_switch">Permet Imatge en imatge</string>
     <string name="picture_in_picture_app_detail_title">Imatge dins d\'imatge</string>
     <string name="picture_in_picture_empty_text">No hi ha cap aplicació instal·lada compatible amb imatge dins d\'imatge</string>
     <string name="picture_in_picture_keywords">imatge en imatge imatge en</string>
@@ -5235,6 +5240,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="power_usage_old_debug">%1$s restants (Vella est)</string>
     <string name="power_usage_summary">Elements que han utilitzat la bateria</string>
     <string name="power_usage_summary_title">Bateria i rendiment</string>
+    <string name="power_usage_summary_title_new">Bateria</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicacions pre-instal·lades</string>
     <string name="pref_bg_network_title">Connexió en segon pla</string>
@@ -5492,6 +5498,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="provision_next">Següent</string>
     <string name="provision_page_layout_confirm_message">Per aplicar aquests canvis el dispositiu s\'ha de reiniciar. Trigarà aproximadament 1 minut.</string>
     <string name="provision_skip">Omet</string>
+    <string name="provision_skip_underline">Omet</string>
     <string name="proxy_action_text">Fet</string>
     <string name="proxy_clear_text">Esborra</string>
     <string name="proxy_defaultView_text">Restaura els valors per defecte</string>
