@@ -180,6 +180,12 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">S\'ha registrat %d dies seguits</item>
         <item quantity="one">S\'ha registrat %d vegada</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="one">"Proveu el canviador de veu ara
+per obtenir %d dia de prova gratuïta!"</item>
+        <item quantity="other">"Proveu el canviador de veu ara
+per obtenir %d dies de prova gratuïta!"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">"No s'ha pogut rebre una prova gratuïta de %ddies"</item>
         <item quantity="one">"No s'ha pogut rebre una prova gratuïta de %ddies"</item>
