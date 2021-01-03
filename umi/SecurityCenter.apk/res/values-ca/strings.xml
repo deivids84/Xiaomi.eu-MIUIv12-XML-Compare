@@ -1269,6 +1269,7 @@ targeta mèdica"</string>
     <string name="face_unlock_verity_dialog_summary">Verifiqueu les dades facials</string>
     <string name="face_unlock_verity_dialog_title_failed">"No us podem reconèixer"</string>
     <string name="face_unlock_verity_dialog_title_succeed">S\'ha verificat correctament</string>
+    <string name="file_confirm_start_activity">"%s no té permís per accedir a la Galeria ni a les aplicacions de xarxes socials. Aquesta aplicació vol accedir als fitxers emmagatzemats en aquest dispositiu per compartir elements. Ho voleu permetre?"</string>
     <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
     <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
     <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
@@ -1408,6 +1409,7 @@ targeta mèdica"</string>
     <string name="fw_blocked_join">" i "</string>
     <string name="fw_oversea">Bloqueja trucades des de l\'estranger</string>
     <string name="fw_oversea_content">Bloqueja les trucades entrants dels números de telèfon estrangers</string>
+    <string name="gallery_confirm_start_activity">"%s no té permís per accedir a la Galeria ni a les aplicacions de xarxes socials. Aquesta aplicació vol accedir a les imatges emmagatzemades en aquest dispositiu per compartir elements. Ho voleu permetre?"</string>
     <string name="game_ad_recommendation">Tothom està jugant</string>
     <string name="game_anti_disturb_msg">Joc no molestis</string>
     <string name="game_booster">Accelerador de velocitat dels jocs</string>
@@ -1606,6 +1608,7 @@ i exploreu el nostre Canviador de veu."</string>
     <string name="gb_voice_changer_user_status_no_login">Inicia la sessió al Compte Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">Data de caducitat: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renova</string>
+    <string name="gb_voice_changer_user_tips_info_vip_expire">La subscripció ha caducat. Renoveu la subscripció ara per obtenir avantatges!</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Registra els moments clau
 de les teves sessions de joc"</string>
     <string name="gb_wonderful_video_cancel">Cancel·la</string>
@@ -2350,6 +2353,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permgroupdesc_sms">Llegir o enviar SMS</string>
     <string name="permgroupdesc_storage">Accedir a fotos i fitxers del dispositiu</string>
     <string name="permission_action_accept">D\'acord</string>
+    <string name="permission_action_ai_prompt">Decideix per mi</string>
     <string name="permission_action_always">Permet sempre</string>
     <string name="permission_action_desc">Doneu permisos però torneu missatges en blanc a l\'aplicació per protegir la privadesa</string>
     <string name="permission_action_desc_always">Aquest permís es pot utilitzar en qualsevol moment</string>
@@ -3012,6 +3016,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="prompt_input_time_illegal">"No es pot establir aquesta hora, canvia-la i intenta-ho de nou"</string>
     <string name="protocol_exception_title">Diagnòstics de protocol de xarxa</string>
     <string name="protocol_loop_back_exception_summary">La prova de bucle local ha fallat de nou. Per informar sobre aquesta qüestió a MIUI, aneu a l\'aplicació d\'informe d\'errors i envia un registre del dispositiu.</string>
+    <string name="provision_back">Enrere</string>
+    <string name="provision_next">Següent</string>
+    <string name="provision_skip_underline">Omet</string>
     <string name="qucick_replay_instrument">Utilitza respostes ràpides a les notificacions dels missatgers seleccionats (per exemple, WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">S\'està escanejant</string>
     <string name="quick_optimize_no_fix_issue_subtitle">"No s'ha pogut allargar la vida útil de la bateria"</string>
@@ -3031,12 +3038,16 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
     <string name="read_all_sms">Tot llegit</string>
     <string name="read_and_write_clipboard">Accediu i guardeu elements al porta-retalls</string>
+    <string name="read_clipboard_ai_action_desc">Rebeu notificacions sempre que es permeti o restringeixi l\'accés</string>
     <string name="read_clipboard_ai_close_no">Ara no</string>
     <string name="read_clipboard_ai_close_tip">"Ja no rebreu notificacions quan les aplicacions accedeixin al porta-retalls. En lloc d’això, se’ls permetrà utilitzar aquest permís només mentre utilitzeu l’aplicació. Voleu ajustar els permisos?"</string>
     <string name="read_clipboard_ai_close_yes">Ajustar</string>
+    <string name="read_clipboard_op_content">Rebeu notificacions sempre que es permeti o restringeixi l\'accés</string>
     <string name="read_clipboard_op_title">Notifiqueu quan les aplicacions accedeixen als elements del porta-retalls</string>
     <string name="read_clipboard_tip_content">Aquest permís permet a les aplicacions llegir qualsevol contingut que copieu, que pot incloure informació privada (per exemple, detalls del compte, números de targeta bancària i contrasenyes).</string>
     <string name="read_clipboard_tip_title">Accés als elements del porta-retalls</string>
+    <string name="real_location_off">La ubicació aproximada està activada</string>
+    <string name="real_location_on">La ubicació aproximada està desactivada</string>
     <string name="receive_now">Rebre</string>
     <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
     <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
@@ -3962,6 +3973,7 @@ Dades extres en ús"</string>
     <string name="videobox_settings_switch_desc">Efectes especials i funcions per a la reproducció de vídeo</string>
     <string name="videobox_settings_switch_title">Caixa d\'eines de vídeo</string>
     <string name="videobox_settings_title">Caixa d\'eines de vídeo</string>
+    <string name="view_traffic_detail">Mostra els detalls</string>
     <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
     <string name="virus_update_tips_title">Advertència</string>
     <string name="virus_wait_network_dialog_message">"El vostre telèfon ja no està connectat a Wi-Fi. Feu servir la connexió de dades mòbils?"</string>
