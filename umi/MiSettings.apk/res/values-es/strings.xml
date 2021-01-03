@@ -369,6 +369,10 @@
     <string name="more_settings">Ajustes</string>
     <string name="morning">Mañana</string>
     <string name="most_unlock_week_day">"Máximo de desbloqueos: "</string>
+    <string name="mus_ox">Buey almizclero</string>
+    <string name="narwhal">Narval</string>
+    <string name="narwhal_info">Los narvales poseen un gran colmillo y se alimentan de presas bentónicas, principalmente peces planos.</string>
+    <string name="native_hen_info">"Las gallinas nativas de Tasmania viven cerca del agua y no son buenas volando."</string>
     <string name="network_error">Se produjo un error de red. Vuelve a intentarlo.</string>
     <string name="night">Noche</string>
     <string name="no_matching">"No se pudo encontrar una aplicación para abrir este enlace"</string>
@@ -508,6 +512,7 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">L</string>
     <string name="title_activity_easy_mode">Modo Lite</string>
+    <string name="title_mix_match_tips">Toque animales para escuchar demostraciones. Puede agregar hasta 5 animales a la mezcla.</string>
     <string name="to_authorize">Conceder permisos</string>
     <string name="today">Hoy</string>
     <string name="today_usage_title">Hoy</string>
