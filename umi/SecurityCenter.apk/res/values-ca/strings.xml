@@ -143,6 +143,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
     <string name="adjust_traffic_data">Estableix l\'ús de dades</string>
     <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
+    <string name="ai_allow_all">Decideix per mi en tots els casos</string>
     <string name="alert_back_diving_mode_summary">Voleu desactivar el mode Immersió?</string>
     <string name="alert_back_diving_mode_title">Mode Immersió</string>
     <string name="alert_back_milink_hangup_tips_content">"L’emissió no s’interromp mentre finalitzeu una trucada. Podeu prémer el botó d'encesa per encendre la pantalla."</string>
