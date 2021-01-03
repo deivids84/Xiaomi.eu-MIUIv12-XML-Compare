@@ -618,7 +618,7 @@ Después de colocar \"music.mp3\" en el directorio de la tarjeta SD, toque la pa
     <string name="cit_tool_log_no_sdcard">Insertar una tarjeta SD ahora</string>
     <string name="cit_tool_log_ril">Registro RIL</string>
     <string name="cit_tool_log_toast">Registro guardado en %s</string>
-    <string name="cit_tool_log_toast_generate_bugreport">Crear informe de error… (esto demora aproximadamente 1 minuto)</string>
+    <string name="cit_tool_log_toast_generate_bugreport">Creando informe de error… (tomará aprox. 1 minuto)</string>
     <string name="cit_tool_mbn_default_notfiy">MBN predeterminado</string>
     <string name="cit_tool_mbn_no_default_notfiy">Sin MBN predeterminado</string>
     <string name="cit_tool_mbn_opt_help">"Instrucciones de funcionamiento:
