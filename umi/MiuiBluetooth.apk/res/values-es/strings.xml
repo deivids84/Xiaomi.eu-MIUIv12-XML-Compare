@@ -353,6 +353,8 @@
     <string name="headset_fw_file_readfailed">"No se pudo obtener información de la actualización"</string>
     <string name="headset_read_fw_state">"No se pudo obtener información de la actualización"</string>
     <string name="headset_update_failed">"No se pudo actualizar"</string>
+    <string name="headset_update_ok">Hecho</string>
+    <string name="headset_updating">Actualizando</string>
     <string name="help_feedback_label">Ayuda y sugerencias</string>
     <string name="help_label">Ayuda y sugerencias</string>
     <string name="home">Ajustes de Pantalla de inicio</string>
