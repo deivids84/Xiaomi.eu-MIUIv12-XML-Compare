@@ -76,7 +76,7 @@
     <string name="action_text_readmode_theme_head">Establece el fondo</string>
     <string name="action_text_theme_and_textsize_change">Tamaño de fuente y ajuste del tema</string>
     <string name="actionbar_button_up_description">Atrás</string>
-    <string name="ad_app_download_notification_content">Una vez completa la instalación, abra ahora la demostración~</string>
+    <string name="ad_app_download_notification_content">Una vez completa la instalación, abra la demostración~</string>
     <string name="ad_app_download_site_new">NUEVO</string>
     <string name="ad_download_continue">Reanudar</string>
     <string name="ad_download_downloading">Descargando</string>
