@@ -103,6 +103,7 @@ No totes les aplicacions admeten aquesta configuració."</string>
     <string name="accessibility_feature_state_off">Apaga</string>
     <string name="accessibility_feature_state_on">Activat</string>
     <string name="accessibility_global_gesture_preference_title">Drecera de Facilitat d\'accés</string>
+    <string name="accessibility_haptic">Accessibilitat</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s actiu</string>
     <string name="accessibility_hearingaid_adding_summary">Afegeix audiòfons</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Continua</string>
@@ -160,6 +161,7 @@ No podeu ampliar el teclat ni la barra de navegació."</string>
     <string name="accessibility_screen_magnification_summary">Feu un zoom ràpid a la pantalla per visualitzar el contingut amb més claredat.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Per fer zoom:&lt;/b&gt;&lt;br/&gt; 1. Utilitzeu la drecera per iniciar la ampliació&lt;br/&gt; 2. Toqueu la pantalla&lt;br/&gt; 3. Arrossegueu dos dits per desplaçar-vos per la pantalla&lt;br/&gt; 4. Poseu amb 2 dits per ajustar el zoom&lt;br/&gt; 5. Utilitzeu la drecera per aturar la ampliació.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Per fer zoom de manera temporal:&lt;/b&gt;&lt;br/&gt; 1. Utilitzeu la drecera per iniciar la ampliació&lt;br/&gt; 2. Toqueu &amp; manteniu premut qualsevol part de la pantalla&lt;br/&gt; 3. Arrossegueu el dit per desplaçar-vos per la pantalla&lt;br/&gt; 4. Aixequeu el dit per aturar la ampliació.</string>
     <string name="accessibility_screen_magnification_title">Gestos per fer zoom</string>
     <string name="accessibility_screen_option">Opcions</string>
+    <string name="accessibility_screen_reader_haptic_title">Lector de pantalla</string>
     <string name="accessibility_service_action_perform_description">Es pot realitzar un seguiment de les seves interaccions amb una aplicació o un sensor del maquinari i interactuar amb aplicacions en nom seu.</string>
     <string name="accessibility_service_action_perform_title">Mostra i realitza accions</string>
     <string name="accessibility_service_default_description">Sense descripció.</string>
