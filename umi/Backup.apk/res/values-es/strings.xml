@@ -36,9 +36,9 @@
     <string name="alert_button_deny">Rechazar</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en el ordenador. ¿Permitir?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite requiere permisos para restaurar elementos en tu teléfono. ¿Permitir?</string>
-    <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espera hasta que la copia esté completada y vuelve a intentarlo.</string>
-    <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espera hasta que estén restaurados y vuelve a intentarlo.</string>
-    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Completa la copia de seguridad o restaura los elementos en tu teléfono y vuelve a intentarlo."</string>
+    <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espere hasta que la copia esté completada y vuelva a intentarlo.</string>
+    <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espere hasta que estén restaurados y vuelva a intentarlo.</string>
+    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Complete la copia de seguridad o restaure los elementos en su teléfono y vuelva a intentarlo."</string>
     <string name="alert_second_space_not_support_miasist">"No se puede usar Mi PC Suite en Segundo espacio. Cambia a Espacio principal."</string>
     <string name="alert_title_backup_to_miasist">¿Hacer copia de seguridad de los elementos usando Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en tu teléfono?</string>
@@ -174,7 +174,7 @@ Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimi
     <string name="err_no_gms">Versión de aplicación incompatible. Instala esta aplicación por separado.</string>
     <string name="err_not_allow">No compatible</string>
     <string name="err_pkg_not_exist">"No se pudo encontrar la aplicación."</string>
-    <string name="err_router_disconnected">"Comprueba la conexión del router y vuelve a intentarlo."</string>
+    <string name="err_router_disconnected">"Compruebe la conexión del router y vuelva a intentarlo."</string>
     <string name="err_router_files_delete">"No se pudo eliminar los archivos de copia de seguridad en el router"</string>
     <string name="err_unknown">Error desconocido</string>
     <string name="err_user_abort">Cancelado por el usuario.</string>
