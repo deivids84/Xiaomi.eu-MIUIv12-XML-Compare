@@ -55,7 +55,7 @@
     <string name="byteShort">segundo</string>
     <string name="can_not_send_with_too_many">"No se pueden enviar todos esos elementos"</string>
     <string name="cancel">Cancelar</string>
-    <string name="cancel_error">"No se pudieron quitar, intenta de nuevo"</string>
+    <string name="cancel_error">"No se pudo eliminar, inténtelo de nuevo"</string>
     <string name="cancel_msg">Desmarcar todos?</string>
     <string name="cancel_operation">Cancelar operación</string>
     <string name="cancel_success">Removidos correctamente, todos los archivos fueron movidos a %s</string>
