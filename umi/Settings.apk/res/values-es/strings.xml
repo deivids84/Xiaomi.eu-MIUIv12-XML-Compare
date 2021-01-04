@@ -2677,6 +2677,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="erase_sure">Obligatorio</string>
     <string name="error_adding_apn_type">El operador no permite agregar APN de tipo %s .</string>
     <string name="error_apn_empty">El campo APN no puede estar vacío.</string>
+    <string name="error_apn_not_allowed">"Este APN no está permitido en este dispositivo. Pruebe con otro."</string>
     <string name="error_apn_restrict_string">"El campo APN no puede contener %1$s"</string>
     <string name="error_capturing_system_heap_dump_message">No se ha podido capturar el volcado de pila del sistema</string>
     <string name="error_mcc_not3">El campo MCC debe contener 3 dígitos.</string>
