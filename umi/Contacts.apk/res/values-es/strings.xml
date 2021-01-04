@@ -615,7 +615,7 @@ Motivo: \"%s\""</string>
     <string name="hybrid_locating_fail">"No se pudo encontrar tu ubicación"</string>
     <string name="hybrid_network_unavaliable">"No se puede conectar a la red"</string>
     <string name="hybrid_service_unavailiable">Servicio no disponible</string>
-    <string name="hybrid_try_again">Inténtalo de nuevo</string>
+    <string name="hybrid_try_again">Reintentar</string>
     <string name="hybrid_webpage_not_available">Página web no disponible</string>
     <string name="ic_menu_back">Atrás</string>
     <string name="ic_menu_done">Hecho</string>
@@ -1206,7 +1206,7 @@ Selecciona una de las siguientes opciones:"</string>
     <string name="view_updates_from_group">Ver actualizaciones</string>
     <string name="voicemail">Buzón de voz</string>
     <string name="websiteLabelsGroup">Página web</string>
-    <string name="webview_btn_retry">Intenta nuevamente</string>
+    <string name="webview_btn_retry">Reintentar</string>
     <string name="webview_network_failure">"No se pudo conectar a la red"</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
