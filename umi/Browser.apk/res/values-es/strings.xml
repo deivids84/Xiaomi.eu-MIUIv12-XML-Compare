@@ -1266,7 +1266,7 @@ Navegador necesita conectarse a Internet para funcionar con normalidad. Debes ac
     <string name="translation_copy">Copiar</string>
     <string name="translation_more">Ver más</string>
     <string name="translation_query_error">"No se pudo traducir"</string>
-    <string name="translation_query_error_network">"No se pudo obtener información. Conéctate a la red y vuelve a intentarlo."</string>
+    <string name="translation_query_error_network">"No se pudo obtener información. Conéctese a la red y vuelva a intentarlo."</string>
     <string name="translation_result_copy">Copiado al portapapeles</string>
     <string name="tt_ad">Anuncio</string>
     <string name="tuesday">Martes</string>
@@ -1348,7 +1348,7 @@ Navegador necesita conectarse a Internet para funcionar con normalidad. Debes ac
     <string name="vo_feedback_frequent">Aparece con demasiada frecuencia</string>
     <string name="vo_feedback_quality">Comentarios sobre la calidad del contenido</string>
     <string name="vo_feedback_shield">Lista negra</string>
-    <string name="vo_info_flow_load_error_content">Inténtelo otra vez</string>
+    <string name="vo_info_flow_load_error_content">Reintentar</string>
     <string name="vo_info_flow_load_error_title">"No se pudo cargar la información. Verifique la configuración de su red y vuelva a intentarlo."</string>
     <string name="vo_info_flow_load_more_content">Cargar más</string>
     <string name="vo_info_flow_load_more_error">Ocurrió un error de red. Verifique la configuración de su red y vuelva a intentarlo.~</string>
@@ -1376,7 +1376,7 @@ Navegador necesita conectarse a Internet para funcionar con normalidad. Debes ac
     <string name="vo_wei_bo_long_image">Imagen larga</string>
     <string name="vo_wei_bo_publish_time_just">·Ahora</string>
     <string name="vo_wei_bo_publish_time_yesterday">· Ayer a las %s</string>
-    <string name="voice_check_network">Comprueba la configuración de red y vuelve a intentarlo.</string>
+    <string name="voice_check_network">Comprueba la configuración de red y vuelva a intentarlo.</string>
     <string name="voice_close_description">Cerrar</string>
     <string name="voice_connect_network">"No fue posible conectarse a la red."</string>
     <string name="voice_description">Búsqueda por voz</string>
