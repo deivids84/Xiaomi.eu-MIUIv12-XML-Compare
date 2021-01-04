@@ -151,8 +151,8 @@
         <item quantity="one">%1$s visualización</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">"No se pudieron exportar %d vídeos. Libera espacio e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo exportar %d vídeo. Libera espacio e inténtalo de nuevo."</item>
+        <item quantity="other">"No se pudieron exportar %d vídeos. Libere espacio e inténtelo de nuevo"</item>
+        <item quantity="one">"No se pudo exportar %d vídeo. Libere espacio e inténtelo de nuevo."</item>
     </plurals>
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d archivos vacíos)</item>
