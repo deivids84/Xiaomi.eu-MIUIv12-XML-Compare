@@ -411,6 +411,7 @@
     <string name="primary_color_region_summary">Identificar la gama de colores automáticamente a través de la calibración del color</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="puffin">Frailecillo atlántico</string>
+    <string name="random_play_sound_alert">"Escuchará sonidos de los animales de esta región cuando reciba notificaciones"</string>
     <string name="red_billed_hornbill">Cálao de pico rojo</string>
     <string name="reset_edit">Descartar cambios</string>
     <string name="restore_default">Restaurar valores predeterminados</string>
