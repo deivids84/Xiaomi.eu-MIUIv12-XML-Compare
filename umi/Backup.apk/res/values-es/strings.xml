@@ -293,7 +293,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="local_select_userapp">Aplicaciones</string>
     <string name="local_select_video">Vídeos</string>
     <string name="login">Iniciar sesión</string>
-    <string name="login_failed">"No se pudo iniciar sesión. Reintentar."</string>
+    <string name="login_failed">"No se pudo iniciar sesión. Inténtelo de nuevo."</string>
     <string name="logining">Iniciando sesión…</string>
     <string name="miliao_account_guide">Usar tu Cuenta Mi para iniciar sesión en Xiaomi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
     <string name="miliao_account_login">Iniciar sesión con Mi Talk</string>
@@ -421,7 +421,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="prompt_writing">Guardando…</string>
     <string name="read_encrypt_fail">"No es posible leer las copias de seguridad cifradas"</string>
     <string name="reconnect">Conectar de nuevo</string>
-    <string name="recreate_soft_ap_tips">Pulsa el botón de más abajo para volver a intentarlo.</string>
+    <string name="recreate_soft_ap_tips">Toque el botón de abajo para intentarlo de nuevo.</string>
     <string name="refresh">Actualizar</string>
     <string name="remote_receive">Recibir</string>
     <string name="restore">Restaurar</string>
@@ -450,7 +450,7 @@ No apague ni cambie el Wi-Fi"</string>
 Libere al menos %s."</string>
     <string name="sc_bad_request">Solicitud inválida</string>
     <string name="sc_internal_server_error">Error interno del servidor</string>
-    <string name="sc_network_unavailable">Comprueba la conexión e inténtalo de nuevo.</string>
+    <string name="sc_network_unavailable">Compruebe la conexión e inténtelo de nuevo.</string>
     <string name="sc_others">Ha ocurrido un error</string>
     <string name="sc_precondition_failed">Primero debes añadir un correo electrónico a Cuenta Mi.</string>
     <string name="sc_request_timeout">Tiempo de espera agotado</string>
@@ -538,7 +538,7 @@ Libere al menos %s."</string>
     <string name="trans_cancelling">Cancelando…</string>
     <string name="trans_complete_restoring">Transferido con éxito. Restaurando los datos de aplicación…</string>
     <string name="trans_connect_failed_device_incompatible">"Dispositivo no compatible. Cancelar la transferencia y reintentar."</string>
-    <string name="trans_connect_failed_message">"No se pudo conectar, por favor vuelve a intentarlo o reinicia. En el otro dispositivo, ve a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulsa [Soy el remitente], o vuelve a abrir Mi Mover después del reinicio."</string>
+    <string name="trans_connect_failed_message">"No se pudo conectar, por favor vuelva a intentarlo o reinicie. En el otro dispositivo, vaya a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulse [Soy el remitente], o vuelva a abrir Mi Mover después del reinicio."</string>
     <string name="trans_connect_failed_title">"No se pudo conectar"</string>
     <string name="trans_connect_failed_toast">"No es posible conectar"</string>
     <string name="trans_connecting_toast">Conectando…</string>
@@ -672,7 +672,7 @@ Mantén los dispositivos cerca uno del otro."</string>
     <string name="trans_receiving_completed">Recibido correctamente</string>
     <string name="trans_restoring">Restaurando…</string>
     <string name="trans_restoring_no_items">Obtener información…</string>
-    <string name="trans_retry">Reintentar</string>
+    <string name="trans_retry">Inténtelo de nuevo</string>
     <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
     <string name="trans_scan_qr_code_tips">Escanea el código QR ​​utilizando el nuevo dispositivo</string>
     <string name="trans_security_tips_message">"Algunas aplicaciones no son compatibles con Mi Mover."</string>
