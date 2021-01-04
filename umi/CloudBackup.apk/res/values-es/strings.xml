@@ -81,7 +81,7 @@ Inténtelo de nuevo"</string>
     <string name="cancel_backup">Cancelando la copia de seguridad…</string>
     <string name="cancel_recover_settings">&lt;u&gt;Cancelar&lt;/u&gt;</string>
     <string name="cancel_restore_home">Cancelando…</string>
-    <string name="click_try_to_restore_again">Toca para intentar de nuevo</string>
+    <string name="click_try_to_restore_again">Pulse para intentar de nuevo</string>
     <string name="cloud_app_backup_success">Aplicaciones respaldadas correctamente</string>
     <string name="cloud_app_check_data">Conectando con Xiaomi Cloud…</string>
     <string name="cloud_app_current_device">Dispositivo actual</string>
@@ -172,7 +172,7 @@ Nota: Datos para las aplicaciones que ha instalado no se hará una copia de segu
     <string name="download_meta_failed">"No se pudieron cargar los datos."</string>
     <string name="download_settings">Descargando Ajustes de Pantalla de inicio: %s%%</string>
     <string name="download_settings_fail">"No se han podido descargar los Ajustes de Pantalla de inicio"</string>
-    <string name="error_retry_later">"No se pudo completar la acción. Espera un minuto e inténtalo de nuevo…"</string>
+    <string name="error_retry_later">"No se pudo completar la acción. Espere un minuto e inténtelo de nuevo…"</string>
     <string name="error_unknown">Algo ha salido mal</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="get_device_id_error">"No se pudo obtener ID del dispositivo"</string>
@@ -283,7 +283,7 @@ Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="title_alert_restore_error">"Restauración fallida"</string>
     <string name="title_restore_with_current_network">Usando la conexión actual para descargar archivos</string>
     <string name="total_space">Espacio total: %s</string>
-    <string name="try_again">Toca para intentar de nuevo</string>
+    <string name="try_again">Toque para intentarlo de nuevo</string>
     <string name="try_continue">Pulsa para continuar</string>
     <string name="unselected">No seleccionado</string>
     <string name="unsupported_home">Actualizar MIUI a la última versión.</string>
