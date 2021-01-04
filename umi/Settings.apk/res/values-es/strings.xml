@@ -5636,10 +5636,12 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar</string>
     <string name="screen_effect">Contraste y colores</string>
+    <string name="screen_enhance_engine_ai_note">%d. Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Solo se pueden mejorar las imágenes de la aplicación Galería.</string>
     <string name="screen_enhance_engine_ai_open">Mejorar imágenes</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen AI</string>
     <string name="screen_enhance_engine_memc_note">"No se pueden mejorar los videos cuando la súper resolución está activada. Al activar los videos mejorados, desactivará la súper resolución."</string>
+    <string name="screen_enhance_engine_memc_note_1">Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Mejora AI HDR</string>
@@ -5648,6 +5650,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_enhance_engine_sr_for_pic">Mejorar imágenes</string>
     <string name="screen_enhance_engine_sr_for_video">Mejorar videos</string>
     <string name="screen_enhance_engine_sr_for_video_note">"La súper resolución no funciona con videos mejorados. Al activar la súper resolución, desactivará los videos mejorados."</string>
+    <string name="screen_enhance_engine_sr_note">Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_sr_title">Súper resolución</string>
     <string name="screen_enhance_engine_title">Motor de imágenes AI</string>
     <string name="screen_enhance_status_disable">Desactivado</string>
