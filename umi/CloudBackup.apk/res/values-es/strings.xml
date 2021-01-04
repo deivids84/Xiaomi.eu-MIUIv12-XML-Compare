@@ -235,7 +235,7 @@ Nota: Datos para las aplicaciones que ha instalado no se hará una copia de segu
     <string name="remove_unfinished">Eliminando, vuelva a intentarlo</string>
     <string name="restore_app_order_finish">Listo</string>
     <string name="restore_app_order_loading">Un momento…</string>
-    <string name="restore_app_order_retry">Inténtalo de nuevo</string>
+    <string name="restore_app_order_retry">Reintentar</string>
     <string name="restore_app_order_retry_desc">"No se pudo conectar a la red.
 Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="restore_app_order_search_hint">Buscar elementos para establecer prioridad</string>
