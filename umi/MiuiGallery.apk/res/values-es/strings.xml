@@ -999,6 +999,11 @@ disponibles"</string>
     <string name="id_photo_download_sdk_without_wifi_msg">"Parece que su dispositivo no está conectado a Wi-Fi. ¿Descargar complemento utilizando datos móviles?"</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">"Parece que su dispositivo no está conectado a una WLAN. ¿Descargar complemento utilizando datos móviles?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">Descargar complemento \"ID\"</string>
+    <string name="id_photo_download_with_metered_network_msg">Parece que su dispositivo está conectado a una red pago. La descarga de archivos puede dar lugar a costes adicionales. Descargar de todos modos?</string>
+    <string name="id_photo_download_with_metered_network_title">Red de pago</string>
+    <string name="id_photo_load_data_fail">"No se pudieron cargar datos"</string>
+    <string name="id_photo_module_finish">Complemento \"ID\" descargado correctamente</string>
+    <string name="id_photo_module_loading">Descargando complemento \"ID\"…</string>
     <string name="ignore_album">"No mostrar"</string>
     <string name="ignore_alert_title">"¿No mostrar este álbum? Pulsa la esquina superior derecha para ver las fotos ignoradas."</string>
     <string name="ignore_face">Ignorar a esta persona</string>
@@ -1054,6 +1059,7 @@ disponibles"</string>
     <string name="loading_gif_thumbnail">Descargando miniatura del GIF…</string>
     <string name="loading_image">Descargando imagen…</string>
     <string name="loading_image_thumbnail">Descargando miniatura…</string>
+    <string name="loading_members">Cargando miembros…</string>
     <string name="loading_suspend">Descarga pausada. Continuará cuando una red Wi-Fi esté disponible.</string>
     <string name="loading_text_format" formatted="false">Extracción de información privada a partir de fotos (%d/%d)…</string>
     <string name="loading_video">Descargando vídeo…</string>
@@ -1095,6 +1101,7 @@ disponibles"</string>
     <string name="magic_eraser">Borrador</string>
     <string name="magic_error_adding_filter">"No se pudo aplicar el filtro"</string>
     <string name="magic_exporting">Guardando…</string>
+    <string name="magic_filter">Magia</string>
     <string name="magic_filter_dsc">Crea retratos con fondos impresionantes</string>
     <string name="magic_galery">Galería</string>
     <string name="magic_hight">Altura</string>
@@ -1119,6 +1126,16 @@ disponibles"</string>
     <string name="magic_matting_download_failed_for_notwork">"No se pudo descargar. Verifique la configuración de su red e intentelo nuevamente."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Parece que su dispositivo no está conectado a Wi-Fi. ¿Descargar el complemento utilizando datos móviles?"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Parece que su dispositivo no está conectado a una WLAN. ¿Descargar el complemento utilizando datos móviles?"</string>
+    <string name="magic_matting_download_sdk_without_wifi_title">Descargar complemento \"Magia\"</string>
+    <string name="magic_matting_download_with_metered_network_msg">Parece que su dispositivo está conectado a una red pago. La descarga de archivos puede dar lugar a costes adicionales. Descargar de todos modos?</string>
+    <string name="magic_matting_download_with_metered_network_title">Red de pago</string>
+    <string name="magic_matting_face_fail">"No se pudo procesar la cara"</string>
+    <string name="magic_matting_load_data_fail">"No se pudieron cargar datos"</string>
+    <string name="magic_matting_module_finish">Complemento \"Magia\" descargado correctamente</string>
+    <string name="magic_matting_module_loading">Descargando el complemento \"Magia\"…</string>
+    <string name="magic_metered_network_msg">Parece que su dispositivo está conectado a una red pago. La descarga de archivos puede dar lugar a costes adicionales. Descargar de todos modos?</string>
+    <string name="magic_metered_network_title">Red de pago</string>
+    <string name="magic_mix_px">La imagen es muy pequeña</string>
     <string name="magic_more_fact">Parece que hay varias personas en esta foto</string>
     <string name="magic_more_no_fact">"No se pudieron encontrar personas en esta foto"</string>
     <string name="magic_network_error">"No se pudo descargar. Verifique la configuración de su red e intentelo de nuevo."</string>
@@ -1147,6 +1164,8 @@ disponibles"</string>
     <string name="magic_video_soundtrack">Banda sonora</string>
     <string name="magic_video_soundtrack_is_turned_off">Sonido original apagado</string>
     <string name="magic_video_soundtrack_is_turned_on">Sonido original encendido</string>
+    <string name="magic_width">Ancho</string>
+    <string name="magic_zidiyi">Personalizar</string>
     <string name="main_discard_confirm_message">Hay cambios sin guardar</string>
     <string name="main_discard_negative_btn">Descartar</string>
     <string name="main_discard_positive_btn">Guardar y Salir</string>
@@ -1293,6 +1312,7 @@ para personalizar la Galería"</string>
     <string name="movie_save_successfully">Guardado a la creatividad</string>
     <string name="movie_saving">Creando clip ...</string>
     <string name="movie_tab_edit">Editar</string>
+    <string name="movie_tab_music">Audio</string>
     <string name="movie_tab_template">Modelo</string>
     <string name="movie_template_baby">Chica</string>
     <string name="movie_template_cool">Luces</string>
@@ -1303,6 +1323,7 @@ para personalizar la Galería"</string>
     <string name="movie_template_dull3">Belleza</string>
     <string name="movie_template_food">Comida</string>
     <string name="movie_template_new_year">Año nuevo</string>
+    <string name="movie_template_none">Ninguno</string>
     <string name="movie_template_normal">Melodía</string>
     <string name="movie_template_party">Partido</string>
     <string name="movie_template_pet">Patas</string>
@@ -1384,6 +1405,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="operation_delete_all_albums_from_rubbish_page_tip">"No podrás recuperar los álbumes después de borrarlos. ¿Borrarlos de todas formas?"</string>
     <string name="operation_detail">Detalles</string>
     <string name="operation_disable_auto_upload">Desactivar la sincronización con Xiaomi Cloud</string>
+    <string name="operation_doc_correction">Ajustar</string>
     <string name="operation_download">Descargar original (%s)</string>
     <string name="operation_edit">Editar</string>
     <string name="operation_edit_video">Editar</string>
@@ -1462,6 +1484,10 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_editor_adjust">Ajuste</string>
     <string name="photo_editor_beautify">Modo belleza</string>
     <string name="photo_editor_beautify_auto">Automático</string>
+    <string name="photo_editor_common_download_failed">"No se pudo descargar el complemento. Verifique la configuración de su red e intentelo de nuevo."</string>
+    <string name="photo_editor_common_download_finish">Complemento descargado con éxito</string>
+    <string name="photo_editor_common_download_sdk_without_wifi_msg">"Parece que no está conectado a la red Wi-Fi. ¿Descargar complemento (%1$d MB) usando datos móviles?"</string>
+    <string name="photo_editor_common_download_sdk_without_wifi_title">Descargar complemento</string>
     <string name="photo_editor_compare_tip">Mantén pulsado para ver la imagen original</string>
     <string name="photo_editor_crop_and_rotate">Cortar</string>
     <string name="photo_editor_crop_auto_tips">Recortada automáticamente</string>
@@ -1521,12 +1547,14 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_editor_talkback_cancel">Cancelar</string>
     <string name="photo_editor_talkback_confirm">Confirmar</string>
     <string name="photo_editor_talkback_crop_16_9">Dieciseis a nueve</string>
+    <string name="photo_editor_talkback_crop_18_9">Dieciocho por nueve</string>
     <string name="photo_editor_talkback_crop_1_1">Uno a uno</string>
     <string name="photo_editor_talkback_crop_2_3">Dos a tres</string>
     <string name="photo_editor_talkback_crop_3_2">Tres a dos</string>
     <string name="photo_editor_talkback_crop_3_4">Tres a cuatro</string>
     <string name="photo_editor_talkback_crop_4_3">Cuatro a tres</string>
     <string name="photo_editor_talkback_crop_9_16">Nueve a dieciseis</string>
+    <string name="photo_editor_talkback_crop_9_18">Nueve por dieciocho</string>
     <string name="photo_editor_talkback_crop_free">Libre</string>
     <string name="photo_editor_talkback_crop_mirror">Espejo</string>
     <string name="photo_editor_talkback_crop_original">Original</string>
@@ -1539,9 +1567,11 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_editor_talkback_doodle_rectangle">Rectángulo</string>
     <string name="photo_editor_talkback_effect">Efecto %d</string>
     <string name="photo_editor_talkback_eraser">Borrar</string>
+    <string name="photo_editor_talkback_random_icon">Filtro de cielo aleatorio</string>
     <string name="photo_editor_talkback_recently">Usado recientemente</string>
     <string name="photo_editor_talkback_redo">Rehacer</string>
     <string name="photo_editor_talkback_undo">Deshacer</string>
+    <string name="photo_editor_text">Texto</string>
     <string name="photo_font_cancel_download">Cancelar</string>
     <string name="photo_font_download">Descargar</string>
     <string name="photo_font_download_failed_for_notwork">"No se pudo descargar. Conéctate a la red y vuelve a intentarlo."</string>
@@ -1620,6 +1650,8 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="private_entry_lock_state_activated_text">Suelte para abrir la carpeta privada</string>
     <string name="private_entry_lock_state_enterd_text">Tire hacia abajo para abrir la carpeta privada</string>
     <string name="problem_feedback">Comentarios</string>
+    <string name="produce_dialog_text_multi">Múltiples elementos</string>
+    <string name="produce_dialog_text_single">Un elemento</string>
     <string name="projection_cancel">Cancelar</string>
     <string name="projection_checkbox_text">Recordar esta pantalla</string>
     <string name="projection_device_connection_failed">"No se pudo conectar el proyector"</string>
@@ -1921,6 +1953,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="sticker_ad">Folleto</string>
     <string name="sticker_baibai">Plantas</string>
     <string name="sticker_beard">Barbería</string>
+    <string name="sticker_clear">Limpiar</string>
     <string name="sticker_comics">Comic</string>
     <string name="sticker_cutie">Chica</string>
     <string name="sticker_duoduo">Mi vida</string>
@@ -1961,6 +1994,8 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="support_single_image">Seleccione una imagen</string>
+    <string name="support_single_video">Seleccione un vídeo</string>
     <string name="sync_album_in_proecess">Sincronizando álbum…</string>
     <string name="sync_battery_low">Batería baja</string>
     <string name="sync_cloud_space_full">No hay espacio suficiente en Xiaomi Cloud</string>
@@ -1999,6 +2034,10 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="text_tab_bubble">Burbuja</string>
     <string name="text_tab_city">Ciudad</string>
     <string name="text_tab_festival">Vacaciones</string>
+    <string name="text_tab_idp1">General</string>
+    <string name="text_tab_idp2">Viaje</string>
+    <string name="text_tab_idp3">Trabajo</string>
+    <string name="text_tab_idp4">Documentos</string>
     <string name="text_tab_mark">Etiquetas</string>
     <string name="text_tab_scene">Escena</string>
     <string name="text_tab_spot">Escenario</string>
