@@ -2038,6 +2038,8 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="text_tab_idp2">Viaje</string>
     <string name="text_tab_idp3">Trabajo</string>
     <string name="text_tab_idp4">Documentos</string>
+    <string name="text_tab_idp5">Educación</string>
+    <string name="text_tab_idp6">Exámenes</string>
     <string name="text_tab_mark">Etiquetas</string>
     <string name="text_tab_scene">Escena</string>
     <string name="text_tab_spot">Escenario</string>
@@ -2151,6 +2153,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="unpublishing">Cancelando…</string>
     <string name="unrecognized_manufacture">Desconocido</string>
     <string name="unrecognized_model">Dispositivo desconocido</string>
+    <string name="unsupport_image">"%s no admite imágenes"</string>
     <string name="unsupport_raw">"%s no funciona con imágenes RAW"</string>
     <string name="unsupport_raw_and_video">"%s no funciona con vídeos e imágenes RAW"</string>
     <string name="unsupport_type">"Formato no admitido"</string>
@@ -2287,6 +2290,10 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="video_editor_watermark">Marca de agua</string>
     <string name="video_err">"No se puede reproducir el vídeo"</string>
     <string name="video_not_exist">"El vídeo no existe"</string>
+    <string name="video_post_cancel_download">Cancelar</string>
+    <string name="video_post_download">Descargar</string>
+    <string name="video_post_download_failed_for_notwork">"No se pudo descargar. Verifique los ajustes de red e inténtelo de nuevo."</string>
+    <string name="video_post_download_sdk_without_wifi_msg">"Parece que su dispositivo no está conectado a Wi-Fi. ¿Descargar complemento utilizando datos móviles?"</string>
     <string name="video_quality_1080p">1080P</string>
     <string name="video_quality_1080p_hd">1080P (alta definición)</string>
     <string name="video_quality_1080p_original">1080P (sin comprimir)</string>
