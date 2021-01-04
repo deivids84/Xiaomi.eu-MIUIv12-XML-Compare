@@ -155,7 +155,7 @@
     <string name="download_speed">Velocidad de descarga:</string>
     <string name="download_spend_time">Tiempo</string>
     <string name="download_status_continue">Reanudar</string>
-    <string name="download_status_fail">Intentar de nuevo</string>
+    <string name="download_status_fail">Reintentar</string>
     <string name="download_status_paused">Pausa</string>
     <string name="download_success">Descarga finalizada</string>
     <string name="download_title_sorted_by_date">Ordenar por fecha</string>
@@ -430,9 +430,9 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="speed_result_restart">Probar de nuevo</string>
     <string name="speed_start">Probar</string>
     <string name="speed_stop">Cancelar</string>
-    <string name="speed_tip_netwrok_fail">Ocurrió un error de red, inténtalo de nuevo</string>
-    <string name="speed_tip_netwrok_timeout">Se agotó el tiempo de conexión, vuelve a intentarlo.</string>
-    <string name="speed_tip_no_netwrok">"No se pudo conectar a la red. Conéctate y vuelve a intentarlo."</string>
+    <string name="speed_tip_netwrok_fail">Ha ocurrido un error de red, inténtelo de nuevo</string>
+    <string name="speed_tip_netwrok_timeout">Tiempo de conexión agotado, inténtelo de nuevo</string>
+    <string name="speed_tip_no_netwrok">"No se pudo conectar a la red. Conéctese y vuelva a intentarlo."</string>
     <string name="speed_title">Probar velocidad del Wi-Fi</string>
     <string name="speed_title_result">Probar velocidad del Wi-Fi</string>
     <string name="start_analysis">Probar ahora</string>
