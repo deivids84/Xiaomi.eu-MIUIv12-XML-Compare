@@ -138,6 +138,7 @@
     <string name="doodle_saving">Guardando</string>
     <string name="doodle_setting_show_grid_background">Líneas de cuadrícula de Doodle</string>
     <string name="doodle_setting_show_grid_background_desc">Mostrar líneas de cuadrícula de garabatos</string>
+    <string name="doodle_tool_background">Cambiar lienzo</string>
     <string name="doodle_tool_eraser">Borrador</string>
     <string name="doodle_tool_eraser_element_mode">Borrador de trazo</string>
     <string name="doodle_tool_eraser_pixel_mode">Borrador de píxeles</string>
@@ -166,8 +167,16 @@
     <string name="error_widget_exist_for_send_to_desktop">Esta nota ya existe en la pantalla de inicio</string>
     <string name="evening">Tarde</string>
     <string name="exceed_todo_text_limitation">La descripción de la tarea es demasiado larga.</string>
+    <string name="excerpt">Crear un extracto</string>
+    <string name="excerpt_bubble_tips">El texto copiado y las imágenes guardadas se guardarán en Notas</string>
+    <string name="excerpt_link_bubble_tips">Toque para guardar en Notas</string>
+    <string name="excerpt_note">Mis extractos</string>
+    <string name="excerpted_to_note">Extracto guardado en Notas</string>
+    <string name="excerpting">Creando un extracto…</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="first_enter_custom_folder_hint">Puedes renombrar o eliminar carpetas aquí</string>
+    <string name="float_note_empty">No hay notas</string>
+    <string name="float_note_title">Notas</string>
     <string name="float_todo_guide_cancel">Cancelar</string>
     <string name="float_todo_guide_message">El acceso directo a la Pantalla de inicio te permite deslizar desde el borde de la pantalla para ver y crear tareas. ¿Crear ahora el acceso directo?</string>
     <string name="float_todo_guide_message_v2">El gesto de acceso rápido te permite ver y crear tareas deslizando el dedo desde el borde de la pantalla. Puedes activar y desactivar esta función en los Ajustes.</string>
@@ -231,6 +240,7 @@
     <string name="force_touch_menu_add">Añadir nota</string>
     <string name="format_move_note_out_folder">Esta nota fue movida</string>
     <string name="format_move_note_to_folder">Movida a %1$s</string>
+    <string name="frequently_click_tips">¡Demasiado rapido! Espere un minuto o dos y vuelva a intentarlo.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -252,6 +262,7 @@
     <string name="image_annotation_edit_hint">descripción de la imagen</string>
     <string name="image_annotation_edit_length_warning">La descripción de la imagen puede contener hasta %d caracteres</string>
     <string name="info_note_enter_desktop">Añadido a pantalla de inicio</string>
+    <string name="last_excerpt_unfinish_hint">El último extracto está incompleto</string>
     <string name="loading_text">Un momento…</string>
     <string name="login_sync">Iniciar sesión &amp; sincronizar</string>
     <string name="lunar_day">Lunar %1$s</string>
@@ -283,6 +294,7 @@
     <string name="menu_unstick">Desacoplar</string>
     <string name="merge_to_folder">Crear una carpeta</string>
     <string name="midnight">Noche</string>
+    <string name="mind_note_first_enter_guide">Toca para crear un mapa mental</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -411,6 +423,7 @@
     <string name="pc_note_edit_text_format_title_level1">Título</string>
     <string name="pc_note_edit_text_format_title_level2">Bóveda</string>
     <string name="pc_note_trash_folder_remind">Esta nota fue eliminada. Restaurar para editar.</string>
+    <string name="pc_todo_fast_create_hint">Ingrese el texto y presione \"Intro\" para agregar una tarea sin terminar</string>
     <string name="pc_todo_set_remind_time_hint">Establecer la hora</string>
     <string name="permdesc_accessNote">Las aplicaciones maliciosas pueden usar esto para acceder a tus datos personales.</string>
     <string name="permission_get_account_desc">Sincronizar notas con la nube</string>
@@ -423,11 +436,14 @@
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
     <string name="permission_read_contact_desc">Asociar las notas creadas durante las llamadas con contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
+    <string name="permission_storage_desc_v12">Para añadir imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará tus grabaciones de voz y el ID del dispositivo para transcribir audio y crear notas de voz. Aprende más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
     <string name="permlab_accessNote">Acceder a tus notas</string>
     <string name="pm">PM</string>
+    <string name="pref_category_title_quick_func">Funciones rápidas</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">No pedir confirmación para eliminar una nota a través de un gesto</string>
     <string name="pref_desc_todo_float_mode">Deslizar desde el borde de la pantalla para abrir la caja de herramientas de tareas</string>
+    <string name="pref_excerpt_link_float">Reciba un recordatorio para crear un extracto cada vez que se copie una URL</string>
     <string name="pref_remind_type_summary">Reproducir sonido de recordatorios en modo Silencio</string>
     <string name="pref_remind_type_summary_new">Ignorar modo Silencio y seguir reproduciendo sonido hasta que la alarma sea desactivada</string>
     <string name="pref_remind_type_title">Ignorar modo Silencio</string>
