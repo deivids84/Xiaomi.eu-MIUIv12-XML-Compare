@@ -435,6 +435,7 @@
     <string name="hints_quick_cleanning">S\'està netejant&#8230;</string>
     <string name="hints_quick_cleanuping">S\'està optimitzant&#8230;</string>
     <string name="hints_quick_deep_clean">Neteja ara</string>
+    <string name="hints_quick_deep_clean2">Allibera %s</string>
     <string name="hints_quick_deep_scanning">S\'està escanejant</string>
     <string name="hints_quick_deep_uninstall">Elimina ara</string>
     <string name="hints_quick_prepare">S\'està preparant&#8230;</string>
@@ -587,6 +588,10 @@
     <string name="permission_dialog_storage_title">Permisos necessaris</string>
     <string name="phone_search">Cerca de Google</string>
     <string name="positive_confirm">D\'acord</string>
+    <string name="powerful_acceleration">Desfragmentació</string>
+    <string name="powerful_acceleration_after">Després</string>
+    <string name="powerful_acceleration_before">Abans</string>
+    <string name="powerful_acceleration_enable_summary">"La desfragmentació es realitzarà automàticament mentre no utilitzeu el dispositiu"</string>
     <string name="pref_about_privacy_title">Política de privadesa</string>
     <string name="pref_category_title_auto_clean_settings">Neteja automàtica</string>
     <string name="pref_category_title_auto_update_cleanup_db">Configuració addicional</string>
