@@ -84,6 +84,7 @@
     <string name="branch_platypus">Ornitorrínquidos</string>
     <string name="branch_quollidae">Dasiúridos</string>
     <string name="branch_raccoon">Prociónidos</string>
+    <string name="branch_ramphastos">Ramphastidae</string>
     <string name="branch_rhinoceros">Rinocerótidos</string>
     <string name="branch_seal">Fócidos</string>
     <string name="branch_toucan">Tucanes</string>
@@ -280,6 +281,7 @@
     <string name="item_chick">Galliformes</string>
     <string name="item_crane_form">Gruiformes</string>
     <string name="item_hayabusa">Falcónidos</string>
+    <string name="item_liebird">Piciformes</string>
     <string name="item_long_nose">Proboscídeos</string>
     <string name="item_marsupial">Marsupiales</string>
     <string name="item_meat">Carnívoros</string>
