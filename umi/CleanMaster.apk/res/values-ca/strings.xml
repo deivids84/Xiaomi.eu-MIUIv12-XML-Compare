@@ -770,6 +770,11 @@
     <string name="video_clean_qq_clean_summary">Neteja les escombraries per alliberar espai d\'emmagatzematge</string>
     <string name="video_clean_qq_clean_title">Netejador de QQ</string>
     <string name="video_clean_remind_settings_title">Recordatori de neteja</string>
+    <string name="video_clean_scan_app_tip">Escaneig d\'aplicacions %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Gestioneu tots els vídeos emmagatzemats al dispositiu</string>
+    <string name="video_clean_video_manager_title">Gestor de vídeos</string>
+    <string name="video_clean_wechat_clean_summary">Neteja la brossa per augmentar la velocitat</string>
+    <string name="video_clean_wechat_clean_title">Netejador WeChat</string>
     <string name="virus_scan">Escaneig de seguretat</string>
     <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>
