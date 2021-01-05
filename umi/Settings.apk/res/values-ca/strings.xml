@@ -469,7 +469,6 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="always">Sempre</string>
     <string name="always_allow_bind_appwidgets_text">Heu triat de permetre que l\'aplicació creï ginys i accedeixi a les dades.</string>
     <string name="always_running">Executa sempre (%s)</string>
-    <string name="always_style">Sempre</string>
     <string name="amber_alerts_summary">Rebre informacions sobre segrestos de nens</string>
     <string name="amber_alerts_title">Avisos AMBER</string>
     <string name="ambient_display_category_triggers">Quan mostrar</string>
@@ -5750,7 +5749,6 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="scanning_status_text_wifi_off_ble_on">L\'escaneig Bluetooth està activat, l\'escaneig WLAN està desactivat</string>
     <string name="scanning_status_text_wifi_on_ble_off">L\'escaneig WLAN està activat, l\'escaneig Bluetooth està desactivat</string>
     <string name="scanning_status_text_wifi_on_ble_on">Tant l\'escaneig WLAN com el Bluetooth estan activats</string>
-    <string name="scheduled_style">Programat</string>
     <string name="screen">Pantalla</string>
     <string name="screen_cancel">Cancel·la</string>
     <string name="screen_color_and_optimize">Colors i contrast</string>
@@ -7095,7 +7093,6 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tap_to_wake">Toca per activar-lo</string>
     <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">Durant 10 segons després de tocar-ho</string>
     <string name="terms_title">Termes i condicions</string>
     <string name="testing">S\'està provant</string>
     <string name="testing_phone_info">Informació del telèfon</string>
