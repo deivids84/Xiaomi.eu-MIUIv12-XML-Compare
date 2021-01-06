@@ -2909,6 +2909,10 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="flashback_background_start_switch_summary">Genere tarjetas con información clave automáticamente cuando las aplicaciones se ejecuten en segundo plano</string>
     <string name="flashback_background_start_switch_title">Generar tarjetas automáticamente</string>
     <string name="flashback_baidu_map_summary">Mostrar ruta</string>
+    <string name="flashback_didi_summary">Mostrar información del viaje</string>
+    <string name="flashback_meituan_summary">Mostrar información de entrega</string>
+    <string name="flashback_meituan_waimai_summary">Mostrar información de entrega</string>
+    <string name="flashback_open_switch_summary">Mostrar información clave cuando las aplicaciones se muestran como ventanas flotantes</string>
     <string name="floating_window_switch_label">Activar ventanas flotantes</string>
     <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
     <string name="fluency_mode">Animaciones del sistema</string>
