@@ -982,6 +982,7 @@ Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos mó
  * El roaming de datos 5G solo está disponible en nuestras redes asociadas.
 "</string>
     <string name="dialog_skt_roaming_warning_ok">De acuerdo</string>
+    <string name="dialog_skt_roaming_warning_title">Acuerdo de roaming de datos</string>
     <string name="dialog_title_attention">Atención</string>
     <string name="dialog_title_auto_start_declare">Acerca del inicio automático</string>
     <string name="dialog_title_stop_virus_scan">Detener análisis de seguridad</string>
@@ -1602,6 +1603,7 @@ y explore nuestro cambiador de voz!"</string>
     <string name="gb_voice_changer_user_status_no_login">Iniciar sesión en Cuenta Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">Fecha de caducidad: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renovar</string>
+    <string name="gb_voice_changer_user_tips_info_vip_expire">Su suscripción ha caducado. ¡Renueve la suscripción ahora para obtener beneficios!</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Grabe momentos clave
 de sus sesiones de juego"</string>
     <string name="gb_wonderful_video_cancel">Cancelar</string>
