@@ -37,6 +37,10 @@
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="already_in_small_freeform">Algunes aplicacions s’obren en finestres flotants</string>
+    <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
+    <string name="chip_text">Chip text</string>
+    <string name="clear_text_end_icon_content_description">Neteja el text</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="controls_confirmation_message">Confirmeu el canvi per a %s</string>
     <string name="controls_dialog_confirmation">S\'han actualitzat els controls</string>
@@ -86,8 +90,10 @@
     <string name="early_morning">Matí</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
+    <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Avançat</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -141,7 +147,10 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="icon_content_description">Icona de diàleg</string>
+    <string name="item_view_role_description">Pestanya</string>
     <string name="loading">Estat desconegut</string>
+    <string name="material_slider_range_end">Final de l\'interval,</string>
     <string name="midnight">Nit</string>
     <string name="miui_dnd_count_down">Temporitzador DND</string>
     <string name="miui_dnd_count_down_time">"Temporitzador DND
@@ -221,6 +230,7 @@
     <string name="not_set">Sense definir</string>
     <string name="notification_control_center">Notificacions i Centre de control</string>
     <string name="online">En línia</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pm">pm</string>
     <string name="power_off">Apaga</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
