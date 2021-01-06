@@ -180,6 +180,12 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Registrado %d días seguidos</item>
         <item quantity="one">Registrado %d vez</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="one">"¡Pruebe el Cambiador de Voz
+para obtener una prueba gratuita de %d-días!"</item>
+        <item quantity="other">"¡Pruebe Voice Changer ahora
+para obtener una prueba gratuita de %ddía!"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">"No se pudo recibir una prueba gratuita de %ddías"</item>
         <item quantity="one">"No se pudo recibir una prueba gratuita de %ddías"</item>
