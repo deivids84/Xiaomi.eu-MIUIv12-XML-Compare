@@ -198,6 +198,8 @@
     <string name="app_behavior_about_positive">Entendido</string>
     <string name="app_behavior_access_gallery">%1s accedió a galería</string>
     <string name="app_behavior_access_gallery_single">Esta aplicación accedió a la galería</string>
+    <string name="app_behavior_access_sociality">%1s mensajes accedidos en aplicaciones de redes sociales</string>
+    <string name="app_behavior_access_sociality_single">Esta aplicación accedió a mensajes en las aplicaciones de redes sociales</string>
     <string name="app_behavior_allowed">Permitir</string>
     <string name="app_behavior_audio">%1s grabó audio</string>
     <string name="app_behavior_audio_bg">%1s grabó audio en segundo plano</string>
@@ -245,6 +247,7 @@
     <string name="app_behavior_key_camera">Tomando fotos</string>
     <string name="app_behavior_key_location">Ubicación</string>
     <string name="app_behavior_key_protect">Protege tu información personal</string>
+    <string name="app_behavior_link_start">Inicio de cadena</string>
     <string name="app_behavior_list_load_more">Cargando…</string>
     <string name="app_behavior_location">%1s accedió a tu ubicación</string>
     <string name="app_behavior_location_bg">%1s accedió a tu ubicación en segundo plano</string>
@@ -306,6 +309,8 @@
     <string name="app_behavior_settings_category_privacy">Proteger información personal</string>
     <string name="app_behavior_settings_perm_tips">Mostrar una alerta en la barra de estado cuando las aplicaciones acceden a tu ubicación, graban audio o toman fotos</string>
     <string name="app_behavior_settings_privacy_tips">Recibe notificaciones cuando las aplicaciones accedan a tus contactos, historial de llamadas o realicen otras acciones delicadas</string>
+    <string name="app_behavior_share_file">Compartir archivos</string>
+    <string name="app_behavior_share_picture">Compartir imágenes</string>
     <string name="app_behavior_sms_read">%1s leyó SMS</string>
     <string name="app_behavior_sms_read_single">Esta app leyó SMS</string>
     <string name="app_behavior_sms_send">%1s envió SMS</string>
@@ -970,6 +975,13 @@ Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos mó
     <string name="dialog_roaming_warning_checkbox">"No mostrar de nuevo"</string>
     <string name="dialog_roaming_warning_message">La operadora hará un cargo después de activar el roaming internacional. ¿Activar de todas formas?</string>
     <string name="dialog_roaming_warning_ok">Activar</string>
+    <string name="dialog_skt_roaming_warning_cancel">Discrepar</string>
+    <string name="dialog_skt_roaming_warning_message">"Lea y acepte las condiciones a continuación para utilizar la itinerancia de datos. Pueden aplicarse cargos de itinerancia de datos internacionales. Sin un plan de datos de roaming, se pueden aplicar costes significativos a aplicaciones que se actualizan automáticamente, como aplicaciones relacionadas con redes sociales, correo electrónico y clima.
+ * Cuando no esté de acuerdo en usar la itinerancia de datos, el roaming de datos se desactivará.
+ * La voz HD se utiliza por defecto en las redes compatibles.
+ * El roaming de datos 5G solo está disponible en nuestras redes asociadas.
+"</string>
+    <string name="dialog_skt_roaming_warning_ok">De acuerdo</string>
     <string name="dialog_title_attention">Atención</string>
     <string name="dialog_title_auto_start_declare">Acerca del inicio automático</string>
     <string name="dialog_title_stop_virus_scan">Detener análisis de seguridad</string>
