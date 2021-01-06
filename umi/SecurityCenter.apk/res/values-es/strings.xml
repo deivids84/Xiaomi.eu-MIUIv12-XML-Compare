@@ -2351,6 +2351,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="permgroupdesc_sms">Leer o enviar SMS</string>
     <string name="permgroupdesc_storage">Acceder a fotos o archivos en el dispositivo</string>
     <string name="permission_action_accept">Aceptar</string>
+    <string name="permission_action_ai_prompt">Decidir por mí</string>
     <string name="permission_action_always">Permitir siempre</string>
     <string name="permission_action_desc">Otorgue permisos pero devuelva mensajes en blanco a la aplicación para proteger la privacidad</string>
     <string name="permission_action_desc_always">Este permiso se puede utilizar en cualquier momento</string>
@@ -3016,6 +3017,9 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="prompt_input_time_illegal">"No se puede establecer esta hora, cámbiela e inténtelo de nuevo"</string>
     <string name="protocol_exception_title">Diagnóstico de protocolos de red</string>
     <string name="protocol_loop_back_exception_summary">El test local ha fallado. Para informar de este problema a MIUI, ve a la aplicación de Feedback y envía un registro desde tu dispositivo.</string>
+    <string name="provision_back">Atrás</string>
+    <string name="provision_next">Siguiente</string>
+    <string name="provision_skip_underline">Omitir</string>
     <string name="qucick_replay_instrument">Use respuestas rápidas en las notificaciones de las aplicaciones seleccionadas (por ejemplo, WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Escaneando</string>
     <string name="quick_optimize_no_fix_issue_subtitle">"No se pudo alargar la vida de la batería"</string>
@@ -3972,6 +3976,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="videobox_settings_switch_desc">Efectos especiales y funciones para reproducción de video</string>
     <string name="videobox_settings_switch_title">Caja de herramientas de vídeo</string>
     <string name="videobox_settings_title">Caja de herramientas de vídeo</string>
+    <string name="view_traffic_detail">Ver detalles</string>
     <string name="virus_auto_update_engine">Actualizaciones automáticas: %s</string>
     <string name="virus_update_tips_title">Atención</string>
     <string name="virus_wait_network_dialog_message">"Su teléfono no está conectado a Wi-Fi ahora. ¿Usar la conexión de datos móviles?"</string>
