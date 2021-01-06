@@ -531,6 +531,32 @@
         <item>To de trucada</item>
         <item>Multimèdia</item>
     </string-array>
+    <string-array name="disable_apptitmer_device_list">
+        <item>cactus</item>
+        <item>pine</item>
+        <item>rosy</item>
+        <item>willow</item>
+        <item>olive</item>
+        <item>tiare</item>
+        <item>cereus</item>
+        <item>riva</item>
+        <item>rolex</item>
+        <item>markw</item>
+        <item>santoni</item>
+        <item>land</item>
+        <item>vince</item>
+        <item>nikel</item>
+        <item>ugglite</item>
+        <item>ugg</item>
+        <item>kate</item>
+        <item>prada</item>
+        <item>dandelion</item>
+        <item>lime</item>
+        <item>citrus</item>
+        <item>cannon</item>
+        <item>lemon</item>
+        <item>arc de Sant Martí</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
         <item>15 segons</item>
