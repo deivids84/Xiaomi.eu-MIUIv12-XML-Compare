@@ -1560,7 +1560,6 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_cellular_detail_data_usage">Ús de dades</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilitzats</string>
     <string name="quick_settings_cellular_detail_data_warning">Advertència de %s</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Les dades mòbils (WCDMA/LTE) quedaran desactivades. Tret que utilitzeu la WLAN, ja no podreu utilitzar les aplicacions que requereixin una connexió de dades. L\'enviament o recepció de missatges multimèdia estarà restringit.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Les dades mòbils s\'activaran. La connexió a xarxes mòbils pot comportar càrrecs addicionals en funció del vostre pla de pagament.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancel·la</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">D\'acord</string>
@@ -2156,6 +2155,7 @@ Sembla que l’emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_forever">Fins que no ho desactiveu</string>
     <string name="zen_mode_settings_summary_off">Mai</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Activa el DND</string>
+    <string name="zen_mode_warnings_title">No molestis està activat</string>
     <string name="zen_priority_customize_button">Personalitza</string>
     <string name="zen_priority_introduction">"Els sons i les vibracions no us molestaran, tret de les alarmes, els recordatoris, els esdeveniments i les trucades que especifiqueu. Encara escoltaràs tot el que triïs reproduir, inclosa música, vídeos i jocs."</string>
     <string name="zen_silence_introduction">Això bloqueja TOTS els sons i vibracions, incloses les alarmes, música, vídeos i jocs.</string>
