@@ -1880,6 +1880,7 @@ Tu teléfono podría calentarse de más si:
     <string name="time_unit_just_now">Ahora mismo</string>
     <string name="title_convert_fbe">Convirtiendo a encriptación basada en archivos</string>
     <string name="title_usb_accessory">Accesorio USB</string>
+    <string name="torch_high_temperature_warning">"Su dispositivo está sobrecalentado. No se puede usar el flash."</string>
     <string name="touch_filtered_warning">Una aplicación está bloqueando una solicitud de permiso, por lo que Ajustes no puede verificar tu respuesta.</string>
     <string name="track_frame_time">Perfil de renderización GPU</string>
     <string name="transition_animation_scale_title">Nivel de animación de las transiciones</string>
