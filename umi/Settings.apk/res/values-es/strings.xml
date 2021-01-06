@@ -3163,8 +3163,14 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="haptic_index_bar_10_content_description">Barra de desplazamiento</string>
     <string name="haptic_lock_screen_11_content_description">Dispositivo de bloqueo</string>
     <string name="haptic_multitasking_card_long_press_03_content_description">Mantener presionada la vista previa de una aplicación</string>
+    <string name="haptic_multitasking_gestures_04_content_description">Apertura de Recientes</string>
     <string name="haptic_preview">Grabaciones</string>
     <string name="haptic_return_gesture_05_content_description">Regresando</string>
+    <string name="haptic_shutdown_menu_06_content_description">Menú de apagado</string>
+    <string name="haptic_single_selection_02_content_description">Artículo seleccionado</string>
+    <string name="haptic_text_edit_popup_13_content_description">Menú emergente</string>
+    <string name="haptic_upper_right_menu_15_content_description">Menú desplegable</string>
+    <string name="haptic_volume_adjustment_14_content_description">Ajuste de volúmen</string>
     <string name="hardkeyboard_category">Ajustes del teclado físico</string>
     <string name="hardware_info">Modelo y hardware</string>
     <string name="hardware_revision">Versión de hardware</string>
@@ -3378,6 +3384,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="instruction_privacy_password">Esta contraseña protege los siguientes elementos</string>
     <string name="instruction_title">Información de seguridad importante</string>
     <string name="insufficient_storage">No hay suficiente espacio de almacenamiento.</string>
+    <string name="intelligence_suppression_summary">Ajuste de manera dinámica el tamaño del área cerca de los bordes donde se ignorará según su agarre las pulsaciones accidentales</string>
     <string name="intelligence_suppression_title">Auto (recomendado)</string>
     <string name="intent_sender_account_label">Cuenta:</string>
     <string name="intent_sender_action_label">Acción:</string>
@@ -3408,6 +3415,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="interact_across_profiles_title">Trabajo conectado &amp; aplicaciones personales</string>
     <string name="interaction_control_category_title">Controles de interacción</string>
     <string name="interesting_text">Las sensaciones táctiles realistas hacen que su interacción con la pantalla sea más clara y articulada.</string>
+    <string name="interesting_title">Toque realista</string>
     <string name="internal_memory">Almacenamiento interno</string>
     <string name="internal_storage">Almacenamiento interno</string>
     <string name="internet_connectivity_panel_title">Conexión a Internet</string>
@@ -3835,6 +3843,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lockpassword_clear_label">Claro</string>
     <string name="lockpassword_confirm_for_second_user">Confirma la contraseña del Segundo espacio</string>
     <string name="lockpassword_confirm_label">Confirmar</string>
+    <string name="lockpassword_confirm_passwords_dont_match">"Las contraseñas no coinciden"</string>
     <string name="lockpassword_confirm_pins_dont_match">"Los PIN no coinciden"</string>
     <string name="lockpassword_confirm_workspace_password">Comprobar contraseña del Espacio de Trabajo</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirma tu contraseña</string>
@@ -4000,9 +4009,11 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="manual">Manual</string>
     <string name="manual_mode_disallowed_summary">No está disponible cuando se está conectado a %1$s</string>
     <string name="manually_add_network">Añadir red</string>
+    <string name="mashup_sound">Mezcla de naturaleza</string>
     <string name="mashup_sound_africa">Sabana</string>
     <string name="mashup_sound_amazon">Selva</string>
     <string name="mashup_sound_arctic">El Ártico</string>
+    <string name="mashup_sound_australia">Australia</string>
     <string name="master_clear_accounts">"
 
 Has iniciado sesión en las cuentas que se indican a continuación:
@@ -4157,6 +4168,13 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_LeftEar">Izquierda</string>
     <string name="miheadset_RightEar">Derecha</string>
     <string name="miheadset_active">poderoso</string>
+    <string name="miheadset_audio_mode">modo audio</string>
+    <string name="miheadset_audio_mode_high">alta calidad</string>
+    <string name="miheadset_audio_mode_listen">escuche</string>
+    <string name="miheadset_audio_mode_normal">modo normal</string>
+    <string name="miheadset_audio_mode_summary">cambiar modo audio</string>
+    <string name="miheadset_auto_ack_mode">modo de reconocimiento automático</string>
+    <string name="miheadset_auto_ack_mode_summary">teléfono en modo escucha automático</string>
     <string name="miheadset_bright">brillante</string>
     <string name="miheadset_call_assist">llamar ai</string>
     <string name="miheadset_cancel_device">Cancelar</string>
@@ -4167,16 +4185,25 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_define_self">definirse a sí mismo</string>
     <string name="miheadset_disconnect">Desconectar</string>
     <string name="miheadset_disconnect_device">¿Desconectar este dispositivo?</string>
+    <string name="miheadset_double_click_key_mode">modo de tecla de doble clic</string>
+    <string name="miheadset_double_click_key_mode_summary">cambiar mapa de teclas de doble clic</string>
     <string name="miheadset_double_click_left">Toca dos veces el auricular izquierdo</string>
     <string name="miheadset_double_click_right">Toca dos veces el auricular izquierdo</string>
     <string name="miheadset_enhence_high">enhence alto</string>
     <string name="miheadset_enhence_low">enhence baja frecuencia</string>
     <string name="miheadset_equalizer">Ecualizador</string>
+    <string name="miheadset_fitness_check">control de estado físico</string>
+    <string name="miheadset_fitness_check_result_not_ok">mal estado físico</string>
+    <string name="miheadset_fitness_check_result_ok">estado físico aceptable</string>
+    <string name="miheadset_fitness_check_result_unkown">estado físico desconocido</string>
+    <string name="miheadset_fitness_check_start">comprobación de estado físico, por favor espere</string>
     <string name="miheadset_game_mode">Modo de juego</string>
     <string name="miheadset_game_mode_summary">Reducir la demora de audio mientras juega</string>
+    <string name="miheadset_ignore">Desvincular</string>
     <string name="miheadset_in_ear_check">Detecta la presencia del oído</string>
     <string name="miheadset_in_ear_check_summary">Pausar y reanudar la reproducción automáticamente mientras usa o se quita los auriculares</string>
     <string name="miheadset_last_version">El firmware está actualizado</string>
+    <string name="miheadset_minus">menos</string>
     <string name="miheadset_moreSettingsInAi">Ajustes adicionales</string>
     <string name="miheadset_multi_connect_mode_summary">conectar más de un dispositivo al mismo tiempo</string>
     <string name="miheadset_next">siguiente</string>
