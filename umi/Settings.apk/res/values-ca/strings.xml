@@ -5570,6 +5570,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="recommend_item_title">Accessoris</string>
     <string name="recommend_text_wakeup_xiaoai">Configuració</string>
     <string name="recommend_tip">Necessiteu una altra configuració?</string>
+    <string name="recommend_tip_wakeup_xiaoai">L’ús de botons per interactuar amb Mi AI requereix desactivar els gestos de pantalla completa i seleccionar botons com a mètode de navegació.</string>
     <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
     <string name="regional_screen_shot">Captura de pantalla parcial</string>
     <string name="register_automatically">Registre automàtic…</string>
@@ -8638,6 +8639,10 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="write_system_settings">Modifica la configuració del sistema</string>
     <string name="wrong_pin_code_one">El codi PIN SIM incorrecta, queda un altre intent abans de contactar amb el transportista per desbloquejar el dispositiu.</string>
     <string name="wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb l\'operador de telefonia mòbil per a desbloquejar el dispositiu.</string>
+    <string name="xiaoai_global_shortcut">General</string>
+    <string name="xiaoai_key_shortcut">Botons</string>
+    <string name="xiaoai_other_shortcut">Altres mètodes</string>
+    <string name="xiaoai_shortcut_settings_title">Activa Mi AI mitjançant botons i gestos</string>
     <string name="xiaomi_account">Compte Mi</string>
     <string name="xiaomi_cloud_find_device">Troba el dispositiu</string>
     <string name="xiaomi_cloud_service_description">Xiaomi Cloud sincronitza els vostres contactes i fotos, fa una còpia de seguretat de les aplicacions i de la configuració i us ajuda a trobar el telèfon mitjançant Troba el dispositiu.</string>
