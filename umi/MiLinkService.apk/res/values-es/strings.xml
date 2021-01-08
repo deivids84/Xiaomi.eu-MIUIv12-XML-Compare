@@ -212,7 +212,7 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="help_page_text_55">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y esté encendido. En algunos modelos, esta función se denomina Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples. Vea la información a continuación para aprender cómo enciende Miracast.
 4. Si encuentra algún problema, puede informarlo utilizando nuestros \"Servicios y comentarios\" app."</string>
     <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y esté encendido. En algunos modelos, esta función se denomina Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
-4. Si encuentra algún problema, puede informarlo utilizando nuestros \"Servicios y comentarios\" app."</string>
+4. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Servicios &amp; comentarios\"."</string>
     <string name="help_page_text_end">"Si la marca de tu dispositivo no aparece en la lista, póngase en contacto con el fabricante para obtener más información sobre la funcionalidad de transmisión"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="midnight">Noche</string>
