@@ -344,7 +344,7 @@ está a punto de suceder"</string>
 dd/MM"</string>
     <string name="super_wallpaper_date_inter">"EEEE
 dd/M"</string>
-    <string name="temporary_style">Durante 10 segundos después de tocar</string>
+    <string name="temporary_style">10 segundos después de tocar</string>
     <string name="temporary_style_summary">Recomendado</string>
     <string name="text_color">Color del texto</string>
     <string name="text_length_exceed_limit_alert">*El texto que has introducido es demasiado largo</string>
