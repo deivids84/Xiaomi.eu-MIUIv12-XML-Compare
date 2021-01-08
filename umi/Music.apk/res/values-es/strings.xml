@@ -560,7 +560,7 @@
     <string name="info_app_version">Version de la aplicacion:</string>
     <string name="info_language">Idioma:</string>
     <string name="info_location">Región:</string>
-    <string name="info_product">Modelo:</string>
+    <string name="info_product">Dispositivo:</string>
     <string name="info_system">Sistema:</string>
     <string name="info_system_version">Versión del sistema:</string>
     <string name="input_hint_prefix">Introducir %1$s</string>
