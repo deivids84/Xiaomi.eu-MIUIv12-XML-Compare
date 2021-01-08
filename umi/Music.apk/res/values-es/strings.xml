@@ -156,6 +156,7 @@
     <string name="columbus_player_close_video">CERRAR VIDEO</string>
     <string name="columbus_player_install_now">INSTALAR AHORA</string>
     <string name="columbus_player_learn_more">Aprende más</string>
+    <string name="com.crashlytics.android.build_id">a868d0460e16407ba0c1c6ddcb50897d</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará hasta que no habilites Servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
@@ -360,6 +361,8 @@
     <string name="equalizer">Ecualizador</string>
     <string name="eras_ad">ANUNCIO</string>
     <string name="eras_bc">antes de Cristo</string>
+    <string name="error_message_no_internet_connection">No se pudo conectar a Internet. Comprueba tu conexión a Internet y vuelve a intentarlo.</string>
+    <string name="error_message_something_went_wrong">Algo salió mal. Por favor, vuelva a intentarlo.</string>
     <string name="error_not_support">No soportado</string>
     <string name="evening">PM</string>
     <string name="exo_controls_fastforward_description">Avanzar rápidamente</string>
@@ -563,6 +566,7 @@
     <string name="input_hint_prefix">Introducir %1$s</string>
     <string name="installing_apk">Instalando…</string>
     <string name="insufficient_space">"No hay espacio libre en la memoria interna del dispositivo"</string>
+    <string name="invalid_number">Lo siento, el número no es válido</string>
     <string name="is_latest_version">La música está actualizada.</string>
     <string name="is_scanning">Comprobando almacenamiento…</string>
     <string name="is_scanning_support_online">"Comprobando almacenamiento…
@@ -626,6 +630,7 @@
     <string name="list_item_play_all_tracks">Reproducir todo</string>
     <string name="load_shuffle">Cargando…</string>
     <string name="loadercontainer_loading">Un momento…</string>
+    <string name="loading">Cargando</string>
     <string name="loading_hint">Un momento…</string>
     <string name="loading_reached_the_bottom">"Eso es todo por ahora."</string>
     <string name="local_header_title">Música local</string>
@@ -682,6 +687,12 @@
     <string name="modify_progress_helper">Desliza hacia arriba o abajo para ajustar el progreso de la letra.</string>
     <string name="modify_song_info">Editar información de canción</string>
     <string name="modify_song_info_success">La información de la canción ha sido actualizada</string>
+    <string name="moe_inbox_name">Centro de notificación</string>
+    <string name="moe_message_to_register">Haga clic en el botón de registro para registrarse para la validación de integración.</string>
+    <string name="moe_message_to_unregister">El dispositivo está registrado para la verificación de integración. Haga clic en el botón para darse de baja</string>
+    <string name="moe_notification_center_empty">Centro de notificaciones vacío</string>
+    <string name="moe_register">REGISTRARSE</string>
+    <string name="moe_unregister">NO REGISTRAR</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">L</string>
