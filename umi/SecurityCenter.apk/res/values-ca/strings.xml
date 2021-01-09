@@ -3623,8 +3623,8 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="sys_app_prot_cracked_confirm">D\'acord</string>
     <string name="sys_cpu_title">Ús de la CPU</string>
     <string name="sys_freememory_title">Disponible</string>
-    <string name="system_app">Aplicacions de Sistema</string>
-    <string name="system_application">Aplicacions del Sistema</string>
+    <string name="system_app">Aplicacions del sistema</string>
+    <string name="system_application">Aplicacions del sistema</string>
     <string name="system_permission_declare_agree">D\'acord</string>
     <string name="system_permission_declare_analytics_declare">"Et convidem a inscriure’s al nostre Programa d’experiència d’usuaris. Aquesta aplicació necessita connectar-se a Internet i utilitzar els permisos o funcions següents per recopilar estadístiques per millorar els serveis que us proporcionem. Aquí només recopilem dades amb finalitats estadístiques i no podem identificar-vos personalment en funció de les dades que recollim."</string>
     <string name="system_permission_declare_disagree">No hi estic d\'acord</string>
