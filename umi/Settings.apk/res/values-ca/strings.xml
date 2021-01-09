@@ -7059,7 +7059,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="sync_in_progress">S\'està sincronitzant…</string>
     <string name="sync_is_failing">Hi ha problemes amb la sincronització. Aviat tornarà a estar disponible.</string>
     <string name="sync_menu_sync_cancel">Cancel·la la sincronització</string>
-    <string name="sync_menu_sync_now">Sincronitza\'l ara</string>
+    <string name="sync_menu_sync_now">Sincronitza ara</string>
     <string name="sync_now">Sincronitza</string>
     <string name="sync_one_time_sync">"Toqueu per a sincronitzar ara
 %1$s"</string>
