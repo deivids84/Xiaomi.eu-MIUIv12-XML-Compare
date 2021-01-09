@@ -738,7 +738,7 @@ prova fallada!"</string>
     <string name="cit_voc_data_sensor_check_summary">A continuació, els valors de COV, temperatura, humitat, pressió</string>
     <string name="cit_voc_data_temperature">Temperatura</string>
     <string name="cit_wifi_address_check_summary">A baix es mostra l\'adreça de la xarxa Wi-Fi a la qual el telèfon està connectat actualment. Confirmeu que és correcta la informació ressaltada en verd.</string>
-    <string name="cit_wifi_address_check_title">Adreça Wi-Fi</string>
+    <string name="cit_wifi_address_check_title">Adreça WLAN</string>
     <string name="cit_wifi_address_error">"No s'ha pogut rebre una adreça Wi-Fi. Assegureu-vos que està activat el senyal Wi-Fi."</string>
     <string name="cit_wifi_ap_scan_check_summary">Abaix es troba la informació AP Wi-Fi dels dispositius a l\'àrea que s\'han detectat. Confirmeu que la informació ressaltada en verd és correcta.</string>
     <string name="cit_wifi_ap_scan_check_title">Escaneig Wi-Fi AP</string>
