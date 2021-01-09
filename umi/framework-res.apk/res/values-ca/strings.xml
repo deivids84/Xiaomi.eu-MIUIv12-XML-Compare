@@ -547,7 +547,7 @@ utilitzat %s"</string>
     <string name="ext_media_unsupported_notification_message">Aquest dispositiu no és compatible amb aquest %s. Toqueu per configurar-lo en un format compatible.</string>
     <string name="ext_media_unsupported_notification_title">%s incompatible</string>
     <string name="extract_edit_menu_button">Edita</string>
-    <string name="face_acquired_insufficient">No s\'ha pogut capturar les dades de la cara exactes. Torneu-ho a provar.</string>
+    <string name="face_acquired_insufficient">No s\'han pogut capturar les dades facials precises. Torneu-ho a provar.</string>
     <string name="face_acquired_not_detected">Situeu la cara directament davant del telèfon.</string>
     <string name="face_acquired_obscured">Elimineu qualsevol cosa que amagui la cara.</string>
     <string name="face_acquired_pan_too_extreme">Gireu una mica menys el cap.</string>
