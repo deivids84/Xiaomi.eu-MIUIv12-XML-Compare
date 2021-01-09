@@ -18,7 +18,7 @@
     <string name="HIPS_Perm_Body_Sensors">Sensores corporales</string>
     <string name="HIPS_Perm_Body_Sensors_Desc">sensores corporales (p. ej., sensor de frecuencia cardíaca)</string>
     <string name="HIPS_Perm_Calendar">Leer tus eventos del calendario</string>
-    <string name="HIPS_Perm_Calendar_Desc">leer tus eventos del calendario</string>
+    <string name="HIPS_Perm_Calendar_Desc">leer sus eventos del calendario</string>
     <string name="HIPS_Perm_Call">Realizar llamadas</string>
     <string name="HIPS_Perm_CallLog">Escribir y eliminar el historial de llamadas</string>
     <string name="HIPS_Perm_CallLog_Desc">editar el historial de llamadas</string>
@@ -63,7 +63,7 @@
     <string name="HIPS_Perm_SendSMS">Enviar mensajes SMS</string>
     <string name="HIPS_Perm_SendSMS_Desc">enviar mensajes SMS directamente</string>
     <string name="HIPS_Perm_Settings">Modificar la configuración del sistema</string>
-    <string name="HIPS_Perm_Settings_Desc">modificar la configuración del sistema</string>
+    <string name="HIPS_Perm_Settings_Desc">modificar los ajustes del sistema</string>
     <string name="HIPS_Perm_SystemAlert">Visualización de ventanas emergentes</string>
     <string name="HIPS_Perm_SystemAlert_Desc">mostrar ventanas emergentes</string>
     <string name="HIPS_Perm_UDevice_ID">Compartir partes de la información del dispositivo con desarrolladores de juegos para ayudarles a mejorar su experiencia de juego. ¿Aceptar?</string>
@@ -89,7 +89,7 @@
     <string name="HIPS_Perm_install_shortcut">Accesos directos de la Pantalla de inicio</string>
     <string name="HIPS_Perm_install_shortcut_Desc">añadir accesos directos a la Pantalla de inicio</string>
     <string name="HIPS_Perm_mediaVolume">Ajustar el volumen multimedia</string>
-    <string name="HIPS_Perm_mediaVolume_Desc">Permitir a la aplicación ajustar el volumen multimedia</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">Permita que la aplicación ajuste el volumen multimedia</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">acceder al hardware NFC (Comunicación de Campo Cercano)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Acceso a la aplicación Teléfono</string>
