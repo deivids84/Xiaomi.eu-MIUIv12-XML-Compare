@@ -6227,9 +6227,9 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="security_settings_face_enroll_error_generic_dialog_message">"La inscripció facial no va funcionar."</string>
     <string name="security_settings_face_enroll_error_timeout_dialog_message">S\'ha arribat al límit de temps d\'inscripció facial. Torneu-ho a provar.</string>
     <string name="security_settings_face_enroll_finish_title">Tot llest. Se\'t veu bé.</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">"Suprimeix les dades de la cara actuals per configurar de nou el desbloqueig facial.
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Suprimiu les dades facials actuals per tornar a configurar el desbloqueig facial.
 
-Les dades de cara utilitzades pel desbloqueig facial se suprimiran de forma permanent i segura. Després de suprimir-lo, necessitareu el PIN, el patró o la contrasenya per desbloquejar el telèfon, inicieu la sessió a les aplicacions i confirmeu els pagaments."</string>
+Les dades facials utilitzades pel desbloqueig facial se suprimiran de forma permanent i segura. Després de suprimir-les, necessitareu el vostre PIN, patró o contrasenya per desbloquejar el telèfon, iniciar la sessió a les aplicacions i confirmar els pagaments."</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Configura el desbloqueig de cara</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Utilitza la configuració d’accessibilitat</string>
     <string name="security_settings_face_enroll_introduction_agree">Acordar</string>
@@ -6968,11 +6968,11 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="structure_face_data_input_timeout_title">Torna-ho a provar</string>
     <string name="structure_face_data_input_up">Cercar</string>
     <string name="structure_face_data_introduction_back">esquena</string>
-    <string name="structure_face_data_introduction_msg">Les dades de cara 3D permeten desbloquejar el dispositiu i verificar-ne la identitat. Heu d’establir una contrasenya abans d’utilitzar aquesta funció.</string>
+    <string name="structure_face_data_introduction_msg">Les dades facials 3D permeten desbloquejar el dispositiu i verificar-ne la identitat. Heu d’establir una contrasenya abans d’utilitzar aquesta funció.</string>
     <string name="structure_face_data_introduction_title">Afegiu dades de cara 3D</string>
     <string name="structure_face_data_ir_input_face">Mou lleugerament el cap</string>
     <string name="structure_face_data_manage_delete_msg">Suprimeix les dades de la cara 3D</string>
-    <string name="structure_face_data_suggestion_text">"Assegureu-vos que totes les parts de la vostra cara siguin clarament visibles. No utilitzeu barrets, ulleres de sol o altres accessoris que us cobrin la cara mentre enregistreu dades de la cara 3D. Assegureu-vos que la vostra cara estigui igualment il·luminada."</string>
+    <string name="structure_face_data_suggestion_text">"Assegureu-vos que totes les parts de la cara siguin ben visibles. No porteu barrets, ulleres de sol ni altres accessoris que us puguin tapar la cara mentre enregistreu les dades facials en 3D. Assegureu-vos que la vostra cara també estigui il·luminada de manera uniforme."</string>
     <string name="structure_face_data_suggestion_warning_text">Nota: l\'ús de dades de cara 3D és lleugerament menys segur que si feu servir una contrasenya. Podeu desbloquejar el vostre dispositiu amb persones o objectes que semblin molt similars.</string>
     <string name="structure_face_delete_data_dialog_msg">"No s'ha pogut llançar Camera i obtenir una vista prèvia. Torna-ho a provar."</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Torna-ho a provar</string>
