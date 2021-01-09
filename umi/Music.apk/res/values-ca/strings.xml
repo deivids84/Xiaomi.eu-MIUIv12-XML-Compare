@@ -565,8 +565,8 @@
     <string name="insufficient_space">"No hi ha prou espai en l'emmagatzematge intern del vostre dispositiu"</string>
     <string name="is_latest_version">Música està al dia.</string>
     <string name="is_scanning">S\'està comprovant l\'emmagatzematge&#8230;</string>
-    <string name="is_scanning_support_online">"«S'està comprovant l'emmagatzematge&#8230;
-(Mentrestant podeu fer la transmissió de música en línia)»"</string>
+    <string name="is_scanning_support_online">"S'està comprovant l'emmagatzematge…
+(Mentrestant podeu reproduir la música en línia)"</string>
     <string name="joox_account_bind_mi_account">Afegeix el meu compte</string>
     <string name="joox_account_cancel_login">Cancel · lar</string>
     <string name="joox_account_continue_login">Inicieu la sessió</string>
