@@ -5277,7 +5277,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="preferred_application_warning_replace">Reemplaça</string>
     <string name="preferred_application_warning_title">Reemplaça l\'aplicació %s per defecte</string>
     <string name="preferred_application_warning_use_system">Utilitza %s</string>
-    <string name="preferred_media_app_summary">Selecciona el reproductor de música</string>
+    <string name="preferred_media_app_summary">Seleccioneu un reproductor de música</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode de xarxa preferit: CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Mode de xarxa preferit: CDMA / EvDo</string>
     <string name="preferred_network_mode_cdma_only_summary">Mode de xarxa preferit: només CDMA</string>
