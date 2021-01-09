@@ -2758,7 +2758,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="extreme_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
     <string name="extreme_threats_title">Amenaces extremes</string>
     <string name="face_add_max">Podeu afegir fins a %d cares</string>
-    <string name="face_data_apply_for_category_title">Desbloquegeu l’ús de les dades de cara</string>
+    <string name="face_data_apply_for_category_title">Desbloqueja amb dades facials</string>
     <string name="face_data_apply_for_keyguard_title">Pantalla de bloqueig</string>
     <string name="face_data_input_camera_fail">"No s'ha pogut carregar la càmera"</string>
     <string name="face_data_input_camera_ok">S\'està carregant la càmera…</string>
@@ -2776,7 +2776,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_data_manage_unlock_liftcamera_msg">Després que la pantalla s\'il·lumini, feu lliscar el dit cap amunt per desbloquejar el dispositiu mitjançant les dades de la cara.</string>
     <string name="face_data_manage_unlock_msg">Desbloquegeu el dispositiu mitjançant les dades de la vostra cara</string>
     <string name="face_data_manage_unlock_slide_msg">Substituïu les dreceres lliscants per desbloqueig facial</string>
-    <string name="face_data_manage_unlock_title">Desbloquegeu l’ús de les dades de cara</string>
+    <string name="face_data_manage_unlock_title">Desbloqueja amb dades facials</string>
     <string name="face_data_siggesstion_next">Pròxim</string>
     <string name="face_data_siggesstion_next_time">Següent (%ds)</string>
     <string name="face_data_suggesstion_first">Problemes de seguretat: el desbloqueig facial és menys segur que un PIN, una contrasenya o un patró. És possible que el vostre dispositiu es pugui desbloquejar amb la vostra foto, així com per persones o objectes que semblin similars.</string>
