@@ -3691,11 +3691,11 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="tc_sms_report_receive_content_null">"Necessita obtenir un informe SMS d'ús de dades del seu operador"</string>
     <string name="tc_sms_report_receive_num">Número del receptor</string>
     <string name="tc_sms_report_send_num">Número de l\'operador</string>
-    <string name="tc_sms_report_summary">Ajudeu-nos a millorar aquesta característica, enviant-nos un informe quan la informació del seu ús de dades és incorrecta o no s\'actualitza.</string>
-    <string name="tc_sms_report_tips_dialog_message">"S'enviarà un SMS per obtenir la informació d'ús de dades més recent del vostre operador. Si creieu que la informació no és correcta, envieu-nos els vostres comentaris."</string>
+    <string name="tc_sms_report_summary">Ajudeu-nos a millorar aquesta funció enviant un informe quan la vostra informació d’ús de dades sigui incorrecta o no s’actualitzi.</string>
+    <string name="tc_sms_report_tips_dialog_message">"S’envia un SMS per obtenir la informació més recent sobre l’ús de dades del vostre operador. Si creieu que la informació no és correcta, envieu-nos els vostres comentaris."</string>
     <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
-    <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
-    <string name="tc_sms_report_toast_text">Obtenint informació&#8230;</string>
+    <string name="tc_sms_report_title">Informeu d\'un error d\'ús de dades</string>
+    <string name="tc_sms_report_toast_text">S\'està obtenint la informació…</string>
     <string name="tc_sms_report_type">Tipus d\'informe</string>
     <string name="tc_sms_report_upload_success">"Informe SMS d'ús de dades remès. Ens posem amb això!"</string>
     <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
