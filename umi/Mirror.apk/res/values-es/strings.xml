@@ -366,7 +366,7 @@
     <string name="worker_authorized">%1$s aceptó su solicitud</string>
     <string name="worker_connect_cancel_tips">Cancelar</string>
     <string name="worker_connect_fail_btn_retry">Inténtalo de nuevo</string>
-    <string name="worker_connect_fail_message">Se produjo un error de red. Espera y vuelve a intentarlo.</string>
+    <string name="worker_connect_fail_message">Se produjo un error de red. Espere y vuelva a intentarlo.</string>
     <string name="worker_connect_fail_title">"No se pudo conectar"</string>
     <string name="worker_connect_help">Habilitar</string>
     <string name="worker_connecting_message">Conectando…</string>
