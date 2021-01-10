@@ -928,8 +928,8 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="battery_saver_button_turn_on">Activar ahora</string>
     <string name="battery_saver_master_switch_title">Utilice ahorro de batería</string>
     <string name="battery_saver_off_scheduled_summary">Se encenderá a %1$s</string>
-    <string name="battery_saver_off_summary">Desactivado/%1$s</string>
-    <string name="battery_saver_on_summary">Activado/%1$s</string>
+    <string name="battery_saver_off_summary">Desactivado</string>
+    <string name="battery_saver_on_summary">Activado</string>
     <string name="battery_saver_schedule_settings_title">Definir una programación</string>
     <string name="battery_saver_seekbar_title_placeholder">Encender</string>
     <string name="battery_saver_sticky_description_new">El modo Ahorro de batería se desactiva cuando tu teléfono está al %1$s</string>
@@ -4274,7 +4274,7 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="miui_sos_emergency_delete">Borrar</string>
     <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) recibió el mensaje</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1$s recibió el mensaje</string>
-    <string name="miui_sos_emergency_failed_sms">"No se pudo enviar el mensaje a %1s (%2s)."</string>
+    <string name="miui_sos_emergency_failed_sms">"No se pudo enviar el mensaje a %1$s (%2$s)"</string>
     <string name="miui_sos_emergency_failed_sms_noname">"No se pudo enviar el mensaje a %1s."</string>
     <string name="miui_sos_enable_switch_summary">Presione rápidamente el botón de Encendido 5 veces para enviar un mensaje de texto SOS con su ubicación a sus contactos de emergencia</string>
     <string name="miui_sos_enable_switch_title">SOS de emergencia</string>
