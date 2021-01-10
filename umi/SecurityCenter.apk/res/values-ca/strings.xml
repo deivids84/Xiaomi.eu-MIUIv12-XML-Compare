@@ -3666,12 +3666,12 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="tc_parse_error">"No s'ha pogut analitzar l'SMS"</string>
     <string name="tc_receive_timeout">Temps de calibratge excedit</string>
     <string name="tc_send_sms_error">"No s'ha pogut enviar l'SMS"</string>
-    <string name="tc_sms_report_direction">Sol·licitar codi (SMS)</string>
+    <string name="tc_sms_report_direction">Codi de consulta SMS</string>
     <string name="tc_sms_report_do_report">Envia</string>
     <string name="tc_sms_report_get_default">"No incorrereu en càrrecs pels missatges utilitzats per obtenir la informació d'ús de dades del vostre operador."</string>
     <string name="tc_sms_report_get_sms">Obtenir SMS</string>
     <string name="tc_sms_report_get_sms2">Obtenir SMS</string>
-    <string name="tc_sms_report_get_sms_again">Refrescar SMS</string>
+    <string name="tc_sms_report_get_sms_again">Actualitza els SMS</string>
     <string name="tc_sms_report_get_sms_bill">Obtén SMS</string>
     <string name="tc_sms_report_get_sms_calltime">Obtén SMS</string>
     <string name="tc_sms_report_get_sms_failure">"No s'ha pogut obtenir la informació d'ús de dades"</string>
