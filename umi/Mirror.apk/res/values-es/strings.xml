@@ -345,7 +345,7 @@
     <string name="time_picker_dialog_title">Establecer la hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">L</string>
-    <string name="tip_connect_fail_for_hotspot">"No se pudo conectar. Apague el hotspot portátil y vuelva a intentarlo."</string>
+    <string name="tip_connect_fail_for_hotspot">"No se pudo conectar. Apague el punto de acceso portátil y vuelva a intentarlo."</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">mañana</string>
     <string name="traffic_log">Registros de tráfico</string>
