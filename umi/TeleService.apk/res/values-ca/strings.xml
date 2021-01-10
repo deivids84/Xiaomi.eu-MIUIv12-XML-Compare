@@ -1813,7 +1813,7 @@ Interface UT: %5$s"</string>
     <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
     <string name="radio_off_during_emergency_call">No es pot activar al mode avió durant una trucada d\'emergència.</string>
     <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
-    <string name="reading_settings">Configuració de lectura&#8230;</string>
+    <string name="reading_settings">S\'està llegint la configuració…</string>
     <string name="regional_disable">Notícies regionals desactivades</string>
     <string name="regional_enable">Notícies regionals activades</string>
     <string name="register_automatically">Registre automàtic&#8230;</string>
