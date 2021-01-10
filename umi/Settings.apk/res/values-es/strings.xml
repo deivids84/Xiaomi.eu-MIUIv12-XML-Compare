@@ -6116,7 +6116,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_wifi_settings_title">Wifi;Wi-Fi;Ajustes avanzados;WLAN;Redes inalámbricas;Inalámbrico</string>
     <string name="search_wifi_tether_checkbox">Punto de acceso portátil;punto de acceso;portátil</string>
     <string name="search_wifi_tether_configure_ap_text">Establecer punto de acceso portátil;Establecer punto de acceso;Añadir punto de acceso;configurar punto de acceso</string>
-    <string name="search_wifi_tether_settings_title">Conexiones y punto de acceso portátil;Conectar;compartir Internet;Punto de acceso WLAN;Punto de acceso Wifi;Punto de acceso Wi-Fi</string>
+    <string name="search_wifi_tether_settings_title">Anclaje de red &amp; punto de acceso portátil;Conectar;compartir internet;punto de acceso WLAN;punto de acceso wifi;punto de acceso WLAN</string>
     <string name="search_wifi_wapi_cert_install">Instalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wps_connect_title">Botón WPS;Conectar WPS;WPS</string>
