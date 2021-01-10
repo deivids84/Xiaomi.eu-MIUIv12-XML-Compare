@@ -3090,7 +3090,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="google_title">Google</string>
     <string name="got_it">Entendido</string>
     <string name="gps_description">Se admiten múltiples sistemas de navegación por satélite (GPS, BeiDou, GLONASS, Galileo)</string>
-    <string name="gps_description_global">Se admiten múltiples sistemas de navegación por satélite ( %s)</string>
+    <string name="gps_description_global">Los dispositivos Xiaomi son compatibles con múltiples sistemas de navegación, incluidos GPS, NavIC, BeiDou, GLONASS y Galileo.</string>
     <string name="graphics_driver_all_apps_preference_title">Habilitar para todas las aplicaciones</string>
     <string name="graphics_driver_app_preference_default">Predeterminado</string>
     <string name="graphics_driver_app_preference_game_driver">Controlador de juego</string>
@@ -4537,7 +4537,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="network_connection_errorstate_dialog_message">Se ha producido un error. La aplicación ha cancelado la solicitud para elegir un dispositivo.</string>
     <string name="network_connection_request_dialog_showall">Mostrar todo</string>
     <string name="network_connection_request_dialog_summary">%1$s quiere usar una red Wi-Fi temporal para conectarse a su dispositivo</string>
-    <string name="network_connection_request_dialog_title">Dispositivo para usar con %1$s</string>
+    <string name="network_connection_request_dialog_title">Conectar a dispositivo</string>
     <string name="network_connection_searching_message">Buscando dispositivo…</string>
     <string name="network_connection_timeout_dialog_message">No se ha encontrado ningún dispositivo. Comprueba que estén encendidos y listos para conectarse.</string>
     <string name="network_connection_timeout_dialog_ok">Reintentar</string>
@@ -7185,7 +7185,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tts_engine_section_title">Motor</string>
     <string name="tts_engine_security_warning">El motor de síntesis de discurso debe poder obtener todo el texto hablado, incluyendo datos personales como contraseñas y números de tarjetas bancarias. Viene con el motor %s. ¿Activar el uso de este motor de síntesis de discurso?</string>
     <string name="tts_engine_settings_button">Ajustes del motor de búsqueda</string>
-    <string name="tts_engine_settings_title">Ajustes para %s</string>
+    <string name="tts_engine_settings_title">Configuración del motor</string>
     <string name="tts_general_section_title">General</string>
     <string name="tts_install_data_summary">Necesario instalar datos de voz para síntesis de discurso</string>
     <string name="tts_install_data_title">Instalar datos de voz</string>
