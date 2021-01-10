@@ -1860,7 +1860,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="system_ui_tuner">Sintonizador de interfaz de usuario del sistema</string>
     <string name="tap_to_renew_subscription_and_connect">Toque para renovar la suscripción y conectarse</string>
     <string name="tap_to_sign_up">Pulsa para registrarte</string>
-    <string name="tether_settings_title_all">Anclando y hotspot portable</string>
+    <string name="tether_settings_title_all">Anclaje de red &amp; punto de acceso portátil</string>
     <string name="tether_settings_title_bluetooth">Conexión Bluetooth</string>
     <string name="tether_settings_title_usb">Conexión USB</string>
     <string name="tether_settings_title_usb_bluetooth">Anclando</string>
