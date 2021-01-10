@@ -809,7 +809,7 @@ para apoyar nuestro trabajo"</string>
     <string name="navigationbar_rightbutton_actiontext_search">Buscar</string>
     <string name="network_error_tips">Se produjo un error de red. Vuelva a intentarlo.</string>
     <string name="network_not_available_comment">Sin conexión a Internet, no se puede comentar</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Hay un punto de acceso Wi-Fi acerca. ¿Conectarse?</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Hay un punto de acceso Wi-Fi cerca. ¿Conectarse?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Red Wi-Fi disponible</string>
     <string name="new_copy_address">Última URL copiada</string>
     <string name="new_copy_content">Último contenido copiado</string>
