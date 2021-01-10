@@ -91,7 +91,7 @@
     <string name="classes_titlt">Horario de clases</string>
     <string name="classes_topTitle">Escanea tu horario de clases</string>
     <string name="clearable_edittext_clear_description">Claro</string>
-    <string name="close_hotspot_when_connecting_to_wifi">Punto de acceso activado. Activa el Wi-Fi.</string>
+    <string name="close_hotspot_when_connecting_to_wifi">Punto de acceso activado. Active el Wi-Fi.</string>
     <string name="common_retake_picture">Volver a tomar</string>
     <string name="common_retry">Intentar otra vez</string>
     <string name="common_save">Guardar</string>
@@ -462,7 +462,7 @@
     <string name="welcome_to_thesweepversion">¡Bienvenido a Scanner Beta!</string>
     <string name="wifi">WIFI</string>
     <string name="wifi_details">Wi-Fi:</string>
-    <string name="wifi_exist_fail">El punto de acceso Wi-Fi %1$s ya existe. Elimínalo y vuelve a intentarlo.</string>
+    <string name="wifi_exist_fail">El punto de acceso Wi-Fi %1$s ya existe. Elimínelo y vuelva a intentarlo.</string>
     <string name="wifi_low_version_prompt">aviso wifi</string>
     <string name="wifi_open_fail">"No se pudo activar el Wi-Fi"</string>
     <string name="wifi_psd_toolong">Esta contraseña es demasiado larga. Introduce la contraseña manualmente.</string>
