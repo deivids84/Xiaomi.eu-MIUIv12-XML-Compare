@@ -4325,7 +4325,7 @@ Continueu per accedir a la configuració addicional."</string>
     <string name="miui_sos_emergency_contacts">Contactes d\'emergència</string>
     <string name="miui_sos_emergency_delete">Suprimeix</string>
     <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) ha rebut el missatge</string>
-    <string name="miui_sos_emergency_delivered_sms_noname">%1$s rebut el missatge</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">%1$s ha rebut el missatge</string>
     <string name="miui_sos_emergency_failed_sms">"No s'ha pogut enviar el missatge a %1$s (%2$s)"</string>
     <string name="miui_sos_emergency_failed_sms_noname">"No s'ha pogut enviar el missatge a %1s."</string>
     <string name="miui_sos_enable_switch_summary">Premeu 5 cops seguits el botó d\'engegada, ràpidament, per enviar un missatge de text de SOS amb la vostra ubicació als vostres contactes d\'emergència</string>
