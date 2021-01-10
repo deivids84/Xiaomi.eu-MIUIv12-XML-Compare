@@ -964,7 +964,9 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="battery_sugg_wifi">"Desactivar Wi-Fi cuando no se esté usando o cuando no esté disponible"</string>
     <string name="battery_suggestion_title">"Mejora la duración de la batería del teléfono"</string>
     <string name="battery_summary">%1$s de uso desde la última carga completa</string>
-    <string name="battery_tip_dialog_message">"Su teléfono ha sido utilizado más de lo habitual. Su batería puede agotarse antes de lo esperado. Top %1$d aplicaciones que usaste desde la carga completa:"</string>
+    <string name="battery_tip_dialog_message">"Su teléfono se ha utilizado más de lo habitual. Su batería puede agotarse antes de lo esperado.
+
+Aplicaciones principales por uso de batería:"</string>
     <string name="battery_tip_dialog_message_footer">Se incluye la actividad en segundo plano que consume mucha batería</string>
     <string name="battery_tip_dialog_summary_message">"Sus aplicaciones están utilizando una cantidad normal de batería. Si las aplicaciones consumen demasiada batería, su teléfono le sugerirá acciones que puede tomar. Siempre puede activar el ahorro de batería si tiene poca batería."</string>
     <string name="battery_tip_early_heads_up_done_summary">Algunas características pueden ser limitadas</string>
