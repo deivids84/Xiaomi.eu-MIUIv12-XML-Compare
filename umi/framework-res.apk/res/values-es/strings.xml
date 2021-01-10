@@ -507,7 +507,7 @@ con %s"</string>
     <string name="expand_button_content_description_collapsed">Mostrar</string>
     <string name="expand_button_content_description_expanded">Ocultar</string>
     <string name="expires_on">Fecha de caducidad:</string>
-    <string name="ext_media_badremoval_notification_message">Desconecta tu %s antes de extraer la unidad para evitar pérdidas de datos</string>
+    <string name="ext_media_badremoval_notification_message">Extrae el dispositivo de forma segura antes de sacarlo para evitar perder contenido</string>
     <string name="ext_media_badremoval_notification_title">Extracción inesperada de %s</string>
     <string name="ext_media_browse_action">Explorar</string>
     <string name="ext_media_checking_notification_message">Comprobando errores</string>
@@ -521,9 +521,9 @@ con %s"</string>
     <string name="ext_media_move_success_message">Datos movidos a %s</string>
     <string name="ext_media_move_success_title">Datos movidos</string>
     <string name="ext_media_move_title">Moviendo datos</string>
-    <string name="ext_media_new_notification_message">Nueva %s detectada</string>
+    <string name="ext_media_new_notification_message">Toca para configurar</string>
     <string name="ext_media_new_notification_title">Nueva unidad: %s</string>
-    <string name="ext_media_nomedia_notification_message">Tu %s se ha extraído: inserta otra unidad</string>
+    <string name="ext_media_nomedia_notification_message">Es posible que algunas funciones no funcionen correctamente. Inserte un nuevo almacenamiento.</string>
     <string name="ext_media_nomedia_notification_title">Tu %s se ha extraído</string>
     <string name="ext_media_ready_notification_message">Para transferir fotos y multimedia</string>
     <string name="ext_media_seamless_action">Cambiar salida</string>
@@ -539,7 +539,7 @@ con %s"</string>
     <string name="ext_media_status_unmounted">Expulsado</string>
     <string name="ext_media_status_unsupported">No admitido</string>
     <string name="ext_media_unmount_action">Expulsar</string>
-    <string name="ext_media_unmountable_notification_message">%s está en mal estado. Toca para solucionar el problema.</string>
+    <string name="ext_media_unmountable_notification_message">Toca para solucionar el problema</string>
     <string name="ext_media_unmountable_notification_title">Medio externo (%s) dañado</string>
     <string name="ext_media_unmounting_notification_message">No extraer</string>
     <string name="ext_media_unmounting_notification_title">Expulsando %s…</string>
