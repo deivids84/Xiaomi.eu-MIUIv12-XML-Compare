@@ -610,7 +610,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_old_market">Pulsa \"Iniciar\". Escanea el código QR en el teléfono nuevo, espera a que Mi Mover averigüe qué archivos enviar y pulsa \"Enviar\".</string>
     <string name="trans_intro_desc_private">"Mi Mover no puede acceder a las fotos del álbum oculto porque están cifradas. Puedes restaurar estas fotos desde Xiaomi Cloud en un nuevo dispositivo."</string>
     <string name="trans_intro_question_1">%d. ¿Cómo uso Mi Mover para mover datos desde un dispositivo iOS?</string>
-    <string name="trans_intro_question_10">"%d. ¿No puedes encontrar el punto de acceso en el dispositivo antiguo?"</string>
+    <string name="trans_intro_question_10">"%d. ¿No pudo encontrar el punto de acceso en su antiguo dispositivo?"</string>
     <string name="trans_intro_question_2">%d. ¿Cómo uso Mi Mover para mover datos desde un dispositivo Android?</string>
     <string name="trans_intro_question_3">%d. ¿Qué debo hacer si Mi Mover se atascó en un determinado paso?</string>
     <string name="trans_intro_question_4">"%d. ¿Por qué no puedo usar Wi-Fi durante las transferencias?"</string>
@@ -667,8 +667,8 @@ Después pulsa \"Conectar de nuevo\" para escanear el código QR."</string>
     <string name="trans_progress_subdescript_waiting">Esperando para recibir %s</string>
     <string name="trans_receiver">"Soy el destinatario"</string>
     <string name="trans_receiver_time_remained">"%s restante.
-No apagues el punto de acceso Wi-Fi.
-Mantén los dispositivos cerca uno del otro."</string>
+No apague el punto de acceso Wi-Fi.
+Mantenga los dispositivos cerca uno del otro."</string>
     <string name="trans_receiving_completed">Recibido correctamente</string>
     <string name="trans_restoring">Restaurando…</string>
     <string name="trans_restoring_no_items">Obtener información…</string>
