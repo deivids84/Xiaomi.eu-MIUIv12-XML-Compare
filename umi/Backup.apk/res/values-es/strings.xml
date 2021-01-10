@@ -101,7 +101,7 @@
     <string name="cancel_moving_dialog_message">¿Detener la importación?</string>
     <string name="cancel_moving_dialog_title">Detener la importación</string>
     <string name="cancel_restore">Detener</string>
-    <string name="click_soft_ap_to_link">Selecciona el punto de acceso para conectar</string>
+    <string name="click_soft_ap_to_link">Seleccione un punto de acceso para conectarse</string>
     <string name="click_to_view">Pulsa para ver</string>
     <string name="close_twice_auth_btn">Desactivar la autenticación de dos factores</string>
     <string name="close_twice_auth_note">"Nota:
@@ -739,9 +739,9 @@ Libera espacio o transfiere solo los elementos importantes."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="view_password_description">Mostrar contraseña</string>
-    <string name="wait_link">"Abrir Mi Mover en el dispositivo antiguo,
-pulsa \"Soy un emisor\" y selecciona un punto de acceso para conectar.
-No cierres la página antes de establecer la conexión."</string>
+    <string name="wait_link">"Abra Mi Mover en su viejo dispositivo,
+pulse \"Soy un emisor\" y seleccione un punto de acceso para conectar.
+No cierre la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona con normalidad."</string>
