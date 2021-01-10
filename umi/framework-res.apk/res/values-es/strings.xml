@@ -184,12 +184,7 @@ Puede cambiar las funciones seleccionadas en Configuración &gt; Accesibilidad."
 Puede cambiar este acceso directo a otra función en Configuración &gt; Accesibilidad."</string>
     <string name="accessibility_shortcut_single_service_warning_title">Activar %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Para utilizar %1$s, mantén pulsadas ambas teclas de volumen durante 3 segundos</string>
-    <string name="accessibility_shortcut_toogle_warning">Si el acceso directo está activado, pulsa los dos botones de volumen durante tres segundos para iniciar una función de accesibilidad.
-
- Función de accesibilidad actual:
- %1$s
-
- Puedes cambiar la función en Ajustes &gt; Accesibilidad.</string>
+    <string name="accessibility_shortcut_toogle_warning">Cuando el acceso directo está activado, al presionar ambos botones de volumen durante 3 segundos se iniciará una función de accesibilidad.</string>
     <string name="accessibility_shortcut_warning_dialog_title">¿Utilizar acceso directo de accesibilidad?</string>
     <string name="accessibility_system_action_back_label">Atrás</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Atajo de accesibilidad</string>
