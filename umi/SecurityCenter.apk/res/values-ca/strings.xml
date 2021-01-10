@@ -2124,7 +2124,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="notification_exit_power_save_mode">S\'ha desactivat l\'estalvi de bateria</string>
     <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
     <string name="notification_garbage_clean_botton_text">Esborra</string>
-    <string name="notification_garbage_clean_botton_text_new">Serè</string>
+    <string name="notification_garbage_clean_botton_text_new">Neteja</string>
     <string name="notification_garbage_clean_hint">Netegeu l’espai d’emmagatzematge</string>
     <string name="notification_garbage_clean_hint_new">Deixeu que el dispositiu es dispari</string>
     <string name="notification_garbage_clean_size">Allibera %s</string>
