@@ -4094,7 +4094,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="media_volume_summary">Establecer volumen para música y vídeos</string>
     <string name="media_volume_title">Multimedia</string>
     <string name="megabyteShort">Mb</string>
-    <string name="megabyte_per_second">MB/s</string>
+    <string name="megabyte_per_second">Mb/s</string>
     <string name="meid_multi_sim">MEID (slot sim %1$d)</string>
     <string name="mem_details_title">Detalles de la memoria</string>
     <string name="memory">RAM</string>
