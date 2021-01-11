@@ -78,9 +78,9 @@
     <string name="cta_agree_desc">Permite a esta aplicación conectarse a Internet y otorga los permisos requeridos para poder usar todas sus funciones.</string>
     <string name="cta_confirm_cancel">"No permitir"</string>
     <string name="cta_confirm_ok">Permitir</string>
-    <string name="cta_dialog_message">Las notas necesitan permisos para conectarse a Internet, grabar audio y acceder a sus contactos para que funcionen correctamente. ¿Permitir?</string>
+    <string name="cta_dialog_message">Notas necesita permisos para conectarse a Internet, grabar audio y acceder a sus contactos para que funcionen correctamente. ¿Permitir?</string>
     <string name="cta_dialog_title">Solicitud de permiso</string>
-    <string name="cta_reminder">Esta aplicación necesita conectarse a Internet para copiar notas a Xiaomi Cloud, además de leer tus contactos para etiquetar las notas que tomas durante las llamadas.</string>
+    <string name="cta_reminder">Notas necesita permisos para conectarse a Internet, grabar audio y acceder a sus contactos para que funcionen correctamente. ¿Permitir?</string>
     <string name="cta_v2_agree_desc">Permite que esta aplicación se conecte a Internet y otorga los permisos obligatorios mencionados anteriormente.</string>
     <string name="cta_v2_app_purpose">Creando, visualizando y gestionando notas</string>
     <string name="cta_v2_app_purpose_v12">¡Bienvenido a Notas! Puedes usar esta aplicación para crear tareas y notas que contengan texto, imágenes y audio.</string>
