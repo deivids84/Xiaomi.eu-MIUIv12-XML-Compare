@@ -573,7 +573,7 @@
     <string name="summary_separator">" / "</string>
     <string name="tap_to_renew_subscription_and_connect">Toque para renovar la suscripción y conectarse</string>
     <string name="tap_to_sign_up">Toca para registrarte</string>
-    <string name="tether_settings_title_all">Anclaje de red &amp; punto de acceso portátil</string>
+    <string name="tether_settings_title_all">Compartir conexión y zona Wi-Fi</string>
     <string name="tether_settings_title_bluetooth">Compartir conexión por Bluetooth</string>
     <string name="tether_settings_title_usb">Compartir conexión por USB</string>
     <string name="tether_settings_title_usb_bluetooth">Compartir conexión</string>
