@@ -24,6 +24,10 @@
         <item quantity="one">Immediatament</item>
         <item quantity="other">Immediatament</item>
     </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d min</item>
+        <item quantity="one">d\'aquí a 1 min</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
