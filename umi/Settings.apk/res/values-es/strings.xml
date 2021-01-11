@@ -7080,7 +7080,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tether_settings_summary_usb_and_bluetooth_and_ethernet">USB, Bluetooth, Ethernet</string>
     <string name="tether_settings_summary_usb_and_ethernet">USB, Ethernet</string>
     <string name="tether_settings_summary_usb_tethering_only">Solo USB</string>
-    <string name="tether_settings_title_all">Anclaje de red y zona Wi-Fi</string>
+    <string name="tether_settings_title_all">Anclaje de red &amp; zona Wi-Fi</string>
     <string name="tether_settings_title_bluetooth">Conexión Bluetooth</string>
     <string name="tether_settings_title_usb">Conexión USB</string>
     <string name="tether_settings_title_usb_bluetooth">Anclando</string>
@@ -7088,7 +7088,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tether_share_qrcode_title">Compartir código QR</string>
     <string name="tether_use_wifi6_summary">Algunos dispositivos pueden ser incompatibles con el estándar 802.11ax. Desactive esta función si tiene problemas.</string>
     <string name="tether_use_wifi6_title">Compatible con el estándar de sexta generación</string>
-    <string name="tethering_footer_info">Utiliza el punto de acceso y la conexión mediante dispositivo portátil para compartir tu conexión a Internet con otros dispositivos a través de datos móviles.</string>
+    <string name="tethering_footer_info">Utilice el punto de acceso y la conexión compartida para que otros dispositivos puedan conectarse a Internet a través de tu conexión de datos móviles. Las aplicaciones también pueden crear un punto de acceso para compartir contenido con dispositivos cercanos.</string>
     <string name="tethering_footer_info_sta_ap_concurrency">Utilice el punto de acceso y el anclaje a red para proporcionar Internet a otros dispositivos a través de su conexión de datos móviles o Wi-Fi. Las aplicaciones también pueden crear un punto de acceso para compartir contenido con dispositivos cercanos.</string>
     <string name="tethering_hardware_offload">Acoplamiento de hardware de anclaje</string>
     <string name="tethering_hardware_offload_summary">Utilice la aceleración de hardware de anclaje si está disponible</string>
@@ -7944,7 +7944,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_ap_2G">2,4 GHz</string>
     <string name="wifi_ap_5G">5,0 GHz</string>
     <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
-    <string name="wifi_ap_band_select_one">Elija al menos una banda para el punto de acceso WLAN:</string>
+    <string name="wifi_ap_band_select_one">Elija al menos una banda para el punto de acceso Wi-Fi:</string>
     <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
     <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
     <string name="wifi_ap_choose_auto">Automático</string>
