@@ -28,6 +28,14 @@
         <item quantity="other">d\'aquí a %d min</item>
         <item quantity="one">d\'aquí a 1 min</item>
     </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 min</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
@@ -236,6 +244,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
         <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d caràcters més</item>
         <item quantity="one">    +%1$d caràcter més</item>
@@ -307,6 +319,14 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="image_protect_try_del_tips">
         <item quantity="other">Esborra %d imatges</item>
         <item quantity="one">Esborra %d imatge</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
     </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">S\'han afegit %d jocs</item>
