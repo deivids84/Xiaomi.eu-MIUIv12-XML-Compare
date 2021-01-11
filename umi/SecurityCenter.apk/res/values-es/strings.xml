@@ -2996,6 +2996,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="privacy_show_password_summary">Mostrar contraseñas durante un breve periodo de tiempo</string>
     <string name="privacy_special_permission_summary">Monitorizar cómo las aplicaciones utilizan permisos delicados</string>
     <string name="privacy_special_permission_title">Permisos especiales</string>
+    <string name="privacy_summary">Aprenda sobre la protección de la privacidad en MIUI</string>
     <string name="privacy_thumbnail_blur_category_financial">Finanzas</string>
     <string name="privacy_thumbnail_blur_category_other">Otro</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto &amp; video</string>
