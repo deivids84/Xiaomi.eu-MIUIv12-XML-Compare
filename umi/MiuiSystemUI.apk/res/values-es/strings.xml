@@ -796,6 +796,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fs_gesture_switch_recents_summary">Desliza desde abajo y para</string>
     <string name="fsg_demo_back">Atrás</string>
     <string name="fsg_demo_go_on">Aprender</string>
+    <string name="garbage_count">Hay %1$s instancias antiguas</string>
     <string name="global_action_lock_message">Desbloquea tu teléfono para más opciones</string>
     <string name="global_action_screenshot">Captura de pantalla</string>
     <string name="go_to_web">Ir a la web</string>
