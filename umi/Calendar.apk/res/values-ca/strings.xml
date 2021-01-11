@@ -842,12 +842,12 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="txt_account_exist">Aquest compte ja existeix</string>
     <string name="txt_account_name_empty">Introduïu el nom del calendari</string>
     <string name="txt_caldav_account_info_not_found">"No s'ha pogut trobar la informació del compte de CalDAV"</string>
-    <string name="txt_password">Introduïu la contrasenya</string>
+    <string name="txt_password">Contrasenya</string>
     <string name="txt_server_url">Adreça del servidor</string>
     <string name="unsubscribe_card">Cancel·la la subscripció</string>
     <string name="unsubscribe_card_success">S\'ha cancel·lat la subscripció de \"%1$s\" amb èxit</string>
     <string name="unsubscribing_card">Cancel·la la subscripció</string>
-    <string name="user_notice_button_exit">Surt</string>
+    <string name="user_notice_button_exit">Cancel·la</string>
     <string name="user_notice_button_ok">D\'acord</string>
     <string name="user_notice_message">Heu d’acceptar el nostre %1$s i %2$s abans d’utilitzar el Calendari. Per tal de proporcionar dades exactes sobre els festius locals, aniversaris, reemborsaments de targetes de crèdit i viatges previstos, el Calendari ha d’accedir a la vostra ubicació, contactes i missatges, així com connectar-se a Internet. Hi esteu d\'acord?</string>
     <string name="user_notice_title">Atenció</string>
