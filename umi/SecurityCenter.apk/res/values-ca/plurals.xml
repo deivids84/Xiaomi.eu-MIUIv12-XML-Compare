@@ -432,6 +432,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">%d dies des de l\'última comprovació</item>
         <item quantity="one">%d dia des de l\'última comprovació</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicacions bloquejades</item>
         <item quantity="one">%d aplicació bloquejada</item>
