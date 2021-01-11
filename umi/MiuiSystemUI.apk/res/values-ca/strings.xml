@@ -797,6 +797,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="fs_gesture_switch_recents_summary">Llisqueu des de baix i espereu un segon</string>
     <string name="fsg_demo_back">Enrere</string>
     <string name="fsg_demo_go_on">Continua</string>
+    <string name="garbage_count">Hi ha %1$s instàncies antigues</string>
     <string name="global_action_lock_message">Desbloqueja el telèfon per obtenir més opcions</string>
     <string name="global_action_screenshot">Captura de pantalla</string>
     <string name="go_to_web">Aneu al navegador</string>
@@ -1195,6 +1196,7 @@ d MMMM"</string>
     <string name="media_transfer_this_device_name">Aquest dispositiu</string>
     <string name="media_transfer_wired_device_name">Dispositiu d\'àudio per cable</string>
     <string name="media_transfer_wired_usb_device_name">Auriculars per cable</string>
+    <string name="memory_leak">Pèrdua de memòria</string>
     <string name="menu_ime">Commutador de teclat</string>
     <string name="mic_active">Micròfon actiu</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">S\'ha desblocat per un dispositiu Bluetooth</string>
