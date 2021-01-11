@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ANT_set_title">establir formiga</string>
+    <string name="ANT_set_title">establir ant</string>
     <string name="DSI_configuration_set">estableix el DSI</string>
     <string name="DSI_setting">DSI</string>
     <string name="DSI_value_get">obtenir DSI</string>
