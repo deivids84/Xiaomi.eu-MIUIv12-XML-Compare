@@ -42,7 +42,7 @@
     <string name="action_nothing">esperant el resultat de la prova</string>
     <string name="add">Afegeix</string>
     <string name="allow_gpu_maxfreq_summary">El mode experimental de sobrefreq de la GPU podria introduir problemes de consum o problemes encara més greus. Tanmateix, es restauraran un cop desactivat aquest mode. Vols activar el mode maxfreq de la GPU?</string>
-    <string name="ant_setting">formiga</string>
+    <string name="ant_setting">ant</string>
     <string name="audio_spk_cal_wait">Calibratge...</string>
     <string name="audio_spk_def">Calibreu dels altaveus</string>
     <string name="back_mic_check_record_tip">Enregistrament, digueu alguna cosa al MIC a la part posterior del telèfon</string>
