@@ -95,6 +95,7 @@
     <string name="action_button_text_80_100">Optimitza</string>
     <string name="action_source_call_title">Trucades bloquejades</string>
     <string name="action_source_sms_title">Missatges bloquejats</string>
+    <string name="actionbar_button_up_description">Enrere</string>
     <string name="activity_title_antispam">Llista de bloqueig</string>
     <string name="activity_title_antivirus">Escaneig de seguretat</string>
     <string name="activity_title_apps_manager">Aplicacions</string>
@@ -116,6 +117,7 @@
     <string name="activity_title_virus_settings">Configuració</string>
     <string name="activity_title_white_list">Excepcions</string>
     <string name="ad_btn_default_text">Més informació</string>
+    <string name="ad_floating_window_title">Tanqueu la finestra flotant per desbloquejar-la</string>
     <string name="ad_split_screen_title">Sortiu de la Pantalla dividida per desbloquejar</string>
     <string name="ad_update_time">Última actualització: %s</string>
     <string name="ad_update_time_unKnown">Última actualització desconeguda</string>
@@ -143,6 +145,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
     <string name="adjust_traffic_data">Estableix l\'ús de dades</string>
     <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
+    <string name="afternoon">Tarda</string>
     <string name="ai_allow_all">Decideix per mi en tots els casos</string>
     <string name="alert_back_diving_mode_summary">Voleu desactivar el mode Immersió?</string>
     <string name="alert_back_diving_mode_title">Mode Immersió</string>
@@ -151,6 +154,7 @@
     <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
     <string name="allow_all">Permet-ho tot</string>
     <string name="already_close_gamebooster">L\'accelerador de velocitat dels jocs està desactivat</string>
+    <string name="am">am</string>
     <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
     <string name="anti_disturb_msg_title">No molestar</string>
     <string name="antispam_mms_text">Establiu Missatgeria com a aplicació de missatgeria SMS per defecte per poder veure els missatges bloquejats</string>
@@ -851,6 +855,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="cleaned">Esborrat</string>
     <string name="clear_garbage">Esborra la brossa per alliberar espai</string>
     <string name="clear_immediately">Neteja-ho ara</string>
+    <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="close_callwait">Desactivat</string>
     <string name="cmcc_app_check_dialog_message">Reinicieu el dispositiu per completar la reparació.</string>
@@ -929,6 +934,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="data_usage_warning_title_notify">Heu superat el límit de dades</string>
     <string name="databooster_tips_message">Activeu-ho per restringir totes les targetes SIM, excepte la targeta de dades. Desactiveu aquesta funció si es produeixen errors en els jocs que trieu.</string>
     <string name="databooster_tips_title">Atenció</string>
+    <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="day_overflow_tips">Advertiment diari d\'ús de dades</string>
     <string name="debug_open_final_tip">Vols activar la depuració USB?</string>
     <string name="debug_open_title">Aquesta funció està pensada per a desenvolupadors i és possible que no sigui convenient pels usuaris en general. Si activeu la depuració USB, podríeu provocar els canvis següents:</string>
@@ -1018,6 +1024,10 @@ S'afegirà a les excepcions, però els elements bloquejats prèviament no aparei
     <string name="dlg_no_block_ok">Desbloqueja</string>
     <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
     <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
+    <string name="dlg_onlie_service_summary">Si desactiveu els serveis en línia, algunes de les funcions de l\'aplicació no estaran disponibles. Voleu desactivar-ho igualment?</string>
+    <string name="dlg_open_online_service_pos_text">Activa</string>
+    <string name="dlg_open_online_service_summary">"Algunes funcions no estaran disponibles quan els serveis en línia estiguin desactivats. Voleu activar els serveis en línia ara?"</string>
+    <string name="dlg_open_online_service_title">Serveis en línia</string>
     <string name="dlg_remove_address_blacklist">Voleu suprimir aquesta ubicació de la llista de bloqueig?</string>
     <string name="dlg_remove_address_whitelist">Voleu suprimir aquesta ubicació de les excepcions?</string>
     <string name="dlg_remove_blacklist">Voleu suprimir aquests números de la llista de bloqueig?</string>
@@ -1053,6 +1063,7 @@ S'afegirà a les excepcions, però els elements bloquejats prèviament no aparei
     <string name="doze_optimization_title">Controls tàctils optimitzats</string>
     <string name="dual_setting_simcard1">SIM 1 </string>
     <string name="dual_setting_simcard2">SIM 2 </string>
+    <string name="early_morning">Matí</string>
     <string name="email">Correu electrònic</string>
     <string name="empty_app">No hi ha aplicacions</string>
     <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
@@ -1064,6 +1075,9 @@ S'afegirà a les excepcions, però els elements bloquejats prèviament no aparei
     <string name="empty_title_root_apps">Cap aplicació té accés root</string>
     <string name="enable_extreme_power_save_mode">Estalvi extrem de bateria</string>
     <string name="enable_network">Primer activa la xarxa</string>
+    <string name="eras_ad">d.C.</string>
+    <string name="eras_bc">a.C.</string>
+    <string name="evening">Tarda</string>
     <string name="every_day">Cada dia</string>
     <string name="ew_alert_arrive_location">L’onada sísmica va arribar a %s</string>
     <string name="ew_alert_dial_text">"Truca al contacte
