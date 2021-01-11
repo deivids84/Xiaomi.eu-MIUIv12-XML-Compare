@@ -317,8 +317,13 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="fast_connect_device_title_connecting">S\'està connectant…</string>
     <string name="fast_connect_device_title_find_headset">Troba %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">"Sembla que aquest dispositiu no és el vostre: %1$s"</string>
+    <string name="fast_connect_new_feture_anti_lost">Anti pèrdua</string>
+    <string name="fast_connect_new_feture_same_account">El mateix compte sense emparellar</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Normalitzador de so</string>
+    <string name="fast_connect_new_feture_title">Noves funcionalitats</string>
     <string name="fast_connect_nzbt_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
     <string name="fast_connect_reset_common">Restabliu aquest dispositiu per poder-lo vincular</string>
+    <string name="fast_connect_same_accout_devices_title">Aquest és l\'altre dispositiu connectat: %1$s</string>
     <string name="fast_connect_wbs_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
     <string name="feiyu_vlog_name">Feiyu VLOG de butxaca</string>
     <string name="force_allow_on_external">Força que les aplicacions puguin escriure en emmagatzematge extern</string>
