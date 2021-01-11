@@ -2074,7 +2074,7 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_connected_mac_randomization">Aleatorización de MAC conectada</string>
     <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
     <string name="wifi_coverage_extend">Activar extensión de cobertura Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Amplía la cobertura Wi-Fi usando un punto de acceso</string>
+    <string name="wifi_coverage_extend_summary">Amplíe la cobertura WLAN usando un punto de acceso</string>
     <string name="wifi_debugging_allow">Permitir</string>
     <string name="wifi_debugging_always">Permitir siempre en esta red</string>
     <string name="wifi_debugging_message">"Nombre de red (SSID)
