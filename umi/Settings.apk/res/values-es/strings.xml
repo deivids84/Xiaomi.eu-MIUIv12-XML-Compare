@@ -7071,7 +7071,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tether_settings_summary_hotspot_and_usb">Punto de acceso, USB</string>
     <string name="tether_settings_summary_hotspot_and_usb_and_bluetooth">Punto de acceso, USB, Bluetooth</string>
     <string name="tether_settings_summary_hotspot_and_usb_and_ethernet">Punto de acceso, USB, Ethernet</string>
-    <string name="tether_settings_summary_hotspot_off_tether_on">Conexión mediante dispositivo portátil</string>
+    <string name="tether_settings_summary_hotspot_off_tether_on">Anclaje a red</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Punto de acceso activado</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">Zona Wi-Fi activada, conexión compartida</string>
     <string name="tether_settings_summary_hotspot_only">Sólo punto de acceso</string>
@@ -8176,12 +8176,12 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_hotspot_connect">CONECTAR</string>
     <string name="wifi_hotspot_footer_info_local_only">Las aplicaciones pueden crear un punto de acceso para compartir contenido con dispositivos cercanos.</string>
     <string name="wifi_hotspot_footer_info_regular">Use el punto de acceso para crear una red Wi-Fi para sus otros dispositivos. Punto de acceso proporciona Internet mediante su conexión de datos móviles. Es posible que se apliquen costes de datos adicionales.</string>
-    <string name="wifi_hotspot_message">%1$s requiere que inicies sesión para conectarte.</string>
+    <string name="wifi_hotspot_message">%1$s requiere que inicie sesión antes de conectarse a la red.</string>
     <string name="wifi_hotspot_name_summary_connected">Otros dispositivos pueden conectarse a %1$s</string>
     <string name="wifi_hotspot_name_summary_connecting">Encendiendo %1$s ...</string>
     <string name="wifi_hotspot_name_title">Nombre del punto de acceso</string>
     <string name="wifi_hotspot_no_password_subtext">Sin contraseña establecida</string>
-    <string name="wifi_hotspot_off_subtext">No se comparte la conexión a Internet del teléfono mediante un punto de acceso</string>
+    <string name="wifi_hotspot_off_subtext">No se está compartiendo la conexión a Internet ni el contenido con otros dispositivos</string>
     <string name="wifi_hotspot_on_local_only_subtext">La aplicación está compartiendo contenido. Para compartir la conexión a Internet, apague el punto de acceso y luego enciéndalo.</string>
     <string name="wifi_hotspot_password_title">Contraseña de punto de acceso</string>
     <string name="wifi_hotspot_tethering_on_subtext">Compartir la conexión a Internet de este teléfono a través de un punto de acceso</string>
