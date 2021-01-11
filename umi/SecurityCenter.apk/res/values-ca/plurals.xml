@@ -328,6 +328,14 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="one">D\'aquí a mitja hora</item>
         <item quantity="other">D\'aquí a mitja hora</item>
     </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 minut</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
