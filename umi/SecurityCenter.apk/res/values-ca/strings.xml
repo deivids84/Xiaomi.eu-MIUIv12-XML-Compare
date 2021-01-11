@@ -2995,7 +2995,6 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="privacy_show_password_summary">Manteniu les contrasenyes visibles durant poc temps</string>
     <string name="privacy_special_permission_summary">Superviseu com les aplicacions utilitzen permisos delicats</string>
     <string name="privacy_special_permission_title">Permisos especials</string>
-    <string name="privacy_summary">Obteniu informació sobre la protecció de la privadesa a MIUI 12</string>
     <string name="privacy_thumbnail_blur_category_financial">Finances</string>
     <string name="privacy_thumbnail_blur_category_other">Altres</string>
     <string name="privacy_thumbnail_blur_category_photography">Vídeo de la foto &amp;</string>
