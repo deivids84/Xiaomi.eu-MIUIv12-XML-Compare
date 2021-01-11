@@ -8687,7 +8687,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="zen_mode_custom_behavior_summary">Crear opciones de configuración personalizadas para esta programación</string>
     <string name="zen_mode_custom_behavior_summary_default">Usar configuración predeterminada</string>
     <string name="zen_mode_custom_behavior_title">Comportamiento del modo No molestar</string>
-    <string name="zen_mode_custom_calls_footer">Las llamadas entrantes se bloquean en la programación \"%1$s\". Cambia los ajustes para que tus amigos, familiares u otros puedan contactar contigo.</string>
+    <string name="zen_mode_custom_calls_footer">Las llamadas entrantes de ‘%1$s’ están bloqueadas. Puedes ajustar la configuración para permitir que tus amigos, familiares u otros contactos se pongan en contacto contigo.</string>
     <string name="zen_mode_custom_messages_footer">Los mensajes entrantes se bloquean en la programación \"%1$s\". Cambia los ajustes para que tus amigos, familiares u otros puedan contactar contigo.</string>
     <string name="zen_mode_delete_automatic_rules">Eliminar programaciones</string>
     <string name="zen_mode_delete_rule">Eliminar regla</string>
@@ -8839,7 +8839,7 @@ Ten en cuenta que se seguirán mostrando las notificaciones importantes sobre el
     <string name="zen_mode_when_every_night">Todas las noches</string>
     <string name="zen_mode_when_never">Nunca</string>
     <string name="zen_mode_when_weeknights">Noches entre semana</string>
-    <string name="zen_msg_event_reminder_footer">Cuando el modo No molestar esté activado, los mensajes, recordatorios y eventos se silenciarán, excepto los que permitas más arriba. Ajusta la configuración de los mensajes para que tus amigos, familiares u otras personas puedan ponerse en contacto contigo.</string>
+    <string name="zen_msg_event_reminder_footer">Cuando el modo No molestar esté activado, los mensajes, recordatorios y eventos se silenciarán, excepto los que permitas más arriba. Ajuste la configuración de los mensajes para que sus amigos, familiares u otras personas puedan ponerse en contacto contigo.</string>
     <string name="zen_msg_event_reminder_title">Mensajes, eventos y recordatorios</string>
     <string name="zen_onboarding_current_setting_summary">(Configuración actual)</string>
     <string name="zen_onboarding_current_setting_title">Notificaciones sin sonido</string>
