@@ -794,11 +794,11 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="too_long_name">El nom és massa llarg</string>
     <string name="train_detail_title">Itinerari del tren</string>
     <string name="train_event_add_arrive_station">Toqueu per afegir una destinació</string>
-    <string name="train_event_arrive">Arriba en %1$s</string>
-    <string name="train_event_arrive_station_saved">S\'ha desat correctament el destí</string>
-    <string name="train_event_choose_arrive_station">Seleccioneu el destí</string>
-    <string name="train_event_delete_successfully">S\'ha esborrat correctament l\'itinerari de tren</string>
-    <string name="train_event_depart">Surt a %1$s</string>
+    <string name="train_event_arrive">Arriba a les %1$s</string>
+    <string name="train_event_arrive_station_saved">La destinació s\'ha desat correctament</string>
+    <string name="train_event_choose_arrive_station">Seleccioneu la destinació</string>
+    <string name="train_event_delete_successfully">S\'ha suprimit l\'itinerari del tren correctament</string>
+    <string name="train_event_depart">Surt a les %1$s</string>
     <string name="train_event_disclaimer">"Descàrrec: Tota la informació relativa a trens i serveis ve de l'empresa ferroviària. Podeu contactar amb els serveis d'atenció al client de l'empresa ferroviària si teniu qualsevol dubte. La informació ferroviària proporcionada només és de referència. Adreceu-vos a la pàgina web oficial de l'empresa ferroviària per conèixer les darreres correccions i actualitzacions."</string>
     <string name="train_event_error_toast">"No s'ha pogut pujar la informació"</string>
     <string name="train_event_error_train_info">"No s'ha pogut comprovar el bitllet"</string>
