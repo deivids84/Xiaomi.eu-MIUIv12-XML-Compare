@@ -41,7 +41,7 @@
     <string name="abc_slices_permission_request">%1$s quiere mostrar %2$s rebanadas</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_ad_service_instructions">Acerca de los servicios de publicidad y privacidad</string>
-    <string name="about_phone_device_name_warning">El nombre de tu dispositivo es visible para las aplicaciones de tu teléfono. Otras personas pueden verlo cuando se conectan a dispositivos Bluetooth o configura un punto de acceso Wi-Fi.</string>
+    <string name="about_phone_device_name_warning">El nombre de su dispositivo es visible para sus aplicaciones. Otras personas pueden verlo cuando se conecten a dispositivos Bluetooth o configuren un punto de acceso Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Más información</string>
     <string name="about_settings">Sobre el teléfono</string>
     <string name="about_settings_summary">Ver información legal, estado, versión del software</string>
@@ -1593,7 +1593,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="change_security_lock">Probar otras formas de desbloqueo</string>
     <string name="change_storage">Cambiar almacenamiento</string>
     <string name="change_theme_reboot">Cambiar el tema requiere un reinicio.</string>
-    <string name="change_wifi_state_app_detail_summary">Permita que esta aplicación active o desactive la WLAN, escanee y se conecte a las redes WLAN, agregue o elimine redes o inicie un punto de acceso solo local</string>
+    <string name="change_wifi_state_app_detail_summary">Permita que esta aplicación active o desactive la WLAN, escanee y se conecte a las redes WLAN, agregue o elimine redes o inicie un punto de acceso local</string>
     <string name="change_wifi_state_app_detail_switch">Permitir que la aplicación controle el Wi-Fi</string>
     <string name="change_wifi_state_title">Control de Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">A su solicitud, Android está bloqueando la aparición de este grupo de notificaciones en este dispositivo.</string>
@@ -2088,7 +2088,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="data_usage_metered_no">No medido</string>
     <string name="data_usage_metered_title">Restricciones de red</string>
     <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Para seleccionar puntos de acceso, encienda WLAN.</string>
+    <string name="data_usage_metered_wifi_disabled">Para seleccionar puntos de acceso, encienda Wi-Fi.</string>
     <string name="data_usage_metered_yes">Medido</string>
     <string name="data_usage_ota">Actualizaciones del sistema</string>
     <string name="data_usage_other_apps">Otras aplicaciones incluidas en el uso</string>
@@ -7073,7 +7073,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tether_settings_summary_hotspot_and_usb_and_ethernet">Punto de acceso, USB, Ethernet</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Conexión mediante dispositivo portátil</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Punto de acceso activado</string>
-    <string name="tether_settings_summary_hotspot_on_tether_on">Punto de acceso activado, conexión mediante dispositivo portátil</string>
+    <string name="tether_settings_summary_hotspot_on_tether_on">Zona Wi-Fi activada, conexión compartida</string>
     <string name="tether_settings_summary_hotspot_only">Sólo punto de acceso</string>
     <string name="tether_settings_summary_off">No compartir internet con otros dispositivos</string>
     <string name="tether_settings_summary_usb_and_bluetooth">USB, Bluetooth</string>
@@ -8169,7 +8169,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_hide_password">Ocultar contraseña</string>
     <string name="wifi_hotspot_ap_band_title">Banda AP</string>
     <string name="wifi_hotspot_auto_off_summary">El punto de acceso WLAN se apagará si no hay dispositivos conectados</string>
-    <string name="wifi_hotspot_auto_off_title">Apague el punto de acceso automáticamente</string>
+    <string name="wifi_hotspot_auto_off_title">Desactivar el punto de acceso automáticamente</string>
     <string name="wifi_hotspot_checkbox_text">Punto de acceso Wi-Fi</string>
     <string name="wifi_hotspot_configure_ap_text">Configuración del punto de acceso Wi-Fi</string>
     <string name="wifi_hotspot_configure_ap_text_summary">Punto de acceso AndroidAP WPA2 PSK</string>
