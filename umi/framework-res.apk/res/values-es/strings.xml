@@ -1641,7 +1641,7 @@ Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar t
     <string name="tethered_notification_multi_device_message">%1$s dispositivos conectados</string>
     <string name="tethered_notification_no_device_message">No hay dispositivos conectados</string>
     <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
-    <string name="tethered_notification_title">Compartir conexión/Zona Wi-Fi activada</string>
+    <string name="tethered_notification_title">Compartir conexión o zona Wi-Fi activa</string>
     <string name="textSelectionCABTitle">Selección de texto</string>
     <string name="text_copied">Texto copiado al portapapeles.</string>
     <string name="time_picker_decrement_hour_button">Reducir horas</string>
