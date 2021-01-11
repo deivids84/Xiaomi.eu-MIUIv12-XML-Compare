@@ -37,7 +37,7 @@
     <string name="abc_searchview_description_voice">Cerca per veu</string>
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
-    <string name="abc_toolbar_collapse_description">Contrau</string>
+    <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="action_example">Acció d\'exemple</string>
     <string name="action_nothing">esperant el resultat de la prova</string>
     <string name="add">Afegeix</string>
