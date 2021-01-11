@@ -352,6 +352,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">%s minuts</item>
         <item quantity="one">%s minut</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Connecteu almenys %d punts</item>
         <item quantity="one">Connecteu almenys %d punt</item>
@@ -387,6 +391,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">%d actualitzacions disponibles</item>
         <item quantity="one">%d actualització disponible</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
     </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Introduïu almenys %d caràcters</item>
