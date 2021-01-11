@@ -927,7 +927,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="mediasize_na_tabloid">Tabloide</string>
     <string name="mediasize_unknown_landscape">Cualquier tamaño horizontal</string>
     <string name="mediasize_unknown_portrait">Cualquier tamaño vertical</string>
-    <string name="megabyteShort">MB</string>
+    <string name="megabyteShort">Mb</string>
     <string name="meid">MEID</string>
     <string name="menu_alt_shortcut_label">Alt +</string>
     <string name="menu_ctrl_shortcut_label">Ctrl +</string>
