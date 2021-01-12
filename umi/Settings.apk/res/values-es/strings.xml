@@ -3615,6 +3615,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="launch_wechat_scanner">Escáner WeChat</string>
     <string name="launch_wifi_text">Ver detalles</string>
     <string name="launcher_icon">Iconos</string>
+    <string name="launcher_icon_management">Administrar accesos directos de la pantalla de inicio</string>
     <string name="launcher_title">Pantalla de inicio y Recientes</string>
     <string name="launching_cit">Iniciando CIT</string>
     <string name="launching_pho">Iniciando la información del teléfono…</string>
@@ -6976,6 +6977,9 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="switchNetworkToast">La conexión a redes móviles puede generar tarifas adicionales</string>
     <string name="switch_access_service_on">Cambio de acceso</string>
     <string name="switch_bootup_sound">Sonido de arranque</string>
+    <string name="switch_headset_anti_lost">Alerta de perdida de auricular</string>
+    <string name="switch_headset_anti_lost_summary">Reciba una alerta cada vez que uno de sus auriculares esté lejos de su oído o del estuche de carga durante más de un minuto</string>
+    <string name="switch_headset_anti_lost_title">Alerta de perdida de auricular</string>
     <string name="switch_off_text">Desactivado</string>
     <string name="switch_on_text">Activado</string>
     <string name="switch_screen_button_order">Invertir botones</string>
@@ -8144,6 +8148,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Evitar conexiones débiles</string>
+    <string name="wifi_enhanced_handover_summary">Cambie rápidamente entre AP con el mismo método de cifrado</string>
     <string name="wifi_enhanced_mac_randomization">Aleatorización MAC mejorada por Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Cuando este modo está habilitado, la dirección MAC de este dispositivo puede cambiar cada vez que se conecta a una red que tiene habilitada la aleatorización de MAC.</string>
     <string name="wifi_error">error</string>
