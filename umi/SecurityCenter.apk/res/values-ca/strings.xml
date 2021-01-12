@@ -2072,6 +2072,12 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="month_april">Abril</string>
     <string name="month_april_short">Abr.</string>
     <string name="month_april_shortest">abr.</string>
+    <string name="month_august">Agost</string>
+    <string name="month_august_short">Ag.</string>
+    <string name="month_august_shortest">ag.</string>
+    <string name="month_december">Desembre</string>
+    <string name="month_december_short">Des.</string>
+    <string name="month_december_shortest">des.</string>
     <string name="more_game">Més jocs</string>
     <string name="more_lock">Més</string>
     <string name="more_settings">Més</string>
