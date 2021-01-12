@@ -2069,6 +2069,9 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="monitor_app_add">afegeix</string>
     <string name="monitor_app_more">Més</string>
     <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
+    <string name="month_april">Abril</string>
+    <string name="month_april_short">Abr.</string>
+    <string name="month_april_shortest">abr.</string>
     <string name="more_game">Més jocs</string>
     <string name="more_lock">Més</string>
     <string name="more_settings">Més</string>
