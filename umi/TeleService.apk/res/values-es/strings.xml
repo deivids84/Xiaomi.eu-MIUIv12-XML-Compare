@@ -1481,6 +1481,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="onscreenShowDialpadText">Teclado de marcado</string>
     <string name="onscreenSwapCallsText">Intercambiar</string>
     <string name="onscreenVideoCallText">Videollamada</string>
+    <string name="open_miui">Encender</string>
     <string name="opened_dual_4g_confirm_prompt">Parece que tienes una tarjeta SIM que solo soporta 4G. El 4G dual fue activado automáticamente.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">La tarjeta SIM %1$s solo soporta 4G. Para asegurar que tu tarjeta SIM funciona con normalidad se ha activado el 4G dual.</string>
     <string name="operator">Operadora</string>
@@ -2316,6 +2317,7 @@ Esta tablet no cuenta con un altavoz. Puedes cambiar al modo manos libres o usar
     <string name="voicemail_provider">Servicio</string>
     <string name="voicemail_provider_summary">Selecciona un servicio de buzón de voz</string>
     <string name="voicemail_set_pin_dialog_title">Configurar PIN</string>
+    <string name="voicemail_settings">Ajustes del correo de voz</string>
     <string name="voicemail_settings_number_hint">Introduce el número del buzón de voz</string>
     <string name="voicemail_settings_number_label">Número del buzón de voz</string>
     <string name="voicemail_settings_number_title">Número del buzón de voz</string>
