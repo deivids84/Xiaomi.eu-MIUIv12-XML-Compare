@@ -362,7 +362,6 @@ y ajusta las preferencias automáticamente"</string>
     <string name="cannot_connect_camera_twice">"Todavía no se puede acceder a la cámara. Prueba a reiniciar el dispositivo."</string>
     <string name="cannot_move_warning_message">Al hacer fotos, no muevas el dispositivo</string>
     <string name="capture_back_pressed_hint">Toca de nuevo para salir</string>
-    <string name="capture_shortcut_long">Selfie</string>
     <string name="capture_shortcut_short">Selfie</string>
     <string name="ccc_temperature_warning_msg">Su dispositivo está sobrecalentado. La cámara se cerrará en %d segundos. Tus fotos o videos se guardarán automáticamente.</string>
     <string name="ccc_temperature_warning_title">El dispositivo está sobrecalentado</string>
@@ -471,8 +470,6 @@ y ajusta las preferencias automáticamente"</string>
     <string name="dialog_ok_time">Aceptar (%ds)</string>
     <string name="dirty_tip_toast">Las lentes están sucias. Límpialas.</string>
     <string name="do_not_remind_me">"No mostrar de nuevo"</string>
-    <string name="doc_shortcut_long">Documentos</string>
-    <string name="doc_shortcut_short">Documentos</string>
     <string name="document_blackwhite">B/N</string>
     <string name="document_blur_warn">El texto está borroso</string>
     <string name="document_mode_use_hint_text_body">"Alinee y mejore
@@ -553,8 +550,6 @@ documentos escaneados automáticamente"</string>
     <string name="fastmotion_pro_save_time_infinity">Duración ilimitada</string>
     <string name="fastmotion_pro_save_time_min_and_sec">Duración: %1$s %2$s</string>
     <string name="fastmotion_pro_save_time_min_or_sec">Duración： %1$s</string>
-    <string name="film_timefreeze">dar propina</string>
-    <string name="film_timefreeze_reset">restablecimiento de la punta</string>
     <string name="fps960_toast">La captura en cámara lenta comenzará en el último cuarto de la grabación.</string>
     <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="front_camera_hint_text_place">"Hacer selfies será más fácil
@@ -870,7 +865,6 @@ parezcan más grandes en las fotos"</string>
     <string name="parameter_peak_raw_title">Formato RAW</string>
     <string name="parameter_wb_description">Además de los preajustes de balance de blancos (incandescente, luz diurna, fluorescente, nublado), también puede configurar el balance de blancos en un valor personalizado dentro del rango de 2000–8000 Kelvin.</string>
     <string name="parameter_wb_title">Balance de blancos</string>
-    <string name="parameter_zoom_slider_description">Arrastre el control deslizante del zoom hacia arriba y hacia abajo para cambiar su toma sin problemas de una toma larga a un primer plano.</string>
     <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Aplicaciones del sistema/Cámara/Ajustes</string>
     <string name="photo_assistance_tips_title">Consejos en vivo</string>
@@ -918,7 +912,6 @@ y resalta las personas en primer plano."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Prueba el modo Retrato. 
 Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_960_watermark_title">Marca de agua 960FPS</string>
-    <string name="pref_a_c_f">Mapa</string>
     <string name="pref_advance_settings">Ajustes adicionales</string>
     <string name="pref_ai_detect">Detección con IA</string>
     <string name="pref_audio_denoise_title">Reducción de ruido de audio</string>
@@ -1179,7 +1172,6 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_customization_title">Personalizar</string>
     <string name="pref_document_mode">Documentos</string>
     <string name="pref_dual_camera_video">Vídeo dual</string>
-    <string name="pref_e_p_k">azul</string>
     <string name="pref_face_beauty_title">Modo belleza</string>
     <string name="pref_fingerprint_capture_title">Obturador con huella dactilar</string>
     <string name="pref_front_denoise_summary">Reducir los ruidos generados detrás de la cámara frontal</string>
@@ -1273,7 +1265,6 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="preparing_sd">Comprobando tarjeta SD…</string>
     <string name="preview_back_pressed_hint">Toque de nuevo para volver a la vista previa</string>
     <string name="pro_color_mode">Pro color</string>
-    <string name="professional_shortcut_long">Pro</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Prueba el modo macro</string>
     <string name="recommend_portrait">Prueba el modo retrato</string>
@@ -1424,7 +1415,6 @@ con mayor detalle"</string>
     <string name="video_effect_entry_summer_day">Verano</string>
     <string name="video_effect_entry_wind_sing">Brisa</string>
     <string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
-    <string name="video_shortcut_long">Vídeo</string>
     <string name="video_shortcut_short">Vídeo</string>
     <string name="video_tag_flag_title">Etiqueta</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
