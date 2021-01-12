@@ -8148,6 +8148,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Evitar conexiones débiles</string>
+    <string name="wifi_enhanced_handover">Entrega mejorada</string>
     <string name="wifi_enhanced_handover_summary">Cambie rápidamente entre AP con el mismo método de cifrado</string>
     <string name="wifi_enhanced_mac_randomization">Aleatorización MAC mejorada por Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Cuando este modo está habilitado, la dirección MAC de este dispositivo puede cambiar cada vez que se conecta a una red que tiene habilitada la aleatorización de MAC.</string>
