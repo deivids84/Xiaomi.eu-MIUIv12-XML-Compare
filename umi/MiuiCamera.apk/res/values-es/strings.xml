@@ -470,12 +470,14 @@ y ajusta las preferencias automáticamente"</string>
     <string name="cta_mimoji_msg">¡Bienvenido a Fun Cam! Puede usar esta aplicación para tomar fotos y grabar videos. Para poder funcionar normalmente, esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para recopilar su información personal:</string>
     <string name="cta_mimoji_perm_type">Permisos obligatorios (utilizados para funciones y servicios básicos de esta aplicación)</string>
     <string name="cta_mimoji_user_links"><Data>Lea y acepte nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación.</Data></string>
+    <string name="cta_mimoji_user_tips">"Si no acepta otorgar permisos obligatorios o compartir y cargar su información personal, no podrá usar esta aplicación. Si no otorga permisos opcionales, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o retirar su consentimiento en la Configuración."</string>
     <string name="cta_msg">¡Bienvenido a Cámara! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos opcionales:</string>
     <string name="cta_perm_cam">Usar la cámara</string>
     <string name="cta_perm_cam_desc">Para tomar fotos</string>
     <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
     <string name="cta_perm_loc">Ubicación</string>
     <string name="cta_perm_storage">Acceder a las fotos en este dispositivo</string>
+    <string name="cta_perm_storage_desc">Para ver y guardar fotos</string>
     <string name="cta_perm_type">"Permisos opcionales (Usados para funciones adicionales mientras las estés usando)"</string>
     <string name="cta_perm_voice">Usar micrófono</string>
     <string name="cta_perm_voice_desc">Para grabar audio mientras se toman videos</string>
@@ -514,6 +516,20 @@ documentos escaneados automáticamente"</string>
     <string name="dolly_zoom_capture_tip1">Coloque el sujeto en el marco y mantenga el dispositivo al menos a %d metros de distancia</string>
     <string name="dolly_zoom_capture_tip2">Aleje el dispositivo del sujeto de manera constante</string>
     <string name="dolly_zoom_capture_tip3">Perdió la pista del sujeto. Comience de nuevo.</string>
+    <string name="dolly_zoom_capture_tip4">Movió el dispositivo demasiado lejos. Comience de nuevo.</string>
+    <string name="dolly_zoom_capture_tip5">"No se pudo guardar el video"</string>
+    <string name="dolly_zoom_guide_tip1">"Asegúrese de que haya suficiente espacio entre el sujeto y el fondo."</string>
+    <string name="dolly_zoom_guide_tip10">¡Y más!</string>
+    <string name="dolly_zoom_guide_tip2">Trate de evitar grandes áreas de color sólido.</string>
+    <string name="dolly_zoom_guide_tip3">Coloque al sujeto en el marco.</string>
+    <string name="dolly_zoom_guide_tip4">Pídale que no se mueva.</string>
+    <string name="dolly_zoom_guide_tip5">Recuerde mantener al sujeto dentro del encuadre mientras dispara.</string>
+    <string name="dolly_zoom_guide_tip6">Aleje el dispositivo del sujeto de manera constante.</string>
+    <string name="dolly_zoom_guide_tip7">Pasillos.</string>
+    <string name="dolly_zoom_guide_tip8">Escalera.</string>
+    <string name="dolly_zoom_guide_tip9">Callejones.</string>
+    <string name="dolly_zoom_guide_video_title1">Zoom mágico</string>
+    <string name="dolly_zoom_guide_video_title2">Escenas</string>
     <string name="download_cancel_hint">¿Cancelar descarga %1$s?</string>
     <string name="download_confirm">Descargar</string>
     <string name="download_hint">Se utilizarán %1$s MB de datos móviles para descargar elementos. Descargar de todos modos?</string>
