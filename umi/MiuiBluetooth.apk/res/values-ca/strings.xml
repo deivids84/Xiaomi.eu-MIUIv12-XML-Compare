@@ -357,6 +357,8 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="headset_fw_error_failed">"No es pot actualitzar. La informació del microprogramari és incorrecta."</string>
     <string name="headset_fw_file_position_failed">"No s'ha pogut accedir al fitxer"</string>
     <string name="headset_fw_file_readfailed">"No s'ha pogut obtenir la informació de l'actualització"</string>
+    <string name="headset_loss_notify_summary">Sembla que almenys un dels auriculars no es troba a l\'estoig de càrrega. Doneu una ullada al voltant!</string>
+    <string name="headset_loss_notify_title">Alerta de pèrdua d\'auricular</string>
     <string name="headset_read_fw_state">"No s'ha pogut obtenir la informació de l'actualització"</string>
     <string name="headset_update_failed">"No s'ha pogut actualitzar"</string>
     <string name="headset_update_ok">Fet</string>
