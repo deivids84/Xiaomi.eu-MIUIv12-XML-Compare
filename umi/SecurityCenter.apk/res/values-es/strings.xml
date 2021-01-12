@@ -1357,6 +1357,11 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="fixed_cellular_data_quota_monthly">Límite de datos mensual</string>
     <string name="fixed_package_tips">Se generarán tarifas adicionales después de que alcance el límite</string>
     <string name="fixed_traffic_quota">Límite de datos (obligatorio)</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fod_authentication_shift_button">Cancelar</string>
     <string name="fod_button_finger">Usar huella</string>
     <string name="fod_button_password">Introducir contraseña</string>
@@ -3174,6 +3179,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="set_pattern_password_name">Establecer patrón</string>
     <string name="set_traffic_tips">Configure su plan de datos para administrar el uso de datos móviles y evitar tarifas adicionales del operador</string>
     <string name="setting">Configuración</string>
+    <string name="setting_online_service">Servicios online</string>
     <string name="setting_privacy_password">Añadir patrón</string>
     <string name="settings">Ajustes de uso de datos</string>
     <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería esté siendo consumida rápidamente</string>
@@ -3237,6 +3243,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="sms_smart_engine_update">Actualizar automáticamente el filtro de SMS</string>
     <string name="sms_smart_engine_update_now">Actualizar</string>
     <string name="sms_stranger_block">Bloquear SMS de desconocidos</string>
+    <string name="solar_term_grain_buds">Criaturas completas</string>
     <string name="sorted_dialog_title">Ordenar por</string>
     <string name="sp_background_risk_dialog_summary">, compruebe y solucione los problemas de pago.</string>
     <string name="sp_background_risk_dialog_summary_new">El entorno de pago actual puede presentar riesgos de seguridad. Tómese un momento para resolver los problemas existentes.</string>
@@ -3712,6 +3719,11 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="text_button">Entendido</string>
     <string name="text_done">Aceptar</string>
     <string name="text_security">Privacidad</string>
+    <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
+    <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
+    <string name="the_arbor_day">Día del árbol</string>
+    <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
+    <string name="the_armys_day">Día del PLA</string>
     <string name="thermal_tips_message">Jugar con el modo rendimiento activado podría acarrear problemas de sobrecalentamiento.</string>
     <string name="thermal_tips_title">Atención</string>
     <string name="third_application">Aplicaciones instaladas</string>
