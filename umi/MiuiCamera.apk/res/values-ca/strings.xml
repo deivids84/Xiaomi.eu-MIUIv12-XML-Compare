@@ -472,9 +472,15 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="cta_mimoji_user_links"><Data>Llegiu i accepteu el nostre &lt;a href =%1$s&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href =%2$s&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta aplicació.</Data></string>
     <string name="cta_mimoji_user_tips">"Si no accepteu concedir els permisos obligatoris o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. Si no concediu permisos opcionals, no podreu utilitzar algunes funcions d'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible. Sempre podeu restringir els permisos o retirar el vostre consentiment a la Configuració."</string>
     <string name="cta_msg">Benvingut a la càmera! Podeu utilitzar aquesta aplicació per fer fotos i gravar vídeos. Aquesta aplicació necessita connectar-se a Internet i requereix els permisos opcionals següents:</string>
+    <string name="cta_perm_cam">Utilitzar la càmera</string>
+    <string name="cta_perm_cam_desc">Per fer fotos</string>
     <string name="cta_perm_dec">Per afegir informació sobre la ubicació a fotos i vídeos</string>
     <string name="cta_perm_loc">Ubicació</string>
+    <string name="cta_perm_storage">Accedir a les fotos d\'aquest dispositiu</string>
+    <string name="cta_perm_storage_desc">Per visualitzar i desar fotos</string>
     <string name="cta_perm_type">"Permisos opcionals (s'utilitzen per a funcions addicionals mentre les utilitzeu)"</string>
+    <string name="cta_perm_voice">Utilitzar el micròfon</string>
+    <string name="cta_perm_voice_desc">Per enregistrar àudio durant l\'enregistrament de vídeos</string>
     <string name="cta_user_tips"><Data>Per entendre completament els vostres drets com a usuaris, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;a href =%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href =%2$s&gt;Política de privadesa&lt;/a&gt;.</Data></string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Per defecte</string>
@@ -499,6 +505,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="dialog_ok_time">D\'acord (%ds)</string>
     <string name="dirty_tip_toast">La lent està bruta. Netegeu-la.</string>
     <string name="do_not_remind_me">"No ho tornis a mostrar"</string>
+    <string name="doc_shortcut_short">Documents</string>
     <string name="document_blackwhite">B/N</string>
     <string name="document_blur_warn">El text és borrós</string>
     <string name="document_mode_use_hint_text_body">"Alineeu i milloreu
@@ -506,6 +513,9 @@ els documents escanejats automàticament"</string>
     <string name="document_mode_use_hint_text_title">Escaneja documents</string>
     <string name="document_origin">Original</string>
     <string name="document_strengthen">Millorat</string>
+    <string name="dolly_zoom_capture_tip1">Col·loqueu el subjecte al marc i mantingueu el dispositiu a %d metres com a mínim</string>
+    <string name="dolly_zoom_capture_tip2">Allunyeu el dispositiu del subjecte de manera constant</string>
+    <string name="dolly_zoom_capture_tip3">S\'ha perdut la pista del subjecte. Comenceu de nou.</string>
     <string name="download_cancel_hint">Voleu cancel·lar la baixada de %1$s?</string>
     <string name="download_confirm">Baixada gratuïta</string>
     <string name="download_hint">Es faran servir %1$s MB de dades mòbils per descarregar elements. Voleu baixar-lo de totes maneres?</string>
@@ -1157,6 +1167,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_tilt_shift_entry_circle">Cercle</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paral·lel</string>
     <string name="pref_camera_tilt_shift_title">Efecte maqueta</string>
+    <string name="pref_camera_tip_doc">Escàner de documents</string>
+    <string name="pref_camera_tip_id_card">Escàner d’identificació</string>
     <string name="pref_camera_touchafaec_entry_off">Apagat</string>
     <string name="pref_camera_touchafaec_entry_on">Activat</string>
     <string name="pref_camera_ubifocus_title">Reenfocament</string>
@@ -1202,6 +1214,9 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_customization_title">Personalitza</string>
     <string name="pref_document_mode">Documents</string>
     <string name="pref_dual_camera_video">Vídeo dual</string>
+    <string name="pref_e_c_t_j">So original</string>
+    <string name="pref_e_p_k">Microfon extern</string>
+    <string name="pref_e_p_s_n">Enregistreu el so mitjançant un micròfon extern quan es connectin uns auriculars Bluetooth equipats amb micro</string>
     <string name="pref_face_beauty_title">Embellidor</string>
     <string name="pref_fingerprint_capture_title">Obturador d\'empremtes dactilars</string>
     <string name="pref_front_denoise_summary">Reduir els sorolls generats darrere de la càmera frontal</string>
@@ -1219,14 +1234,22 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_hdr10_video_mode_description">Optimitza els colors i el contrast de vídeos de 4K i 8K de forma automàtica. Els vídeos optimitzats només es poden reproduir en dispositius compatibles amb HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Optimitzeu els colors i ajusteu el contrast per als vídeos 4K i 8K. Aquesta funció només funciona en dispositius compatibles amb HDR10 +.</string>
+    <string name="pref_i_n_r_b">Reducció de soroll intel·ligent</string>
+    <string name="pref_k_h">Monitor intra-auricular en directe</string>
+    <string name="pref_k_s_i">Reprodueix el so enregistrat als auriculars quan estan connectats</string>
     <string name="pref_lens_dirty_detect_summary">Rebreu una notificació quan la lent està bruta</string>
     <string name="pref_lens_dirty_detect_title">Notifica sobre les lents brutes</string>
+    <string name="pref_live_duration_title">Durada en directe</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="pref_module_settings">Modes</string>
     <string name="pref_more_mode_style_title">Mode de càmera</string>
     <string name="pref_multi_camera_dual_video_front">Càmera frontal</string>
+    <string name="pref_n_s_a">Configuració de l\'àudio</string>
+    <string name="pref_n_s_o_l">Activat</string>
+    <string name="pref_n_s_o_m">Desactivat</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Només podeu gravar vídeos de 720p amb 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Només podeu gravar vídeos de 720p amb 960fps</string>
+    <string name="pref_p_d_e">Funcions professionals</string>
     <string name="pref_photo_assistance_tips_off">Desactivat</string>
     <string name="pref_photo_assistance_tips_on">Activat</string>
     <string name="pref_pic_flaw_tip_summary">Rebeu notificacions en temps real quan la gent de l\'enquadrament tanca els ulls o la lent està parcialment coberta</string>
@@ -1237,6 +1260,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_retain_camera_common_mode_summary">Obre la càmera al mode usat anteriorment en lloc de canviar a «Foto»</string>
     <string name="pref_retain_camera_mode_summary">Canvia la càmera al mode usat anteriorment en obriu l\'aplicació.</string>
     <string name="pref_retain_camera_mode_title">Desa el mode anterior</string>
+    <string name="pref_s_n_r_s_c">Redueix el soroll dels vídeos en funció de l’escena</string>
     <string name="pref_scan_qrcode_summary">La càmera posterior només pot escanejar codis QR en el mode «Foto».</string>
     <string name="pref_scan_qrcode_title">Escaneig de codis QR</string>
     <string name="pref_simple_hdr_entry_off">Apagat</string>
@@ -1246,6 +1270,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_skin_beautify_intelligent_title">Intel·ligent</string>
     <string name="pref_skin_beautify_slim_title">Prim</string>
     <string name="pref_skin_beautify_smooth_title">Pell</string>
+    <string name="pref_smart_guide_title">Suggeriments intel·ligents</string>
     <string name="pref_userdefine_watermark_title">Marca d\'aigua personalitzada</string>
     <string name="pref_video_captrue_ability_title">Captura d’imatges durant l\'enregistrament</string>
     <string name="pref_video_denoise_off">Desactivat</string>
@@ -1301,6 +1326,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="recommend_soft_light_tip">Activa el flaix</string>
     <string name="recommend_super_night">Proveu el mode Nocturn</string>
     <string name="record_back_pressed_hint">Per aturar la gravació toqueu un altre cop</string>
+    <string name="reset_manual_picture_style_toast">S\'han restablert els paràmetres correctament</string>
     <string name="reset_manually_parameter_confirmed">D\'acord</string>
     <string name="reset_manually_parameter_hint">Reinicia</string>
     <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu Enrere i el botó de pujar volum simultàniament.</string>
