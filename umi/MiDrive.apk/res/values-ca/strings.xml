@@ -349,7 +349,6 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="upload_metered_network_dialog_title">Utilitza les dades mòbils</string>
     <string name="uploading">S\'està pujant</string>
     <string name="user_agreement_title">Acord d\'usuari de Mi Drive</string>
-    <string name="user_protocol_and_privacy_protocol">"He llegit i he acceptat l'acord d'usuari i la política de privadesa."</string>
     <string name="v7_preference_off">DESACTIVA</string>
     <string name="v7_preference_on">Activat</string>
     <string name="video_picker_title">Selecciona vídeos</string>
