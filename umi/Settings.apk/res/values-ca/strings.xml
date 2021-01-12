@@ -1173,7 +1173,7 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_message_move_out_of_blacklist">Voleu desbloquejar %1$s ara?</string>
     <string name="bluetooth_mi_fast_connect">Vincula els dispositius compatibles</string>
     <string name="bluetooth_mi_fast_connect_summary">Connecteu-vos a dispositius propers mitjançant un procés de sincronització simplificat</string>
-    <string name="bluetooth_middle_name">Caixa</string>
+    <string name="bluetooth_middle_name">Estoig</string>
     <string name="bluetooth_move_out_of_blacklist">Desbloqueja el dispositiu</string>
     <string name="bluetooth_name_not_set">No s\'ha definit cap nom; s\'utilitza el nom del compte</string>
     <string name="bluetooth_no_devices_found">No s\'han trobat dispositius Bluetooth a prop.</string>
@@ -7041,6 +7041,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="switchNetworkToast">La connexió a xarxes mòbils pot generar tarifes addicionals</string>
     <string name="switch_access_service_on">Canvia l’accés</string>
     <string name="switch_bootup_sound">Àudio d\'arrencada</string>
+    <string name="switch_headset_anti_lost_summary">Rebeu una alerta sempre que un dels auriculars estigui allunyat de l\'orella o de l\'estoig de càrrega durant més d\'un minut</string>
     <string name="switch_off_text">Apagat</string>
     <string name="switch_on_text">Activat</string>
     <string name="switch_screen_button_order">Simetria dels botons</string>
