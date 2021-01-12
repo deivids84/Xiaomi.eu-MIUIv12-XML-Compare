@@ -1481,6 +1481,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="onscreenShowDialpadText">Teclat</string>
     <string name="onscreenSwapCallsText">Bescanvia</string>
     <string name="onscreenVideoCallText">Vídeotrucada</string>
+    <string name="open_miui">Activa</string>
     <string name="opened_dual_4g_confirm_prompt">Sembla que teniu una targeta SIM només 4G. La 4G Dual s\'ha activat automàticament.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">La SIM %1$s només admet 4G. Per assegurar-vos que la vostra targeta SIM funciona amb normalitat, s\'ha activat el 4G dual.</string>
     <string name="operator">Operador</string>
