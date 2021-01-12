@@ -470,6 +470,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="cta_mimoji_msg">Us donem la benvinguda a Fun Cam! Podeu utilitzar aquesta aplicació per fer fotos i gravar vídeos. Per poder treballar amb normalitat, aquesta aplicació ha de connectar-se a Internet i requereix els permisos següents per recopilar la vostra informació personal:</string>
     <string name="cta_mimoji_perm_type">Permisos obligatoris (utilitzats per a funcions i serveis bàsics d\'aquesta aplicació)</string>
     <string name="cta_mimoji_user_links"><Data>Llegiu i accepteu el nostre &lt;a href =%1$s&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href =%2$s&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta aplicació.</Data></string>
+    <string name="cta_mimoji_user_tips">"Si no accepteu concedir els permisos obligatoris o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. Si no concediu permisos opcionals, no podreu utilitzar algunes funcions d'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible. Sempre podeu restringir els permisos o retirar el vostre consentiment a la Configuració."</string>
     <string name="cta_msg">Benvingut a la càmera! Podeu utilitzar aquesta aplicació per fer fotos i gravar vídeos. Aquesta aplicació necessita connectar-se a Internet i requereix els permisos opcionals següents:</string>
     <string name="cta_perm_dec">Per afegir informació sobre la ubicació a fotos i vídeos</string>
     <string name="cta_perm_loc">Ubicació</string>
