@@ -347,7 +347,6 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="upload_metered_network_dialog_title">Usando datos móviles</string>
     <string name="uploading">Subiendo</string>
     <string name="user_agreement_title">Acuerdo de Usuario de Mi Drive</string>
-    <string name="user_protocol_and_privacy_protocol">"He leído y acepto el Acuerdo de Usuario y la Política de Privacidad."</string>
     <string name="v7_preference_off">Apagado</string>
     <string name="v7_preference_on">Encendido</string>
     <string name="video_picker_title">Seleccionar vídeos</string>
