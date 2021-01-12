@@ -83,6 +83,8 @@
     <string name="delete_file_success">S\'ha eliminat correctament</string>
     <string name="delete_record_only">"Els elements als quals fan referència els registres seleccionats no se suprimiran."</string>
     <string name="delete_success">S\'ha eliminat correctament</string>
+    <string name="detail_download_path">"Ubicació: "</string>
+    <string name="detail_download_time">"Baixat: "</string>
     <string name="dialog_content_delete_pdf_content">Voleu suprimir aquest PDF ara?</string>
     <string name="dialog_copy_storage_full_desc">"No es poden copiar elements perquè no hi ha prou espai d'emmagatzematge al núvol. Actualitzeu el vostre pla per obtenir més espai d'emmagatzematge."</string>
     <string name="dialog_copy_storage_full_title">"No es pot copiar"</string>
