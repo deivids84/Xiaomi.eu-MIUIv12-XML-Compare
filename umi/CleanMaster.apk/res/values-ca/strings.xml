@@ -764,6 +764,8 @@
     <string name="video_clean_desktop_icon_created">S\'ha afegit una drecera a la pantalla d\'inici correctament</string>
     <string name="video_clean_garbage">Vídeos emmagatzemats a la memòria cau</string>
     <string name="video_clean_garbage_cleared">S\'han netejat els vídeos emmagatzemats a la memòria cau correctament</string>
+    <string name="video_clean_image_clean_summary">Suprimiu les fotos duplicades per alliberar espai d\'emmagatzematge</string>
+    <string name="video_clean_image_clean_title">Suprimir fotos duplicades</string>
     <string name="video_clean_notification_summary">Neteja els vídeos emmagatzemats a la memòria cau de les aplicacions</string>
     <string name="video_clean_notification_title">Allibera %s</string>
     <string name="video_clean_personal_settings_title">Configuració addicional</string>
