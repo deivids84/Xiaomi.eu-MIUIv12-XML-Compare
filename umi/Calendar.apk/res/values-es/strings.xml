@@ -866,9 +866,7 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="widget_select_style">Elegir estilo</string>
     <string name="work_day_default_banner_title">¡Que tenga un día productivo en el trabajo!</string>
     <string name="work_day_indication">: (</string>
-    <string name="wuxing">五行</string>
     <string name="xiaomi_calendar_display_name">Calendario de Cuenta Mi</string>
-    <string name="xingxiu">星宿</string>
     <string name="yearly">Anualmente (cada %s)</string>
     <string name="yearly_plain">Anualmente</string>
     <string name="yesterday">Ayer</string>
