@@ -72,6 +72,7 @@
     <string name="accessibility_delay_capture_5s_button">Temporizador configurado para cinco segundos</string>
     <string name="accessibility_delay_capture_close_button">El temporizador está apagado</string>
     <string name="accessibility_description_clone_button">Panel de clonación</string>
+    <string name="accessibility_description_dolly_zoom_button">Zoom mágico</string>
     <string name="accessibility_deselect_all">Desmarcar todos</string>
     <string name="accessibility_deselect_all_end">Deseleccionado todo</string>
     <string name="accessibility_document_blackwhite_button">Escaneo de documentos. En blanco y negro.</string>
@@ -151,6 +152,7 @@
     <string name="accessibility_pull_down_to_open_camera">Desliza hacia abajo para abrir la cámara</string>
     <string name="accessibility_record_button">Botón de grabación</string>
     <string name="accessibility_reduce">Disminuir el zoom</string>
+    <string name="accessibility_reference_line_text">Abra el panel con opciones de línea de referencia</string>
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
     <string name="accessibility_select_all">Seleccionar todo</string>
     <string name="accessibility_select_all_end">Seleccionado todo</string>
@@ -345,6 +347,7 @@ y ajusta las preferencias automáticamente"</string>
     <string name="button_front_camera_title">Hacer un selfie</string>
     <string name="button_normal_video_title">Grabar vídeo</string>
     <string name="camcorder_tip_8k_max_video_duration">Puede grabar hasta 6 minutos en 8K</string>
+    <string name="camcorder_tip_current_max_video_duration">Puede grabar hasta %d minutos de video en la resolución actual</string>
     <string name="camera_disabled">La cámara ha sido deshabilitada</string>
     <string name="camera_error_title">Error de cámara</string>
     <string name="camera_facedetection_sub_option_hint">Característica experimental</string>
@@ -365,7 +368,16 @@ y ajusta las preferencias automáticamente"</string>
     <string name="capture_shortcut_short">Selfie</string>
     <string name="ccc_temperature_warning_msg">Su dispositivo está sobrecalentado. La cámara se cerrará en %d segundos. Tus fotos o videos se guardarán automáticamente.</string>
     <string name="ccc_temperature_warning_title">El dispositivo está sobrecalentado</string>
+    <string name="center_mark">Marca central</string>
+    <string name="clone_adjust">Ajustar</string>
+    <string name="clone_copy_mode">Congelar fotograma</string>
     <string name="clone_do_not_move_phone">"No muevas tu dispositivo"</string>
+    <string name="clone_drag_to_adjust_the_posture">Seleccionar y arrastrar para ajustar</string>
+    <string name="clone_guide_copy_tip3">"Capture un sujeto que se mueva por toda la pantalla."</string>
+    <string name="clone_guide_copy_tip5">Su sujeto puede esquiar, jugar baloncesto, bailar o simplemente caminar.</string>
+    <string name="clone_guide_copy_tip6">Los fotogramas congelados se \"recogerán\" mientras se reproduce el vídeo.</string>
+    <string name="clone_guide_copy_tip7">Experimenta con poses.</string>
+    <string name="clone_guide_copy_title2">Congelar videos de fotogramas</string>
     <string name="clone_guide_tip1">La clonación solo funciona con personas.</string>
     <string name="clone_guide_tip3">Evite los objetos en movimiento y los fondos monótonos.</string>
     <string name="clone_guide_tip4">Sostenga su dispositivo firmemente y asegúrese de que su sujeto esté lo suficientemente iluminado.</string>
