@@ -356,6 +356,8 @@
     <string name="headset_fw_error_failed">"No se puede actualizar. La información del firmware es incorrecta."</string>
     <string name="headset_fw_file_position_failed">"No se pudo acceder al archivo"</string>
     <string name="headset_fw_file_readfailed">"No se pudo obtener información de la actualización"</string>
+    <string name="headset_loss_notify_summary">Parece que uno de sus auriculares no está en el estuche de carga. ¡Eche un vistazo!</string>
+    <string name="headset_loss_notify_title">Alerta de perdida de auricular</string>
     <string name="headset_read_fw_state">"No se pudo obtener información de la actualización"</string>
     <string name="headset_update_failed">"No se pudo actualizar"</string>
     <string name="headset_update_ok">Hecho</string>
