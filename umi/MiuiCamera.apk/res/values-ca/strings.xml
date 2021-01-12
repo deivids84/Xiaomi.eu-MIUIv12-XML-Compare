@@ -422,7 +422,11 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="color_effect_entry_new_3_describe">Aquesta combinació única de colors funciona perfectament en un temps ennuvolat i amb una llum suau.</string>
     <string name="color_effect_entry_new_4">Somni</string>
     <string name="color_effect_entry_new_4_describe">Els tons foscos i el contrast suau són adequats per a escenes interiors amb poca il·luminació.</string>
+    <string name="color_effect_entry_new_5">Carmen</string>
+    <string name="color_effect_entry_new_5_describe">Els tons marronosos i el contrast mitjà creen un ambient càlid per a escenes exteriors rodades amb llum natural.</string>
+    <string name="color_effect_entry_new_bbp_describe">L’alt contrast i la saturació baixa aportaran un aspecte cinematogràfic a la majoria d’escenes.</string>
     <string name="color_effect_entry_orange">Lima</string>
+    <string name="color_effect_entry_orange_describe">Un truc de pel·lícula clàssic que fa que les zones fosques siguin més fredes i que els llums siguin més càlids. Aquest filtre refrescarà tant la selva urbana com grans àrees a l’aire lliure.</string>
     <string name="color_effect_entry_quiet">Calma</string>
     <string name="color_effect_entry_sibopenk">Cyberpunk</string>
     <string name="color_effect_entry_soda">Soda</string>
@@ -463,6 +467,9 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="confirm_restore_message">"Voleu restaurar la configuració per defecte de la càmera?"</string>
     <string name="confirm_restore_title">Restableix la configuració per defecte</string>
     <string name="copy">Copia</string>
+    <string name="cta_mimoji_msg">Us donem la benvinguda a Fun Cam! Podeu utilitzar aquesta aplicació per fer fotos i gravar vídeos. Per poder treballar amb normalitat, aquesta aplicació ha de connectar-se a Internet i requereix els permisos següents per recopilar la vostra informació personal:</string>
+    <string name="cta_mimoji_perm_type">Permisos obligatoris (utilitzats per a funcions i serveis bàsics d\'aquesta aplicació)</string>
+    <string name="cta_mimoji_user_links"><Data>Llegiu i accepteu el nostre &lt;a href =%1$s&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href =%2$s&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta aplicació.</Data></string>
     <string name="cta_msg">Benvingut a la càmera! Podeu utilitzar aquesta aplicació per fer fotos i gravar vídeos. Aquesta aplicació necessita connectar-se a Internet i requereix els permisos opcionals següents:</string>
     <string name="cta_perm_dec">Per afegir informació sobre la ubicació a fotos i vídeos</string>
     <string name="cta_perm_loc">Ubicació</string>
