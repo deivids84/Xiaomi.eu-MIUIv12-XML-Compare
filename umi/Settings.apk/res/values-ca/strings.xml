@@ -7041,7 +7041,9 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="switchNetworkToast">La connexió a xarxes mòbils pot generar tarifes addicionals</string>
     <string name="switch_access_service_on">Canvia l’accés</string>
     <string name="switch_bootup_sound">Àudio d\'arrencada</string>
+    <string name="switch_headset_anti_lost">Alerta de pèrdua d\'auricular</string>
     <string name="switch_headset_anti_lost_summary">Rebeu una alerta sempre que un dels auriculars estigui allunyat de l\'orella o de l\'estoig de càrrega durant més d\'un minut</string>
+    <string name="switch_headset_anti_lost_title">Alerta de pèrdua d\'auricular</string>
     <string name="switch_off_text">Apagat</string>
     <string name="switch_on_text">Activat</string>
     <string name="switch_screen_button_order">Simetria dels botons</string>
@@ -8211,6 +8213,8 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_empty_list_wifi_on">S\'estan cercant xarxes Wi-Fi…</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Només connexions estables</string>
+    <string name="wifi_enhanced_handover">Lliurament millorat</string>
+    <string name="wifi_enhanced_handover_summary">Canvieu ràpidament entre els APs amb el mateix mètode de xifratge</string>
     <string name="wifi_enhanced_mac_randomization">Aleatorització MAC millorada per Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Quan aquest mode està activat, l’adreça MAC d’aquest dispositiu pot canviar cada vegada que es connecta a una xarxa que tingui activada l’atzarització MAC.</string>
     <string name="wifi_error">Error</string>
