@@ -72,6 +72,7 @@
     <string name="accessibility_delay_capture_5s_button">Temporitzador ajustat durant cinc segons</string>
     <string name="accessibility_delay_capture_close_button">El temporitzador està desactivat</string>
     <string name="accessibility_description_clone_button">Tauler de clons</string>
+    <string name="accessibility_description_dolly_zoom_button">Zoom màgic</string>
     <string name="accessibility_deselect_all">Desselecciona-ho tot</string>
     <string name="accessibility_deselect_all_end">Deseleccionats tots</string>
     <string name="accessibility_document_blackwhite_button">Escaneig de documents. Blanc i negre.</string>
@@ -151,6 +152,7 @@
     <string name="accessibility_pull_down_to_open_camera">Llisqueu cap avall per obrir la càmera</string>
     <string name="accessibility_record_button">Botó d\'enregistrament</string>
     <string name="accessibility_reduce">Allunya</string>
+    <string name="accessibility_reference_line_text">Obriu el tauler amb les opcions de línia de referència</string>
     <string name="accessibility_review_thumbnail">Foto més recent</string>
     <string name="accessibility_select_all">Selecciona-ho tot</string>
     <string name="accessibility_select_all_end">Seleccionats tots</string>
@@ -345,6 +347,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="button_front_camera_title">Fer una selfie</string>
     <string name="button_normal_video_title">Enregistrar Vídeo</string>
     <string name="camcorder_tip_8k_max_video_duration">Podeu gravar fins a 6 minuts en 8 K</string>
+    <string name="camcorder_tip_current_max_video_duration">Podeu enregistrar fins a %d minuts de vídeo a la resolució actual</string>
     <string name="camera_disabled">La càmera ha estat desactivada</string>
     <string name="camera_error_title">Error de càmera</string>
     <string name="camera_facedetection_sub_option_hint">L\'opció experimental ara està disponible</string>
@@ -365,7 +368,16 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="capture_shortcut_short">Selfie</string>
     <string name="ccc_temperature_warning_msg">El dispositiu s\'ha sobreescalfat. La càmera es tancarà en %d segons. Les vostres fotos o vídeos es desaran automàticament.</string>
     <string name="ccc_temperature_warning_title">El dispositiu s\'ha sobreescalfat</string>
+    <string name="center_mark">Marca central</string>
+    <string name="clone_adjust">Ajusta</string>
+    <string name="clone_copy_mode">Congela el fotograma</string>
     <string name="clone_do_not_move_phone">"No moveu el dispositiu"</string>
+    <string name="clone_drag_to_adjust_the_posture">Seleccioneu i arrossegueu per ajustar</string>
+    <string name="clone_guide_copy_tip3">"Captureu un subjecte que es mogui per tota la pantalla."</string>
+    <string name="clone_guide_copy_tip5">El subjecte pot esquiar, jugar a bàsquet, ballar o simplement caminar.</string>
+    <string name="clone_guide_copy_tip6">Els fotogrames congelats es \"recolliran\" mentre es reprodueix el vídeo.</string>
+    <string name="clone_guide_copy_tip7">Experimenteu amb postures.</string>
+    <string name="clone_guide_copy_title2">Congela fotogrames dels vídeos</string>
     <string name="clone_guide_tip1">La clonació només funciona amb persones.</string>
     <string name="clone_guide_tip3">Eviteu moure objectes i fons monòtons.</string>
     <string name="clone_guide_tip4">Manteniu el dispositiu estable i assegureu-vos que el subjecte estigui prou il·luminat.</string>
@@ -390,6 +402,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="close_front_flash_toast">"El vostre dispositiu està massa calent. Ara no es pot fer servir el flaix."</string>
     <string name="color_effect_entry_berry">Baies</string>
     <string name="color_effect_entry_blackgold">Vibres d’or</string>
+    <string name="color_effect_entry_blackgold_describe">Aquest filtre d’alt contrast només conserva els colors groc i blau fosc. Utilitzeu-lo als carrers ben il·luminats d’una ciutat nocturna.</string>
     <string name="color_effect_entry_blackice">Gel negre</string>
     <string name="color_effect_entry_blackwhite">B/N</string>
     <string name="color_effect_entry_classic">Clàssic</string>
@@ -401,6 +414,14 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="color_effect_entry_glimmer">Lluentor</string>
     <string name="color_effect_entry_koizora">Amor</string>
     <string name="color_effect_entry_latte">Cafè</string>
+    <string name="color_effect_entry_new_1">Misteri</string>
+    <string name="color_effect_entry_new_1_describe">Un esquema de colors que s’utilitza habitualment a les pel·lícules afegeix verd a les zones més fosques. Aquest filtre funciona bé per a escenes d’alt contrast, com ara el capvespre a la ciutat.</string>
+    <string name="color_effect_entry_new_2">Tango</string>
+    <string name="color_effect_entry_new_2_describe">La combinació d’alt contrast i saturació posa de manifest la sensació de passió i ardor.</string>
+    <string name="color_effect_entry_new_3">Fantasia</string>
+    <string name="color_effect_entry_new_3_describe">Aquesta combinació única de colors funciona perfectament en un temps ennuvolat i amb una llum suau.</string>
+    <string name="color_effect_entry_new_4">Somni</string>
+    <string name="color_effect_entry_new_4_describe">Els tons foscos i el contrast suau són adequats per a escenes interiors amb poca il·luminació.</string>
     <string name="color_effect_entry_orange">Lima</string>
     <string name="color_effect_entry_quiet">Calma</string>
     <string name="color_effect_entry_sibopenk">Cyberpunk</string>
