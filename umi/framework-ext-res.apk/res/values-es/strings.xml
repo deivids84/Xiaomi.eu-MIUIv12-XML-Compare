@@ -62,7 +62,6 @@
     <string name="copy">Copiar</string>
     <string name="customer_location_judgment">China</string>
     <string name="cut">Cortar</string>
-    <string name="data_usage_context">Si el Wi-Fi no está encendido, tu dispositivo se conectará a una red móvil, lo que puede generar cargos adicionales según tu plan de pago. ¡Gracias!</string>
     <string name="default_device_name">Dispositivo desconocido</string>
     <string name="default_name">Predeterminado</string>
     <string name="description_title">Modo Silencio</string>
@@ -214,9 +213,7 @@
     <string name="security_permission_denied_text">Acceso denegado</string>
     <string name="security_permission_failed_text">Ha habido un error, inténtalo de nuevo más tarde</string>
     <string name="security_permission_network_failed_text">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
-    <string name="security_permission_open_wifi_settings">Abrir ajustes Wi-Fi</string>
     <string name="security_permission_validate_warning">¡Gracias por ayudar a mejorar MIUI!</string>
-    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi y datos móviles activados</string>
     <string name="security_permission_xiaomi_account_missed_text">Introduce la ID de Cuenta Mi</string>
     <string name="security_share_text">Protección de privacidad</string>
     <string name="select">Seleccionar</string>
@@ -235,9 +232,7 @@
     <string name="sim_lock_non_ais_msg">"Tu tarjeta SIM no es totalmente funcional con este teléfono debido a que no cumple con los términos y condiciones de tu suscripción. Si tienes alguna duda o necesitas más información sobre este tema, contacta con el servicio de atención de Xiaomi o visita la tienda que te vendió el producto."</string>
     <string name="sim_lock_now_ais_title">SIM %1$d</string>
     <string name="slatoast">El uso de datos móviles para aumentar la velocidad puede generar tarifas de operador adicionales</string>
-    <string name="slavewifi">Wi-Fi de doble banda</string>
     <string name="slavewifi_disconnect">Desconectar</string>
-    <string name="slavewifi_notification_title">Usando Wi-Fi de doble banda</string>
     <string name="slavewifi_settings">Toca para cambiar los ajustes</string>
     <string name="softap_notifif_summary">%d conectado</string>
     <string name="softap_notifif_title">El punto de acceso \"%s\" está activado</string>
@@ -267,7 +262,6 @@
     <string name="status_bar_toggle_sync">Sincro</string>
     <string name="status_bar_toggle_torch">Linterna</string>
     <string name="status_bar_toggle_vibrate">Vibrar</string>
-    <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Punto de acceso</string>
     <string name="stop_operate_camera_frequently">"Estás abriendo la cámara frontal con demasiada frecuencia."</string>
     <string name="subinfo_default_name">SIM %d</string>
@@ -300,7 +294,6 @@
     <string name="user_switching_dialog_text">Cambiando…</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
-    <string name="wifi_assistant_wifi_no_internet">Esta red Wi-Fi no tiene acceso a Internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Pulsa para ver detalles</string>
     <string name="wireless_charging_notification_message1">"No se pudo encontrar dispositivos inalámbricos para cargar. La carga inalámbrica inversa está desactivada."</string>
     <string name="wireless_charging_notification_message2">La batería está por debajo del 30%. La carga inalámbrica inversa está desactivada.</string>
