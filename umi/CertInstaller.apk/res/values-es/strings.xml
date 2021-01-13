@@ -18,6 +18,7 @@
     <string name="credential_usage_label">Uso de credenciales:</string>
     <string name="done_label">LISTO</string>
     <string name="extracting_pkcs12">Extrayendo...</string>
+    <string name="install_done">Se han añadido las credenciales de %1$s a las redes Wi-Fi guardadas.</string>
     <string name="install_done_title">Credenciales instaladas</string>
     <string name="invalid_cert">El certificado no es válido.</string>
     <string name="invalid_certificate_close_button">Cerrar</string>
@@ -59,13 +60,17 @@ Método de autenticación: EAP-%5$s
     <string name="wifi_detail_title">Detalles de %s</string>
     <string name="wifi_dismiss_label">Descartar</string>
     <string name="wifi_install_label">Instalar</string>
+    <string name="wifi_installer_detail">Instale las credenciales de Wi-Fi para conectarse a las redes disponibles a través de %1$s.</string>
     <string name="wifi_installer_download_error">"El archivo descargado tiene problemas y no se puede instalar. Comprueba que has descargado el archivo de la fuente correcta."</string>
+    <string name="wifi_installer_fail">"No se pueden instalar las credenciales de Wi-Fi. Vuelva a descargar el archivo."</string>
+    <string name="wifi_installer_fail_no_wifi">Encienda el Wi-Fi y vuelva a intentarlo.</string>
     <string name="wifi_installer_fail_no_wifi_title">Instalación cancelada</string>
     <string name="wifi_installer_fail_title">"No se puede realizar la instalación"</string>
     <string name="wifi_installing_label">Instalando</string>
     <string name="wifi_no_config">Ninguna</string>
     <string name="wifi_sim_config_text">"SIM: %s
 "</string>
+    <string name="wifi_title">Perfil de Wi-Fi</string>
     <string name="wifi_tls_config_text">"Certificado de cliente:
 %1$s
 Clave: %2$s
