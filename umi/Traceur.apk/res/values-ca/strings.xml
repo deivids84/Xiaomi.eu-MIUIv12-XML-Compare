@@ -645,7 +645,6 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_disabled_generic">Desactivat</string>
     <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
     <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
-    <string name="wifi_disabled_wifi_failure">Error de connexió Wi-Fi</string>
     <string name="wifi_disconnected">Desconnectat</string>
     <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
     <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
