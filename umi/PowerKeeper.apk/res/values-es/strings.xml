@@ -83,6 +83,7 @@ El Ahorro de batería tratará de forma selectiva las aplicaciones importantes."
     <string name="hide_mode_desc">Cuando una aplicación se ejecuta en segundo plano, tu actividad será monitorizada para reducir su consumo de batería. Esta función obtendrá y utilizará datos del usuario de acuerdo a la %s</string>
     <string name="hide_system_app">Ocultar aplicaciones del sistema</string>
     <string name="high_temp_state">Calentamiento excesivo</string>
+    <string name="high_temp_state_message">Su dispositivo se está sobrecalentando. Se restringirán los datos móviles, los puntos de acceso Wi-Fi, el GPS y la cámara.</string>
     <string name="hints_loading_text">Un momento…</string>
     <string name="important_warning">Atención</string>
     <string name="lasttime_applist_cloud">Aplicaciones actualizadas:</string>
@@ -118,6 +119,8 @@ El Ahorro de batería tratará de forma selectiva las aplicaciones importantes."
     <string name="power_checker_partial_wakelock_title">%1$s evita que MIUI entre en modo de suspensión</string>
     <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s se inicia frecuentemente</string>
     <string name="power_checker_wakeup_alarm_title">%1$s se inicia frecuentemente</string>
+    <string name="power_checker_wifi_scan_multi_apps_title">%1$s busca frecuentemente una red Wi-Fi</string>
+    <string name="power_checker_wifi_scan_title">%1$s busca frecuentemente una red Wi-Fi</string>
     <string name="power_config_apps">Ahorro de batería</string>
     <string name="power_config_event_delete">Eliminar</string>
     <string name="power_config_select_apps_title">Aplicaciones</string>
@@ -135,6 +138,8 @@ El Ahorro de batería tratará de forma selectiva las aplicaciones importantes."
     <string name="search_menu_title">Buscar</string>
     <string name="search_result_text">"Imposible encontrar aplicaciones"</string>
     <string name="show_system_app">Mostrar aplicaciones del sistema</string>
+    <string name="sleep_config_enhance_description">"Cuando MIUI detecte que está durmiendo, cerrará las aplicaciones en segundo plano, restringirá NFC, Bluetooth, GPS, datos móviles y Wi-Fi, y no iluminará la pantalla con las notificaciones."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"Cuando MIUI detecte que está durmiendo, cerrará las aplicaciones en segundo plano, restringirá Bluetooth, GPS, datos móviles y Wi-Fi, y no iluminará la pantalla en las notificaciones."</string>
     <string name="sleep_config_enhance_title">Modo inactivo</string>
     <string name="sleepmode_disclaimer_agree">Aceptar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>
@@ -142,6 +147,7 @@ El Ahorro de batería tratará de forma selectiva las aplicaciones importantes."
     <string name="sleepmode_privacy_link">Aprende más sobre privacidad y seguridad</string>
     <string name="sleepmode_privacy_title">Modo suspensión</string>
     <string name="sucess">Hecho</string>
+    <string name="update_profile_failture_not_connect_wifi">"No se pudo actualizar. Conéctese a Wi-Fi y vuelva a intentarlo."</string>
     <string name="update_profile_sucess">Actualizado desde el servidor con éxito</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
