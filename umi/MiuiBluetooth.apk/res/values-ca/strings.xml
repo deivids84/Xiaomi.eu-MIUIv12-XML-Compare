@@ -31,14 +31,8 @@
     <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
     <string name="accessibility_manual_zen_less_time">Menys temps.</string>
     <string name="accessibility_manual_zen_more_time">Més temps.</string>
-    <string name="accessibility_no_wifi">Desconnectat de WLAN.</string>
-    <string name="accessibility_wifi_off">WLAN està desactivada.</string>
-    <string name="accessibility_wifi_one_bar">WLAN una barra.</string>
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
-    <string name="accessibility_wifi_signal_full">Senyal WLAN ple.</string>
-    <string name="accessibility_wifi_three_bars">WLAN tres barres.</string>
-    <string name="accessibility_wifi_two_bars">WLAN dues barres.</string>
     <string name="accessibility_work_profile_app_description">Treball %s</string>
     <string name="accessor_expires_text">L’arrendament caduca a les %s</string>
     <string name="accessor_info_title">Aplicacions que comparteixen dades</string>
@@ -438,7 +432,6 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="mobile_data_always_on">Mantingueu sempre les dades mòbils activades</string>
-    <string name="mobile_data_always_on_summary">Mantingueu sempre actives les dades mòbils, fins i tot quan la WLAN estigui activa (per canviar de xarxa ràpidament).</string>
     <string name="mock_location_app">Seleccioneu la aplicació d\'ubicació simulada</string>
     <string name="mock_location_app_not_set">No s\'ha definit cap aplicació d\'ubicació simulada</string>
     <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
@@ -693,13 +686,10 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_check_password_try_again">Comproveu la contrasenya i torneu-ho a provar</string>
     <string name="wifi_connected_mac_randomization">Aleatorització MAC connectada</string>
     <string name="wifi_connected_no_internet">No hi ha internet</string>
-    <string name="wifi_coverage_extend">Activeu l’extensió de cobertura WLAN</string>
-    <string name="wifi_coverage_extend_summary">Amplieu la cobertura WLAN mitjançant hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
     <string name="wifi_disabled_generic">Desactivat</string>
     <string name="wifi_disabled_network_failure">"No s'ha pogut configurar la IP"</string>
     <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
-    <string name="wifi_disabled_wifi_failure">"No s'ha pogut connectar amb WLAN"</string>
     <string name="wifi_disconnected">Desconnectat</string>
     <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
     <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
@@ -714,7 +704,6 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_not_in_range">Fora de l\'abast</string>
     <string name="wifi_passpoint_expired">Caducat</string>
     <string name="wifi_remembered">S\'ha desat</string>
-    <string name="wifi_scan_throttling">Exploració acceleració WLAN</string>
     <string name="wifi_scan_throttling_summary">Redueix el consum de la bateria i millora el rendiment de la xarxa</string>
     <string name="wifi_security_eap">WPA / WPA2 / WPA3-Enterprise</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise de 192 bits</string>
@@ -734,8 +723,6 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_unmetered_label">No modificat</string>
     <string name="wifi_unsaved_network_linking">Pont SSID: connexió automàtica</string>
     <string name="wifi_unsaved_network_linking_summary">Activa els intents de connexió automàtica a un nou SSID WPA / WPA2-PSK de 5 GHz amb les credencials SSID WPA / WPA2-PSK de 2 GHz connectades actuals a la concordança parcial SSID i BSSID</string>
-    <string name="wifi_verbose_logging">Activa el registre de verbosa WLAN</string>
-    <string name="wifi_verbose_logging_summary">Incrementeu el nivell de registre de WLAN (mostra per RSS SSID al selector WLAN)</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Selecciona manualment</string>
     <string name="wifi_wapi_certification_dont_exist">"El certificat WAPI no existeix. Afegiu-lo primer."</string>
