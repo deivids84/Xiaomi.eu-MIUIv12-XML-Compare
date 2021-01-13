@@ -105,7 +105,6 @@
     <string name="error_hash_mismatch">"No s'ha pogut utilitzar l'aplicació d'administració a causa d'un error de checksum. Per obtenir ajuda, poseu-vos en contacte amb l'administrador informàtic."</string>
     <string name="error_installation_failed">"No s'ha pogut instal·lar l'aplicació d'administració"</string>
     <string name="error_package_invalid">"No es pot utilitzar l'aplicació d'administració. Li falten components o estan danyats. Per obtenir ajuda, poseu-vos en contacte amb l'administrador informàtic."</string>
-    <string name="error_wifi">"No s'ha pogut connectar a la Wi-Fi"</string>
     <string name="expand">Expandeix</string>
     <string name="expand_button_title">Avançat</string>
     <string name="financed_device_screen_header">Aquest dispositiu es va comprar a crèdit a partir del %1$s</string>
@@ -156,7 +155,6 @@
     <string name="profile_owner_info_with_terms_headers">"Esteu a punt de crear un perfil de treball que serà gestionat i supervisat per l'organització. S'aplicaran les condicions de %1$s."</string>
     <string name="profile_owner_info_with_terms_headers_comp">Es crearà un perfil per a les vostres aplicacions de treball. Aquest perfil i la resta del dispositiu seran gestionats i supervisats per l\'organització. S\'aplicaran les condicions de %1$s.</string>
     <string name="progress_connect_to_mobile_network">S\'està connectant a una xarxa mòbil…</string>
-    <string name="progress_connect_to_wifi">S\'està connectant al Wi-Fi&#8230;</string>
     <string name="progress_data_process">S\'estan processant les dades de configuració&#8230;</string>
     <string name="progress_delete_non_required_apps">S\'estan eliminant les aplicacions del sistema no necessàries…</string>
     <string name="progress_download">S\'està baixant l\'aplicació d\'administració&#8230;</string>
