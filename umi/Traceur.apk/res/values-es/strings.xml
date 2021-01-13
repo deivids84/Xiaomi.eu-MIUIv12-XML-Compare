@@ -646,7 +646,6 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="wifi_disabled_generic">Inhabilitado</string>
     <string name="wifi_disabled_network_failure">Error de configuración de IP</string>
     <string name="wifi_disabled_password_failure">Error de autenticación</string>
-    <string name="wifi_disabled_wifi_failure">Error de conexión Wi-Fi</string>
     <string name="wifi_disconnected">Desconectado</string>
     <string name="wifi_display_certification">Certificación de pantalla inalámbrica</string>
     <string name="wifi_display_certification_summary">Mostrar opciones para la certificación de la pantalla inalámbrica</string>
