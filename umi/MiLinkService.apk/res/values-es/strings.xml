@@ -35,6 +35,7 @@
     <string name="clearable_edittext_clear_description">Claro</string>
     <string name="close_hotspot_hint">Apague el punto de acceso portátil antes de transmitir</string>
     <string name="close_slave_wifi_hint">Desconectarse de las redes Wi-Fi auxiliares antes de transmitir</string>
+    <string name="close_slave_wifi_hint_china">Desconectarse de las redes Wi-Fi auxiliares antes de transmitir</string>
     <string name="console_guide_btn_got_it">Entendido</string>
     <string name="console_guide_subtitle_hang_up">Puedes seguir transmitiendo cuando la pantalla de tu dispositivo esté apagada. Esta característica disminuye el consumo de energía.</string>
     <string name="console_guide_subtitle_private">"No muestre notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos"</string>
@@ -55,6 +56,7 @@
     <string name="dialog_miplay_permission_title">Solicitud de permiso</string>
     <string name="dialog_nfc_cast_wifi_off">Active el Wi-Fi para poder emitir usando NFC. ¿Activar ahora?</string>
     <string name="dialog_no_device_message"><Data>1. Conecte tanto su teléfono como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Conecte tanto su teléfono como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
     <string name="dialog_ok">Aceptar</string>
     <string name="dialog_only_suport_content">Transmite fotos, videos o música</string>
     <string name="dialog_open_wifi_bt">Encender</string>
@@ -63,6 +65,9 @@ Ver ayuda si tiene problemas para conectarse."</string>
     <string name="dialog_recent_connected">Reciente</string>
     <string name="dialog_retry">Inténtalo de nuevo</string>
     <string name="dialog_scan_message">"1. Conecte su teléfono y TV a la misma red Wi-Fi.
+
+2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea \"Ayuda\" para obtener más información."</string>
+    <string name="dialog_scan_message_china">"1. Conecte su teléfono y TV a la misma red Wi-Fi.
 
 2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea \"Ayuda\" para obtener más información."</string>
     <string name="dialog_scanning_device">Buscando dispositivos cercanos…</string>
@@ -301,6 +306,7 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="privacy_permission_optional">Permisos opcionales</string>
     <string name="privacy_permission_optional_desc">"Usado para funciones adicionales mientras se estén usando"</string>
     <string name="privacy_permission_wlan">Activar y desactivar Wi-Fi</string>
+    <string name="privacy_permission_wlan_china">Encender y apagar el Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponibles cercanos</string>
     <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponibles cercanos</string>
     <string name="privacy_positive">Aceptar</string>
