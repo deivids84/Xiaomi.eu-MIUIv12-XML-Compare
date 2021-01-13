@@ -181,6 +181,7 @@
     <string name="change_wallpaper">Cambiar</string>
     <string name="choose_wallpaper">Seleccionar fondo de pantalla</string>
     <string name="chooser_wallpaper">Selecciona un nuevo fondo de pantalla</string>
+    <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="cloud_app_restore_title">Pendiente</string>
     <string name="common_home_search_delete">Eliminando la barra de búsqueda</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
