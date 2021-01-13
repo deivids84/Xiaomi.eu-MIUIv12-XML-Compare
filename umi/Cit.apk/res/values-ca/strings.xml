@@ -673,7 +673,6 @@ En la segona línia es mostra el nom i el número de versió de MBN predetermina
     <string name="cit_tool_splash_test_title">Prova d\'esquitxades</string>
     <string name="cit_tool_switch_autosms">Habilita/Inhabilita AutoSMSReg</string>
     <string name="cit_tool_to_fetching">a cercar</string>
-    <string name="cit_tool_wifi">Eina de prova Wi-Fi</string>
     <string name="cit_tool_wifi_exit">Surt</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
     <string name="cit_tool_wifi_rx_count_error">El valor de sortida no és un número.</string>
@@ -684,7 +683,6 @@ En la segona línia es mostra el nom i el número de versió de MBN predetermina
     <string name="cit_tool_wifi_rxbg_test_channel">canal:</string>
     <string name="cit_tool_wifi_rxn_test_bw">ample de banda:</string>
     <string name="cit_tool_wifi_rxn_test_channel">canal:</string>
-    <string name="cit_tool_wifi_sniffer">Eina WLAN Sniffer</string>
     <string name="cit_tool_wifi_sniffer_settings">Configuració de l\'analitzador de paquets</string>
     <string name="cit_tool_wifi_tx_ax_gI">Interval de guàrdia:</string>
     <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
@@ -737,11 +735,6 @@ prova fallada!"</string>
     <string name="cit_voc_data_pressure">Pressió</string>
     <string name="cit_voc_data_sensor_check_summary">A continuació, els valors de COV, temperatura, humitat, pressió</string>
     <string name="cit_voc_data_temperature">Temperatura</string>
-    <string name="cit_wifi_address_check_summary">A baix es mostra l\'adreça de la xarxa Wi-Fi a la qual el telèfon està connectat actualment. Confirmeu que és correcta la informació ressaltada en verd.</string>
-    <string name="cit_wifi_address_check_title">Adreça WLAN</string>
-    <string name="cit_wifi_address_error">"No s'ha pogut rebre una adreça Wi-Fi. Assegureu-vos que està activat el senyal Wi-Fi."</string>
-    <string name="cit_wifi_ap_scan_check_summary">Abaix es troba la informació AP Wi-Fi dels dispositius a l\'àrea que s\'han detectat. Confirmeu que la informació ressaltada en verd és correcta.</string>
-    <string name="cit_wifi_ap_scan_check_title">Escaneig Wi-Fi AP</string>
     <string name="cit_wifi_ap_scan_retry">S\'està escanejant una altra vegada&#8230;</string>
     <string name="cit_wifi_ap_scanning">S\'està escanejant&#8230;</string>
     <string name="cit_wifi_fail_to_scan">"No s'han pogut escanejar les xarxes"</string>
