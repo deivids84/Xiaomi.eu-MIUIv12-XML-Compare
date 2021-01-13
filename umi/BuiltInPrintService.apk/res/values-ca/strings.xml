@@ -10,10 +10,8 @@
     <string name="connecting_to">S\'està connectant a %1$s</string>
     <string name="connections">Connexions</string>
     <string name="connects_via_network">Es connecta mitjançant la xarxa actual a %1$s</string>
-    <string name="connects_via_wifi_direct">Es connecta mitjançant Wi-Fi Direct</string>
     <string name="failed_connection">No s\'ha pogut connectar a %1$s</string>
     <string name="failed_printer_connection">No s\'ha pogut connectar a la impressora</string>
-    <string name="find_wifi_direct">Cerca impressores Wi-Fi Direct</string>
     <string name="fix">Permís de revisió</string>
     <string name="forget">Oblida-la</string>
     <string name="hostname_or_ip">Nom d\'amfitrió o adreça IP</string>
@@ -50,8 +48,5 @@
     <string name="title_activity_add_printer">Afegeix una impressora</string>
     <string name="unreadable_input">No s\'ha pogut llegir el document</string>
     <string name="waiting_to_send">En espera d’enviar</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_permission_rationale">Default Print Service necessita el permís d\'ubicació per trobar dispositius propers.</string>
-    <string name="wifi_direct_printers">Impressores Wi-Fi Direct</string>
-    <string name="wifi_direct_printing">Impressió Wi-Fi Direct</string>
 </resources>
