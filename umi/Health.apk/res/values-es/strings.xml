@@ -908,7 +908,6 @@ Empiece de nuevo."</string>
     <string name="need_auto_start_permission">Para obtener estadísticas más precisas, permite a Xiaomi Health iniciarse automáticamente.</string>
     <string name="need_unrestricted_permission">Para obtener estadísticas más precisas, permite a Xiaomi Health ejecutarse siempre en segundo plano.</string>
     <string name="network_connect_failure">"No se pudo conectar a la red. Verifique la configuración de su red e intente nuevamente."</string>
-    <string name="network_name_china">Wi-Fi</string>
     <string name="network_not_available">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="network_not_available2">"No fue posible conectarse a la red"</string>
     <string name="next_step">Siguiente</string>
