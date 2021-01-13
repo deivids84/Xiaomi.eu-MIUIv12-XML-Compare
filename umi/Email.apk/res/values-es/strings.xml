@@ -57,8 +57,6 @@
     <string name="account_setting_message_body_load_head_only">Solo cabecera</string>
     <string name="account_setting_message_body_load_text">Solo cuerpo</string>
     <string name="account_settings_action">Configuración de cuenta</string>
-    <string name="account_settings_background_attachments_summary">Descargar adjuntos usando Wi-Fi</string>
-    <string name="account_settings_background_attachments_summary_inter">Descargar adjuntos usando Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Descargar archivos adjuntos automáticamente</string>
     <string name="account_settings_data_usage">Ajustes de sincronización</string>
     <string name="account_settings_description_label">Nombre de la cuenta</string>
@@ -908,8 +906,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
     <string name="policy_dont_allow_text_messaging">"No permitir mensajes de texto"</string>
     <string name="policy_dont_allow_unsigned_apps">"No permitir aplicaciones sin firmar"</string>
     <string name="policy_dont_allow_unsigned_installers">"No permitir la instalación de aplicaciones sin firmar"</string>
-    <string name="policy_dont_allow_wifi">"No permitir Wi-Fi"</string>
-    <string name="policy_dont_allow_wifi_inter">"No permitir Wi-Fi"</string>
     <string name="policy_html_truncation">Restringir el tamaño del correo HTML</string>
     <string name="policy_require_encryption">Exige cifrado del dispositivo</string>
     <string name="policy_require_manual_sync_roaming">Solo permitir sincronización manual en itinerancia</string>
