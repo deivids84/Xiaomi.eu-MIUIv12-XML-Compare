@@ -70,8 +70,6 @@
     <string name="HIPS_Perm_UDevice_ID_DESC">compartiu amb els desenvolupadors del joc informació parcial del dispositiu per millorar la vostra experiència. D\'acord?</string>
     <string name="HIPS_Perm_VideoRecorder">Accedir a la càmera</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">accedir a la càmera per a la captura d’imatges o vídeos</string>
-    <string name="HIPS_Perm_WIFI_Connectivity">Canviar la connectivitat Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">activar o desactivar la Wi-Fi</string>
     <string name="HIPS_Perm_add_voicemail">Missatges de veu</string>
     <string name="HIPS_Perm_add_voicemail_Desc">afegir missatges de veu del sistema</string>
     <string name="HIPS_Perm_background_start_activity">Mostrar les finestres emergents mentre s’executa en segon pla</string>
