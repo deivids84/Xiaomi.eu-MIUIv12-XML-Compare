@@ -41,7 +41,6 @@
     <string name="abc_slices_permission_request">%1$s quiere mostrar %2$s rebanadas</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_ad_service_instructions">Acerca de los servicios de publicidad y privacidad</string>
-    <string name="about_phone_device_name_warning">El nombre de su dispositivo es visible para sus aplicaciones. Otras personas pueden verlo cuando se conecten a dispositivos Bluetooth o configuren un punto de acceso Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Más información</string>
     <string name="about_settings">Sobre el teléfono</string>
     <string name="about_settings_summary">Ver información legal, estado, versión del software</string>
@@ -131,7 +130,6 @@ Esta opción no funciona con todas las aplicaciones."</string>
     <string name="accessibility_more_settings">Ajustes adicionales</string>
     <string name="accessibility_no_service_selected">No se ha seleccionado ningún servicio</string>
     <string name="accessibility_no_services_installed">No se ha instalado ningún servicio.</string>
-    <string name="accessibility_no_wifi">Desconectado de Wi-Fi.</string>
     <string name="accessibility_notification_vibration_title">Vibración de notificación</string>
     <string name="accessibility_personal_account_title">Cuenta personal (%s)</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
@@ -276,13 +274,8 @@ Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado
     <string name="accessibility_vibration_summary_off">Timbre y notificaciones desactivados</string>
     <string name="accessibility_voice_access_title">Controles de voz</string>
     <string name="accessibility_vpn_settings_info">Configuración del VPN</string>
-    <string name="accessibility_wifi_off">Wi-Fi desactivado.</string>
-    <string name="accessibility_wifi_one_bar">Una barra de señal Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Abrir red</string>
     <string name="accessibility_wifi_security_type_secured">Red segura</string>
-    <string name="accessibility_wifi_signal_full">Señal Wi-Fi al máximo.</string>
-    <string name="accessibility_wifi_three_bars">Tres barras de señal Wi-Fi.</string>
-    <string name="accessibility_wifi_two_bars">Dos barras de señal Wi-Fi.</string>
     <string name="accessibility_work_account_title">Cuenta de trabajo - %s</string>
     <string name="accessibility_work_profile_app_description">%s de trabajo</string>
     <string name="accessor_expires_text">El arrendamiento vence a las %s</string>
@@ -615,7 +608,6 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="app_usage_cycle">Ciclo de uso de datos de la aplicación</string>
     <string name="app_usage_preference">Preferencias de uso de aplicaciones</string>
     <string name="app_version">Versión</string>
-    <string name="app_wifi">Wi-Fi</string>
     <string name="application_data">Aplicaciones</string>
     <string name="application_forbid_auto_startup">Impedir que %s se inicie en segundo plano</string>
     <string name="application_info_label">Información de la aplicación</string>
@@ -795,7 +787,6 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="backup_configure_account_title">Cuenta de copia de seguridad</string>
     <string name="backup_data">Copias de seguridad</string>
     <string name="backup_data_management_title">Gestionar la cuenta de la copia de seguridad</string>
-    <string name="backup_data_summary">Crear copia de seguridad de datos, contraseñas Wi-Fi y otros ajustes en los servidores de Google</string>
     <string name="backup_data_title">Copia de seguridad de mis datos</string>
     <string name="backup_difference_content">"Copias de seguridad locales:
 Las copias de seguridad locales pueden incluir datos de aplicaciones y normalmente contienen más elementos. Los archivos de respaldo se almacenan en MIUI-backup-AllBackup y deben copiarse en una computadora una vez que se completa el proceso de respaldo.
@@ -804,7 +795,6 @@ Copias de seguridad en la nube:
 Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma inalámbrica. Este método es más rápido y fácil que las copias de seguridad locales, pero no puede hacer una copia de seguridad de los datos de la aplicación en Xiaomi Cloud."</string>
     <string name="backup_difference_title">¿En qué se diferencian las copias de seguridad locales de las copias de seguridad en la nube?</string>
     <string name="backup_disabled">Copia de seguridad inhabilitada</string>
-    <string name="backup_erase_dialog_message">¿Detener la copia de contraseñas Wi-Fi, marcadores, otros ajustes y datos de aplicaciones y eliminar también las copias de los servidores de Google?</string>
     <string name="backup_inactive_title">"El servicio de copia de seguridad no está activo"</string>
     <string name="backup_more_settings">Ajustes</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
@@ -843,7 +833,6 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="battery_action_bluetooth">Ajustes de Bluetooth</string>
     <string name="battery_action_display">Ajustes de la pantalla</string>
     <string name="battery_action_stop">Forzar detención</string>
-    <string name="battery_action_wifi">Ajustes Wi-Fi</string>
     <string name="battery_active_for">Activo para ^1</string>
     <string name="battery_auto_restriction_summary">Detectar cuándo las aplicaciones agotan la batería.</string>
     <string name="battery_auto_restriction_title">Use el administrador de batería</string>
@@ -858,7 +847,6 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="battery_desc_unaccounted">Uso de batería variado</string>
     <string name="battery_desc_users">Batería usada por el usuario</string>
     <string name="battery_desc_voice">Batería utilizada por llamadas de voz</string>
-    <string name="battery_desc_wifi">Batería consumida por Wi-Fi</string>
     <string name="battery_detail_background">En segundo plano</string>
     <string name="battery_detail_foreground">En uso activo</string>
     <string name="battery_detail_info_title">Desde la carga completa</string>
@@ -952,7 +940,6 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="battery_stats_phone_signal_label">Señal de red móvil</string>
     <string name="battery_stats_screen_on_label">Pantalla encendida</string>
     <string name="battery_stats_wake_lock_label">Activa</string>
-    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_status_title">Estado de la batería</string>
     <string name="battery_sugg_apps_gps">Selecciona el modo de ahorro de batería</string>
     <string name="battery_sugg_apps_info">Detener o desinstalar la aplicación</string>
@@ -961,7 +948,6 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="battery_sugg_bluetooth_headset">Prueba a conectarte a otro dispositivo Bluetooth.</string>
     <string name="battery_sugg_display">Reduce el brillo y el tiempo que permanece encendida la pantalla.</string>
     <string name="battery_sugg_radio">Cambia a modo avión para ahorrar batería en zonas sin cobertura.</string>
-    <string name="battery_sugg_wifi">"Desactivar Wi-Fi cuando no se esté usando o cuando no esté disponible"</string>
     <string name="battery_suggestion_title">"Mejora la duración de la batería del teléfono"</string>
     <string name="battery_summary">%1$s de uso desde la última carga completa</string>
     <string name="battery_tip_dialog_message">"Su teléfono se ha utilizado más de lo habitual. Su batería puede agotarse antes de lo esperado.
@@ -1176,7 +1162,6 @@ Esto es lo que podría estar mal:
     <string name="bluetooth_notif_ticker">Solicitud de vinculación de Bluetooth</string>
     <string name="bluetooth_notif_title">Solicitud de vinculación</string>
     <string name="bluetooth_off_footer">Encienda Bluetooth para conectarse a otros dispositivos.</string>
-    <string name="bluetooth_on_time">Tiempo de conexión Wi-Fi</string>
     <string name="bluetooth_only_visible_to_paired_devices">Solo visible para dispositivos sincronizados</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectado al servidor de transferencia de archivos</string>
     <string name="bluetooth_opp_profile_summary_not_connected">No conectado al servidor de transferencia de archivos</string>
@@ -1350,7 +1335,6 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_fail">"No se pudo verificar, espera unos minutos e inténtalo de nuevo"</string>
     <string name="bootloader_device_bind_msg">Preparándose para añadir cuenta y dispositivo…</string>
     <string name="bootloader_device_bind_no_account">Primero inicia sesión en tu Cuenta Mi</string>
-    <string name="bootloader_device_bind_no_data_network">Desactiva el Wi-Fi y añade tu cuenta y dispositivo utilizando datos móviles.</string>
     <string name="bootloader_device_bind_no_network">Conéctate a la red e inténtalo de nuevo</string>
     <string name="bootloader_device_bind_no_sim">Inserta tarjeta SIM y vuelve a intentarlo.</string>
     <string name="bootloader_device_bind_server_code">"No se pudo añadir. Código de error:"</string>
@@ -1359,9 +1343,6 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_sim_invalid">Tarjeta SIM inválida. Reemplázala y vuelve a intentarlo.</string>
     <string name="bootloader_locked_answer_1">"Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al modo Fastboot para flashear el dispositivo, puedes desbloquearlo."</string>
     <string name="bootloader_locked_answer_1_warning">"Recuerda: No podrás usar \"Encontrar dispositivo\" después de que el teléfono se desbloquee."</string>
-    <string name="bootloader_locked_answer_2">"1. Asegúrate de haber insertado la tarjeta SIM en tu dispositivo.
-2. Pulsa \"Agregar cuenta\" para asociar tu Cuenta Mi con este dispositivo.
-3. Descarga la herramienta de desbloqueo de nuestro sitio web. Ten presente que debes desbloquear los dispositivos usando un ordenador. Descarga la herramienta aquí:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Toca \ \"Agregar cuenta \" a continuación para asociar su Cuenta Mi con este dispositivo. 2. Descargue la herramienta de desbloqueo desde nuestro sitio web. Ten en cuenta que debe desbloquear dispositivos usando una computadora. Descarga aquí:"</string>
     <string name="bootloader_locked_check_status">Añadir cuenta y dispositivo</string>
     <string name="bootloader_locked_question_1">¿Por qué deberían bloquearse los dispositivos?</string>
@@ -1593,9 +1574,6 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="change_security_lock">Probar otras formas de desbloqueo</string>
     <string name="change_storage">Cambiar almacenamiento</string>
     <string name="change_theme_reboot">Cambiar el tema requiere un reinicio.</string>
-    <string name="change_wifi_state_app_detail_summary">Permita que esta aplicación active o desactive la WLAN, escanee y se conecte a las redes WLAN, agregue o elimine redes o inicie un punto de acceso local</string>
-    <string name="change_wifi_state_app_detail_switch">Permitir que la aplicación controle el Wi-Fi</string>
-    <string name="change_wifi_state_title">Control de Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">A su solicitud, Android está bloqueando la aparición de este grupo de notificaciones en este dispositivo.</string>
     <string name="channel_notifications_off_desc">Android bloquea esta categoría de notificaciones para que no aparezcan en el dispositivo</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
@@ -1651,7 +1629,6 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="close_optimization_message">El formato de texto, cuentas y otras partes de MIUI podrían verse afectadas después de desactivar esta función.</string>
     <string name="close_optimization_option">Desactivar</string>
     <string name="close_privacy_thumbnail_blur_title">"Las vistas previas no se emborronan"</string>
-    <string name="close_slave_wifi_hint">Desconectarse de las redes Wi-Fi auxiliares antes de enviar</string>
     <string name="cloud_backup_section_title">Copia de seguridad Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Ajustes de copia de seguridad</string>
     <string name="cloud_category_text">Nube</string>
@@ -1868,7 +1845,6 @@ Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la
     <string name="create">Crear</string>
     <string name="credential_contains">Esta entrada incluye:</string>
     <string name="credential_for_vpn_and_apps">Instalada para redes VPN y aplicaciones</string>
-    <string name="credential_for_wifi">Instalada para redes Wi-Fi</string>
     <string name="credential_storage_type">Tipo de almacenamiento</string>
     <string name="credential_storage_type_hardware">Almacenado en hardware</string>
     <string name="credential_storage_type_software">Solo software</string>
@@ -1943,7 +1919,6 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
     <string name="custom_carrier_title">Editar nombre de operador</string>
     <string name="custom_color">Personalizado</string>
     <string name="custom_gesture_title">Gestos personalizados</string>
-    <string name="custom_wifi_name_title">Editar nombre de Wi-Fi</string>
     <string name="cutout_mode_always">Mostrar siempre notch</string>
     <string name="cutout_mode_default">Automático</string>
     <string name="cutout_mode_settings_title">Algunas aplicaciones pueden mostrarse incorrectamente si personaliza la forma en que se muestra el notch.</string>
@@ -2055,7 +2030,6 @@ Es posible que algunas cuentas copien también en la Web los cambios que hagas e
     <string name="data_usage_disable_4g_limit">Limitar datos 4G</string>
     <string name="data_usage_disable_mobile">¿Desactivar los datos móviles?</string>
     <string name="data_usage_disable_mobile_limit">Limitar datos móviles</string>
-    <string name="data_usage_disable_wifi_limit">Establecer límite de datos de Wi-Fi</string>
     <string name="data_usage_disclaimer">El uso de datos del operador puede ser diferente al calculado por el dispositivo.</string>
     <string name="data_usage_empty">Ninguna aplicación ha usado datos en este periodo.</string>
     <string name="data_usage_enable_3g">Datos 2G-3G</string>
@@ -2079,23 +2053,17 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="data_usage_menu_restrict_background">Restringir conexiones automáticas</string>
     <string name="data_usage_menu_roaming">Itinerancia de datos</string>
     <string name="data_usage_menu_show_ethernet">Mostrar uso de Ethernet</string>
-    <string name="data_usage_menu_show_wifi">Mostrar uso Wi-Fi</string>
     <string name="data_usage_menu_sim_cards">Tarjetas SIM</string>
     <string name="data_usage_menu_split_4g">Dividir uso de 4G</string>
     <string name="data_usage_metered_auto">Automático</string>
-    <string name="data_usage_metered_body">Indique qué redes WLAN son puntos de acceso portátiles. Se puede restringir el uso de estas redes en segundo plano a las aplicaciones. Las aplicaciones también le notificarán antes de usar estas redes para descargas grandes.</string>
     <string name="data_usage_metered_mobile">Redes móviles</string>
     <string name="data_usage_metered_no">No medido</string>
     <string name="data_usage_metered_title">Restricciones de red</string>
-    <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Para seleccionar puntos de acceso, encienda Wi-Fi.</string>
     <string name="data_usage_metered_yes">Medido</string>
     <string name="data_usage_ota">Actualizaciones del sistema</string>
     <string name="data_usage_other_apps">Otras aplicaciones incluidas en el uso</string>
     <string name="data_usage_pick_cycle_day">Día del mes para restablecer ciclo de uso de datos:</string>
     <string name="data_usage_received_sent">%1$s recibido, %2$s enviado</string>
-    <string name="data_usage_restrict_background">"Si restringes los datos en segundo plano, algunas aplicaciones y servicios no funcionarán correctamente si no estás conectado a una red Wi-Fi."</string>
-    <string name="data_usage_restrict_background_multiuser">"Si restringes los datos en segundo plano, algunas aplicaciones y servicios no funcionarán correctamente si no estás conectado a una red Wi-Fi."</string>
     <string name="data_usage_restrict_background_title">¿Restringir conexiones automáticas?</string>
     <string name="data_usage_restrict_denied_dialog">Solo puedes restringir el uso de datos en segundo plano si estableces un límite de datos móviles.</string>
     <string name="data_usage_summary_format">%1$s de datos usados</string>
@@ -2106,7 +2074,6 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
 \"&lt;font size=\"12\"&gt;aviso&lt;/font&gt;</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
     <string name="data_usage_tab_mobile">Móviles</string>
-    <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_template">%1$s usados entre el %2$s</string>
     <string name="data_usage_title">Información primaria</string>
     <string name="data_usage_total_during_range">%2$s: unos %1$s usados</string>
@@ -2304,8 +2271,6 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="dialog_no">No</string>
     <string name="dialog_restrict_all_mobile_summary">Los datos móviles de la %s estarán restringidos para todas las aplicaciones.</string>
     <string name="dialog_restrict_all_mobile_title">Restringir la conexión de datos móviles de %s</string>
-    <string name="dialog_restrict_all_wlan_summary">La conexión Wi-Fi se restringirá para todas las aplicaciones.</string>
-    <string name="dialog_restrict_all_wlan_title">Restringir la conexión Wi-Fi</string>
     <string name="dialog_restrict_negative">Restringir</string>
     <string name="dialog_restrict_positive">Cancelar</string>
     <string name="dialog_speaker_auto_clean_button">Entendido</string>
@@ -2475,17 +2440,11 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="doze_always_on_title">Siempre en</string>
     <string name="doze_summary">Activar pantalla al recibir notificaciones</string>
     <string name="doze_title">Nuevas notificaciones</string>
-    <string name="dpp_before_share_summary">¿Compartir la red WLAN \"%1$s\" con otra persona?</string>
     <string name="dpp_cannot_connect_target">"No se puede conectar a la red de destino"</string>
     <string name="dpp_connect_success">Conectado con éxito</string>
     <string name="dpp_not_support">"No puedo compartir esta red"</string>
-    <string name="dpp_qr_code_summary">Conéctese a una red WLAN escaneando este código QR.</string>
     <string name="dpp_qrcode_generator_summary">Escanee este código QR con un dispositivo que admita Easy Connect</string>
     <string name="dpp_scanner_summary">Coloque el código QR dentro del marco</string>
-    <string name="dpp_shared_fail">"No se pudo compartir WLAN"</string>
-    <string name="dpp_shared_success">WLAN compartida con éxito</string>
-    <string name="dpp_sharing_wifi_summary">Compartiendo WLAN…</string>
-    <string name="dpp_theme_title">WLAN compartido</string>
     <string name="draw_overlay">Mostrar sobre otras aplicaciones</string>
     <string name="dsu_is_running">DSU se está ejecutando</string>
     <string name="dsu_loader_description">Cargar una imagen de actualización dinámica del sistema</string>
@@ -2499,22 +2458,15 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="dual_clock_hint">\ \"Dual Clock \" se basa en las siguientes funciones: 1. Para la pantalla de bloqueo, asegúrese de estar usando el tema predeterminado o clásico en Configuración&gt; Temas; 2. Para la pantalla de inicio, asegúrese de estar usando el widget de reloj del sistema predeterminado.</string>
     <string name="dual_clock_ok">Lo tengo</string>
     <string name="dual_clock_open_message">El reloj dual se mostrará en la pantalla de bloqueo, pantalla de inicio.</string>
-    <string name="dual_wifi">Aumento de velocidad Wi-Fi de doble banda</string>
     <string name="dual_wifi_acceleration">Aumentar la velocidad</string>
     <string name="dual_wifi_auto_disable">Deja de aumentar la velocidad automáticamente</string>
-    <string name="dual_wifi_auto_disable_summary">Desconectarse de las redes Wi-Fi auxiliares cuando la pantalla está apagada para ahorrar energía</string>
     <string name="dual_wifi_avaliable_slave_wifi">Redes auxiliares disponibles</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Redes auxiliares disponibles (banda de 2.4 GHz)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Redes auxiliares disponibles (banda de 5 GHz)</string>
-    <string name="dual_wifi_enabler_summary">Aumente la velocidad de la Wi-Fi combinando redes</string>
     <string name="dual_wifi_off">Desactivado</string>
     <string name="dual_wifi_on">Activado</string>
-    <string name="dual_wifi_primary_wifi_connected">Red Wi-Fi principal</string>
-    <string name="dual_wifi_slave_wifi_connected">Red Wi-Fi auxiliar</string>
-    <string name="dual_wifi_summary">Aumente la velocidad de la Wi-Fi conectándose a redes auxiliares</string>
     <string name="dual_wifi_switching_not_remind">"No mostrar de nuevo"</string>
     <string name="dual_wifi_switching_prompt">Cambiar entre redes</string>
-    <string name="dual_wifi_switching_summary">El aumento de velocidad de Wi-Fi de doble banda necesita usar dos bandas Wi-Fi diferentes. Si se conecta a una red principal diferente, se perderá la conexión auxiliar.</string>
     <string name="dump_log">Obtener registros de problemas</string>
     <string name="dump_log_summary">"Esta característica está diseñada para generar el registro 284 en versiones alfa y beta de MIUI. Úsalo con precaución.
 	Puede ver los registros generados en el Gestor de archivos."</string>
@@ -2884,7 +2836,6 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="firewall_allow_all">Permitir a todas las aplicaciones conectarse de la siguiente forma</string>
     <string name="firewall_allow_data">Permitir uso de datos móviles</string>
     <string name="firewall_allow_network">Permitir</string>
-    <string name="firewall_allow_wlan">Permitir uso de conexión Wi-Fi</string>
     <string name="firewall_applist">Aplicaciones</string>
     <string name="firewall_mobile">Datos móviles</string>
     <string name="firewall_network_allow">Se permitió a %1$s usar la conexión %2$s</string>
@@ -2897,12 +2848,9 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="firewall_restrict_android_dialog_title">Atención</string>
     <string name="firewall_restrict_data">Restringir uso de datos móviles</string>
     <string name="firewall_restrict_notify_title">"%s no puede usar la red"</string>
-    <string name="firewall_restrict_wlan">Restringir uso de conexión Wi-Fi</string>
     <string name="firewall_set_bg_firewall_default_dialog_summary">"Si restringes las conexión en segundo plano, las nuevas aplicaciones no podrán conectarse a Internet en segundo plano después de instalarlas. Después de esto podrían no recibir mensajes o no descargar contenido. ¿Restringir de todas formas?"</string>
     <string name="firewall_set_bg_firewall_default_dialog_title">Restringir la conexión en segundo plano para las nuevas aplicaciones</string>
     <string name="firewall_temp_rule_reason">%2$s restringió la conexión a Internet para %1$s</string>
-    <string name="firewall_wifi">Wi-Fi</string>
-    <string name="firewall_wifi_dialog_message">"La aplicación instalada no podrá conectarse a Internet con Wi-Fi cuando este interruptor esté desactivado."</string>
     <string name="firmware_version">Versión de Android</string>
     <string name="flash_drive_backup_disable">Conecta primero la unidad USB</string>
     <string name="flash_drive_backup_enable">Use una unidad USB para hacer una copia de seguridad o restaurar elementos</string>
@@ -3002,12 +2950,9 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="free_wifi_confirm">Aceptar</string>
     <string name="free_wifi_connect">Conectar</string>
     <string name="free_wifi_connect_dialog_summary">%1$s proporcionado por %2$s.</string>
-    <string name="free_wifi_connect_dialog_title">Red Wi-Fi disponible</string>
     <string name="free_wifi_connect_fail">"No es posible conectar a la red. Comprueba tu conexión y vuelve a intentarlo."</string>
     <string name="free_wifi_connect_fail2">"No se puede acceder. Espera un par de minutos e inténtalo de nuevo."</string>
     <string name="free_wifi_connect_summary">Pulsa para conectar a %1$s.</string>
-    <string name="free_wifi_connect_title">Red Wi-Fi disponible</string>
-    <string name="free_wifi_connected">Conectado a una red Wi-Fi gratuita</string>
     <string name="free_wifi_connected_time">Duración： %1$s</string>
     <string name="free_wifi_connecting">Conectando…</string>
     <string name="free_wifi_login_again">Acceder de nuevo</string>
@@ -3039,14 +2984,8 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="full_screen_keyboard_optimization">Mejorar teclado</string>
     <string name="full_screen_keyboard_settings">Ajustes de teclado en pantalla completa</string>
     <string name="full_transparent_smarrcover_title">Cubierta frontal transparente</string>
-    <string name="fullbackup_data_summary">"Realiza una copia de seguridad automática de los datos del dispositivo (como las contraseñas de redes Wi-Fi y el historial de llamadas) y de los datos de las aplicaciones (como sus ajustes y archivos guardados) de forma remota.
-
-Al activar la copia de seguridad automática, los datos del dispositivo y de las aplicaciones se guardan periódicamente de forma remota. Los datos de las aplicaciones pueden ser cualquier tipo de información que guarden (en función de los ajustes de los desarrolladores), incluidos los datos que pueden ser confidenciales (como contactos, mensajes y fotos)."</string>
-    <string name="fullbackup_erase_dialog_message">¿Quieres detener la copia de seguridad de los datos del dispositivo (como las contraseñas de redes Wi-Fi y el historial de llamadas) y de las aplicaciones (como la configuración y los archivos guardados) y borrar todas las copias de los servidores remotos?</string>
     <string name="function_description">Acerca de esta característica</string>
     <string name="gadget_picker_title">Seleccionar gadget</string>
-    <string name="gadget_toggle_wifi">Actualizando ajustes Wi-Fi</string>
-    <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Tus fotos privadas se almacenarán aquí.</string>
     <string name="game_booster">Juego; Juegos; Turbo; Juegos; modo de juego</string>
     <string name="game_booster_title">Juego Turbo</string>
@@ -3100,7 +3039,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="graphics_driver_dashboard_summary">Modificar la configuración del controlador de gráficos</string>
     <string name="graphics_driver_dashboard_title">Preferencias del controlador de gráficos</string>
     <string name="graphics_driver_footer_text">Cuando hay varios controladores de gráficos, puede optar por utilizar el controlador de gráficos actualizado para las aplicaciones instaladas en el dispositivo.</string>
-    <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Modo de red</string>
     <string name="gsm_umts_network_preferences_title">Modo de red</string>
     <string name="guest_exit_guest">Eliminar invitado</string>
@@ -3574,7 +3512,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="keywords_voice_input">herramienta de reconocimiento, entrada, síntesis de voz, hablar, idioma, manos libres, reconocimiento, ofensiva, palabra, audio, historial, auriculares bluetooth</string>
     <string name="keywords_vr_listener">rv realidad virtual procesador estéreo servicio ayuda</string>
     <string name="keywords_wallpaper">fondo, pantalla, pantalla de bloqueo, tema</string>
-    <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;WLAN</string>
     <string name="keywords_wifi_calling">wifi, wi-fi, llamada, llamadas</string>
     <string name="keywords_wifi_data_usage">Uso de datos</string>
     <string name="keywords_wifi_display_settings">espejo</string>
@@ -3651,7 +3588,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lights_title">Notificación LED</string>
     <string name="line_breaking_summary">Optimizar los saltos de línea del párrafo</string>
     <string name="line_breaking_title">Optimizar texto</string>
-    <string name="link_turbo_prompt">"\"Las estadísticas en esta página muestran solo la cantidad de datos utilizados para aumentar la velocidad de conexión Wi-Fi. Estas estadísticas no reflejan el uso real de datos móviles\"."</string>
     <string name="link_turbo_settings_all_app_display_loading">Un momento…</string>
     <string name="link_turbo_settings_all_app_reach_max">Puedes seleccionar hasta 15 aplicaciones</string>
     <string name="link_turbo_usage_state_month">Este mes</string>
@@ -3714,9 +3650,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_gps">Satélites GPS</string>
     <string name="location_high_battery_use">Uso de batería elevado</string>
     <string name="location_low_battery_use">Poco uso de batería</string>
-    <string name="location_mode_battery_saving_description">Usa Wi-Fi y redes móviles para determinar la ubicación</string>
     <string name="location_mode_battery_saving_title">Ahorro de batería</string>
-    <string name="location_mode_high_accuracy_description">Usar GPS, Wi-Fi y redes móviles para determinar la ubicación</string>
     <string name="location_mode_high_accuracy_title">Alta precisión</string>
     <string name="location_mode_location_off_title">Ubicación desactivada</string>
     <string name="location_mode_screen_title">Modo de ubicación</string>
@@ -3724,9 +3658,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_mode_sensors_only_title">Solo dispositivo</string>
     <string name="location_modem_summary">Los operadores conocerán su ubicación a través de estaciones base</string>
     <string name="location_modem_title">Compartir información de tu ubicación con tu proveedor de servicios</string>
-    <string name="location_neighborhood_level">Permitir que las aplicaciones usen datos de redes móviles y Wi-Fi para determinar tu ubicación</string>
-    <string name="location_neighborhood_level_wifi">Ubicación determinada por Wi-Fi</string>
-    <string name="location_network_based">Wi-Fi y red móvil</string>
     <string name="location_no_recent_accesses">Ninguna aplicación ha accedido recientemente a la ubicación</string>
     <string name="location_no_recent_apps">Ninguna aplicación ha solicitado la ubicación recientemente</string>
     <string name="location_recent_location_access_view_details">Ver detalles</string>
@@ -4329,7 +4260,6 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="mobile_connect_to_internet">Debes conectarte a Internet</string>
     <string name="mobile_data_active">Datos móviles activados</string>
     <string name="mobile_data_always_on">Datos móviles siempre activos</string>
-    <string name="mobile_data_always_on_summary">Mantener siempre activos los datos móviles, también cuando Wi‑Fi esté activo (para cambio rápido de red).</string>
     <string name="mobile_data_ap_mode_disabled">No están disponibles en modo avión</string>
     <string name="mobile_data_off">Datos móviles desactivados</string>
     <string name="mobile_data_settings_summary">Acceder a los datos con la red móvil</string>
@@ -4530,7 +4460,6 @@ Selecciona tu sistema operativo:"</string>
     <string name="network_alarm_support_apps">Aplicaciones compatibles</string>
     <string name="network_assistant">Uso de datos</string>
     <string name="network_changed_noti_summary">Usando datos móviles</string>
-    <string name="network_changed_noti_title">Desconectado de Wi-Fi</string>
     <string name="network_connected">Conectado</string>
     <string name="network_connecting">Conectando…</string>
     <string name="network_connection_connect_successful">Se ha conectado correctamente</string>
@@ -4684,10 +4613,8 @@ Selecciona tu sistema operativo:"</string>
     <string name="no_default_home">No seleccionada</string>
     <string name="no_device_admins">No hay aplicaciones de administrador de dispositivos disponibles</string>
     <string name="no_internet_access_remember">No volver a preguntar por esta red</string>
-    <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a Internet. ¿Permanecer conectado?</string>
     <string name="no_media_button_receiver">No</string>
     <string name="no_memory_use_summary">No se ha usado memoria durante las últimas 3 horas</string>
-    <string name="no_nearby_wifi">"No hay redes disponibles"</string>
     <string name="no_notification_assistant">Nada</string>
     <string name="no_notification_listeners">Ninguna aplicación instalada ha solicitado acceso a las notificaciones.</string>
     <string name="no_running_services">No hay nada en ejecución.</string>
@@ -5025,9 +4952,6 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="partial_connectivity_text">Algunas apps y servicios no funcionan por la conectividad limitada. ¿Quieres usarla de todos modos?</string>
     <string name="passpoint_content">Credenciales de %1$s</string>
     <string name="passpoint_label">Guardada a través de</string>
-    <string name="passpoint_r1_privacy_dialog_message">"Este servicio WLAN es proporcionado por exands. Le permite conectarse automáticamente a puntos de acceso cercanos compatibles.
-
-Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="passpoint_r1_privacy_dialog_no">Salir</string>
     <string name="passpoint_r1_privacy_dialog_title">Atención</string>
     <string name="passpoint_r1_privacy_dialog_url_text">\"amplía la política de privacidad\"</string>
@@ -5193,7 +5117,6 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="power_usage_summary">Consumo de la batería</string>
     <string name="power_usage_summary_title">Batería y rendimiento</string>
     <string name="power_usage_summary_title_new">Batería</string>
-    <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicaciones preinstaladas</string>
     <string name="pref_bg_network_title">Datos en segundo plano</string>
     <string name="pref_button_light">Luz de los botones</string>
@@ -5490,7 +5413,6 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="radioInfo_service_off">Señal móvil desactivada</string>
     <string name="radioInfo_service_out">Fuera de servicio</string>
     <string name="radioInfo_unknown">Desconocido</string>
-    <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, modo avión, Redes móviles y VPN</string>
     <string name="radio_controls_title">Más</string>
     <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
     <string name="radio_info_http_client_test">Prueba de cliente HTTP:</string>
@@ -5578,8 +5500,6 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="reset_network_final_button_text">Restablecer ajustes</string>
     <string name="reset_network_final_desc">"¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer."</string>
     <string name="reset_network_final_desc_esim">¿Quieres restablecer todos los ajustes de red y borrar todas las SIM descargadas? No podrás deshacer esta acción.</string>
-    <string name="reset_network_title">Restablecer ajustes de red</string>
-    <string name="reset_network_wifi">Wi‑Fi</string>
     <string name="reset_remove_data_hint">Todos los elementos mencionados arriba serán borrados permanentemente. Respalda todos los elementos importantes en tu ordenador o en Xiaomi Cloud antes de continuar.</string>
     <string name="reset_second_space_passwd">Restablecer la contraseña del Segundo espacio</string>
     <string name="reset_second_space_passwd_cancel">Cancelar</string>
@@ -5625,8 +5545,6 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="restriction_nfc_enable_summary_config">Permitir el intercambio de datos cuando este %1$s toque otro dispositivo NFC</string>
     <string name="restriction_nfc_enable_title">NFC</string>
     <string name="restriction_settings_title">Restricciones</string>
-    <string name="restriction_wifi_config_summary">Permitir modificar Wi-Fi y ajustes de red móvil</string>
-    <string name="restriction_wifi_config_title">Wi-Fi y redes móviles</string>
     <string name="retail_demo_reset_message">Introcir contraseña para realizar un reseteo de fábrica en modo demo</string>
     <string name="retail_demo_reset_next">Siguiente</string>
     <string name="retail_demo_reset_title">Contraseña requerida</string>
@@ -5698,10 +5616,6 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="saved_wifi">Gestionar redes guardadas</string>
     <string name="saved_wifi_delete">Borrar</string>
     <string name="scan_list_label">Resultados de escaneo:</string>
-    <string name="scanning_status_text_wifi_off_ble_off">Las redes Wi‑Fi y las conexiones Bluetooth tienen la búsqueda desactivada</string>
-    <string name="scanning_status_text_wifi_off_ble_on">La búsqueda de conexiones Bluetooth está activada y la de redes Wi‑Fi, desactivada</string>
-    <string name="scanning_status_text_wifi_on_ble_off">La búsqueda de redes Wi‑Fi está activa y la de conexiones Bluetooth, desactivada</string>
-    <string name="scanning_status_text_wifi_on_ble_on">Las redes Wi‑Fi y las conexiones Bluetooth tienen la búsqueda activada</string>
     <string name="screen">Pantalla</string>
     <string name="screen_cancel">Cancelar</string>
     <string name="screen_color_and_optimize">Colores y contraste</string>
@@ -5939,7 +5853,6 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_accessibility_settings">Accesibilidad</string>
     <string name="search_account_list">Otras cuentas;Cuentas;Cuentas</string>
     <string name="search_add_facerecoginition_text">Desbloqueo facial; Reconocimiento facial</string>
-    <string name="search_advanced_settings">Ajustes avanzados;Wifi;Ajustes Wifi;Ajustes WLAN</string>
     <string name="search_airplane_mode">Modo avión;Modo avión;Modo vuelo;Avión;Avión;Vuelo</string>
     <string name="search_alarm_sound_title">Sonido de alarma;Tono de alarma;Alarma</string>
     <string name="search_ambient_display_screen_title">Pantalla ambiental</string>
@@ -6029,7 +5942,6 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_oldman_mode_entry_name">Modo simplificado;Modo edad avanzada;Modo simplificado</string>
     <string name="search_onekey_migrate">Transferir;Mi Transferencia</string>
     <string name="search_other_advanced_settings">Ajustes adicionales;Más ajustes</string>
-    <string name="search_other_settings_sync_settings">Sincronización; Automático; solo WLAN</string>
     <string name="search_owner_info_settings_title">Información del propietario</string>
     <string name="search_page_layout_settings">Tamaño del texto;Tamaño de fuente;Pequeño;Grande;Mediano;XXL;Enorme;Tamaños de fuente</string>
     <string name="search_permission_manager">Permisos;Acceso root;Descargar;Descargas</string>
@@ -6082,7 +5994,6 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Cerrar al tocar;cerrar;ocultar</string>
     <string name="search_status_bar_settings_toggle_position">Cambiar posiciones;Interruptores;Cambiar;Cambiar interruptores</string>
     <string name="search_storage_settings">Limpiador;Limpiar caché;Caché</string>
-    <string name="search_sync_settings">Sincronizar;Automático;Solo Wi-Fi</string>
     <string name="search_system_app_settings">Aplicaciones del sistema</string>
     <string name="search_theme_settings_title">Temas;Tema;Personalización;Personalizar</string>
     <string name="search_title_font_settings">tamaño de fuente; peso de fuente; estilo de fuente</string>
@@ -6104,20 +6015,11 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_vpn_settings_title">VPN;Añadir VPN;Activar VPN</string>
     <string name="search_wakeup_for_keyguard_notification_title">Encender pantalla para notificaciones entrantes;encender pantalla;encender dispositivo;encender teléfono</string>
     <string name="search_wallpaper_settings_title">Fondo de pantalla;Pantalla de inicio;Pantalla de bloqueo</string>
-    <string name="search_wfd_settings_title">Pantalla inalámbrica;Activar pantalla inalámbrica</string>
     <string name="search_wifi_advanced_ip_address_title">Dirección IP;IP</string>
-    <string name="search_wifi_advanced_mac_address_title">Dirección MAC Wi-Fi;Dirección MAC WLAN</string>
-    <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Activar Wifi;Activar Wi-fi;Activar WLAN</string>
     <string name="search_wifi_install_credentials">Instalar certificados;Certificados</string>
-    <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
     <string name="search_wifi_menu_wps_pin">PIN de entrada WPS;WPS;PIN WPS</string>
-    <string name="search_wifi_scan_always_available">Escaneo siempre disponible;Escanear redes;Escanear Wifi;Escanear WLAN</string>
-    <string name="search_wifi_setting_frequency_band_title">Frecuencia Wi-Fi de la banda;Frecuencia Wi-Fi;Frecuencia Wi-Fi;Frecuencia WLAN;Frecuencia de la banda</string>
-    <string name="search_wifi_setting_sleep_policy_title">Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener WLAN en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener Wi-Fi en tiempo de sueño;Mantener WLAN en tiempo de sueño</string>
-    <string name="search_wifi_settings_title">Wifi;Wi-Fi;Ajustes avanzados;WLAN;Redes inalámbricas;Inalámbrico</string>
     <string name="search_wifi_tether_checkbox">Punto de acceso portátil;punto de acceso;portátil</string>
     <string name="search_wifi_tether_configure_ap_text">Establecer punto de acceso portátil;Establecer punto de acceso;Añadir punto de acceso;configurar punto de acceso</string>
-    <string name="search_wifi_tether_settings_title">Anclaje de red &amp; punto de acceso portátil;Conectar;compartir internet;punto de acceso WLAN;punto de acceso wifi;punto de acceso WLAN</string>
     <string name="search_wifi_wapi_cert_install">Instalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wps_connect_title">Botón WPS;Conectar WPS;WPS</string>
@@ -6367,7 +6269,6 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="share_remote_bugreport_dialog_message">Tu administrador de TI ha solicitado un informe de errores para solucionar problemas de este dispositivo. Es posible que se compartan las aplicaciones y los datos. Puede que el dispositivo funcione más lento de forma temporal.</string>
     <string name="share_remote_bugreport_dialog_message_finished">Tu administrador de TI ha solicitado un informe de errores para solucionar problemas de este dispositivo. Es posible que se compartan las aplicaciones y los datos.</string>
     <string name="share_remote_bugreport_dialog_title">¿Compartir informe de errores?</string>
-    <string name="share_this_wifi">Extender la cobertura WLAN</string>
     <string name="shared_data_delete_failure_text">Se produjo un error al eliminar los datos compartidos.</string>
     <string name="shared_data_no_accessors_dialog_text">No hay arrendamientos adquiridos para estos datos compartidos. ¿Quieres borrarlo?</string>
     <string name="shared_data_no_blobs_text">No hay datos compartidos para este usuario.</string>
@@ -6420,7 +6321,6 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar feedback visual para toques</string>
     <string name="show_user_info_on_lockscreen_label">Mostrar info del usuario en la pantalla de bloqueo</string>
-    <string name="show_wifi_name_title">Mostrar WLAN</string>
     <string name="shut_down_find_device_failure_confirm">Aceptar</string>
     <string name="shut_down_find_device_network_failure_content">"No se pudo desactivar Encontrar dispositivo. Asegúrate de que tu dispositivo tiene una conexión a Internet."</string>
     <string name="shut_down_find_device_network_failure_title">"No es posible conectarse a la red"</string>
@@ -6704,7 +6604,6 @@ Esto es posible por medio de una credencial de confianza instalada en tu disposi
     <string name="status_unavailable">No disponible</string>
     <string name="status_up_time">Tiempo de actividad</string>
     <string name="status_voice_network_type">Tipo de red de voz móvil</string>
-    <string name="status_wifi_mac_address">Dirección MAC de Wi-Fi</string>
     <string name="storage_category">Almacenamiento</string>
     <string name="storage_detail_apps">Aplicaciones</string>
     <string name="storage_detail_audio">Sonido</string>
@@ -7007,8 +6906,6 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
 un servicio de Google que te permite sincronizar datos para que puedas acceder a tus contactos, a tus citas, etc., desde cualquier ubicación.\"</string>
     <string name="sync_settings">Sincronizar</string>
     <string name="sync_success">Sincronizado exitosamente</string>
-    <string name="sync_wifi_label">Wi-Fi</string>
-    <string name="sync_wifi_only">Solo Wi-Fi</string>
     <string name="system">Sistema</string>
     <string name="system_alert_window_access_title">Mostrar sobre otras aplicaciones</string>
     <string name="system_alert_window_apps_title">Aplicaciones</string>
@@ -7046,7 +6943,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="testing_phone_info">Información sobre el teléfono</string>
     <string name="testing_sim_toolkit">Kit de herramientas SIM</string>
     <string name="testing_usage_stats">Estadísticas de uso</string>
-    <string name="testing_wifi_info">Información WLAN</string>
     <string name="tether_and_hotspot_title">Anclaje de red &amp; punto de acceso portátil</string>
     <string name="tether_auto_disable_summary">Apagar el punto de acceso automáticamente cuando no hay dispositivos conectados</string>
     <string name="tether_auto_disable_title">Desactivar el punto de acceso automáticamente</string>
@@ -7134,7 +7030,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="toast_apply_font_fail">"No se puede establecer la fuente"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduce la contraseña</string>
     <string name="toast_need_login">Iniciar sesión en Cuenta Mi</string>
-    <string name="toast_sta_ap_works_wifi_display_disable">"No se puede emitir cuando se establece la conexión WLAN y el punto de acceso está activado."</string>
     <string name="toggle_auto_speaker_preference_summary">El dispositivo cambiará a altavoz cuando lo aleje de su oído durante las llamadas. Esta función solo funciona cuando TalkBack está activado.</string>
     <string name="toggle_auto_speaker_preference_title">Cambiar al altavoz automáticamente</string>
     <string name="toggle_collapse_after_clicked_title">Cerrarse al tocar</string>
@@ -7423,8 +7318,6 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="usage_type_cpu_foreground">Primer plano de la CPU</string>
     <string name="usage_type_data_recv">Paquetes móviles recibidos</string>
     <string name="usage_type_data_send">Paquetes móviles enviados</string>
-    <string name="usage_type_data_wifi_recv">Datos recibidos por Wi-Fi</string>
-    <string name="usage_type_data_wifi_send">Datos enviados por Wi-Fi</string>
     <string name="usage_type_flashlight">Linterna</string>
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_no_coverage">Tiempo sin señal</string>
@@ -7434,7 +7327,6 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="usage_type_total_battery_capacity">Capacidad total de la batería</string>
     <string name="usage_type_video">Vídeo</string>
     <string name="usage_type_wake_lock">Activo</string>
-    <string name="usage_type_wifi_running">Wi-Fi activado</string>
     <string name="usagestats_app_category_miui_financial">Financiar</string>
     <string name="usagestats_app_category_miui_game">Juegos</string>
     <string name="usagestats_app_category_miui_life">Estilo de vida</string>
@@ -7552,11 +7444,6 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="user_add_user_item_summary">Los usuarios tienen contenido y aplicaciones propios</string>
     <string name="user_add_user_item_title">Usuario</string>
     <string name="user_add_user_menu">Añadir usuario</string>
-    <string name="user_add_user_message_long">"Puedes compartir este dispositivo con otras personas creando usuarios adicionales. Cada usuario tiene su propio espacio, que puede personalizar con sus propias aplicaciones, fondos de pantalla, etc. Los usuarios también pueden modificar ajustes del dispositivo, como una red Wi-Fi, que afectarán a todos.
-
-Después de crear un nuevo usuario, éste debe seguir el proceso de configuración.
-
-Cualquier usuario puede aceptar los permisos de una aplicación actualizada en nombre de todos los demás usuarios."</string>
     <string name="user_add_user_message_short">"Al añadir un usuario nuevo, este debe configurar su espacio.
 
 Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</string>
@@ -7908,7 +7795,6 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wfd_disconnect_diag_msg">¿Desconectar de %1$s?</string>
     <string name="wfd_disconnect_diag_title">¿Desconectar pantalla?</string>
     <string name="wfd_disconnect_multiple_diag_message">¿Desconectar de %1$s y %2$s otros dispositivos?</string>
-    <string name="wfd_enable_wifi_diag_title">¿Activar Wi-Fi?</string>
     <string name="wfd_enabler_title">Pantalla inalámbrica</string>
     <string name="wfd_menu_search">Buscar dispositivos</string>
     <string name="wfd_menu_searching">Buscando…</string>
@@ -7924,8 +7810,6 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="whetstone_level_reboot_OK">Reiniciar</string>
     <string name="whetstone_level_title">Optimización de memoria</string>
     <string name="widget_picker_title">Seleccionar widget</string>
-    <string name="wifi">Wi-Fi</string>
-    <string name="wifi_access_points">Redes Wi-Fi</string>
     <string name="wifi_add_app_network_save_failed_summary">No puedo guardar. Inténtalo de nuevo.</string>
     <string name="wifi_add_app_networks_saved_summary">Redes guardadas</string>
     <string name="wifi_add_app_networks_saving_summary">Guardando %d redes…</string>
@@ -7942,7 +7826,6 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_advanced_randomized_mac_address_title">Dirección MAC aleatoria</string>
     <string name="wifi_advanced_settings_label">Ajustes de IP</string>
     <string name="wifi_advanced_ssid_title">SSID</string>
-    <string name="wifi_advanced_titlebar">Ajustes avanzados Wi-Fi</string>
     <string name="wifi_advanced_toggle_description">Lista desplegable Opciones avanzadas</string>
     <string name="wifi_advanced_toggle_description_collapsed">Lista desplegable Opciones Avanzadas. Tócala dos veces para mostrarla.</string>
     <string name="wifi_ap_2G">2,4 GHz</string>
@@ -7959,37 +7842,23 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_ap_ssid_off">Desactivado</string>
     <string name="wifi_ap_ssid_on">Activado</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punto de acceso temporalmente lleno</string>
-    <string name="wifi_api_test">API Wi-Fi</string>
-    <string name="wifi_ask_disable">%s quiere desactivar la conexión Wi-Fi</string>
-    <string name="wifi_ask_enable">%s quiere activar la conexión Wi-Fi</string>
-    <string name="wifi_assist">Asistente Wi-Fi</string>
     <string name="wifi_assistant">Asistente Wi-Fi</string>
-    <string name="wifi_assistant_auto_confirm_data_help">Puedes desactivar esta función en Ajustes &gt; Wi-Fi &gt; Asistente Wi-Fi.</string>
-    <string name="wifi_assistant_auto_confirm_data_message">"\"Usa redes móviles cuando tu dispositivo no pueda conectarse a Internet a través de Wi-Fi\"."</string>
     <string name="wifi_assistant_confirm_always">"No mostrar de nuevo"</string>
     <string name="wifi_assistant_confirm_connection_title">Confirmar</string>
     <string name="wifi_assistant_data_prompt">Mostrar alertas de uso de datos</string>
     <string name="wifi_assistant_data_prompt_summary">Mostrar alerta de uso de datos cuando el asistente Wi-Fi cambie a datos móviles</string>
-    <string name="wifi_assistant_description">"Así funciona el asistente Wi-Fi:
-1. Cuando la conexión Wi-Fi es débil, el asistente intentará conectar tu dispositivo con otras redes Wi-Fi disponibles.
-2. Si todas las redes Wi-Fi disponibles son débiles y los datos móviles están activados, el asistente cambiará a datos móviles."</string>
     <string name="wifi_assistant_disconnect">Desconectar</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">"Esta red no tiene acceso a Internet. ¿Usar datos móviles?"</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">"Esta red Wi-Fi no tiene acceso a Internet. ¿Desconectar?"</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">"Esta red no tiene acceso a Internet. Hay otras redes Wi-Fi disponibles. ¿Cambiar redes?"</string>
     <string name="wifi_assistant_keep_connection">Permanecer conectado</string>
     <string name="wifi_assistant_off">Desactivado</string>
     <string name="wifi_assistant_ok">Aceptar</string>
     <string name="wifi_assistant_on">Activado</string>
     <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
-    <string name="wifi_assistant_summary">Cambiar entre redes Wi-Fi y datos móviles cuando la conexión Wi-Fi sea débil</string>
     <string name="wifi_assistant_switch_data">Usar datos móviles</string>
     <string name="wifi_assistant_switch_wifi">Cambiar de red</string>
     <string name="wifi_auto_connect">Conectarse automáticamente</string>
     <string name="wifi_auto_connect_summary">Permitir que el teléfono se conecte automáticamente cerca de esta red</string>
     <string name="wifi_auto_connect_title">Autoconectar</string>
     <string name="wifi_auto_sel_wapi_cert">Seleccionar automáticamente</string>
-    <string name="wifi_available_title">Conectar a Wi-Fi</string>
     <string name="wifi_avoid_poor_network_detection_summary">Solo usar redes con buena conexión a Internet</string>
     <string name="wifi_band_24ghz">2,4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
@@ -8001,12 +7870,10 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_calling_mode_wifi_only_summary">Llamar a través de Wi‑Fi. Si se pierde conexión, se cortará la llamada.</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">Si la red Wi‑Fi no está disponible, utiliza la red móvil</string>
     <string name="wifi_calling_not_supported">Las llamadas WLAN no son compatibles con %1$s</string>
-    <string name="wifi_calling_off_explanation">Si has activado las llamadas Wi-Fi, tu teléfono puede establecer las llamadas por redes Wi-Fi o por la red de tu operador, en función de la preferencia que hayas establecido y de qué señal tenga más potencia. Antes de activar esta función, consulta con tu proveedor las tarifas aplicables y otros detalles.</string>
     <string name="wifi_calling_pref_managed_by_carrier">Configuración gestionada por el operador</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Preferencia de itinerancia</string>
     <string name="wifi_calling_roaming_mode_title">Preferencia de itinerancia</string>
     <string name="wifi_calling_settings_activation_instructions">Activar llamadas WLAN</string>
-    <string name="wifi_calling_settings_title">Llamadas Wi-Fi</string>
     <string name="wifi_calling_suggestion_summary">Utiliza una red Wi-Fi en lugar de la red móvil</string>
     <string name="wifi_calling_suggestion_title">Activa la Llamada por Wi-Fi</string>
     <string name="wifi_calling_summary">Usar Wi‑Fi en las llamadas para mejorar la calidad</string>
@@ -8022,32 +7889,24 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_check_password_try_again">Verifique la contraseña y vuelva a intentarlo</string>
     <string name="wifi_click_login_wlan">Se requiere inicio de sesión/autorización</string>
     <string name="wifi_click_share_wlan">Toca para compartir la contraseña</string>
-    <string name="wifi_config_info">Ajustes Wi-Fi</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_off">"La conexión Wi-Fi no vuelve a activarse automáticamente"</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_on">La conexión Wi-Fi se vuelve a activar automáticamente</string>
     <string name="wifi_configure_settings_preference_title">Preferencias de Wi-Fi</string>
     <string name="wifi_configured_ap_list">Puntos de acceso previamente configurados</string>
     <string name="wifi_connect">Conectar</string>
-    <string name="wifi_connect_channel">Canal WLAN:</string>
     <string name="wifi_connect_cmcc_dialog_cancel">Cancelar</string>
     <string name="wifi_connect_cmcc_dialog_confirm">Aceptar</string>
     <string name="wifi_connect_cmcc_dialog_content">"Conectado a la red de datos móviles. Si sobrepasas tu límite de datos, tu operador podría aplicar cargos adicionales."</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">"No mostrar de nuevo"</string>
     <string name="wifi_connect_cmcc_dialog_title">CMCC conectada</string>
-    <string name="wifi_connect_failed_message">"No se pudo conectar a la red Wi-Fi"</string>
-    <string name="wifi_connect_frequency">Frecuencia WLAN:</string>
     <string name="wifi_connected_mac_randomization">Aleatorización de MAC conectada</string>
     <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
     <string name="wifi_connected_to_message">Conectado a %1$s</string>
     <string name="wifi_connecting">Conectando…</string>
-    <string name="wifi_connection_management">Administrar conexiones Wi-Fi</string>
     <string name="wifi_context_menu_change_password">Cambiar la contraseña</string>
     <string name="wifi_context_menu_change_wapi_certificate">Cambiar certificado WAPI</string>
     <string name="wifi_context_menu_connect">Conectar</string>
     <string name="wifi_context_menu_forget">Olvidar</string>
-    <string name="wifi_coverage_extend">Activar extensión de cobertura WLAN</string>
-    <string name="wifi_coverage_extend_summary">Amplíe la cobertura WLAN usando un punto de acceso</string>
-    <string name="wifi_data_template">Datos Wi-Fi: ^1</string>
     <string name="wifi_data_usage">Uso de datos con Wi-Fi</string>
     <string name="wifi_datanetwork_switch_not_remind">"No mostrar de nuevo"</string>
     <string name="wifi_details_dns">DNS</string>
@@ -8055,19 +7914,13 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_details_subnet_mask">Máscara de subred</string>
     <string name="wifi_details_title">Detalles de la red</string>
     <string name="wifi_dialog_remind_type_title">Red de datos móviles</string>
-    <string name="wifi_direct_close_hotspot_hint">Apague el punto de acceso portátil antes de usar Wi-Fi Direct</string>
-    <string name="wifi_direct_close_slave_wifi_hint">Desconéctese de la Wi-Fi auxiliar antes de usar Wi-Fi Direct</string>
     <string name="wifi_disabled_by_recommendation_provider">Sin conectar debido a la baja calidad de la red</string>
     <string name="wifi_disabled_generic">Deshabilitado</string>
-    <string name="wifi_disabled_help">Red Wi-Fi desconectada por tener una conexión débil</string>
     <string name="wifi_disabled_network_failure">"No se puede configurar la IP"</string>
     <string name="wifi_disabled_password_failure">Fallo de autenticación</string>
-    <string name="wifi_disabled_wifi_failure">"No se pudo conectar a la red Wi-Fi"</string>
     <string name="wifi_disconnect_button_text">Desconectar</string>
     <string name="wifi_disconnected">Desconectado</string>
     <string name="wifi_disconnected_from">Desconectado de %1$s</string>
-    <string name="wifi_disconnected_notification_summary">"No estás conectado a Wi-Fi."</string>
-    <string name="wifi_disconnected_notification_title">Wi-Fi desconectado</string>
     <string name="wifi_display_autonomous_go">Activar GO autónomo</string>
     <string name="wifi_display_certification">Certificación de pantalla inalámbrica</string>
     <string name="wifi_display_certification_heading">Certificación</string>
@@ -8085,7 +7938,6 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_display_pause">Pausar</string>
     <string name="wifi_display_resume">Continuar</string>
     <string name="wifi_display_session_info">Información de la sesión</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">"No se puede usar la pantalla inalámbrica cuando el Wi-Fi está desactivado"</string>
     <string name="wifi_display_settings_title">Enviar pantalla</string>
     <string name="wifi_display_status_connected">Conectada</string>
     <string name="wifi_display_status_connecting">Conectando</string>
@@ -8144,9 +7996,6 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_eap_sim_simcard">Seleccionar SIM</string>
     <string name="wifi_eap_user_cert">Certificado de usuario</string>
     <string name="wifi_empty_list_user_restricted">"No tienes permiso para cambiar esta red."</string>
-    <string name="wifi_empty_list_wifi_off">Para ver las redes disponibles, activa la conexión Wi-Fi</string>
-    <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
-    <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Evitar conexiones débiles</string>
     <string name="wifi_enhanced_handover">Entrega mejorada</string>
     <string name="wifi_enhanced_handover_summary">Cambie rápidamente entre AP con el mismo método de cifrado</string>
@@ -8166,8 +8015,6 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_generation">Usar iconos específicos de cada generación</string>
     <string name="wifi_generation_icon_display">Iconos</string>
-    <string name="wifi_generation_status">Wi-Fi %1$d</string>
-    <string name="wifi_generation_summary">Añadir el número de la generación de tecnología inalámbrica en el icono Wi-Fi</string>
     <string name="wifi_generation_title">Tecnología</string>
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_hidden_network">Red oculta</string>
@@ -8210,21 +8057,18 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_link_turbo_app_settings_summary">Seleccione las aplicaciones que usarán esta función</string>
     <string name="wifi_link_turbo_app_settings_title">Seleccionar aplicaciones</string>
     <string name="wifi_link_turbo_customize">Aplicaciones personalizadas</string>
-    <string name="wifi_link_turbo_customize_summary">Seleccione aplicaciones que funcionen con el asistente de Wi-Fi de acuerdo con sus preferencias</string>
     <string name="wifi_link_turbo_list">Aplicaciones</string>
     <string name="wifi_link_turbo_no_app">No hay aplicaciones aquí todavía.</string>
     <string name="wifi_link_turbo_off">Desactivado</string>
     <string name="wifi_link_turbo_on">Activado</string>
     <string name="wifi_link_turbo_recommendation">Aplicaciones recomendadas</string>
     <string name="wifi_link_turbo_recommendation_summary">Recibe recomendaciones basadas en estadísticas de uso de datos</string>
-    <string name="wifi_link_turbo_summary">Aumente la velocidad de conexión para aplicaciones seleccionadas que usan datos móviles cuando la conexión Wi-Fi es deficiente</string>
     <string name="wifi_menu_advanced">Ajustes avanzados</string>
     <string name="wifi_menu_configure">Configurar</string>
     <string name="wifi_menu_connect">Conectarse a la red</string>
     <string name="wifi_menu_forget">Olvidar red</string>
     <string name="wifi_menu_modify">Modificar red</string>
     <string name="wifi_menu_more_options">Más opciones</string>
-    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_remember">Recordar red</string>
     <string name="wifi_menu_scan">Buscar</string>
     <string name="wifi_menu_wfd">Pantalla inalámbrica</string>
@@ -8250,10 +8094,8 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_notify_open_networks_summary">Recibir una notificación si hay una red pública de alta calidad disponible</string>
     <string name="wifi_off_airplane_on_cancel">Cancelar</string>
     <string name="wifi_off_airplane_on_confirm">Aceptar</string>
-    <string name="wifi_off_airplane_on_content">Puedes activar el Wi-Fi manualmente en el modo avión.</string>
     <string name="wifi_off_airplane_on_not_remind">"No mostrar de nuevo"</string>
     <string name="wifi_off_airplane_on_title">Atención</string>
-    <string name="wifi_on_time">Tiempo de activación de la red Wi-Fi</string>
     <string name="wifi_other_connection_mode">Otras opciones de conectividad</string>
     <string name="wifi_p2p_cancel_connect_message">¿Quieres cancelar la invitación para conectar con %1$s?</string>
     <string name="wifi_p2p_cancel_connect_title">¿Quieres cancelar la invitación?</string>
@@ -8270,12 +8112,10 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_p2p_peer_devices">Otros dispositivos</string>
     <string name="wifi_p2p_persist_network">Recordar esta conexión</string>
     <string name="wifi_p2p_remembered_groups">Grupos recordados</string>
-    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_wps_setup">Configuración WPS</string>
     <string name="wifi_passpoint_expired">Caducado</string>
     <string name="wifi_password">Contraseña</string>
     <string name="wifi_poor_network_detection">Solo conexiones estables</string>
-    <string name="wifi_poor_network_detection_summary">"No usar una red Wi-Fi a menos que tengas una buena conexión a Internet"</string>
     <string name="wifi_priority_changed">Valor antiguo %1$s | Nuevo valor %2$s</string>
     <string name="wifi_priority_label">Prioridad</string>
     <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
@@ -8285,33 +8125,21 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_priority_type_title">Establecer la prioridad de los PA manualmente</string>
     <string name="wifi_privacy_settings">Privacidad</string>
     <string name="wifi_privacy_settings_ephemeral_summary">Dirección MAC aleatoria</string>
-    <string name="wifi_property">Propiedades Wi-Fi</string>
     <string name="wifi_protection_on">Encendido</string>
-    <string name="wifi_protection_settings_title">Protección de solicitudes de sonda WLAN</string>
-    <string name="wifi_protection_tip">MIUI protegerá sus datos personales de las solicitudes de sondeo de WLAN provenientes de direcciones MAC aleatorias y rastreadores de sondeos de WLAN cuando su dispositivo esté buscando redes WLAN.</string>
-    <string name="wifi_quick_toggle_summary">Activar el Wi-Fi</string>
-    <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Guardado</string>
     <string name="wifi_remembered_disabled_auto_connect">"Guardada. Conexión automática desactivada."</string>
-    <string name="wifi_required_info_text">Para completar la instalación, tu dispositivo necesita acceso Wi-Fi. Después de la instalación, puedes cambiar entre los datos móviles y Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">Banda de 5 GHz no disponible en este país</string>
     <string name="wifi_save">Guardar</string>
     <string name="wifi_saved_access_points_label">Redes guardadas</string>
     <string name="wifi_scan_always_available">Escanear siempre disponible</string>
-    <string name="wifi_scan_always_available_summary">"Permitir a los servicios de ubicación de Google y otras aplicaciones buscar redes, incluso cuando el Wi-Fi esté apagado"</string>
     <string name="wifi_scan_always_confirm_allow">Permitir</string>
     <string name="wifi_scan_always_confirm_deny">Denegar</string>
     <string name="wifi_scan_always_turn_on_message_unknown">"Para mejorar la precisión de la ubicación y para otros fines, una aplicación quiere activar la búsqueda de redes aunque el Wi‑Fi esté desactivado.
 
 ¿Quieres permitir que todas las apps puedan hacerlo?"</string>
     <string name="wifi_scan_always_turnoff_message">Para desactivar esta opción, accede a las opciones avanzadas del menú adicional.</string>
-    <string name="wifi_scan_always_turnon_message">"Para mejorar la precisión de la ubicación y para otros fines, %1$s quiere activar la búsqueda de redes aunque la conexión Wi-Fi esté desactivada.
-
-¿Permitir para todas las aplicaciones que quieran buscar redes?"</string>
     <string name="wifi_scan_notify_remember_choice">No volver a mostrar</string>
     <string name="wifi_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones del sistema pueden buscar redes Wi-Fi aunque esté desactivada la conexión Wi-Fi. Puedes cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
-    <string name="wifi_scan_notify_text_scanning_off">Para mejorar la precisión de la ubicación, activa la búsqueda de redes Wi-Fi en los LINK_BEGINajustes de la búsquedaLINK_END.</string>
-    <string name="wifi_scan_throttling">Limitación para búsqueda de redes Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Reduce el uso de batería y mejora el rendimiento de la red</string>
     <string name="wifi_security">Seguridad</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
@@ -8358,12 +8186,8 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_setting_category">Redes disponibles</string>
     <string name="wifi_setting_frequency_band_error">Ha habido un problema estableciendo la banda de frecuencia.</string>
     <string name="wifi_setting_frequency_band_summary">Especificar el rango de frecuencia de la acción</string>
-    <string name="wifi_setting_frequency_band_title">Banda de frecuencia de Wi-Fi</string>
     <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activado en suspensión</string>
     <string name="wifi_setting_sleep_policy_error">Error al cambiar los ajustes</string>
-    <string name="wifi_setting_sleep_policy_title">Mantener Wi-Fi activo en suspensión</string>
-    <string name="wifi_settings">Wi-Fi</string>
-    <string name="wifi_settings_category">Ajustes de Wi-Fi</string>
     <string name="wifi_settings_master_switch_title">Utilizar WLAN</string>
     <string name="wifi_settings_scanning_required_enabled">Escaneo WLAN activado</string>
     <string name="wifi_settings_scanning_required_info">El escaneo WLAN permite que las aplicaciones y servicios escaneen las redes WLAN en cualquier momento, incluso cuando WLAN está desactivada. Esto se puede usar, por ejemplo, para mejorar las funciones y servicios basados en la ubicación.</string>
@@ -8371,43 +8195,27 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_settings_scanning_required_title">Activar escaneo WLAN?</string>
     <string name="wifi_settings_scanning_required_turn_on">Encender</string>
     <string name="wifi_settings_summary">Configurar y administrar puntos de acceso inalámbricos</string>
-    <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_setup_cancel">Cancelar</string>
-    <string name="wifi_setup_description_connected">Toca &lt;b&gt;Siguiente&lt;/b&gt;\" para continuar con la configuración.
-
-Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_setup_detail">Detalles de red</string>
-    <string name="wifi_setup_eap_not_supported">"Durante la configuración no puedes definir una conexión Wi-Fi EAP, pero puedes hacerlo cuando haya finalizado a través de Ajustes &gt; Conexiones inalámbricas y redes."</string>
-    <string name="wifi_setup_title">Configuración Wi-Fi</string>
     <string name="wifi_setup_title_connected_network">Conectándose a %s</string>
     <string name="wifi_setup_title_connecting_network">Conectándose a %s…</string>
     <string name="wifi_setup_title_editing_network">Conectarse a %s</string>
-    <string name="wifi_setup_wizard_title">Seleccionar red Wi-Fi</string>
     <string name="wifi_setup_wps">Configuración automática (WPS)</string>
-    <string name="wifi_share">Compartir Wi-Fi</string>
     <string name="wifi_share_action_turn_off">No compartir más redes</string>
-    <string name="wifi_share_action_turn_on">Compartir Wi-Fi</string>
     <string name="wifi_share_action_turn_on_summary">Para compartir, inicia sesión en Cuenta Mi</string>
     <string name="wifi_share_add">Compartir mis redes Wi-Fi públicas</string>
     <string name="wifi_share_add_summary">"Cuando compartas tus redes públicas,
  puedes utilizar también las redes de otros usuarios"</string>
     <string name="wifi_share_connect">Conectar</string>
-    <string name="wifi_share_connected_summary">"Estás conectado a una red Wi-Fi pública que ha sido compartida por otro usuario."</string>
-    <string name="wifi_share_connected_title">Wi-Fi compartida con MIUI</string>
     <string name="wifi_share_current_network">Red actual</string>
     <string name="wifi_share_know">Aceptar</string>
     <string name="wifi_share_list_empty">No se han encontrado redes compartidas.</string>
-    <string name="wifi_share_login">Compartir red Wi-Fi</string>
     <string name="wifi_share_login_summary">Esta es una red pública, puedes compartirla con otros usuarios de MIUI.</string>
-    <string name="wifi_share_notification_summary">MIUI se ha conectado a una red Wi-Fi pública.</string>
     <string name="wifi_share_other_network">Otras redes</string>
     <string name="wifi_share_qrcode_finish">Aceptar</string>
     <string name="wifi_share_qrcode_summary">Para compartir, escanea primero el código QR anterior.</string>
-    <string name="wifi_share_qrcode_title">Compartir red Wi-Fi</string>
     <string name="wifi_share_show_network">Mostrar redes</string>
-    <string name="wifi_share_summary1">Los usuarios de MIUI pueden compartir contraseñas Wi-Fi públicas protegidas (cafeterías, restaurantes, hoteles, etc.).</string>
     <string name="wifi_share_summary2">Cuando otro usuario de MIUI comparte una red, puedes conectarte directamente a la red sin necesidad de utilizar una contraseña.</string>
-    <string name="wifi_share_summary3">También puedes compartir redes Wi-Fi públicas con otros usuarios MIUI.</string>
     <string name="wifi_share_turn_off">Desactivado</string>
     <string name="wifi_share_turn_on">Activado</string>
     <string name="wifi_share_upload">Compartir</string>
@@ -8418,35 +8226,27 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_show_password">Mostrar contraseña</string>
     <string name="wifi_sign_in_button_text">Registrarse</string>
     <string name="wifi_signal">Intensidad de señal</string>
-    <string name="wifi_signal_found_msg">¿Conectarse a PA Wi-Fi?</string>
     <string name="wifi_speed">Velocidad de enlace</string>
     <string name="wifi_ssid">SSID</string>
     <string name="wifi_ssid_hint">Introduce el SSID</string>
     <string name="wifi_ssid_is_empty">"SSID no puede estar en blanco"</string>
     <string name="wifi_ssid_length_is_max">SSID puede tener hasta 32 caracteres de longitud</string>
     <string name="wifi_ssid_too_long">El nombre de la red es demasiado largo.</string>
-    <string name="wifi_starting">Activando Wi-Fi…</string>
     <string name="wifi_state_disabled">Desactivado</string>
     <string name="wifi_state_disabling">Desactivando</string>
     <string name="wifi_state_enabled">Activado</string>
     <string name="wifi_state_enabling">Activando</string>
-    <string name="wifi_state_label">Estado Wi-Fi:</string>
     <string name="wifi_state_unknown">Desconocido</string>
     <string name="wifi_status">Estado</string>
     <string name="wifi_status_mac_randomized">MAC es aleatorio</string>
     <string name="wifi_status_no_internet">Sin Internet</string>
     <string name="wifi_status_sign_in_required">Inicio de sesión requerido</string>
-    <string name="wifi_status_test">Estado de WLAN</string>
-    <string name="wifi_stopping">Desactivando Wi-Fi…</string>
     <string name="wifi_subnet_mask">Máscara de subred</string>
     <string name="wifi_subscribed_access_points_tab">Suscripciones</string>
     <string name="wifi_subscription">Suscribirse</string>
     <string name="wifi_subscription_summary">Ver o cambiar suscripción</string>
     <string name="wifi_suspend_efficiency_title">Mejorar eficacia</string>
-    <string name="wifi_suspend_optimizations">Optimización Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">Minimizar el uso de la batería cuando la conexión Wi-Fi esté activada</string>
     <string name="wifi_switch_away_when_unvalidated">Cambiar a la conexión de datos móviles si se pierde el acceso a Internet a través de la red Wi-Fi.</string>
-    <string name="wifi_switch_to_gsm_message">Conexión Wi-Fi perdida. ¿Deseas usar la conexión de datos en su lugar?</string>
     <string name="wifi_switch_to_gsm_title">¿Usar GSM?</string>
     <string name="wifi_tap_to_sign_in">Toca aquí para iniciar sesión en la red</string>
     <string name="wifi_tether_checkbox_text">Zona Wi-Fi portátil</string>
@@ -8479,13 +8279,10 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_update">Actualizar estadisticas</string>
     <string name="wifi_use_system_certs">Utilizar certificados del sistema</string>
     <string name="wifi_venue_website_button_text">Sitio abierto</string>
-    <string name="wifi_verbose_logging">Habilitar registro detallado de Wi‑Fi</string>
-    <string name="wifi_verbose_logging_summary">Aumentar nivel de registro de Wi‑Fi, mostrar RSSI para todas las SSID en la lista de redes Wi‑Fi.</string>
     <string name="wifi_wakeup">Activar Wi-Fi automáticamente</string>
     <string name="wifi_wakeup_location_summary">Active los servicios de ubicación para poder utilizar esta función.</string>
     <string name="wifi_wakeup_negative_button">Cancelar</string>
     <string name="wifi_wakeup_positive_button">Activar</string>
-    <string name="wifi_wakeup_scan_summary">Permita que las aplicaciones y los servicios busquen redes WLAN para poder activar WLAN automáticamente. Activar esta función permitirá que su dispositivo se conecte automáticamente a las redes guardadas cercanas.</string>
     <string name="wifi_wakeup_summary">La conexión Wi-Fi se volverá a activar automáticamente cerca de las redes de alta calidad guardadas, como la de tu casa</string>
     <string name="wifi_wakeup_summary_no_location">No disponible porque la ubicación está desactivada. Active &lt;annotation id = \"link\"&gt; location &lt;/annotation&gt;.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">No está disponible porque la búsqueda de redes Wi-Fi está desactivada</string>
@@ -8521,11 +8318,6 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_whitelist_roaming_summary">Habilite la itinerancia entre diferentes AP SSID WPA / WPA2 ‑ PSK con la misma dirección MAC de puerta de enlace</string>
     <string name="wifi_wps_available_first_item">WPS disponible</string>
     <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
-    <string name="wifi_wps_connected">Conectado a la red Wi-Fi %s</string>
-    <string name="wifi_wps_onstart_pbc">Pulsa el botón Configuración Wi-Fi Protegida en tu router. Es posible que se llame \"WPS\" o que incluya este símbolo:</string>
-    <string name="wifi_wps_onstart_pin">Introduce el PIN %1$s en tu router Wi-Fi. La instalación podría tardar hasta dos minutos en completarse.</string>
-    <string name="wifi_wps_overlap_error">Se ha detectado otra sesión Wi-Fi. Inténtalo de nuevo en unos minutos.</string>
-    <string name="wifi_wps_setup_title">Configuración Wi-Fi Protegida</string>
     <string name="window_animation_scale_title">Nivel de animación de la ventana</string>
     <string name="winscope_trace_quick_settings_title">Rastro de Winscope</string>
     <string name="wireless_connected">Conectado</string>
