@@ -459,7 +459,6 @@
     <string name="operation_show_privacy_policy">Mostra la política de privadesa</string>
     <string name="operation_show_sys">Mostra fitxers ocults</string>
     <string name="operation_unfavorite">Treu dels destacats</string>
-    <string name="optional_change_wifi">Per gestionar fitxers de forma remota mitjançant Wi-Fi</string>
     <string name="otg_data_transfer_success">Transferència correcta</string>
     <string name="otg_data_transferring">"Transferència de fitxers… No desconnecteu l'emmagatzematge extern."</string>
     <string name="otg_file_security_confirm">còpia al telèfon</string>
@@ -700,7 +699,6 @@
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
-    <string name="wifi_state">Xarxa Wi-Fi</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">Sí</string>
     <string name="yesterday">Ahir</string>
