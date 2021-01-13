@@ -84,7 +84,6 @@
     <string name="accessibility_control_favorite_position">Marcat com a preferit, posició %d</string>
     <string name="accessibility_control_move">Mou a la posició %d</string>
     <string name="accessibility_control_not_favorite">Desfavorit</string>
-    <string name="accessibility_data_connection_wifi">WLAN</string>
     <string name="accessibility_data_one_bar">Dades 1 barra.</string>
     <string name="accessibility_data_saver_off">Estalvi de dades està desactivat</string>
     <string name="accessibility_data_saver_on">Estalviador de dades està activat</string>
@@ -141,7 +140,6 @@
     <string name="accessibility_no_signal">Sense senyal.</string>
     <string name="accessibility_no_sim">Sense SIM.</string>
     <string name="accessibility_no_sims">Sense targeta SIM.</string>
-    <string name="accessibility_no_wifi">Desconnectat de WLAN.</string>
     <string name="accessibility_no_wimax">Sense WiMAX.</string>
     <string name="accessibility_not_connected">Sense connexió.</string>
     <string name="accessibility_notification_dismissed">Notificació descartada.</string>
@@ -259,13 +257,8 @@
     <string name="accessibility_vpn_on">VPN activat.</string>
     <string name="accessibility_waiting_for_fingerprint">En espera de l’empremta</string>
     <string name="accessibility_wifi_name">Connectat a %s.</string>
-    <string name="accessibility_wifi_off">La WLAN està desactivada.</string>
-    <string name="accessibility_wifi_one_bar">WLAN una barra.</string>
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
-    <string name="accessibility_wifi_signal_full">Senyal WLAN ple.</string>
-    <string name="accessibility_wifi_three_bars">WLAN tres barres.</string>
-    <string name="accessibility_wifi_two_bars">WLAN dues barres.</string>
     <string name="accessibility_wimax_one_bar">WiMAX 1 barra.</string>
     <string name="accessibility_wimax_signal_full">Màx senyal WiMAX.</string>
     <string name="accessibility_wimax_three_bars">WiMAX 3 barres.</string>
@@ -1221,8 +1214,6 @@ d MMMM"</string>
     <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">Dades mòbils</string>
     <string name="mobile_data_always_on">Mantingueu sempre les dades mòbils activades</string>
-    <string name="mobile_data_always_on_summary">Mantén les dades mòbils sempre actives, fins i tot quan la Wi‑Fi està activada (per canviar de xarxa ràpidament).</string>
-    <string name="mobile_data_disable_message">No tindreu accés a dades ni a Internet mitjançant %s. Internet només estarà disponible a través de WLAN.</string>
     <string name="mobile_data_disable_message_default_carrier">el vostre operador</string>
     <string name="mobile_data_disable_title">Voleu desactivar les dades mòbils?</string>
     <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
@@ -1396,8 +1387,6 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="output_none_found">No s\'ha trobat cap dispositiu</string>
     <string name="output_none_found_service_off">No s\'ha trobat cap dispositiu. Proveu d’activar %1$s</string>
     <string name="output_service_bt">Bluetooth</string>
-    <string name="output_service_bt_wifi">Bluetooth i WLAN</string>
-    <string name="output_service_wifi">WLAN</string>
     <string name="output_title">Sortida multimèdia</string>
     <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
     <string name="overview">Descripció general</string>
@@ -1563,7 +1552,6 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_cellular_detail_data_usage">Ús de dades</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilitzats</string>
     <string name="quick_settings_cellular_detail_data_warning">Advertència de %s</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Les dades mòbils (WCDMA/LTE) quedaran desactivades. Tret que utilitzeu la WLAN, ja no podreu utilitzar aplicacions que requereixin connexió de dades. L\'enviament o recepció de missatges multimèdia estarà restringit.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Les dades mòbils s\'activaran. La connexió a xarxes mòbils pot comportar càrrecs addicionals en funció del vostre pla de pagament.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancel·la</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">D\'acord</string>
@@ -1655,12 +1643,8 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_user_new_user">Nou usuari</string>
     <string name="quick_settings_user_title">Usuari</string>
     <string name="quick_settings_vibrate_label">Vibració</string>
-    <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
-    <string name="quick_settings_wifi_label">WLAN</string>
     <string name="quick_settings_wifi_no_network">Sense xarxa</string>
     <string name="quick_settings_wifi_not_connected">No connectat</string>
-    <string name="quick_settings_wifi_off_label">WLAN desactivada</string>
-    <string name="quick_settings_wifi_on_label">WLAN activada</string>
     <string name="quick_settings_wifi_secondary_label_transient">S\'està activant…</string>
     <string name="quick_settings_work_mode_label">Perfil laboral</string>
     <string name="quick_step_accessibility_toggle_overview">Commuta la visió general</string>
@@ -1835,7 +1819,6 @@ d MMM"</string>
     <string name="status_bar_settings_mute_label">SILENCI</string>
     <string name="status_bar_settings_notifications">Notificacions</string>
     <string name="status_bar_settings_settings_button">Configuració</string>
-    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_use_physical_keyboard">Teclat físic</string>
     <string name="status_bar_work">Perfil de feina</string>
     <string name="status_unavailable">No disponible</string>
@@ -2076,8 +2059,6 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="wifi_check_password_try_again">Comproveu la contrasenya i torneu-ho a provar</string>
     <string name="wifi_connected_mac_randomization">Aleatorització de MAC connectada</string>
     <string name="wifi_connected_no_internet">No hi ha internet</string>
-    <string name="wifi_coverage_extend">Activa l’extensió de cobertura Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Amplieu la cobertura Wi-Fi mitjançant un punt d\'accés</string>
     <string name="wifi_debugging_allow">Permet</string>
     <string name="wifi_debugging_always">Permet sempre aquesta xarxa</string>
     <string name="wifi_debugging_message">"Nom de xarxa (SSID)
@@ -2092,7 +2073,6 @@ Adreça Wi-Fi (BSSID)
     <string name="wifi_disabled_generic">Desactivat</string>
     <string name="wifi_disabled_network_failure">"No s'ha pogut configurar la IP"</string>
     <string name="wifi_disabled_password_failure">Problema d\'autenticació</string>
-    <string name="wifi_disabled_wifi_failure">"No s'ha pogut connectar amb WLAN"</string>
     <string name="wifi_disconnected">S\'ha desconnectat</string>
     <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
     <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
@@ -2100,7 +2080,6 @@ Adreça Wi-Fi (BSSID)
     <string name="wifi_enhanced_mac_randomization_summary">Quan aquest mode està activat, l’adreça MAC d’aquest dispositiu pot canviar cada vegada que es connecta a una xarxa que tingui activada l’atzarització MAC.</string>
     <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
     <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
-    <string name="wifi_is_off">La Wi-Fi està desactivada</string>
     <string name="wifi_limited_connection">Connexió limitada</string>
     <string name="wifi_metered_label">Mesurada</string>
     <string name="wifi_no_internet">"No es pot connectar a Internet"</string>
@@ -2108,7 +2087,6 @@ Adreça Wi-Fi (BSSID)
     <string name="wifi_not_in_range">Fora del rang</string>
     <string name="wifi_passpoint_expired">Caducat</string>
     <string name="wifi_remembered">Desat</string>
-    <string name="wifi_scan_throttling">Escaneig de Wi-Fi accelerat</string>
     <string name="wifi_scan_throttling_summary">Redueix el consum de bateria i millora el rendiment de la xarxa</string>
     <string name="wifi_security_eap">WPA / WPA2 / WPA3-Enterprise</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise de 192 bits</string>
@@ -2127,8 +2105,6 @@ Adreça Wi-Fi (BSSID)
     <string name="wifi_unmetered_label">Sense mesurat</string>
     <string name="wifi_unsaved_network_linking">Pont SSID: connexió automàtica</string>
     <string name="wifi_unsaved_network_linking_summary">Activa els intents de connexió automàtica a un nou SSID WPA / WPA2-PSK de 5 GHz amb les credencials SSID WPA / WPA2-PSK de 2 GHz connectades actuals a la concordança parcial SSID i BSSID</string>
-    <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
-    <string name="wifi_verbose_logging_summary">Incrementeu el nivell de registre de WLAN (mostra per RSS SSID al selector WLAN)</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Seleccioneu manualment</string>
     <string name="wifi_wapi_certification_dont_exist">"El certificat WAPI no existeix. Afegiu-lo primer."</string>
