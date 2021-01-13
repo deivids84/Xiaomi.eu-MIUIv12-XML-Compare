@@ -4,7 +4,6 @@
     <string name="DOWNLOAD_UNIT_KB">KB</string>
     <string name="DOWNLOAD_UNIT_MB">MegaByte</string>
     <string name="DOWNLOAD_UNIT_TB">tuberculosis</string>
-    <string name="Only_the_wifi">Utilice solo WLAN</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Ir arriba</string>
     <string name="abc_action_menu_overflow_description">Mas opciones</string>
@@ -105,7 +104,6 @@
     <string name="dialog_insufficient_space_on_external">"No se puede completar la descarga, no hay suficiente espacio externo."</string>
     <string name="dialog_media_not_found">Conectar el almacenamiento externo para descargar.</string>
     <string name="dialog_msg_disabled_net">%1$s descargas restringidas para la red actual. Toca en Ajustes de red para abrir la aplicación Seguridad.</string>
-    <string name="dialog_msg_recommend">"No podrá ver las fuentes recomendadas después de desactivarlas. Puede seleccionar \"Cargar solo al estar conectado a una red Wi-Fi\" para ahorrar datos móviles."</string>
     <string name="dialog_queued_body">El archivo se añadió a la cola y se descargará en breve.</string>
     <string name="dialog_speed_cancel">Cancelar</string>
     <string name="dialog_speed_msg">El uso de datos móviles para probar la red puede consumir grandes cantidades de datos móviles. ¿Continuar de todos modos?</string>
@@ -209,7 +207,6 @@
     <string name="hint">Atención</string>
     <string name="home_page_new_download_guide">Las nuevas descargas van aquí</string>
     <string name="immediately_a_renewal">Renovar ahora</string>
-    <string name="info_flow_only_load_wifi">Solo cargar contenido mediante Wi-Fi</string>
     <string name="info_flow_setting">Ajustes de contenido</string>
     <string name="info_flow_show">Mostrar contenido recomendado</string>
     <string name="info_rank_show">Recomendar artículos populares</string>
@@ -271,7 +268,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="notify_install_guide_msg">Instalada correctamente</string>
     <string name="notify_install_guide_title">Instaladas %s correctamente</string>
     <string name="notify_not_support">"Tales notificaciones no son compatibles, actualice ahora"</string>
-    <string name="notify_only_wifi_download">Esperando conexión Wi-Fi</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Solo se admiten archivos torrent</string>
     <string name="open">Abrir</string>
@@ -300,9 +296,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="pref_download_settings_title">Máximo descarga con datos</string>
     <string name="pref_download_storage_path">Guardar en una localización personalizada</string>
     <string name="pref_sniff_shortcut">Crear acceso directo a la pantalla de inicio para búsquedas web</string>
-    <string name="pref_summary_any_bytes_popup">Esperar siempre a una conexión Wi-Fi para descargar archivos</string>
     <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se utilice la conexión de datos móviles para descargar el contenido</string>
-    <string name="pref_summary_max_bytes_limit_format">Esperar a conexión Wi-Fi si el tamaño del archivo excede %s</string>
     <string name="pref_summary_no_limit_popup">Ilimitado</string>
     <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de uso de datos</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
@@ -422,7 +416,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="sniff_text_sniff_next_page">Continuar &gt;</string>
     <string name="sniff_vip_tip_speedup">Puedes probar Speed boost una vez gratis</string>
     <string name="sniff_vip_tip_vip">Xunlei puede seguir aumentando tu velocidad</string>
-    <string name="speed_entrance">Probar velocidad del Wi-Fi</string>
     <string name="speed_result_broadband_text1">Velocidad de descarga actual</string>
     <string name="speed_result_broadband_text2">%s del ancho de banda</string>
     <string name="speed_result_broadband_text3">Ancho de banda</string>
@@ -433,8 +426,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="speed_tip_netwrok_fail">Ha ocurrido un error de red, inténtelo de nuevo</string>
     <string name="speed_tip_netwrok_timeout">Tiempo de conexión agotado, inténtelo de nuevo</string>
     <string name="speed_tip_no_netwrok">"No se pudo conectar a la red. Conéctese y vuelva a intentarlo."</string>
-    <string name="speed_title">Probar velocidad del Wi-Fi</string>
-    <string name="speed_title_result">Probar velocidad del Wi-Fi</string>
     <string name="start_analysis">Probar ahora</string>
     <string name="start_download">Descargar</string>
     <string name="start_xunlei_speedup_info">Inicie sesión para acelerar sus descargas.</string>
@@ -468,7 +459,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="title_homepage_infoflow">Actualizaciones recientes</string>
     <string name="title_tips">Atención</string>
     <string name="title_unbind_xunlei">Elimina tu cuenta de Xunlei</string>
-    <string name="toast_only_wifi_download">Conéctese a una red Wi-Fi para descargar este elemento</string>
     <string name="toast_update_data_limit_fail">"No se pudo establecer"</string>
     <string name="toast_xunlei_engine_open">Activó el acelerador de descargas de Xunlei</string>
     <string name="torrent_file_error">"No se pudo analizar este archivo torrent"</string>
