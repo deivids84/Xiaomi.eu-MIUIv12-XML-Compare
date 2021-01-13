@@ -38,6 +38,7 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="lock_msg_phone">Información de contacto: %s</string>
     <string name="login_extra_steps">Verificación del inicio de sesión</string>
     <string name="login_failed">"No se pudo iniciar sesión. %s."</string>
+    <string name="open_wifi_settings">Abrir ajustes Wi-Fi</string>
     <string name="passport_checking_vcode">Comprobando contraseña…</string>
     <string name="passport_error_empty_vcode">Introduce el código de verificación</string>
     <string name="passport_notification_need_unlock_again">Trate de desbloquear de nuevo</string>
@@ -72,6 +73,14 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="unlock_error_unknown">"No se puede iniciar sesión"</string>
     <string name="unlock_error_user_name">Nombre de usuario no válido</string>
     <string name="unlock_error_wrong_vcode">El código introducido es incorrecto</string>
+    <string name="unlock_help">"Conéctese a la red.
+Inserte una tarjeta SIM que funcione y no se conecte a redes Wi-Fi no válidas.
+
+¿Olvidó su contraseña?
+Vaya a id.mi.com, seleccione \"¿Olvidó su contraseña?\" Y siga las instrucciones.
+
+¿No se puede activar el dispositivo?
+Vaya a i.mi.com/ss y envíe su solicitud para desbloquear el dispositivo."</string>
     <string name="unlock_help_title">Ayuda de desbloqueo:</string>
     <string name="unlock_number">Código de desbloqueo: %s</string>
     <string name="unlock_wrong_captcha">El código introducido es incorrecto</string>
