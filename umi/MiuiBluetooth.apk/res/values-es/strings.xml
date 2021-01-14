@@ -129,6 +129,8 @@
     <string name="bluetooth_dun_profile_summary_use_for">Usar para el acceso a redes dial-up</string>
     <string name="bluetooth_enable_gabeldorsche">Habilitar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita la pila de funciones de Bluetooth Gabeldorsche.</string>
+    <string name="bluetooth_enable_page_scan">habilitar escaneo de página bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">deshabilitar / habilitar la exploración de páginas para la prueba de Bluetooth</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usar para audio del teléfono</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a auricular</string>
