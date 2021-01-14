@@ -105,6 +105,7 @@
     <string name="catch_full_log_item_title_sensor">Sensors</string>
     <string name="catch_full_log_item_title_signal">Telèfon, senyal i xarxes mòbils</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi i ShareMe</string>
+    <string name="catch_full_log_item_title_wifi_china">Wi-Fi i ShareMe</string>
     <string name="catch_full_log_notification_content">Toqueu per tornar als registres</string>
     <string name="catch_full_log_notification_title">S\'està generant un registre…</string>
     <string name="catch_full_log_privacy_content_audio">"Esteu generant registres i els deseu al dispositiu. Els registres poden contenir informació sobre l'àudio del dispositiu, inclòs l'historial de reproducció i l'historial d'enregistraments. Tingueu cura i no divulgueu aquests registres a altres persones. Toqueu \"D'acord\" a continuació, si esteu d'acord a què recopilem les dades anteriors mentre generem els registres i, a continuació, pujarem els registres als nostres servidors per tal de localitzar i resoldre els problemes de què informeu."</string>
@@ -113,6 +114,7 @@
     <string name="catch_full_log_privacy_content_sensor">"Esteu generant registres i els deseu al dispositiu. Els registres poden contenir la informació recopilada pels sensors del dispositiu (inclosos els sensors de llum ambient, baròmetre, pedòmetre, magnetòmetre, etc.). Tingueu cura i no divulgueu aquests registres a altres persones. Toqueu \"D'acord\" a continuació, si esteu d'acord a què recopilem les dades anteriors mentre generem els registres i, a continuació, penjarem els registres als nostres servidors per tal de localitzar i resoldre els problemes de què informeu."</string>
     <string name="catch_full_log_privacy_content_signal">"Esteu generant registres i els deseu al dispositiu. Els registres poden contenir els vostres missatges, l’historial de trucades, informació de xarxa i dades de comunicació. Tingueu cura i no divulgueu aquests registres a altres persones. Toqueu \"D'acord\" a continuació, si esteu d'acord a què recopilem les dades anteriors mentre generem registres i, a continuació, penjarem els registres als nostres servidors per tal de localitzar i resoldre els problemes de què informeu."</string>
     <string name="catch_full_log_privacy_content_wifi">"Esteu generant registres i els deseu al dispositiu. Els registres poden contenir la vostra informació personal, informació d’ubicació, així com les adreces IP i MAC del dispositiu. Si esteu connectats a una xarxa Wi-Fi no xifrada, també podríem accedir a parts de les vostres dades de comunicació. Tingueu cura i no divulgueu aquests registres a altres persones. Toqueu \"D'acord\" a continuació, esteu d'acord a què recopilem les dades anteriors mentre generem els registres i, a continuació, penjarem els registres als nostres servidors per tal de localitzar i resoldre els problemes de què informeu."</string>
+    <string name="catch_full_log_privacy_content_wifi_china">"Esteu generant registres i desant-los al dispositiu. Els registres poden contenir la vostra informació personal, informació d’ubicació, així com les adreces IP i MAC del vostre dispositiu. Si esteu connectats a una xarxa Wi-Fi sense xifrar, és possible que també puguin accedir a parts de les vostres dades de comunicació. Aneu amb compte i no reveleu aquests registres a altres persones. Si toqueu \"Accepta\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, penjarem els registres als nostres servidors per tal de localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_start_dump_hprof">Genera el registre d\'alentiments</string>
     <string name="catch_full_log_submit_directly">Envia</string>
     <string name="change_activate_email">Canvieu l\'adreça de correu electrònic</string>
@@ -413,6 +415,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="mobile_data_note_dialog_cancel">A l\'espera de Wi-Fi</string>
+    <string name="mobile_data_note_dialog_cancel_china">A l\'espera de la Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Puja</string>
     <string name="mobile_data_note_dialog_content">"Sembla que esteu connectats a una xarxa de pagament. La pujada de registres pot generar càrrecs addicionals."</string>
     <string name="mobile_data_note_dialog_content_with_file_size">"La pujada de registres utilitzant la connexió de dades mòbils requerirà %s Mb de dades."</string>
