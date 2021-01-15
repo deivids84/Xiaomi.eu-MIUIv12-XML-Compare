@@ -37,8 +37,8 @@
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
     <string name="accessibility_wifi_signal_full">Senyal de la Wi-Fi complet.</string>
-    <string name="accessibility_wifi_three_bars">Tres barras de Wi-Fi.</string>
-    <string name="accessibility_wifi_two_bars">Dues barras de Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Tres barres de Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dues barres de Wi-Fi.</string>
     <string name="accessibility_work_profile_app_description">Treball %s</string>
     <string name="accessor_expires_text">L’arrendament caduca a les %s</string>
     <string name="accessor_info_title">Aplicacions que comparteixen dades</string>
