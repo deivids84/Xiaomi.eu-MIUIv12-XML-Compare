@@ -50,6 +50,7 @@
     <string name="cta_agree_desc">Permeteu que aquesta aplicació es connecti a Internet i concediu els permisos opcionals per poder utilitzar totes les seves funcions.</string>
     <string name="cta_v2_app_purpose">mostrant direcció, coordenades, pressió atmosfèrica i altitud actual</string>
     <string name="dialog_body_no_network">Connecteu-vos a la Wi-Fi o activeu les dades mòbils.</string>
+    <string name="dialog_body_no_network_china">Connecteu-vos a la Wi-Fi o activeu les dades mòbils.</string>
     <string name="dialog_calibrat_altitude">S\'està calibrant…</string>
     <string name="dialog_title_no_network">"No s'ha pogut connectar a la xarxa"</string>
     <string name="direction_east">E</string>
