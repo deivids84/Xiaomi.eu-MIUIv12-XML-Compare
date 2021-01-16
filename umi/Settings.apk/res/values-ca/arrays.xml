@@ -508,9 +508,9 @@
         <item>"Avui (dades)"</item>
         <item>"Aquest mes (dades)"</item>
         <item>"Darrer mes (dades)"</item>
-        <item>"Wi-Fi d'avui"</item>
-        <item>"Wi-Fi d'aquest mes"</item>
-        <item>"Wi-Fi del darrer mes"</item>
+        <item>"Avui (Wi-Fi) "</item>
+        <item>"Aquest mes (Wi-Fi) "</item>
+        <item>"El mes passat (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Avui "</item>
@@ -1110,9 +1110,9 @@ Nota: Només per a Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
         <item>Preferència IMS</item>
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Mòbil</item>
-        <item>Només per WLAN</item>
+        <item>Només Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
@@ -1120,7 +1120,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
         <item>Preferència IMS</item>
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Mòbil</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
