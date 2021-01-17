@@ -726,6 +726,7 @@ parezcan más grandes en las fotos"</string>
     <string name="makeup_effect_entry_apricot_white">Alabastro</string>
     <string name="makeup_effect_entry_neutral">Neutral</string>
     <string name="makeup_effect_entry_palm">Palmera</string>
+    <string name="makeup_effect_entry_taro">Taro</string>
     <string name="makeup_effect_entry_vitality">Brío</string>
     <string name="makeup_reset_toast">Efectos de maquillaje eliminados con éxito</string>
     <string name="manual_picture_style">Parámetros</string>
@@ -1163,6 +1164,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_reference_capture_title">Líneas de referencia</string>
     <string name="pref_camera_reference_capture_title_golden_section">Proporción áurea</string>
     <string name="pref_camera_reference_capture_title_jiugongge">Cuadrícula</string>
+    <string name="pref_camera_reference_capture_title_left_golden_spiral">Espiral dorada A</string>
+    <string name="pref_camera_reference_capture_title_right_golden_spiral">Espiral dorada B</string>
     <string name="pref_camera_referenceline_title">Mostrar cuadrícula</string>
     <string name="pref_camera_saturation_title">Saturación</string>
     <string name="pref_camera_scenemode_entry_auto">Automático</string>
@@ -1205,6 +1208,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
     <string name="pref_camera_tilt_shift_title">Efecto diorama</string>
+    <string name="pref_camera_tip_doc">Escáner de documentos</string>
+    <string name="pref_camera_tip_id_card">Escáner de identificación</string>
     <string name="pref_camera_touchafaec_entry_off">Desactivado</string>
     <string name="pref_camera_touchafaec_entry_on">Activado</string>
     <string name="pref_camera_ubifocus_title">Reenfocar</string>
@@ -1250,6 +1255,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_customization_title">Personalizar</string>
     <string name="pref_document_mode">Documentos</string>
     <string name="pref_dual_camera_video">Vídeo dual</string>
+    <string name="pref_e_c_t_j">Sonido original</string>
+    <string name="pref_e_p_k">Micrófono externo</string>
     <string name="pref_e_p_s_n">Grabe sonido a través de un micrófono externo cuando se conecten auriculares Bluetooth equipados con micrófono</string>
     <string name="pref_face_beauty_title">Modo belleza</string>
     <string name="pref_fingerprint_capture_title">Obturador con huella dactilar</string>
@@ -1523,6 +1530,7 @@ con mayor detalle"</string>
     <string name="video_effect_entry_rome">Roma</string>
     <string name="video_effect_entry_rome_describe">El monocromo retro cálido funciona para la mayoría de las escenas.</string>
     <string name="video_effect_entry_summer_day">Verano</string>
+    <string name="video_effect_entry_summer_day_describe">Los tonos brillantes y de bajo contraste funcionan bien cuando necesita conservar los tonos de piel. Este filtro es adecuado para escenas al aire libre soleadas.</string>
     <string name="video_effect_entry_wind_sing">Brisa</string>
     <string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
     <string name="video_shortcut_short">Vídeo</string>
