@@ -1213,6 +1213,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="use_hint">Atenció</string>
     <string name="using_theme_has_update_tips">Hi ha disponible una actualització per a aquest tema.</string>
     <string name="using_theme_next_automatic_update">Actualitzacions automàtiques</string>
+    <string name="using_theme_next_automatic_update_summary">Actualitza els temes baixats mitjançant la Wi-Fi quan el dispositiu està bloquejat</string>
     <string name="using_theme_show_ad">Recomanacions</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
