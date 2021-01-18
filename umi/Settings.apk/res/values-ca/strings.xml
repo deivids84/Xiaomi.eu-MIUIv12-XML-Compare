@@ -440,7 +440,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="alarm_stop_info">Si l\'alarma toca abans de finalitzar la programació, el mode silenci es desactivarà</string>
     <string name="alarm_template">a %1$s</string>
     <string name="alarm_template_far">a %1$s</string>
-    <string name="alarm_volume_option_title">Volum de l\'alarma</string>
+    <string name="alarm_volume_option_title">Alarma</string>
     <string name="alarm_volume_title">Alarma</string>
     <string name="all_volume_title">Volums</string>
     <string name="allow">Permet</string>
@@ -4143,7 +4143,7 @@ No podeu revertir aquesta acció."</string>
     <string name="media_transfer_this_device_name">Aquest dispositiu</string>
     <string name="media_transfer_wired_device_name">Dispositiu d\'àudio per cable</string>
     <string name="media_transfer_wired_usb_device_name">Auriculars per cable</string>
-    <string name="media_volume_option_title">Volum multimèdia</string>
+    <string name="media_volume_option_title">Multimèdia</string>
     <string name="media_volume_summary">Defineix el volum de la música i els vídeos</string>
     <string name="media_volume_title">Multimèdia</string>
     <string name="megabyteShort">MB</string>
@@ -4526,6 +4526,7 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="music_equalizer">Equalitzador</string>
     <string name="musicfx_title">Efectes musicals</string>
     <string name="mute">Mode silenci</string>
+    <string name="mute_media_sound_summary">Jocs, música, vídeos i altres aplicacions</string>
     <string name="mute_media_sound_title">Mitjans de silenci en mode Silenci</string>
     <string name="mute_music_stream">Silencia el so multimèdia</string>
     <string name="mute_voiceassist_stream">Assistent de veu silenciat</string>
@@ -5591,7 +5592,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="remove_managed_profile_label">Suprimeix el perfil professional</string>
     <string name="repeat">Repeteix</string>
     <string name="repeat_call">Notificació de trucades repetides</string>
-    <string name="repeat_call_info">Permet so per a les trucades repetides d\'aquí a 15 minuts en mode silenci</string>
+    <string name="repeat_call_info">Sona o vibra mentre reps la segona trucada des del mateix número de telèfon en un termini de %d minuts</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Mai</string>
     <string name="repeat_title">Repeteix</string>
@@ -5694,9 +5695,9 @@ Reinicieu el dispositiu i torneu-ho a provar."</string>
     <string name="right_function_key">Drecera dreta</string>
     <string name="ring_to_you">To de trucada personalitzat</string>
     <string name="ring_to_you_info">Establiu un to personalitzat que sentiran les altres persones abans de despenjar</string>
-    <string name="ring_volume_option_title">Volum del so de la trucada</string>
+    <string name="ring_volume_option_title">To de trucada</string>
     <string name="ring_volume_title">Volum de notificació &amp;</string>
-    <string name="ringer_mode_setting_summary">Silenci les trucades i notificacions entrants</string>
+    <string name="ringer_mode_setting_summary">Silencia les trucades i notificacions</string>
     <string name="ringer_mode_setting_title">Mode silenci</string>
     <string name="ringtone_slot_setting_title">Configuració de SIM única</string>
     <string name="ringtone_title">So de trucada</string>
@@ -7736,7 +7737,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="video_calling_settings_title">Trucada de vídeo de l\'operador</string>
     <string name="video_tool_box_title">Caixa d\'eines de vídeo</string>
     <string name="view_saved_network">Per veure-ho, trieu la xarxa desada</string>
-    <string name="vip_list">Permet trucades entrants</string>
+    <string name="vip_list">Notifica les trucades</string>
     <string name="virtual_keyboard_category">Teclat a la pantalla</string>
     <string name="virtual_keyboards_for_work_title">Teclat a la pantalla per al treball</string>
     <string name="virtual_sim_category_title">Itinerància Mi</string>
@@ -8898,7 +8899,7 @@ Quan desactiveu No molestar, trobareu les notificacions perdudes lliscant avall 
     <string name="zen_mode_starred_contacts_title">Contactes destacats</string>
     <string name="zen_mode_start_time">Hora d\'inici</string>
     <string name="zen_mode_summary">Reduïu les trucades entrades, les notificacions, els suports i desactiveu les vibracions</string>
-    <string name="zen_mode_summary2">Silencia les trucades i les notificacions, desactiva la vibració</string>
+    <string name="zen_mode_summary2">"No hi haurà recordatoris de les trucades i notificacions entrants"</string>
     <string name="zen_mode_summary_alarms_only_by_time">Canvia al mode Només alarmes fins a %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Canviar a només les alarmes per temps indefinit</string>
     <string name="zen_mode_summary_always">Canvia al mode Interromp sempre</string>
