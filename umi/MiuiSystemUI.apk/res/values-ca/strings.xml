@@ -1657,6 +1657,12 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_user_new_user">Nou usuari</string>
     <string name="quick_settings_user_title">Usuari</string>
     <string name="quick_settings_vibrate_label">Vibració</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Augmenta la velocitat</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancel·la</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirma</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">"No ho tornis a mostrar"</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Canvi entre xarxes</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">L’augment de velocitat de la Wi-Fi de doble banda ha d’utilitzar dues bandes Wi-Fi diferents. Si us connecteu a una xarxa principal diferent, es perd la connexió auxiliar.</string>
     <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wi-Fi disponibles</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_no_network">Sense xarxa</string>
