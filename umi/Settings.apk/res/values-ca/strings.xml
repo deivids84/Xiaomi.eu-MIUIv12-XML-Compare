@@ -8598,7 +8598,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_wps_onstart_pbc">Premeu el botó Configuració protegida de la Wi-Fi del vostre encaminador. Es pot anomenar \"WPS\" o contenir aquest símbol:</string>
     <string name="wifi_wps_onstart_pin">Introduïu el PIN %1$s al vostre encaminador Wi-Fi. La configuració pot trigar fins a dos minuts a completar-se.</string>
     <string name="wifi_wps_overlap_error">S\'ha detectat una altra sessió Wi-Fi. Espereu un minut o dos i torneu-ho a provar.</string>
-    <string name="wifi_wps_setup_title">Configuració protegida per Wi-Fi</string>
+    <string name="wifi_wps_setup_title">Configuració protegida de la Wi-Fi</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="winscope_trace_quick_settings_title">Traça de Winscope</string>
     <string name="wireless_connected">Connectat</string>
