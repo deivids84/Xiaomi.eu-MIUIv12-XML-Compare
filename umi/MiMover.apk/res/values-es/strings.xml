@@ -276,7 +276,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="icloud_how_to_backup_tip_steps_two">"2. Tu Apple ID y contraseña serán usados solo para iniciar sesión. No serán almacenados o grabados por Mi Mover."</string>
     <string name="icloud_login_title">Inicia sesión en iCloud</string>
     <string name="icloud_need_sync">Selecciona elementos para importar</string>
-    <string name="icloud_need_traffic_message">"No estás conectado a Wi-fi ahora. ¿Desea usar los datos móviles para importar elementos desde iCloud?"</string>
+    <string name="icloud_need_traffic_message">"No estás conectado a Wi-Fi ahora. ¿Desea usar los datos móviles para importar elementos desde iCloud?"</string>
     <string name="icloud_need_traffic_title">Usando datos móviles</string>
     <string name="icloud_need_wifi_message">"No está conectado a Wi-Fi ahora. Para importar datos desde iCloud, conéctese a Wi-Fi."</string>
     <string name="icloud_need_wifi_new_message">Conéctese a Wi-Fi para poder importar elementos desde un iPhone.</string>
