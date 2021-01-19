@@ -69,10 +69,11 @@
     <string name="ac_firstUseApplock_subTitle">Utiliza herramientas de seguridad del sistema</string>
     <string name="ac_firstUseApplock_title">Protega sus aplicaciones</string>
     <string name="ac_mask_all_apps">Ocultar de todas las aplicaciones</string>
-    <string name="ac_notification_contentText">Toca para activar</string>
-    <string name="ac_notification_contentTitle">Protege tus aplicaciones con Bloqueo de aplicaciones</string>
-    <string name="ac_post_notification_contentText">Obtener protección a nivel de sistema</string>
-    <string name="ac_post_notification_contentTitle">Activar Bloqueo de aplicaciones</string>
+    <string name="ac_notification_action_text">Encender</string>
+    <string name="ac_notification_contentText">Ocultar información confidencial usando una contraseña</string>
+    <string name="ac_notification_contentTitle">¡Prueba el bloqueo de aplicaciones!</string>
+    <string name="ac_post_notification_contentText">Puede proteger todo tipo de aplicaciones sensibles</string>
+    <string name="ac_post_notification_contentTitle">Proteja las aplicaciones con el Bloqueo de aplicaciones</string>
     <string name="ac_pre_notification_contentText">Protege tu información personal</string>
     <string name="ac_pre_notification_contentTitle">Probar Bloqueo de aplicaciones</string>
     <string name="ac_recommend_guide_dialog_app_content">Use el bloqueo de aplicaciones con esta aplicación para proteger su información personal y evitar fugas de datos.</string>
@@ -200,10 +201,10 @@
     <string name="app_behavior_about_content_no_link">"MIUI puede mostrar cuándo las aplicaciones iniciaron otras aplicaciones, se iniciaron automáticamente, usaron permisos y realizaron acciones delicadas. Debido a problemas de compatibilidad con la versión de Android, es posible que algunos de estos registros no sean precisos. Si encuentras un registro del comportamiento de una aplicación que no sea preciso, repórtalo usando la aplicación \"Servicios y comentarios\"."</string>
     <string name="app_behavior_about_negative">Reportar imprecisiones</string>
     <string name="app_behavior_about_positive">Entendido</string>
-    <string name="app_behavior_access_gallery">%1s accedió a galería</string>
-    <string name="app_behavior_access_gallery_single">Esta aplicación accedió a la galería</string>
-    <string name="app_behavior_access_sociality">%1s mensajes accedidos en aplicaciones de redes sociales</string>
-    <string name="app_behavior_access_sociality_single">Esta aplicación accedió a mensajes en las aplicaciones de redes sociales</string>
+    <string name="app_behavior_access_gallery">%1s accedió a la Galería</string>
+    <string name="app_behavior_access_gallery_single">Esta aplicación accedió a la Galería</string>
+    <string name="app_behavior_access_sociality">%1s accedió a aplicaciones de redes sociales</string>
+    <string name="app_behavior_access_sociality_single">Esta aplicación accedió a aplicaciones de redes sociales</string>
     <string name="app_behavior_allowed">Permitir</string>
     <string name="app_behavior_audio">%1s grabó audio</string>
     <string name="app_behavior_audio_bg">%1s grabó audio en segundo plano</string>
@@ -1500,6 +1501,19 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="gateway_exception_title">Comprobar el router</string>
     <string name="gb_add_game_hint">Agregar elementos de la lista de aplicaciones</string>
     <string name="gb_add_game_loading_tips">Un momento…</string>
+    <string name="gb_adv_touch_adv_title">Modo clásico (predeterminado)</string>
+    <string name="gb_adv_touch_custom1">Respuesta de deslizamiento</string>
+    <string name="gb_adv_touch_custom2">Sensibilidad a los golpes continuos</string>
+    <string name="gb_adv_touch_custom3">Precisión de apuntar</string>
+    <string name="gb_adv_touch_custom4">Estabilidad de toque</string>
+    <string name="gb_adv_touch_custom_tip1">Una respuesta de deslizamiento más alta aumenta la velocidad de reacción a este gesto, mientras que la respuesta de deslizamiento más baja hace que el gesto sea más estable.</string>
+    <string name="gb_adv_touch_custom_tip2">Una mayor sensibilidad a los toques continuos aumenta la velocidad de reacción a este gesto, mientras que una menor sensibilidad hace que el gesto sea más estable.</string>
+    <string name="gb_adv_touch_custom_tip3">Una mayor precisión de puntería hace que los deslizamientos más pequeños sean más precisos, mientras que una menor precisión de puntería hace que este gesto sea más estable.</string>
+    <string name="gb_adv_touch_custom_tip4">Una mayor estabilidad de toque hace que los golpes sean más estables, mientras que una menor estabilidad de toque aumenta la precisión de los golpes más pequeños.</string>
+    <string name="gb_adv_touch_custom_title">Personalizar</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Este modo está diseñado para jugadores profesionales. Los jugadores habituales pueden encontrar este modo inconveniente.</string>
+    <string name="gb_adv_touch_mode_select_title">Gestos</string>
+    <string name="gb_adv_touch_pro_title">Modo profesional</string>
     <string name="gb_advance_settings_edge_gear1">Ninguna</string>
     <string name="gb_advance_settings_edge_gear2">Pequeña</string>
     <string name="gb_advance_settings_edge_gear3">Medio</string>
@@ -1714,6 +1728,8 @@ Los vídeos se guardarán en Game Turbo y Momentos clave.</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente la velocidad de conexión en un 10% -20% cuando esté conectado a enrutadores Mi / Redmi</string>
     <string name="gtb_setting_item_title_smart_5g">Optimización de la red 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Aumento de velocidad de Mi WiFi</string>
+    <string name="gtb_spring_festival_back_game">Volver al juego</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Ver</string>
     <string name="gtb_wlan_speed_tips">Usando Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Compañía telefónica equivocada?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Tu compañía telefónica actual: "</string>
@@ -2009,7 +2025,7 @@ Su dispositivo es %d%% más rápido ahora."</string>
     <string name="menu_summary_power_manager_4">%s para terminar</string>
     <string name="menu_text_antispam">Lista de bloqueo</string>
     <string name="menu_text_antivirus">Análisis de seguridad</string>
-    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s ocupada</string>
+    <string name="menu_text_deepclean_summary">%1$s/%2$s ocupada</string>
     <string name="menu_text_garbage_cleanup">Limpiador</string>
     <string name="menu_text_garbage_cleanup_danger">%s de basura</string>
     <string name="menu_text_license_manager">Permisos</string>
@@ -2205,6 +2221,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notification_abnormal_consume_app_title">%s drena la batería</string>
     <string name="notification_abnormal_consume_cpu">Se abusa de los recursos de la CPU en segundo plano</string>
     <string name="notification_abnormal_consume_wakelock">El sistema se mantiene activo en segundo plano.</string>
+    <string name="notification_antivirus_button_text">Escanear</string>
+    <string name="notification_antivirus_message">Escanee ahora para neutralizar los riesgos</string>
     <string name="notification_battery_consume_abnormal_title">La batería se está descargando demasiado rápido</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Toca para solucionar el problema.</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s está agotando la batería</string>
@@ -2223,6 +2241,15 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notification_garbage_clean_size_new">Libera %s de almacenamiento</string>
     <string name="notification_garbage_cleanup_summary">Limpia la basura (%s) para acelerar tu dispositivo</string>
     <string name="notification_garbage_cleanup_title">Borrar archivos basura</string>
+    <string name="notification_link_cleaner_2001">Limpiar %s de la basura ahora</string>
+    <string name="notification_link_cleaner_2002">Limpia la basura para acelerar tu dispositivo</string>
+    <string name="notification_link_cleaner_2003">Queda menos de %s de almacenamiento. Libere espacio de almacenamiento ahora.</string>
+    <string name="notification_link_cleaner_2004">Solo queda %s de almacenamiento. Libere espacio de almacenamiento ahora.</string>
+    <string name="notification_link_cleaner_2005">Borra la memoria para acelerar tu dispositivo</string>
+    <string name="notification_link_cleaner_3001">Limpia la basura de WeChat para acelerar tu dispositivo</string>
+    <string name="notification_link_cleaner_3002">Limpiar la basura de WeChat</string>
+    <string name="notification_link_cleaner_4000">Limpiar la basura de QQ</string>
+    <string name="notification_link_optimizemanage_1011">%d%% de memoria está ocupada. Limpia ahora.</string>
     <string name="notification_low_battery_action_btn">Activar</string>
     <string name="notification_low_battery_need_charge">Carga tu dispositivo</string>
     <string name="notification_low_battery_open_save_mode">Activa el Ahorro de batería</string>
@@ -2235,8 +2262,11 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notification_low_storage_size_1p5_gb_hint">Limpia la basura para acelerar tu dispositivo</string>
     <string name="notification_mask_summary">"Ocultar contenido de notificación en la Pantalla de bloqueo y en el Panel de notificaciones"</string>
     <string name="notification_mask_title">Ocultar contenido</string>
-    <string name="notification_masked_item">Ocultar notificaciones</string>
-    <string name="notification_masked_subtitle">Ocultar notificaciones de aplicaciones protegidas con bloqueo de aplicación</string>
+    <string name="notification_masked_item">¿Quieres ocultar el contenido de las notificaciones?</string>
+    <string name="notification_masked_subtitle">El bloqueo de la aplicación puede hacer el trabajo</string>
+    <string name="notification_optimize_button_text">Limpiar</string>
+    <string name="notification_optimize_message">Borrar memoria para aumentar la velocidad</string>
+    <string name="notification_optimize_title">%d%% de memoria está ocupada</string>
     <string name="notification_power_consume_issue_summary">Alto consumo de energía</string>
     <string name="notification_power_consume_suggest_summary">Solucionar problemas para ahorrar batería</string>
     <string name="notification_qq_clean_hint">La papelera ralentiza tu dispositivo</string>
@@ -2782,8 +2812,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pp_hide_app_form_desktop">Eliminar iconos de aplicaciones de la pantalla de inicio</string>
     <string name="pp_icon_layout_status_bg_content_enable">Protegido</string>
     <string name="pp_icon_layout_status_bg_content_unable">Desactivado</string>
-    <string name="pp_interception_net_visit_content_manager">Proteja la Galería y las aplicaciones de redes sociales</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Seleccione qué aplicaciones pueden acceder a sus fotos, videos e historial de chat</string>
+    <string name="pp_interception_net_visit_content_manager">Proteja la galería y los archivos de las aplicaciones de redes sociales</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Seleccione qué aplicaciones pueden acceder a la Galería y los archivos de sus aplicaciones de redes sociales</string>
     <string name="pp_local_msg">Información de ubicación</string>
     <string name="pp_manage_apps_location_information">Permitir a las aplicaciones acceder a tu ubicación</string>
     <string name="pp_one_app_two_use">Use dos cuentas sin cerrar sesión</string>
@@ -2806,7 +2836,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pp_prohibit_use_camera_in_background_detail">"Las aplicaciones no podrán usar la cámara en segundo plano de forma predeterminada"</string>
     <string name="pp_record_msg">Grabar audio</string>
     <string name="pp_safe_box">Espacio privado</string>
-    <string name="pp_safe_box_detail">Para proteger su privacidad, MIUI le permite controlar cómo las aplicaciones acceden a sus fotos y al historial de chat de las redes sociales.</string>
+    <string name="pp_safe_box_detail">"Los elementos privados están cifrados y almacenados en este dispositivo únicamente. Otras personas no podrán acceder a ellos mientras usan este dispositivo, y el dispositivo en sí no podrá acceder a elementos encriptados y usarlos de ninguna manera."</string>
     <string name="pp_safe_box_summary">Protección de privacidad</string>
     <string name="pp_safe_input_pwd">Proteja sus contraseñas</string>
     <string name="pp_safe_keyboard">Teclado seguro</string>
@@ -3697,6 +3727,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="summary_mms">Bloquear el spam de SMS automáticamente</string>
     <string name="summary_network_switch">Permitir que la aplicación de Seguridad se conecte a Internet</string>
     <string name="summary_never_flow_verify">"Este número no se ha verificado con su operadora"</string>
+    <string name="summary_password_manager">El administrador de contraseñas le permite cifrar sus contraseñas y almacenarlas en la nube</string>
     <string name="summary_payment_risk">"Parece que el entorno del pago no es seguro"</string>
     <string name="summary_permission">Evita pagos no deseados y protege tu información personal</string>
     <string name="summary_permission_root">Parece que este dispositivo tiene acceso root. Esto podría dañar la seguridad de tu dispositivo.</string>
@@ -3934,6 +3965,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="title_network_switch">Conexión de red</string>
     <string name="title_of_app_manage">Aplicaciones</string>
     <string name="title_of_auto_launch_manage">Inicio automático</string>
+    <string name="title_password_manager">Activar el administrador de contraseñas</string>
     <string name="title_payment_protection">Los pagos son seguros</string>
     <string name="title_payment_risk">Riesgo en el pago encontrado</string>
     <string name="title_permission_no">El administrador de permisos está desactivado</string>
@@ -4136,6 +4168,15 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="vb_video_effects_settings_liquid">Claridad</string>
     <string name="vb_video_effects_settings_stereo">Volumen</string>
     <string name="vb_video_effects_srs_premium_sound">Sonido</string>
+    <string name="vb_video_super_division">Mejorar</string>
+    <string name="vb_video_super_division_desc">"Mejora la resolución automáticamente cuando es ≤720p.
+
+uso de esta función aumenta el consumo de energía.
+
+Esta función no funciona con el suavizado de movimiento.
+Al activar una de las funciones, se desactivará la otra."</string>
+    <string name="vb_video_super_division_tips">"¿No es lo suficientemente claro?
+Intente aumentar la resolución!"</string>
     <string name="video_repeat">Juega de nuevo</string>
     <string name="videobox_hangup_tips_content">Esta característica permite que la aplicación se ejecute en segundo plano cuando la pantalla está apagada. ¿Activar ahora?</string>
     <string name="videobox_hangup_tips_title">Atención</string>
@@ -4147,6 +4188,8 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="videobox_settings_manager_apps">Administrar aplicaciones de vídeo</string>
     <string name="videobox_settings_switch_desc">Efectos especiales y funciones para reproducción de video</string>
     <string name="videobox_settings_switch_title">Caja de herramientas de vídeo</string>
+    <string name="videobox_settings_timing">Alerta de atracones</string>
+    <string name="videobox_settings_timing_desc">Reciba una alerta de atracones cada hora que le recuerda que debe tomar un descanso</string>
     <string name="videobox_settings_title">Caja de herramientas de vídeo</string>
     <string name="view_traffic_detail">Ver detalles</string>
     <string name="virus_auto_update_engine">Actualizaciones automáticas: %s</string>
