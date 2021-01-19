@@ -1354,7 +1354,7 @@ Las llamadas de emergencia solo son posibles en áreas con cobertura celular \"<
     <string name="msim_set_sub_not_supported_phone_in_call">"No se puede establecer durante una llamada"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Error de tarjeta SIM</string>
     <string name="msim_setting_categery_title">Ajustes de la tarjeta SIM</string>
-    <string name="msim_setting_default_data">Tarjeta de Datos</string>
+    <string name="msim_setting_default_data">SIM de datos</string>
     <string name="msim_setting_default_data_description">Tarjeta de Datos %d</string>
     <string name="msim_setting_default_voice">Predeterminada para llamadas</string>
     <string name="msim_setting_default_voice_description">SIM %d para llamadas</string>
