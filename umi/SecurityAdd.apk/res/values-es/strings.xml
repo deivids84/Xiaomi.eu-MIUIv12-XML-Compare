@@ -80,7 +80,7 @@
     <string name="ew_warning_detail">Detalles de advertencia</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="fastboot_locked_answer_1">Fastboot es el método tradicional para flashear dispositivos Mi. Cuando el dispositivo está en modo Fastboot, se puede acceder y borrar directamente todos los datos guardados en éste. Bloqueamos Fastboot para asegurarnos de que tus datos se mantienen protegidos en caso de perder el dispositivo, así como para garantizar la fiabilidad de la función Encontrar dispositivo.</string>
-    <string name="fastboot_locked_answer_2">"En caso de perder el dispositivo, Fastboot garantiza la seguridad de los elementos almacenados. Si desbloqueas Fastboot, ya no podrás bloquear tu dispositivo de forma remota o eliminar los datos usando Encontrar dispositivo. Por eso, no recomendamos desbloquear Fastboot en tu dispositivo."</string>
+    <string name="fastboot_locked_answer_2">"En caso de perder el dispositivo, Fastboot garantiza la seguridad de los elementos almacenados. Si desbloqueas Fastboot, ya no podrá bloquear su dispositivo de forma remota o eliminar los datos usando Encontrar dispositivo. Por eso, no recomendamos desbloquear Fastboot en su dispositivo."</string>
     <string name="fastboot_locked_answer_3">"Usa la herramienta de desbloqueo en la web de MIUI. Para desbloquear el dispositivo, necesitamos asegurarnos de que es tu dispositivo. Por eso, debes iniciar sesión con Cuenta Mi y activar Encontrar dispositivo."</string>
     <string name="fastboot_locked_question_1">¿Por qué debería Fastboot estar bloqueado?</string>
     <string name="fastboot_locked_question_2">¿Hay riesgos relacionados con el desbloqueo de Fastboot?</string>
@@ -262,9 +262,7 @@
     <string name="net_booster_overdue_notification">La sesión de aumento de velocidad de red está a punto de terminar</string>
     <string name="net_booster_overdue_notification_tip">La sesión de aumento de velocidad de red terminará pronto. ¿Renovar la sesión?</string>
     <string name="network_not_available">"No se puede conectar a la red"</string>
-    <string name="network_wlan_net_checkbox_title">Habilitar internet Wi-Fi</string>
     <string name="night">Noche</string>
-    <string name="no_net_dialog_msg">Al crear un espacio para niños por primera vez, debe conectarse a Internet para cargar contenido y servicios relacionados en el espacio para niños. Active la red móvil o la red Wi-Fi</string>
     <string name="no_network_btn">Intentar de nuevo</string>
     <string name="noon">Mediodía</string>
     <string name="ok_button">Aceptar</string>
