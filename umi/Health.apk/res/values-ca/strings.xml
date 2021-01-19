@@ -475,7 +475,6 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="finish_stand2">De peu</string>
     <string name="finished_rate">Completat %1$d%%</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
