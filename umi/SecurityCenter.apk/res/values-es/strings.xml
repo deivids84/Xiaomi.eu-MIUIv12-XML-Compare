@@ -264,7 +264,7 @@
     <string name="app_behavior_media_volume_single">Esta app modificó el volumen multimedia</string>
     <string name="app_behavior_menu_about">Acerca de los registros del comportamiento de aplicaciones</string>
     <string name="app_behavior_monitor_off">Desactivar notificaciones</string>
-    <string name="app_behavior_monitor_off_content">"No podrás recibir notificaciones acerca de acciones delicadas realizas por esta aplicación. ¿Desactivar las notificaciones de todas formas?"</string>
+    <string name="app_behavior_monitor_off_content">"No podrá recibir notificaciones acerca de acciones delicadas realizas por esta aplicación. ¿Desactivar las notificaciones de todas formas?"</string>
     <string name="app_behavior_monitor_off_positive">Desactivar</string>
     <string name="app_behavior_monitor_off_select">"No mostrar de nuevo"</string>
     <string name="app_behavior_monitor_tips_if_trust">Puedes desactivar las notificaciones sobre acciones delicadas si confias en esta aplicación</string>
@@ -1660,7 +1660,7 @@ de sus sesiones de juego"</string>
     <string name="gb_xunyou_gift_type_one">1 día de aceleración Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 días de aceleración Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 días de aceleración Xunyou</string>
-    <string name="gdpr_msg"><Data>\"Para poder detectar riesgos de seguridad y proteger tus datos, necesitamos recopilar la cantidad necesaria de información sobre tu dispositivo. Lee y acepta nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar nuestros servicios. En caso de que no nos permitas recopilar dicha información, aún podrás usar esta aplicación, pero algunas funciones no estarán disponibles.\"</Data></string>
+    <string name="gdpr_msg"><Data>\"Para poder detectar riesgos de seguridad y proteger sus datos, necesitamos recopilar la cantidad necesaria de información sobre su dispositivo. Lea y acepte nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar nuestros servicios. En caso de que no nos permita recopilar dicha información, aún podrá usar esta aplicación, pero algunas funciones no estarán disponibles.\"</Data></string>
     <string name="get_detail_by_click">Pulsa para ver detalles</string>
     <string name="get_sys_info">Obteniendo info…</string>
     <string name="global_wa_setting_alert_dialog_content">Puedes liberar %s</string>
@@ -2197,7 +2197,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="network_speed_for_apps_title">Conexión</string>
     <string name="network_speed_for_apps_total">Velocidad de conexión</string>
     <string name="network_test_speed">Test velocidad de Wi-Fi</string>
-    <string name="network_traffic_warning_text">"MIUI no puede calcular las estadísticas de uso de datos para las aplicaciones del sistema individuales aquí. Podrás ver la información relacionada con el uso de datos en los detalles de la aplicación en caso de que esta aplicación esté utilizando activamente datos móviles."</string>
+    <string name="network_traffic_warning_text">"MIUI no puede calcular aquí las estadísticas de uso de datos para aplicaciones individuales del sistema. Podrá ver la información relacionada con el uso de datos en los detalles de la aplicación en caso de que esta esté utilizando datos móviles de forma activa."</string>
     <string name="network_traffic_warning_title">Uso de datos para aplicaciones de sistema</string>
     <string name="networkchanged_exception_summary">La conexión de red se ha modificado. Por favor, inténtalo de nuevo.</string>
     <string name="networkchanged_exception_title">Conexión modificada</string>
@@ -2969,7 +2969,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="privacy_dialog_call_item_2">Hacer llamadas</string>
     <string name="privacy_dialog_call_item_3">Acceder al estado del dispositivo</string>
     <string name="privacy_dialog_call_message">"Por defecto, MIUI no permite hacer lo siguiente a aplicaciones de terceros:"</string>
-    <string name="privacy_dialog_call_result">"Aún podrás usar aplicaciones y servicios de terceros con normalidad. Sin embargo, si encuentras algún problema, no dudes en comentárnoslo."</string>
+    <string name="privacy_dialog_call_result">"Aún podrá usar aplicaciones y servicios de terceros con normalidad. Sin embargo, si encuentra algún problema, no dude en comentárnoslo."</string>
     <string name="privacy_dialog_call_title">Proteger llamadas</string>
     <string name="privacy_dialog_camera_message">"Para proteger tu privacidad, MIUI no permite a las aplicaciones usar tu cámara en segundo plano."</string>
     <string name="privacy_dialog_camera_title">Restringir acceso a la cámara en segundo plano</string>
