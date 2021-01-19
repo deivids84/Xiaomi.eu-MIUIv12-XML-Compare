@@ -654,7 +654,7 @@
     <string name="qq_data_type_cache">Caché de QQ</string>
     <string name="qq_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarte a Internet."</string>
     <string name="qq_data_type_chat">Historial de chat</string>
-    <string name="qq_data_type_chat_desc">"No podrás restaurar el historial de chat."</string>
+    <string name="qq_data_type_chat_desc">"No podrá restaurar el historial de chat."</string>
     <string name="qq_data_type_normal">Papelera</string>
     <string name="qq_data_type_normal_clean_tips">"Estos son archivos técnicos. Eliminarlos no afectara su uso."</string>
     <string name="qq_data_type_normal_desc">"Borrarlos no afectará su uso."</string>
@@ -781,7 +781,7 @@
     <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarse a Internet."</string>
     <string name="wechat_chat_data_type_chat">Historial de chat</string>
-    <string name="wechat_chat_data_type_chat_desc">"No podrás restaurar el historial de chat."</string>
+    <string name="wechat_chat_data_type_chat_desc">"No podrá restaurar el historial de chat."</string>
     <string name="wechat_chat_data_type_normal">Papelera</string>
     <string name="wechat_chat_data_type_normal_clean_tips">"Estos son archivos técnicos. Eliminarlos no afectara su uso."</string>
     <string name="wechat_chat_data_type_normal_desc">"Borrarlos no afectará su uso."</string>
