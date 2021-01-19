@@ -417,6 +417,8 @@ a partir de %s"</string>
     <string name="data_usage_restricted_title">Datos en segundo plano restringidos</string>
     <string name="data_usage_warning_body">"Toca para ver uso y ajustes."</string>
     <string name="data_usage_warning_title">Alerta sobre el uso de datos</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Límite de datos Wi-Fi superado</string>
+    <string name="data_usage_wifi_limit_title">Límite de datos Wi-Fi alcanzado</string>
     <string name="date_picker_decrement_day_button">Reducir días</string>
     <string name="date_picker_decrement_month_button">Reducir mes</string>
     <string name="date_picker_decrement_year_button">Reducir año</string>
@@ -1033,6 +1035,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="notification_channel_virtual_keyboard">Teclado virtual</string>
     <string name="notification_channel_voice_mail">Mensajes de voz</string>
     <string name="notification_channel_vpn">Estado de la VPN</string>
+    <string name="notification_channel_wfc">Llamada por Wi-Fi</string>
     <string name="notification_description">Llamada de voz</string>
     <string name="notification_hidden_text">Notificación nueva</string>
     <string name="notification_history_title_placeholder">Notificación de aplicación personalizada</string>
@@ -1079,6 +1082,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="permdesc_accessNetworkConditions">Permite que una aplicación detecte cambios en el estado de la red. No debe ser necesario para aplicaciones normales.</string>
     <string name="permdesc_accessNetworkState">Permite que la aplicación vea información sobre conexiones de red (por ejemplo, qué redes existen y están conectadas).</string>
     <string name="permdesc_accessNotifications">Permite que la aplicación recupere, examine y borre notificaciones, incluidas las que han publicado otras aplicaciones.</string>
+    <string name="permdesc_accessWifiState">Permite que la aplicación vea información sobre redes Wi-Fi, como si Wi-Fi está habilitado y el nombre de los dispositivos Wi-Fi conectados.</string>
     <string name="permdesc_accessWimaxState">Permite que la aplicación determine si está habilitada la conexión WiMAX y obtenga información sobre las redes WiMAX que están conectadas.</string>
     <string name="permdesc_access_notification_policy">Permite que la aplicación lea y modifique la configuración de No molestar.</string>
     <string name="permdesc_activityRecognition">Esta aplicación puede reconocer tu actividad física.</string>
@@ -1103,6 +1107,8 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="permdesc_cameraOpenCloseListener">Esta aplicación puede recibir devoluciones de llamada cuando se abre o se cierra cualquier dispositivo de cámara (por qué aplicación).</string>
     <string name="permdesc_changeNetworkState">Permite que la aplicación modifique el estado de la conectividad de red.</string>
     <string name="permdesc_changeTetherState">Permite que la aplicación cambie el estado de la conectividad de red de anclaje.</string>
+    <string name="permdesc_changeWifiMulticastState">Permite que la aplicación reciba paquetes enviados a todos los dispositivos en una red Wi-Fi usando direcciones de multidifusión, no solo a su teléfono. Utiliza más energía que el modo sin multidifusión.</string>
+    <string name="permdesc_changeWifiState">Permite que la aplicación se conecte y se desconecte de los puntos de acceso Wi-Fi y realice cambios en la configuración del dispositivo para las redes Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">Permite que la aplicación conecte el teléfono a redes WiMAX y lo desconecte de ellas.</string>
     <string name="permdesc_connection_manager">Permite que la aplicación administre las conexiones de telecomunicaciones.</string>
     <string name="permdesc_control_incall_experience">Permite que la aplicación proporcione una experiencia de usuario de llamada.</string>
@@ -1228,6 +1234,7 @@ para la cuenta %s"</string>
     <string name="permlab_accessNetworkConditions">detectar cambios en el estado de la red</string>
     <string name="permlab_accessNetworkState">ver conexiones de red</string>
     <string name="permlab_accessNotifications">acceder a las notificaciones</string>
+    <string name="permlab_accessWifiState">ver conexiones Wi-Fi</string>
     <string name="permlab_accessWimaxState">conectarse a WiMAX y desconectarse de esta red</string>
     <string name="permlab_access_notification_policy">acceso a No molestar</string>
     <string name="permlab_activityRecognition">reconocer actividad física</string>
@@ -1252,6 +1259,8 @@ para la cuenta %s"</string>
     <string name="permlab_cameraOpenCloseListener">Permita que una aplicación o servicio reciba devoluciones de llamada sobre la apertura o cierre de dispositivos de cámara.</string>
     <string name="permlab_changeNetworkState">cambiar la conectividad de red</string>
     <string name="permlab_changeTetherState">cambiar conectividad de anclaje a red</string>
+    <string name="permlab_changeWifiMulticastState">permitir la recepción de multidifusión Wi-Fi</string>
+    <string name="permlab_changeWifiState">conectarse y desconectarse de Wi-Fi</string>
     <string name="permlab_changeWimaxState">cambiar estado de WiMAX</string>
     <string name="permlab_connection_manager">administrar conexiones de telecomunicaciones</string>
     <string name="permlab_control_incall_experience">ofrecer una experiencia de usuario de llamada</string>
@@ -1746,9 +1755,20 @@ Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar t
     <string name="weeks">semanas</string>
     <string name="wfcRegErrorTitle">Llamadas Wi-Fi</string>
     <string name="wfcSpnFormat_spn_vowifi">VoWiFi de %s</string>
+    <string name="wfcSpnFormat_spn_wifi">%s Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling">%s Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wlan_call">%s Llamadas Wi-Fi</string>
     <string name="wfcSpnFormat_vowifi">VoWiFi</string>
+    <string name="wfcSpnFormat_wifi">Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling">Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling_bar_spn">Llamadas por Wi-Fi | %s</string>
+    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_wlan_call">Llamadas Wi-Fi</string>
     <string name="wfc_mode_cellular_preferred_summary">Preferir datos móviles</string>
     <string name="wfc_mode_ims_preferred_summary">Ims preferido</string>
+    <string name="wfc_mode_wifi_only_summary">Sólo Wi-Fi</string>
+    <string name="wfc_mode_wifi_preferred_summary">Llamar a través Wi-Fi</string>
     <string name="whichApplication">Completar acción utilizando</string>
     <string name="whichApplicationLabel">Completar acción</string>
     <string name="whichApplicationNamed">Completar acción con %1$s</string>
@@ -1775,6 +1795,7 @@ Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar t
     <string name="whichViewApplication">Abrir con</string>
     <string name="whichViewApplicationLabel">Abrir</string>
     <string name="whichViewApplicationNamed">Abrir con %1$s</string>
+    <string name="wifi_available_sign_in">Iniciar sesión en la red</string>
     <string name="wifi_calling_off_summary">Desactivado</string>
     <string name="wifi_no_internet">Wi-Fi sin acceso a Internet</string>
     <string name="wifi_no_internet_detailed">Toca para ver opciones</string>
