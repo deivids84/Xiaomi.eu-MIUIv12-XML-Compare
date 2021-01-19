@@ -148,7 +148,7 @@ Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimi
     <string name="dialog_app_upgrade_download">Actualizar</string>
     <string name="dialog_app_upgrade_exit">Salir</string>
     <string name="dialog_app_upgrade_message">Hay disponible una nueva versión de Mi Mover. ¿Actualizar Mi Mover ahora?</string>
-    <string name="dialog_backup_password_auto_backup_tips">"No se puede hacer copias de elementos automáticamente cuando hay activa una contraseña sobre copias de seguridad. Desactiva la contraseña de la copia de seguridad primero."</string>
+    <string name="dialog_backup_password_auto_backup_tips">"No se puede hacer copias de elementos automáticamente cuando hay activa una contraseña sobre copias de seguridad. Desactive la contraseña de la copia de seguridad primero."</string>
     <string name="dialog_backup_password_backup_tips">"No se puede hacer copias de elementos cuando hay activa una contraseña sobre copias de seguridad. Desactiva la contraseña de la copia de seguridad."</string>
     <string name="dialog_backup_password_cancel">Cancelar</string>
     <string name="dialog_backup_password_change_device_restore_tips">"No puede usar Mi Mover mientras la contraseña de seguridad esté activada. Desactiva la contraseña de seguridad primero."</string>
