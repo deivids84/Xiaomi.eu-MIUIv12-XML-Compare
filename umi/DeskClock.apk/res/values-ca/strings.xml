@@ -174,13 +174,8 @@
     <string name="every_day">Diàriament</string>
     <string name="expand_button_title">Avançat</string>
     <string name="expired_timers_dismissed">El temporitzador s\'ha suprimit correctament</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
