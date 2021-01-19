@@ -255,6 +255,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="host_memory_insuff_confirm">Torna a seleccionar</string>
     <string name="host_memory_insuff_summary">"Al nou dispositiu no hi ha prou espai d'emmagatzematge per iniciar una transferència."</string>
     <string name="host_memory_insuff_title">No hi ha prou espai d’emmagatzematge</string>
+    <string name="host_new_device_hint">Aquest dispositiu</string>
     <string name="hsa_code_null">"El codi de verificació no pot estar buit"</string>
     <string name="hsa_input_tip">El vostre identificador Apple utilitza l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
     <string name="hsa_send_again">Reenvia</string>
