@@ -244,6 +244,10 @@ para obtener una prueba gratuita de %ddía!"</item>
         <item quantity="other">Obtenga una prueba gratuita de %ddías</item>
         <item quantity="one">Obtenga una prueba gratuita de %ddías</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"¡Felicidades! Has desbloqueado %s huevos de Pascua."</item>
+        <item quantity="one">"¡Felicidades! Has desbloqueado %s huevos de Pascua."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
@@ -408,6 +412,10 @@ para obtener una prueba gratuita de %ddía!"</item>
         <item quantity="other">"El acceso a la red está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicaciones"</item>
         <item quantity="one">"El acceso a la red está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicación"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d días sin análisis de seguridad</item>
+        <item quantity="one">%d día sin análisis de seguridad</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Descargado %2$d%% de batería durante los últimos %1$d minutos</item>
         <item quantity="one">Descargado %2$d%% de batería durante el último minuto</item>
@@ -419,6 +427,10 @@ para obtener una prueba gratuita de %ddía!"</item>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Eliminar %d paquetes de instalación</item>
         <item quantity="one">Eliminar %d paquete de instalación</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Eliminar %d APK residuales</item>
+        <item quantity="one">Eliminar %d APK residual</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d problemas de uso de la batería</item>
@@ -787,6 +799,12 @@ para obtener una prueba gratuita de %ddía!"</item>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d aplicaciones</item>
         <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Ya has estado viendo videos durante %d horas.
+Tómate un descanso!"</item>
+        <item quantity="one">"Ya has estado viendo videos durante %d horas.
+Tómate un descanso!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualizaciones</item>
