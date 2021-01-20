@@ -256,7 +256,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="baby_suffix">bebé</string>
     <string name="back">Atrás</string>
     <string name="background_picture">Fondo %1$d</string>
-    <string name="backup_automatically_summary">Sincroniza fotos y videos de todos los dispositivos en Xiaomi Cloud. Por lo tanto, podrás navegar, ordenar, editar y compartir fotos y vídeos en todos tus dispositivos.</string>
+    <string name="backup_automatically_summary">Sincroniza fotos y videos de todos los dispositivos en Xiaomi Cloud. Por lo tanto, podrá navegar, ordenar, editar y compartir fotos y vídeos en todos sus dispositivos.</string>
     <string name="backup_automatically_title">Sincronizar automáticamente</string>
     <string name="backup_battery_low_desc">Puedes reanudar la sincronización cuando tengas poca batería</string>
     <string name="backup_battery_low_title">Copia en pausa por batería baja</string>
@@ -1402,7 +1402,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="operation_cast_connected_format">Emitir - %s</string>
     <string name="operation_cast_connecting_format">Conectando a %s</string>
     <string name="operation_delete">Eliminar</string>
-    <string name="operation_delete_all_albums_from_rubbish_page_tip">"No podrá recuperar los álbumes después de borrarlos. ¿Borrarlos de todas formas?"</string>
+    <string name="operation_delete_all_albums_from_rubbish_page_tip">"No podrá recuperar los álbumes después de eliminarlos. ¿Borrarlos de todas formas?"</string>
     <string name="operation_detail">Detalles</string>
     <string name="operation_disable_auto_upload">Desactivar la sincronización con Xiaomi Cloud</string>
     <string name="operation_doc_correction">Ajustar</string>
