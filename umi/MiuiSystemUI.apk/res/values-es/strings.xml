@@ -698,7 +698,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="development_settings_summary">Establecer opciones de desarrollo de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
     <string name="device_services">Servicios de dispositivos</string>
-    <string name="direct_boot_unaware_dialog_message">"Nota: Solo podrá usar este teclado después de un reinicio si desbloquea su dispositivo."</string>
+    <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disable_carrier_button_text">Desactivar eSIM</string>
     <string name="disable_overlays">Desactivar superposición HW</string>
     <string name="disable_overlays_summary">Siempre usar GPU para renderización de pantalla</string>
