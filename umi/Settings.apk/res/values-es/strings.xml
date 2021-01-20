@@ -76,12 +76,14 @@
     <string name="accessibility_autoclick_short_summary">0.2 segundos</string>
     <string name="accessibility_autoclick_short_title">Breve</string>
     <string name="accessibility_autoclick_shorter_desc">Más corta</string>
+    <string name="accessibility_back">Atrás</string>
     <string name="accessibility_caption_master_switch_summary">Solo para aplicaciones compatibles</string>
     <string name="accessibility_caption_master_switch_title">Usar subtítulos</string>
     <string name="accessibility_caption_preference_summary">No todas las aplicaciones admiten estas preferencias de subtítulos</string>
     <string name="accessibility_captioning_title">Subtítulos</string>
     <string name="accessibility_category_personal">Cuentas de perfil personal</string>
     <string name="accessibility_category_work">Cuentas de perfil de trabajo (%s)</string>
+    <string name="accessibility_clear">Limpiar</string>
     <string name="accessibility_close_tab">Cerrar pestaña actual</string>
     <string name="accessibility_control_timeout_preference_summary">"Elige el tiempo que quieres tener para leer los mensajes que te piden que realices una acción, pero que se muestran solo temporalmente.
 
