@@ -779,7 +779,7 @@
     <string name="video_clean_wechat_clean_title">Limpieza de WeChat</string>
     <string name="virus_scan">Análisis de virus</string>
     <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
-    <string name="wechat_chat_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarse a Internet."</string>
+    <string name="wechat_chat_data_type_cache_desc">"Podrá restaurar estos archivos después de conectarse a Internet."</string>
     <string name="wechat_chat_data_type_chat">Historial de chat</string>
     <string name="wechat_chat_data_type_chat_desc">"No podrá restaurar el historial de chat."</string>
     <string name="wechat_chat_data_type_normal">Papelera</string>
