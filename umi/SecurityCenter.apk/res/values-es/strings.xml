@@ -264,7 +264,7 @@
     <string name="app_behavior_media_volume_single">Esta app modificó el volumen multimedia</string>
     <string name="app_behavior_menu_about">Acerca de los registros del comportamiento de aplicaciones</string>
     <string name="app_behavior_monitor_off">Desactivar notificaciones</string>
-    <string name="app_behavior_monitor_off_content">"No podrá recibir notificaciones acerca de acciones delicadas realizas por esta aplicación. ¿Desactivar las notificaciones de todas formas?"</string>
+    <string name="app_behavior_monitor_off_content">"No podrá recibir notificaciones sobre acciones sensibles realizadas por esta aplicación. ¿Desactivar las notificaciones de todos modos?"</string>
     <string name="app_behavior_monitor_off_positive">Desactivar</string>
     <string name="app_behavior_monitor_off_select">"No mostrar de nuevo"</string>
     <string name="app_behavior_monitor_tips_if_trust">Puedes desactivar las notificaciones sobre acciones delicadas si confias en esta aplicación</string>
