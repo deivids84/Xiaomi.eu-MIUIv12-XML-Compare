@@ -111,6 +111,7 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Esta característica es experimental y puede afectar al rendimiento.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corrección del color</string>
     <string name="accessibility_divider">Separador de pantalla dividida</string>
+    <string name="accessibility_enter_lock_setting">Toque para abrir los ajustes del Carrusel de Fondos de Pantalla</string>
     <string name="accessibility_enter_lock_wallpaper">Toca para abrir el Carrusel de Fondos de pantalla</string>
     <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
@@ -122,6 +123,14 @@
     <string name="accessibility_home">Inicio</string>
     <string name="accessibility_ime_switch_button">Cambie el botón del método de entrada.</string>
     <string name="accessibility_key">Botón de navegación personalizado</string>
+    <string name="accessibility_keyboard_delete_button">Eliminar</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Bloq Mayús</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Números</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
+    <string name="accessibility_keyboard_ok_button">Intro</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letras</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Bloqueo de símbolos</string>
+    <string name="accessibility_keyguard_face_unlock_view">Desbloqueo facial</string>
     <string name="accessibility_left_control_center_button">Atajo</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrusel de papel tapiz</string>
     <string name="accessibility_location_active">Solicitud de ubicación activa</string>
