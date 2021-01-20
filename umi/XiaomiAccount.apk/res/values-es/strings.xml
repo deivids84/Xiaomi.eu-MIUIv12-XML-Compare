@@ -521,6 +521,8 @@ Enviar este código al supervisor."</string>
     <string name="passport_wx_bind_account_limit">"No se puede crear una cuenta ahora. Pruebe otros métodos de inicio de sesión."</string>
     <string name="passport_yes">Sí</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="password_view_hide_password">Ocultar contraseña</string>
+    <string name="password_view_show_password">Mostrar contraseña</string>
     <string name="permission_group_contacts">Contactos</string>
     <string name="permission_group_phone">Teléfono</string>
     <string name="permission_group_storage">Almacenamiento</string>
@@ -610,4 +612,5 @@ Enviar este código al supervisor."</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="vip_account_settings">Ajustes VIP</string>
     <string name="vip_settings_info">Ajustes VIP</string>
+    <string name="weixin_login">Iniciar sesión con WeChat</string>
 </resources>
