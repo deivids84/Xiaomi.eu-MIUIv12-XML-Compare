@@ -249,10 +249,10 @@
     <string name="focus_mode_timer_pick_dialog_title">Introducir duración</string>
     <string name="focus_time_exception_tip">Parece que la hora del sistema cambió. El modo concentración se ha desactivado.</string>
     <string name="follow_sim1">Aplicar ajustes de SIM 1</string>
-    <string name="fps_nature_summary">La alta frecuencia de actualización mantiene todo nítido y claro</string>
-    <string name="fps_nature_title">Alto</string>
-    <string name="fps_smooth_summary">La frecuencia de actualización media agrega más claridad a los detalles</string>
-    <string name="fps_smooth_title">Medio</string>
+    <string name="fps_nature_summary">La frecuencia de actualización máxima mantiene todo nítido y claro</string>
+    <string name="fps_nature_title">Máximo</string>
+    <string name="fps_smooth_summary">La alta frecuencia de actualización agrega más claridad a los detalles</string>
+    <string name="fps_smooth_title">Alta</string>
     <string name="fps_standard_summary">La frecuencia de actualización estándar ahorra batería</string>
     <string name="fps_standard_title">Predefinido</string>
     <string name="fps_user_tip">Estas animaciones de demostración se reproducen a baja velocidad para su referencia. El rendimiento real puede verse diferente en función de diversos factores.</string>
