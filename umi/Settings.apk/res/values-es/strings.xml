@@ -1915,7 +1915,7 @@ El proceso de cifrar tarda 1 hora o más. Debes iniciar el proceso con la bater�
     <string name="crypt_keeper_enter_password">Escribe tu contraseña</string>
     <string name="crypt_keeper_failed_summary">"El cifrado se ha interrumpido y no se puede completar. No podrá volver a acceder a los datos del teléfono. 
 
-Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando configures el teléfono después de este proceso, podrá restaurar los datos de los que hayas hecho una copia de seguridad en tu cuenta de Google."</string>
+Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando configure el teléfono, después del reinicio, podrá restaurar los datos de los que haya hecho una copia de seguridad en su cuenta de Google."</string>
     <string name="crypt_keeper_failed_title">Error en el cifrado</string>
     <string name="crypt_keeper_final_desc">La operación de cifrado no se puede deshacer y, si la interrumpes, perderás datos. El cifrado puede tardar 1 hora o más y el teléfono se reinicia varias veces durante este proceso.</string>
     <string name="crypt_keeper_force_power_cycle">Para desbloquear el teléfono, apágalo y vuelve a encenderlo.</string>
@@ -2325,7 +2325,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_title_hdmi_color_calibration">Corrección de color preestablecido</string>
     <string name="dialog_title_login">Iniciar sesión en Cuenta Mi</string>
     <string name="dialog_yes">Sí</string>
-    <string name="direct_boot_unaware_dialog_message">"Nota: Solo podrá usar este teclado después de un reinicio si desbloquea su dispositivo."</string>
+    <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disableNetwork">deshabilitar la red</string>
     <string name="disable_overlays">Desactivar superposición HW</string>
     <string name="disable_overlays_summary">Siempre usar GPU para renderización de pantalla</string>
@@ -7308,10 +7308,10 @@ Sus huellas digitales guardadas también se eliminarán de este perfil y no podr
     <string name="unlock_disable_frp_warning_content_unknown">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin su bloqueo de pantalla.
 
-Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrá desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas."</string>
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrá desbloquear el teléfono, autorizar compras o iniciar sesión en las aplicaciones con ellas."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Las funciones de protección del perfil no funcionan sin el bloqueo de pantalla.
 
-Las huellas dactilares guardadas también se eliminarán del perfil y no podrá utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán del perfil y no podrá utilizarlas para desbloquearlo, autorizar compras o iniciar sesión en aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">Las funciones de protección del perfil no funcionan sin el bloqueo de pantalla.</string>
     <string name="unlock_disable_frp_warning_ok">Sí, quitar</string>
     <string name="unlock_disable_frp_warning_title">¿Quitar protección del dispositivo?</string>
