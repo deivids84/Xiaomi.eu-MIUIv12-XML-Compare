@@ -652,7 +652,7 @@
     <string name="qq_clean_exit_confirm_msg">¿Detener análisis y salir ahora?</string>
     <string name="qq_clean_finish_summary">Archivos seleccionados eliminados con éxito</string>
     <string name="qq_data_type_cache">Caché de QQ</string>
-    <string name="qq_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarte a Internet."</string>
+    <string name="qq_data_type_cache_desc">"Podrá restaurar estos archivos después de conectarse a Internet."</string>
     <string name="qq_data_type_chat">Historial de chat</string>
     <string name="qq_data_type_chat_desc">"No podrá restaurar el historial de chat."</string>
     <string name="qq_data_type_normal">Papelera</string>
