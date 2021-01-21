@@ -289,7 +289,7 @@
     <string name="hsv_space_color_value">Valor</string>
     <string name="intelligent_recognition_item_summary">Usa un tono designado para las llamadas de taxis y servicios de reparto. Esta función funcionará cuando %s sea establecido como tu tono por defecto.</string>
     <string name="intelligent_recognition_item_title">Identificar servicios</string>
-    <string name="item_anura">Anura</string>
+    <string name="item_anura">Anuros</string>
     <string name="item_artiodactyla">Ungulados de dos dedos</string>
     <string name="item_buddhism">Coraciiformes</string>
     <string name="item_chick">Galliformes</string>
@@ -410,7 +410,7 @@
     <string name="normal_mode_summary">"No reducir el parpadeo en condiciones de poca luz"</string>
     <string name="north_white_rhinoceros">Rinoceronte blanco</string>
     <string name="norway_lemmings">Lemmings de Noruega</string>
-    <string name="norway_lemmings_info">El lemming de Noruega habita en la tundra y los páramos, y prefiere vivir cerca del agua.</string>
+    <string name="norway_lemmings_info">El lemino de Noruega habita en la tundra y los páramos, y prefiere vivir cerca del agua.</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_sound">Sonidos de notificaciones</string>
     <string name="ocelot">Ocelote</string>
@@ -867,7 +867,7 @@ Esta aplicación necesita conectarse a Internet y requiere los siguientes permis
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="whipbird_eastern_whipbird">Zordala crestada oriental</string>
-    <string name="whipbird_info">Los whipbirds del este son nativos de la costa este de Australia.</string>
+    <string name="whipbird_info">Las zordala crestada oriental son nativos de la costa este de Australia.</string>
     <string name="white_bellied_sea_eagle">Águila de cola blanca</string>
     <string name="willow_grouse">Lagópodo común</string>
     <string name="willow_grouse_info">La perdiz blanca del sauce es herbívora durante la mayor parte de su vida y ocupa principalmente hábitats subalpinos y subárticos.</string>
