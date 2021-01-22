@@ -616,7 +616,7 @@
     <string name="turn_off_a_repeat_alarm">Desactivar una alarma repetida</string>
     <string name="turn_off_this_repeat_alarm">Desactivar todas las alarmas</string>
     <string name="upcoming_alarm">Próxima alarma: %s</string>
-    <string name="upcoming_alarm_hint">Puedes apagar esta alarma ahora</string>
+    <string name="upcoming_alarm_hint">Puede apagar esta alarma ahora</string>
     <string name="update_health_app">Actualizar Xiaomi Health</string>
     <string name="update_health_app_desc">La función de seguimiento del sueño es proporcionada por Xiaomi Health. Actualiza Xiaomi Health a su última versión para acceder a las funciones relacionadas.</string>
     <string name="update_it">Actualizar</string>
