@@ -64,7 +64,7 @@
     <string name="add_data_source_login_and_open_sync">Inicia sesión en tu Cuenta Mi y activa la sincronización con la nube para poder añadir fuentes de datos.</string>
     <string name="add_data_source_open_sync">Active la sincronización con la nube para poder añadir fuentes de datos.</string>
     <string name="add_data_source_process">Cómo agregar una fuente de datos</string>
-    <string name="add_data_source_support_step">"Este dispositivo no genera datos de conteo de pasos. Puedes intentar cambiar a otras fuentes de datos."</string>
+    <string name="add_data_source_support_step">"Este dispositivo no genera datos de recuento de pasos. Puede intentar cambiar a otras fuentes de datos."</string>
     <string name="add_data_type_datasource">Agregar fuente de datos (%1$s)</string>
     <string name="add_model_card">"Toca el botón en la esquina superior izquierda
 para añadir tarjetas"</string>
@@ -130,7 +130,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="basic_info_label_height">Altura</string>
     <string name="basic_info_label_weight">Peso</string>
     <string name="basic_info_save">Guardar</string>
-    <string name="bedTime_early_description">"Te acostaste temprano. Si ese es tu hábito a largo plazo, puedes mantenerlo e ignorar este mensaje."</string>
+    <string name="bedTime_early_description">"Se acostó temprano. Si ese es su hábito a largo plazo, puede mantenerlo e ignorar este mensaje."</string>
     <string name="bedTime_late_description">Te acostaste tarde.</string>
     <string name="bedTime_normal_description">Te acostaste a tiempo. ¡Sigue así!</string>
     <string name="bedtime">Hora de acostarse</string>
@@ -357,8 +357,8 @@ Xiaomi Health solo te notificará sobre elementos importantes."</string>
     <string name="dialog_sleep_goal_title">Objetivo de duración del sueño</string>
     <string name="dialog_sleep_record_auto_start">Para hacer un seguimiento del sueño más preciso, permite a Xiaomi Health iniciarse automáticamente.</string>
     <string name="dialog_sure">Aceptar</string>
-    <string name="dialog_user_agreement_purpose">¡Bienvenido a Xiaomi Health! Puedes usar esta aplicación para contar tus pasos, registrar tu sueño, tus periodos y tu peso, así como sincronizar las estadísticas con la nube.</string>
-    <string name="dialog_user_agreement_purpose2">¡Bienvenido a Xiaomi Health! Puedes usar esta aplicación para contar tus pasos, analizar tu sueño, tus periodos, registrar tu peso y más.</string>
+    <string name="dialog_user_agreement_purpose">¡Bienvenido a Salud de Xiaomi! Puede usar esta aplicación para contar sus pasos, registrar su sueño, sus periodos y peso, así como sincronizar las estadísticas con la nube.</string>
+    <string name="dialog_user_agreement_purpose2">¡Bienvenido a Salud de Xiaomi! Puede usar esta aplicación para contar sus pasos, analizar su sueño, periodos, registrar su peso y más.</string>
     <string name="diastolic_pressure">Diastólica</string>
     <string name="disable">Desactivar</string>
     <string name="discard_update">No gracias</string>
@@ -420,14 +420,14 @@ Xiaomi Health solo te notificará sobre elementos importantes."</string>
     <string name="exercise_intensity">Intensidad</string>
     <string name="exercise_motor_perception">Seguimiento de entrenamientos automáticamente</string>
     <string name="exercise_motor_perception_description">Lleve su dispositivo con usted durante todo el día para realizar un seguimiento de los entrenamientos automáticamente</string>
-    <string name="exercise_no_question">"¿Por qué no puedes ver tus estadísticas?"</string>
+    <string name="exercise_no_question">"¿Por qué no puede ver sus estadísticas?"</string>
     <string name="exercise_notification_content">%1$d min (s) de ejercicio (%2$d Cal)</string>
     <string name="exercise_notification_meet_title">"Pasos de hoy: %d. ¡Objetivo alcanzado!"</string>
     <string name="exercise_notification_no_meet_title">"Pasos de hoy: %d. ¡Sigue llegando a tu objetivo!"</string>
-    <string name="exercise_question_answer_one">"1. Algunos modelos de dispositivos no están equipados con sensores de bajo consumo de energía. Xiaomi Health no rastrea los datos de actividad para ahorrar batería en los siguientes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Si tu dispositivo aparece aquí, puedes añadir fuentes de datos manualmente en Xiaomi Health &gt; Menú &gt; Fuentes de datos &gt; Añadir fuentes de datos."</string>
+    <string name="exercise_question_answer_one">"1. Algunos modelos de dispositivos no están equipados con sensores de bajo consumo de energía. Salud de Xiaomi no rastrea los datos de actividad para ahorrar batería en los siguientes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+Si su dispositivo aparece aquí, puede añadir las fuentes de datos manualmente en Salud de Xiaomi &gt; Menú &gt; Fuentes de datos &gt; Añadir fuentes de datos."</string>
     <string name="exercise_question_answer_two">2. Ocasionalmente, es posible que los sensores de movimiento no se monten. Reinicie su teléfono y verifique si el inicio de seguimiento funciona normalmente en tales casos.</string>
-    <string name="exercise_question_title">"¿Por qué no puedes ver tus estadísticas?"</string>
+    <string name="exercise_question_title">"¿Por qué no puede ver sus estadísticas?"</string>
     <string name="exercise_recog_confirm_ridding">¿Estabas pedaleando entre %1$s y %2$s?</string>
     <string name="exercise_recog_confirm_run">¿Estabas corriendo entre %1$s y %2$s?</string>
     <string name="exercise_recog_confirm_stair_climb">¿Estabas subiendo escaleras entre %1$s y %2$s?</string>
