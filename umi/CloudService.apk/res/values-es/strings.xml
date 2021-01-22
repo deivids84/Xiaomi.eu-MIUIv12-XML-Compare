@@ -109,7 +109,7 @@
     <string name="expand_button_title">Avanzado</string>
     <string name="feedback_custom_hint">"Describe los problemas que has encontrado aquí. Si está dando sugerencias, le agradeceríamos más detalles."</string>
     <string name="find_device">Encontrar dispositivo</string>
-    <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en %s para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
+    <string name="find_device_dspt_provision">Si pierde su dispositivo, puede entrar en &lt;font color=#0097FF&gt;%s&lt;/font&gt; para localizarlo, bloquearlo o restablecerlo. Puede activar o desactivar esta función en cualquier momento en los Ajustes.</string>
     <string name="find_device_error_network">Compruebe su conexión de datos e inténtelo de nuevo.</string>
     <string name="find_device_error_server">Error del servidor</string>
     <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, aceptas nuestra <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidad</u></a>. Si necesitas revocar la autorización, desactiva esta función.</string>
@@ -260,7 +260,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_guide_button">Activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_desc_pad">Si pierdes tu dispositivo, inicia sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en cualquier otro dispositivo para localizar, bloquear de forma remota, o borrar los datos del dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalles&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_desc_phone">Si pierdes tu dispositivo, inicia sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en cualquier otro dispositivo para localizar, bloquear de forma remota, o borrar los datos del dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalles&lt;/a&gt;.</string>
-    <string name="micloud_find_device_guide_fail_reopen">Puedes activar Encontrar dispositivo en Cuenta Mi - Xiaomi Cloud</string>
+    <string name="micloud_find_device_guide_fail_reopen">Puede activar Encontrar dispositivo en su Cuenta Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Compruebe su conexión de red e inténtelo de nuevo.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
@@ -273,7 +273,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_progress">Activando Encontrar dispositivo…</string>
-    <string name="micloud_find_device_guide_title">Inicia sesión en &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear o borrar tu dispositivo. Esto puede ayudarte a encontrar tu dispositivo en caso de pérdida.&lt;br /&gt;Si pierdes tu dispositivo, puedes contactar el servicio de seguridad de las aplicaciones que uses normalmente (por ej., Alipay, WeChat, QQ) para proteger tus cuentas en &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.</string>
+    <string name="micloud_find_device_guide_title">Inicie sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; con su Cuenta Mi para localizar y bloquear su dispositivo, marcarlo como perdido o borrar datos de forma remota. Ver detalles &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;aquí&lt;/a&gt;.</string>
     <string name="micloud_find_device_open_fail">"No se pudo activar Encontrar dispositivo"</string>
     <string name="micloud_find_device_opened">Localización de dispositivo activada</string>
     <string name="micloud_find_device_opened_content">Encuentra tu dispositivo en %s</string>
@@ -450,7 +450,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="mx_dspt">Mi mensaje</string>
-    <string name="mx_dspt_provision">"Mi Message te permite enviar mensajes a otros dispositivos MIUI sin coste alguno cuando estés conectado a una red Wi-Fi.
+    <string name="mx_dspt_provision">"Mi Mensajes le permite enviar mensajes a otros dispositivos MIUI sin coste alguno cuando esté conectado a una red Wi-Fi.
 
 Puedes activar o desactivar esta característica en cualquier momento en Ajustes."</string>
     <string name="mx_dspt_provision_privacy">"Esta característica puede requerir tu número de teléfono. Puede que se necesite enviar un SMS para activar este servicio. Tu operador te cobrará por este mensaje.
