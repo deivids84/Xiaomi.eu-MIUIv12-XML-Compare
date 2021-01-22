@@ -462,7 +462,7 @@ Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi.
     <string name="mx_dspt_provision_privacy_no_sim">"Esta característica puede requerir tu número de teléfono. Cuando la tarjeta SIM es detectada, puede que se necesite enviar un SMS para activar este servicio. Tu operador te cobrará por este mensaje.
 
 Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi."</string>
-    <string name="mx_dspt_provision_with_voip">"Llama gratis a otros dispositivos MIUI con conexión a Internet. Puedes activar o desactivar esta característica en cualquier momento en Ajustes. Weihui proporciona el servicio VoIP. Vea la Política de Privacidad de Weihui"</string>
+    <string name="mx_dspt_provision_with_voip">"Llame gratis a otros dispositivos MIUI con conexión a Internet. Puede activar o desactivar esta característica en cualquier momento en Ajustes. Weihui es compatible con VoIP. Vea la Política de Privacidad de Weihui"</string>
     <string name="mx_dspt_provision_with_voip2">Política de Privacidad</string>
     <string name="mx_sub_dspt_provision">Mi mensaje</string>
     <string name="mx_sub_dspt_provision_with_voip">Llamada por Internet</string>
@@ -566,7 +566,7 @@ Es posible que la información de ubicación no se envíe cuando la conexión de
     <string name="share_sdk_error_update_sharing">Seleccione al menos 1 artículo</string>
     <string name="share_sdk_error_user_already_invited">"Ya invitaste a esta persona"</string>
     <string name="share_sdk_error_user_invalid">"Este usuario no existe"</string>
-    <string name="share_sdk_error_user_myself">"No puedes invitarte a ti mismo"</string>
+    <string name="share_sdk_error_user_myself">"No puede invitarse a si mismo"</string>
     <string name="share_sdk_error_user_not_support">"No puedo invitar a personas de esta región"</string>
     <string name="share_sdk_expire_time">Período de validez de la invitación: %1$s</string>
     <string name="share_sdk_family_member_title">Miembros de la familia</string>
