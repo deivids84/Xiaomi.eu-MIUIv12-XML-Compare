@@ -330,6 +330,7 @@ Consulteu a la Configuració per obtenir més informació."</string>
     <string name="fast_connect_same_account_content">Els dispositius Bluetooth es poden sincronitzar amb el vostre compte Mi i connectar-se sense emparellar-se en altres dispositius.</string>
     <string name="fast_connect_same_accout_devices_connecting">S\'està connectant mitjançant Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">"Heu connectat %1$s a altres dispositius"</string>
+    <string name="fast_connect_same_accout_ok">Entesos</string>
     <string name="fast_connect_sound_normalizer_content">"Millor àudio en les trucades de veu.
 Protocol de connexió més ràpid."</string>
     <string name="fast_connect_wbs_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
