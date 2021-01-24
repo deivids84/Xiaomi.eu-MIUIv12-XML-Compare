@@ -205,6 +205,10 @@
     <string name="pref_title_data_slot">Targeta SIM de dades preferida</string>
     <string name="pref_title_voice_slot">Targeta SIM de veu preferida</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_provision_more">Obteniu més informació sobre la protecció de la privadesa</string>
+    <string name="privacy_provision_summary">La protecció de la privadesa és el compromís del disseny dels nostres productes</string>
+    <string name="privacy_provision_text">Ens comprometem a respectar i protegir la vostra privadesa. Prioritzant la investigació i el desenvolupament en el camp de la seguretat de la informació, Xiaomi treballa constantment en la millora dels mètodes, pràctiques i solucions tècniques que protegeixen les vostres dades. També compartim els nostres últims èxits amb els nostres socis per tal de garantir la vostra privadesa generalment.</string>
+    <string name="privacy_provision_title">Privadesa</string>
     <string name="protect_persoanl_info_statement">Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_inputmethod_policy_description"><Data>Consulteu la &lt;a href=%1$s&gt;Política de privadesa&lt;/a &gt; del teclat seleccionat.</Data></string>
