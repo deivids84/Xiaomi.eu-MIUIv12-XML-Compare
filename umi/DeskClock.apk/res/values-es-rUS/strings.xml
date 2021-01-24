@@ -91,7 +91,7 @@
     <string name="bedtime_repeat_type">Programar</string>
     <string name="bedtime_setting_complete">¡Qué duermas bien!</string>
     <string name="bedtime_setting_complete_desc">Sigue tu nuevo horario para acostarse y así funcionar de la mejor forma posible</string>
-    <string name="bedtime_setting_no_disturbance">¿Cambiar al modo No molestar mientras duermes?</string>
+    <string name="bedtime_setting_no_disturbance">¿Cambiar al modo No molestar mientras duerme?</string>
     <string name="bedtime_setting_no_disturbance_desc">Los tonos de llamada, sonidos de notificaciones y vibración estarán silenciados hasta que te despiertes</string>
     <string name="bedtime_setting_repeat_type">¿Cuándo se aplicará tu horario para acostarse?</string>
     <string name="bedtime_setting_repeat_type_desc">"Selecciona los días en los que recibirás recordatorios"</string>
