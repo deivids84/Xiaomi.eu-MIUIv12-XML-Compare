@@ -160,7 +160,7 @@
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Ajustes</string>
     <string name="miui_guide_dialog_button_positive_text">De acuerdo</string>
-    <string name="miui_guide_dialog_message">Los sonidos multimedia (música, videos, etc.) se seguirán reproduciendo en el modo silencioso. Puede cambiar esto en la Configuración.</string>
+    <string name="miui_guide_dialog_message">Los sonidos multimedia (música, videos, etc.) se seguirán reproduciendo en el modo silencio. Puede cambiar esto en los Ajustes.</string>
     <string name="miui_ringer_count_down">Cuenta regresiva</string>
     <string name="miui_ringer_standard">Silencio</string>
     <string name="miui_ringer_standard_description">Silenciar tonos para llamadas entrantes y notificaciones</string>
@@ -169,11 +169,11 @@
     <string name="miui_ringer_total">No Molestar</string>
     <string name="miui_ringer_total_description">Silenciar sonidos y apagar vibración para todos los elementos excepto la alarma</string>
     <string name="miui_toast_zen_dnd_to_off">"Las llamadas y notificaciones ya no se silenciarán"</string>
-    <string name="miui_toast_zen_standard_to_off">Modo silencioso desactivado</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">El modo silencioso está desactivado ahora. Se reproducirán tonos de llamada, así como notificaciones y sonidos multimedia.</string>
+    <string name="miui_toast_zen_standard_to_off">Modo silencio desactivado</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">El modo silencio está desactivado. Se reproducirán tonos de llamada, así como notificaciones y sonidos multimedia.</string>
     <string name="miui_toast_zen_to_dnd">Se silenciarán llamadas y notificaciones</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Las llamadas y notificaciones se silenciarán cuando el dispositivo esté bloqueado</string>
-    <string name="miui_toast_zen_to_standard">Modo silencioso activado</string>
+    <string name="miui_toast_zen_to_standard">Modo silencio activado</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Cambiado al modo silencioso. Los tonos de llamada, así como los sonidos de notificación y multimedia, ahora están silenciados.</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronización con la nube desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube correctamente</string>
