@@ -1354,7 +1354,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Error de targeta SIM</string>
     <string name="msim_setting_categery_title">Configuració de targeta SIM</string>
-    <string name="msim_setting_default_data">Targeta de dades</string>
+    <string name="msim_setting_default_data">SIM de dades</string>
     <string name="msim_setting_default_data_description">SIM de dades %d</string>
     <string name="msim_setting_default_voice">Per defecte per a trucades</string>
     <string name="msim_setting_default_voice_description">SIM %d per a trucades</string>
