@@ -270,7 +270,6 @@
     <string name="make_private_msg_3">Tots els fitxers en aquesta carpeta estaran ocults.</string>
     <string name="material_slider_range_end">Final de l\'interval,</string>
     <string name="material_slider_range_start">Inici de l\'interval,</string>
-    <string name="megabyteShort">MB</string>
     <string name="menu_item_cleanup">Neteja</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_midrop">Mi Drop</string>
