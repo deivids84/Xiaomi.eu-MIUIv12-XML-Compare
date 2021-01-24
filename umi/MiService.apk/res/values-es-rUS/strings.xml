@@ -223,7 +223,7 @@
     <string name="miui_main_ring_arctic">El Ártico</string>
     <string name="miui_main_ring_australia">Australia</string>
     <string name="miui_main_ring_defalut">Usar sonido de notificación actual</string>
-    <string name="miui_main_ring_mute_tips">"No se pueden reproducir demostraciones en Modo silencioso"</string>
+    <string name="miui_main_ring_mute_tips">"No se pueden reproducir demostraciones en Modo silencio"</string>
     <string name="miui_main_ring_sub_title">Toque para reproducir demostraciones y seleccione el sonido de notificación</string>
     <string name="miui_main_ring_title">Sonidos de notificación inspirados en la naturaleza</string>
     <string name="miui_main_shortcut_label_submit_feedback">Enviar comentario</string>
