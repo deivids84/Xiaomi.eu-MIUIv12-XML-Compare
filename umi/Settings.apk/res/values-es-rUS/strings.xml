@@ -1828,7 +1828,7 @@ Esta información identifica si sus contactos pueden usar ciertas funciones, com
     <string name="content_capture">Contenido de la aplicación</string>
     <string name="content_capture_summary">Permite que las aplicaciones envíen contenido al sistema Android</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="content_miui_music_mute_by_user">¿Reproducir sonido multimedia cuando el modo silencio esté activado?</string>
+    <string name="content_miui_music_mute_by_user">¿Reproducir sonido multimedia cuando el Modo silencio esté activado?</string>
     <string name="contextual_card_dismiss_confirm_message">¿Eliminar esta sugerencia?</string>
     <string name="contextual_card_dismiss_keep">Conservar</string>
     <string name="contextual_card_dismiss_remove">Eliminar</string>
@@ -4493,7 +4493,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="musicfx_title">Efectos de música</string>
     <string name="mute">Modo Silencio</string>
     <string name="mute_media_sound_summary">Juegos, música, videos y otras aplicaciones</string>
-    <string name="mute_media_sound_title">Silenciar medios en Modo silencio</string>
+    <string name="mute_media_sound_title">Silenciar multimedia en Modo silencio</string>
     <string name="mute_music_stream">Silenciar la transmisión de música</string>
     <string name="mute_voiceassist_stream">Mute VoiceAssist</string>
     <string name="mvno_match_data">Valor de OMV</string>
