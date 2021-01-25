@@ -471,7 +471,7 @@ y ajusta las preferencias automáticamente"</string>
     <string name="cta_mimoji_perm_type">Permisos obligatorios (utilizados para funciones y servicios básicos de esta aplicación)</string>
     <string name="cta_mimoji_user_links"><Data>Lea y acepte nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación.</Data></string>
     <string name="cta_mimoji_user_tips">"Si no acepta otorgar permisos obligatorios o compartir y cargar su información personal, no podrá usar esta aplicación. Si no otorga permisos opcionales, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o retirar su consentimiento en la Configuración."</string>
-    <string name="cta_msg">¡Bienvenido a Cámara! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos opcionales:</string>
+    <string name="cta_msg">¡Bienvenido a Cámara! Puede usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos opcionales:</string>
     <string name="cta_perm_cam">Usar la cámara</string>
     <string name="cta_perm_cam_desc">Para tomar fotos</string>
     <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
@@ -636,7 +636,7 @@ y creará una en la que todos se vean mejor."</string>
     <string name="hint_mimovie">Haz la foto en modo paisaje para un mejor efecto</string>
     <string name="hint_slow_motion">El video grabado se reproducirá más lento.</string>
     <string name="hint_subtitle">"Dicte subtítulos mientras graba videos"</string>
-    <string name="hint_subtitle_prompt">Puedes dictar subtítulos ahora</string>
+    <string name="hint_subtitle_prompt">Puede dictar subtítulos ahora</string>
     <string name="hunt_dual_water_mark">La marca de agua dual se añadirá automáticamente.</string>
     <string name="id_card_mode_hint_back">Escanee el reverso de su identificación</string>
     <string name="id_card_mode_hint_front">Escanee el anverso de su identificación</string>
@@ -1288,8 +1288,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_n_s_a">Ajustes de audio</string>
     <string name="pref_n_s_o_l">Activar</string>
     <string name="pref_n_s_o_m">Desactivar</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">Solo puedes grabar vídeos de 720p con 240 fps</string>
-    <string name="pref_new_slow_motion_video_quality_960_720only">Solo puedes grabar vídeos de 720p con 960 fps</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Solo puede grabar vídeos de 720p con 240 fps</string>
+    <string name="pref_new_slow_motion_video_quality_960_720only">Solo puede grabar vídeos de 720p con 960 fps</string>
     <string name="pref_p_d_e">Características pro</string>
     <string name="pref_photo_assistance_tips_off">Desactivado</string>
     <string name="pref_photo_assistance_tips_on">Activado</string>
@@ -1538,7 +1538,7 @@ con mayor detalle"</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">ver Política de Privacidad</string>
     <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
-    <string name="vv_hint">Solo puedes grabar vlogs en el modo paisaje</string>
+    <string name="vv_hint">Solo puede grabar vlogs en el modo paisaje</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Mantén tu dispositivo estable</string>
     <string name="vv_start">Grabar vlog</string>
