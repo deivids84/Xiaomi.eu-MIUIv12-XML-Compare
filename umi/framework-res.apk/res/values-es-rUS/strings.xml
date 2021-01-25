@@ -1819,7 +1819,7 @@ Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar t
     <string name="zen_mode_downtime_feature_name">Tiempo de inactividad</string>
     <string name="zen_mode_feature_name">No molestar</string>
     <string name="zen_mode_forever">Hasta que desactives el modo No molestar</string>
-    <string name="zen_mode_forever_dnd">Hasta que desactives la opción No molestar</string>
+    <string name="zen_mode_forever_dnd">Hasta que desactive la opción No Molestar</string>
     <string name="zen_mode_until">Hasta las %1$s</string>
     <string name="zen_upgrade_notification_content">"Toca para consultar lo que se está bloqueando."</string>
     <string name="zen_upgrade_notification_title">Ha cambiado el modo No molestar</string>
