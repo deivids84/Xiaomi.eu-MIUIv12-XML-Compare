@@ -2180,5 +2180,5 @@ Dirección Wi-Fi (BSSID)
     <string name="zen_priority_customize_button">Personalizar</string>
     <string name="zen_priority_introduction">"No le molestarán los sonidos ni las vibraciones, excepto las alarmas, recordatorios, eventos y las llamadas que especifique. Seguirá escuchando el contenido que quiera reproducir, como música, vídeos y juegos."</string>
     <string name="zen_silence_introduction">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos.</string>
-    <string name="zen_silence_introduction_voice">"Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrás realizar llamadas."</string>
+    <string name="zen_silence_introduction_voice">"Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrá realizar llamadas."</string>
 </resources>
