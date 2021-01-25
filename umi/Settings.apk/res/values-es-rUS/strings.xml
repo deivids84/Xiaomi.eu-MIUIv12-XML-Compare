@@ -7351,7 +7351,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="unlock_set_unlock_pin_summary">Introduce %1$d-%2$d números para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Una vez que hayas configurado un bloqueo de pantalla, podrás configurar también la huella dactilar en Ajustes &gt; Seguridad.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Una vez que haya configurado un bloqueo de pantalla, podrá configurar también la huella dactilar en Ajustes &gt; Seguridad.</string>
     <string name="unlock_type_category_title">Método de reconocimiento</string>
     <string name="unlogin_account_summary">Todos mis servicios. Una Cuenta Mi.</string>
     <string name="unlogin_account_title">Inicia sesión en Cuenta Mi</string>
