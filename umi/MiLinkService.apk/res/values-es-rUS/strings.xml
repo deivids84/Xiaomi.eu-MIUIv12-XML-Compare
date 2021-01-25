@@ -38,7 +38,7 @@
     <string name="close_slave_wifi_hint">Desconectarse de las redes Wi-Fi auxiliares antes de transmitir</string>
     <string name="close_slave_wifi_hint_china">Desconectarse de las redes Wi-Fi auxiliares antes de transmitir</string>
     <string name="console_guide_btn_got_it">Entendido</string>
-    <string name="console_guide_subtitle_hang_up">Puedes seguir transmitiendo cuando la pantalla de tu dispositivo esté apagada. Esta característica disminuye el consumo de energía.</string>
+    <string name="console_guide_subtitle_hang_up">Puede seguir emitiendo cuando la pantalla de su dispositivo esté apagada. Esta característica disminuye el consumo de energía.</string>
     <string name="console_guide_subtitle_private">"No muestre notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos"</string>
     <string name="console_guide_subtitle_small_window">"Minimice la ventana que se está proyectando para poder usar otras funciones de su teléfono"</string>
     <string name="copy">Copiar</string>
@@ -344,7 +344,7 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a hre
     <string name="saturday_shortest">Sáb</string>
     <string name="screen_projection">Emitir</string>
     <string name="screen_projection_characteristics">Funciones especiales</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Puedes seguir emitiendo cuando la pantalla de tu dispositivo está apagada. Esta función disminuye el consumo de energía.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Puede seguir emitiendo cuando la pantalla de su dispositivo esté apagada. Esta característica disminuye el consumo de energía.</string>
     <string name="screen_projection_characteristics_off_screen_title">Emitir con la pantalla apagada</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">"No mostrar notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Ocultar elementos privados</string>
