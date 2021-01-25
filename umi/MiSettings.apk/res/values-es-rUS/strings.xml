@@ -256,7 +256,7 @@
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="focus_mode_custom_time">Duración personalizada</string>
-    <string name="focus_mode_timer_add_limit">Puedes añadir hasta %d temporizadores personalizados</string>
+    <string name="focus_mode_timer_add_limit">Puede añadir hasta %d temporizadores personalizados</string>
     <string name="focus_mode_timer_delete">Eliminar</string>
     <string name="focus_mode_timer_exist">Esta sesión ya existe</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
