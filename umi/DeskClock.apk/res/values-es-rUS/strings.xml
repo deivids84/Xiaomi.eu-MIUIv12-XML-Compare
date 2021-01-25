@@ -627,6 +627,7 @@
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>
     <string name="vibrate_when_ringing">Vibrar al sonar</string>
+    <string name="voice_add_alarm">Agregar alarma usando un comando de voz</string>
     <string name="volume_button_setting_desc">Asignar funciones para los botones de Encendido y Volumen +/-</string>
     <string name="volume_button_setting_summary">"Establecer función para los botones de volumen durante la alarma"</string>
     <string name="volume_button_setting_title">Botones de volumen</string>
