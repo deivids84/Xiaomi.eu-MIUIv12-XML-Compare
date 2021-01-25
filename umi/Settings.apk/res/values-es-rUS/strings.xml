@@ -1686,7 +1686,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="color_led_end_time">Hora de finalización</string>
     <string name="color_led_game_mode_summary">Mostrar efectos para juegos cuando Game Turbo está activado</string>
     <string name="color_led_game_mode_title">Juego turbo</string>
-    <string name="color_led_hint">Seleccione los escenarios cuando se debe utilizar la luz LED. La luz LED se encenderá cuando la pantalla esté hacia abajo y el DND esté apagado.</string>
+    <string name="color_led_hint">Seleccione los escenarios en los que se debe utilizar la luz LED. La luz LED se encenderá cuando la pantalla esté hacia abajo y No Molestar esté apagado.</string>
     <string name="color_led_incall_pulse_title">Usar para llamadas entrantes</string>
     <string name="color_led_lucky_dialog_message">Esta característica requiere usar el asistente de sobre rojo. ¿Activar ahora?</string>
     <string name="color_led_lucky_dialog_title">Encender el asistente de sobre rojo</string>
@@ -2424,8 +2424,8 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dndm_repeated_call_summary_3min">El teléfono sonará cuando recibas una segunda llamada del mismo número en un periodo de 3 minutos</string>
     <string name="dndm_repeated_call_summary_none">Silenciar llamadas repetidas del mismo número</string>
     <string name="dndm_special_call_setting_group">Excepciones</string>
-    <string name="dndm_summary">Las llamadas y notificaciones entrantes serán silenciadas cuando el modo No molestar esté activo.</string>
-    <string name="dndm_summary_for_pad">Las notificaciones entrantes serán silenciadas cuando el modo No molestar esté activo.</string>
+    <string name="dndm_summary">Las llamadas y notificaciones entrantes serán silenciadas cuando el modo No Molestar esté activo.</string>
+    <string name="dndm_summary_for_pad">Las notificaciones entrantes se silenciarán cuando el modo No Molestar esté activo.</string>
     <string name="dndm_vip_call_button_title">Permitir siempre llamadas de las excepciones</string>
     <string name="dndm_vip_call_setting_detal">Aceptar siempre llamadas de las excepciones</string>
     <string name="dndm_vip_call_setting_title">Excepciones</string>
@@ -2438,7 +2438,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dndm_vip_list_group">Lista de excepciones</string>
     <string name="dndm_vip_list_starred_contact">Favoritos</string>
     <string name="dndm_wristband">Activar con Mi Band</string>
-    <string name="dndm_wristband_detailed">"Activar el modo No molestar si Mi Band detecta que estás durmiendo una hora antes del horario programado"</string>
+    <string name="dndm_wristband_detailed">"Activar el modo No Molestar si Mi Band detecta que estás durmiendo una hora antes del horario programado"</string>
     <string name="do_disclosure_generic">Este dispositivo está administrado por tu organización.</string>
     <string name="do_disclosure_with_name">%s administra este dispositivo.</string>
     <string name="do_not_disturb_mode">No molestar</string>
@@ -3586,7 +3586,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="keywords_wifi_display_settings">espejo</string>
     <string name="keywords_wifi_notify_open_networks">Notificación Wi‑Fi, notificación Wi‑Fi</string>
     <string name="keywords_write_settings">escribir, modificar, ajustes del sistema</string>
-    <string name="keywords_zen_mode_settings">dnd, horario, notificaciones, bloque, silencio, vibrar, dormir, trabajo, enfoque, sonido, mute, día, día de la semana, fin de semana, día de la semana, evento</string>
+    <string name="keywords_zen_mode_settings">no molestar, programar, notificaciones, bloquear, silencio, vibrar, dormir, trabajar, enfoque, sonido, silencio, día, día de la semana, fin de semana, noche de la semana, evento</string>
     <string name="kid_space_settings">Espacio para niños</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_mi_stats">Mi analítica</string>
@@ -5995,7 +5995,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_display_settings">Pantalla;Pantalla;Luz ambiental;Bolsillo;Llamada en bolsillo;Temperatura de color;Color;Colores;Saturación;Rotación automática;Rotación automática;Rotación automática;Rotar pantalla;Brillo;Fuente;Fuentes;Tamaño de fuente</string>
     <string name="search_dndm_alarm_content">Excepciones</string>
     <string name="search_dndm_auto_button_title">Establecer la hora</string>
-    <string name="search_dndm_auto_time_setting">Establecer hora;DND</string>
+    <string name="search_dndm_auto_time_setting">Establecer hora;No Molestar</string>
     <string name="search_dndm_open">No molestar; DND; Activar DND</string>
     <string name="search_dndm_repeated_call_setting_title">Repetir llamadas;Llamadas repetidas</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Excepciones;Lista de aprobadas;Lista de aprobadas</string>
@@ -8653,7 +8653,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">"Estas opciones no se pueden modificar en este momento. Una aplicación (%1$s) ha activado automáticamente el modo No molestar con funcionamiento personalizado."</string>
     <string name="zen_mode_apps_bypassing_list_count">%d más</string>
-    <string name="zen_mode_auto_rule">Programar sesiones DND</string>
+    <string name="zen_mode_auto_rule">Programar sesiones de No Molestar</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Regla automática</string>
     <string name="zen_mode_automation_settings_page_title">Reglas automáticas</string>
     <string name="zen_mode_automation_settings_title">Activar automáticamente</string>
@@ -8760,7 +8760,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="zen_mode_messages_list">mensajes</string>
     <string name="zen_mode_messages_title">Permitir mensajes</string>
     <string name="zen_mode_miui_silent_category">Permitir</string>
-    <string name="zen_mode_more_actions">Más opciones de DND</string>
+    <string name="zen_mode_more_actions">Más opciones de No Molestar</string>
     <string name="zen_mode_no_exceptions">Nada</string>
     <string name="zen_mode_none_calls">Ninguno</string>
     <string name="zen_mode_none_messages">Ninguna</string>
@@ -8823,12 +8823,12 @@ Ten en cuenta que se seguirán mostrando las notificaciones importantes sobre el
     <string name="zen_mode_screen_on">Cuando la pantalla esté encendida</string>
     <string name="zen_mode_screen_on_summary">Permitir que las notificaciones silenciadas por el modo No molestar aparezcan en la pantalla con un icono en la barra de estado</string>
     <string name="zen_mode_settings_category">Cuando el modo No molestar esté activado</string>
-    <string name="zen_mode_settings_dnd_automatic_rule">Una regla (%s) ha activado automáticamente el modo No molestar</string>
-    <string name="zen_mode_settings_dnd_automatic_rule_app">Una aplicación (%s) ha activado automáticamente el modo No molestar</string>
+    <string name="zen_mode_settings_dnd_automatic_rule">Una regla (%s) ha activado automáticamente el modo No Molestar</string>
+    <string name="zen_mode_settings_dnd_automatic_rule_app">Una aplicación (%s) ha activado automáticamente el modo No Molestar</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">El modo No molestar está activado para %s con opciones de configuración personalizadas.</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id=\"link\"&gt; Ver ajustes personalizados&lt;/annotation&gt;</string>
-    <string name="zen_mode_settings_dnd_manual_end_time">El modo No molestar está activado hasta esta hora: %s</string>
-    <string name="zen_mode_settings_dnd_manual_indefinite">El modo No molestar permanecerá habilitado hasta que lo desactives</string>
+    <string name="zen_mode_settings_dnd_manual_end_time">El modo No Molestar está activado hasta esta hora: %s</string>
+    <string name="zen_mode_settings_dnd_manual_indefinite">El modo No Molestar permanecerá habilitado hasta que lo desactives</string>
     <string name="zen_mode_settings_summary">Recibe notificaciones solo de personas y aplicaciones importantes</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_title">No molestar</string>
@@ -8867,14 +8867,14 @@ Ten en cuenta que se seguirán mostrando las notificaciones importantes sobre el
     <string name="zen_msg_event_reminder_title">Mensajes, eventos y recordatorios</string>
     <string name="zen_onboarding_current_setting_summary">(Configuración actual)</string>
     <string name="zen_onboarding_current_setting_title">Notificaciones sin sonido</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_description">"Tu teléfono puede hacer más para ayudarte a concentrarte.
+    <string name="zen_onboarding_dnd_visual_disturbances_description">"Su teléfono puede hacer más para ayudarle a concentrarse.
 
 Actualizar la configuración a:
 
 - Ocultar las notificaciones completamente
 
 - Permitir llamadas de contactos destacados y repetir llamadas"</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_header">¿Quieres cambiar los ajustes de las notificaciones del modo No molestar?</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_header">¿Quiere cambiar los ajustes de las notificaciones del modo No Molestar?</string>
     <string name="zen_onboarding_more_options">Puede personalizar aún más esto en Ajustes.</string>
     <string name="zen_onboarding_new_setting_summary">No verás ni escucharás notificaciones. Las llamadas de contactos destacados y de personas que insisten están permitidas.</string>
     <string name="zen_onboarding_new_setting_title">Notificaciones sin sonido ni elementos visuales</string>
