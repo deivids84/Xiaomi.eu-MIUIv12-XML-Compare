@@ -62,7 +62,7 @@
     <string name="change_device_launcher">Cambiar el launcher del dispositivo</string>
     <string name="close_list">Cerrar lista</string>
     <string name="collapse">Ocultar</string>
-    <string name="comp_profile_benefits_description">Si utilizas un perfil de trabajo, puedes tener todas tus aplicaciones de trabajo en un único lugar</string>
+    <string name="comp_profile_benefits_description">Si usa un perfil de trabajo, puede tener todas sus aplicaciones de trabajo en un único lugar</string>
     <string name="company_controls_device">Tu organización controlará este dispositivo y mantendrá su seguridad.</string>
     <string name="company_controls_workspace">Tu organización controla este perfil y mantiene su seguridad. Tú controlas el resto del contenido del dispositivo.</string>
     <string name="contact_device_provider">Si tienes alguna pregunta, ponte en contacto con %1$s.</string>
@@ -93,7 +93,7 @@
     <string name="device_owner_error_ok">Aceptar</string>
     <string name="device_owner_info">%1$s gestionará este dispositivo y se encargará de su seguridad. Se aplicarán condiciones. %2$s</string>
     <string name="device_owner_info_with_terms_headers">%1$s gestionará este dispositivo y se encargará de su seguridad. Se aplicarán las condiciones de %2$s. %3$s</string>
-    <string name="device_provisioning_finished">Ya puedes usar tu dispositivo.</string>
+    <string name="device_provisioning_finished">¡Su dispositivo está listo!</string>
     <string name="dismiss">Descartar</string>
     <string name="done">Listo</string>
     <string name="downloading_administrator_header">Preparando la configuración del dispositivo de trabajo…</string>
