@@ -73,7 +73,7 @@
     <string name="location_east">E</string>
     <string name="location_enable">Permitir</string>
     <string name="location_enable_later">Más tarde</string>
-    <string name="location_enabled">Puedes desactivar los servicios de ubicación en cualquier momento desde Ajustes.</string>
+    <string name="location_enabled">Puede desactivar los servicios de ubicación en cualquier momento desde Ajustes.</string>
     <string name="location_north">N</string>
     <string name="location_not_enabled_summary">La brújula necesita acceder a tu ubicación para mostrar las coordenadas y la altitud.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">Compass necesita acceder a su ubicación para mostrar sus coordenadas actuales.</string>
