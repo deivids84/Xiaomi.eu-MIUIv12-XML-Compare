@@ -258,7 +258,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="background_picture">Fondo %1$d</string>
     <string name="backup_automatically_summary">Sincroniza fotos y videos de todos los dispositivos en Xiaomi Cloud. Por lo tanto, podrá navegar, ordenar, editar y compartir fotos y vídeos en todos sus dispositivos.</string>
     <string name="backup_automatically_title">Sincronizar automáticamente</string>
-    <string name="backup_battery_low_desc">Puedes reanudar la sincronización cuando tengas poca batería</string>
+    <string name="backup_battery_low_desc">Puede reanudar la sincronización cuando tenga poca batería</string>
     <string name="backup_battery_low_title">Copia en pausa por batería baja</string>
     <string name="backup_close">Cerrar copia de seguridad</string>
     <string name="backup_cloud_space_low_btn_text">Obtener más</string>
