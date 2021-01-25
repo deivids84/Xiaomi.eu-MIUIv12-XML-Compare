@@ -82,7 +82,7 @@
     <string-array name="debug_open_intercept">
         <item>Será posible acceder y editar archivos en su dispositivo usando una computadora.</item>
         <item>Se permitirá la instalación de aplicaciones en su dispositivo sin su permiso explícito.</item>
-        <item>"Podrás monitorear y grabar el contenido de tu pantalla de forma remota."</item>
+        <item>"Podrá monitorear y grabar el contenido de su pantalla de forma remota."</item>
         <item>Será posible acceder a la información detallada sobre su dispositivo.</item>
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
