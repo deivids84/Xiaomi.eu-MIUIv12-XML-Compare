@@ -1230,7 +1230,7 @@ Bóveda de aplicaciones</string>
     <string name="miot_cta_dialog_title">Autorización de concesión</string>
     <string name="miot_del_dialog_cancel">Mantener</string>
     <string name="miot_del_dialog_sure">Eliminar</string>
-    <string name="miot_delete_dialog_content">"Podrás restaurar la tarjeta Xiaomi Home en los ajustes de Bóveda de aplicaciones."</string>
+    <string name="miot_delete_dialog_content">"Podrá restaurar la tarjeta Xiaomi Home en los ajustes de Bóveda de aplicaciones."</string>
     <string name="miot_delete_dialog_title">Eliminar tarjeta Xiaomi Home</string>
     <string name="miot_device_add_device">Agregar dispositivo</string>
     <string name="miot_device_all_device">Todos los dispositivos</string>
