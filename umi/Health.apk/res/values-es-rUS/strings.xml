@@ -1084,7 +1084,7 @@ Empiece de nuevo."</string>
     <string name="search_menu_title">Buscar</string>
     <string name="sedentary_detail_title">Estar sentado durante mucho tiempo es dañino</string>
     <string name="sedentary_enhance_remind">Vibrar también</string>
-    <string name="sedentary_enhance_remind_content">Esta función funciona cuando el modo No molestar está desactivado</string>
+    <string name="sedentary_enhance_remind_content">Esta característica funciona cuando el modo No Molestar está desactivado</string>
     <string name="sedentary_harm_known">Entendido</string>
     <string name="sedentary_popular_science">"* Estar sentado o sin moverte durante mucho tiempo no es bueno para ti. A menos que estés durmiendo, intenta moverte al menos 2 minutos cada hora. Recuerda que no se recomienda estar de pie durante más de 6 horas al día."</string>
     <string name="sedentary_reminder_channel_name">Recordarme que me mueva</string>
