@@ -239,7 +239,7 @@
     <string name="settings_feature_characteristics_title_1">Sincronización y traspaso sin problemas</string>
     <string name="settings_feature_characteristics_title_2">Transferir archivos</string>
     <string name="settings_feature_characteristics_title_3">Conectarse automáticamente</string>
-    <string name="settings_feature_dnd_summary">Silenciar notificaciones cuando su dispositivo está conectado a una computadora</string>
+    <string name="settings_feature_dnd_summary">Silenciar notificaciones cuando su dispositivo está conectado a un ordenador</string>
     <string name="settings_feature_dnd_title">No Molestar</string>
     <string name="settings_feature_keep_screen_summary">Mantenga su dispositivo desbloqueado para evitar desconexiones inesperadas</string>
     <string name="settings_feature_keep_screen_title">"Mantener encendida"</string>
