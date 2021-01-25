@@ -125,7 +125,7 @@
         <item>Leer todas tus notificaciones, incluyendo el contenido de tus mensajes de texto y otros elementos que pudieran contener información personal</item>
         <item>Restringir permisos de notificación a ciertas aplicaciones</item>
         <item>Simular notificaciones táctiles y abrir aplicaciones</item>
-        <item>Activar y desactivar el modo No molestar</item>
+        <item>Activar y desactivar el modo No Molestar</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Recolectar datos sobre tus intereses y comportamiento aprendiendo qué aplicaciones usas y con qué frecuencia las usas</item>
