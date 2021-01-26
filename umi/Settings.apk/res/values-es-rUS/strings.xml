@@ -2155,7 +2155,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="day_of_week">Día de la semana</string>
     <string name="dc_light_dialog_summary">La calidad de la imagen puede verse afectada cuando el modo Anti-flicker está activado. Encender de todos modos?</string>
     <string name="dc_light_summary">Aplica DC Dimming para reducir la fatiga visual</string>
-    <string name="dc_light_summary_new">La atenuación DC reduce la fatiga visual en condiciones de poca luz. Sin embargo, la calidad de la imagen puede verse afectada cuando el modo Anti-flicker está activado.</string>
+    <string name="dc_light_summary_new">La atenuación de CC evita el parpadeo extenso y reduce la fatiga visual en condiciones de poca luz. Sin embargo, la calidad de la imagen puede verse afectada cuando esta función está activada.</string>
     <string name="dc_light_title">Modo antiparpadeo</string>
     <string name="debug_app">Seleccionar app de depuración</string>
     <string name="debug_app_not_set">"Sin app de depuración establecida"</string>
@@ -5889,7 +5889,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="screen_projection_example_game_title">Juegos</string>
     <string name="screen_projection_help">Ayuda</string>
     <string name="screen_projection_sample_summary">Emitiendo documentos, juegos, fotos y vídeos</string>
-    <string name="screen_projection_sample_title">Población</string>
+    <string name="screen_projection_sample_title">Demostraciones</string>
     <string name="screen_projection_title">Emitir</string>
     <string name="screen_reader_category_title">Lectores de pantalla</string>
     <string name="screen_resolution_dialog_title">Cambiar resolución</string>
