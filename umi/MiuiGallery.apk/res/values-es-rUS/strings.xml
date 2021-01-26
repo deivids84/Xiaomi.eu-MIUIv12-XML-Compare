@@ -2264,9 +2264,9 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="video_editor_smart_effect_radical">Optimista</string>
     <string name="video_editor_smart_effect_rhythm">Pulso</string>
     <string name="video_editor_smart_effect_street">Metrópolis</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Puedes aplicar este efecto a vídeos de hasta 40 segundos de duración.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Puede aplicar este efecto a vídeos de hasta 40 segundos de duración.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Puede aplicar este efecto a vídeos de al menos 6 segundos de duración.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Puedes aplicar este efecto a vídeos de hasta 60 segundos de duración.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Puede aplicar este efecto a vídeos de hasta 60 segundos de duración. Duración ajustada automáticamente.</string>
     <string name="video_editor_template_family">Familia</string>
     <string name="video_editor_template_forbidden_tips">"No se puede hacer esto cuando se utiliza una plantilla"</string>
     <string name="video_editor_template_oldfilm">Clásico</string>
