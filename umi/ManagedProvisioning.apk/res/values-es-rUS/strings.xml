@@ -146,7 +146,7 @@
     <string name="organization_admin">administrador de la organización</string>
     <string name="pick_launcher">Aceptar</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="profile_benefits_description">Si usa un perfil de trabajo, puede mantener separados sus datos personales y profesionales</string>
+    <string name="profile_benefits_description">Si usa un perfil de trabajo, puede mantener separados sus datos personales de los profesionales</string>
     <string name="profile_owner_cancel_cancel">No</string>
     <string name="profile_owner_cancel_message">¿Detener configuración?</string>
     <string name="profile_owner_cancel_ok">Sí</string>
