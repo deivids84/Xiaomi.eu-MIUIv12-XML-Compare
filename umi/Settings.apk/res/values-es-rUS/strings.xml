@@ -3677,7 +3677,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="legal_written_offer">Oferta escrita</string>
     <string name="license_title">Licencia</string>
     <string name="lift_to_wake_title">Levantar el dispositivo para activarlo</string>
-    <string name="light_color_mode">Modo de luz</string>
+    <string name="light_color_mode">Modo claro</string>
     <string name="lights_title">Notificación LED</string>
     <string name="line_breaking_summary">Optimizar los saltos de línea del párrafo</string>
     <string name="line_breaking_title">Optimizar texto</string>
@@ -4710,7 +4710,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="night_light_brightness">Brillo del modo nocturno</string>
     <string name="night_light_color">Temperatura de color del modo nocturno</string>
     <string name="night_light_color_tip">Los cambios tendrán efecto cuando el modo lectura esté activo</string>
-    <string name="night_light_summary">Para activar el modo nocturno, minimice el brillo de la pantalla en condiciones de poca luz.</string>
+    <string name="night_light_summary">Para activar el modo Noche, minimice el brillo de la pantalla en condiciones de poca luz.</string>
     <string name="night_light_tip">Los cambios tendrán efecto cuando el modo noche esté activo</string>
     <string name="no">No</string>
     <string name="no_5g_in_dsds_text">Cuando use 2 tarjetas SIM, este teléfono estará limitado a 4G. <annotation id="url">Más información</annotation>.</string>
