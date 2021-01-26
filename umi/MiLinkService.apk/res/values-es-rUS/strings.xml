@@ -139,7 +139,7 @@ Ver ayuda si tiene problemas para conectarse."</string>
     <string name="global_privacy_positive">De acuerdo</string>
     <string name="global_privacy_tip"><Data>Necesitamos recopilar la información personal necesaria para brindarle los servicios básicos y optimizar el proceso de casting. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a&gt;. Puede retirar su consentimiento a la Política de privacidad en los Ajustes en cualquier momento.</Data></string>
     <string name="hang_up">Cast con pantalla apagada</string>
-    <string name="hang_up_alert_dialog_content">Sigue emitiendo cuando la pantalla de tu dispositivo esté apagada. Esta característica disminuye el consumo de energía. Presiona el botón de Encendido para volver a encender la pantalla.</string>
+    <string name="hang_up_alert_dialog_content">Siga emitiendo cuando la pantalla de su dispositivo esté apagada. Esta característica disminuye el consumo de energía. Presione el botón de Encendido para volver a encender la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
     <string name="hang_up_alert_dialog_pos">Aceptar</string>
     <string name="hang_up_alert_dialog_title">A punto de emitir con la pantalla apagada…</string>
@@ -156,7 +156,7 @@ Nota: Es posible que los televisores Mi Mi más antiguos no admitan la transmisi
 2. Si usa televisores, decodificadores o proyectores de otras marcas, conecte su teléfono y monitor externo a la misma red Wi-Fi.
 Si los dos dispositivos no se pueden conectar a la misma red, encienda Miracast en su monitor externo. El nombre de la funcionalidad de Miracast puede variar."</string>
     <string name="help_page_text_08">Paso 2: activa el casting</string>
-    <string name="help_page_text_09">"Toca el botón \"Cast\"en la pantalla de notificaciones de tu teléfono. Enciende Wi-Fi y Bluetooth para una conexión más estable."</string>
+    <string name="help_page_text_09">"Toque el botón \"Emitir\" en la pantalla de notificaciones de su teléfono. Encienda Wi-Fi y Bluetooth para una conexión más estable."</string>
     <string name="help_page_text_10">Si desea transmitir elementos desde Galería o Mi Video, puede usar funciones de transmisión integradas en estas aplicaciones.</string>
     <string name="help_page_text_11">Paso 3: selecciona el dispositivo</string>
     <string name="help_page_text_12">Seleccione un dispositivo externo de la lista de dispositivos disponibles para comenzar a transmitir.</string>
@@ -186,10 +186,10 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="help_page_text_25">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. Esta función está activada de manera predeterminada en varios modelos.</string>
     <string name="help_page_text_26">Atención al cliente de Philips: 400-880-0008</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede presionar el botón [MENÚ] en el control remoto y luego seleccionar Configuración&gt; Conexión&gt; Red&gt; Múltiples pantallas.</string>
+    <string name="help_page_text_28">Primero, asegúrese de que la funcionalidad de Miracast está soportada en su dispositivo. En algunos de los modelos, puedes pulsar el botón [MENU] en el mando a distancia y luego seleccionar Ajustes &gt; Conexión &gt; Red &gt; Múltiples pantallas.</string>
     <string name="help_page_text_29">Atención al cliente de TPV: 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede presionar el botón [SMART] en el control remoto y luego seleccionar Fundición&gt; Pantalla inalámbrica. Algunos modelos también admiten la transmisión de juegos: Hi Cast&gt; Cast games&gt; Android.</string>
+    <string name="help_page_text_31">Primero, asegúrese de que la funcionalidad de Miracast está soportada en su dispositivo. En algunos de los modelos, puedes pulsar el botón [SMART] en el mando a distancia y luego seleccionar Enviación &gt; Pantalla inalámbrica. Algunos modelos también soportan casting para juegos: Hi Cast &gt; Cast juegos &gt; Android.</string>
     <string name="help_page_text_32">Atención al cliente de Hisense: 400-611-1111</string>
     <string name="help_page_text_33">Skyworth</string>
     <string name="help_page_text_34">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede seleccionar Aplicaciones&gt; Casting&gt; Dispositivo Android&gt; Miracast.</string>
@@ -358,7 +358,7 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a hre
     <string name="screen_projection_example_game_title">Juegos</string>
     <string name="screen_projection_help">Ayuda</string>
     <string name="screen_projection_sample_summary">Emitiendo documentos, juegos, fotos y vídeos</string>
-    <string name="screen_projection_sample_title">Población</string>
+    <string name="screen_projection_sample_title">Demostraciones</string>
     <string name="screen_projection_title">Emitir</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
