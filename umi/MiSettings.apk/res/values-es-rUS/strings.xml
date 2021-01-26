@@ -680,7 +680,7 @@ Esta aplicación también necesita conectarse a Internet y requiere los siguient
     <string name="usage_new_home_day_usage_title_new">\'Tiempo de uso en\' d MMM</string>
     <string name="usage_new_home_first_unlock">Primer desbloqueo: %s</string>
     <string name="usage_new_home_name">Nombre</string>
-    <string name="usage_new_home_show_more_data_summary">También puede limitar el tiempo de pantalla para cada aplicación</string>
+    <string name="usage_new_home_show_more_data_summary">También puede limitar las horas de pantalla para aplicaciones individuales</string>
     <string name="usage_new_home_show_more_data_title">Ver más estadísticas</string>
     <string name="usage_new_home_sys_no_limit_summary">"No se puede limitar el tiempo de pantalla para las aplicaciones del sistema"</string>
     <string name="usage_new_home_unlock_equals_text">Igual que el día anterior</string>
