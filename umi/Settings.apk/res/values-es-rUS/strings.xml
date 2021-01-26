@@ -316,6 +316,8 @@ Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado
     <string name="activating">Activando…</string>
     <string name="active_device_admin_msg">Aplicación de administrador de dispositivos</string>
     <string name="active_input_method_subtypes">Métodos de entrada activos</string>
+    <string name="activity_check_context">"Su dispositivo está intentando conectarse a Internet. Este proceso puede tardar más de lo esperado si utiliza datos móviles. En su lugar, puede regresar y conectarse a una red Wi-Fi, o esperar hasta que se establezca la conexión de datos móviles."</string>
+    <string name="activity_check_title">Conectando a Internet</string>
     <string name="activity_not_found">La aplicación no está instalada en el teléfono.</string>
     <string name="activity_picker_label">Seleccionar actividad</string>
     <string name="activity_title_power_manager">Ahorro de batería; ahorre batería</string>
@@ -1460,7 +1462,9 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="button_confirm_convert_fbe">Borrar y convertir</string>
     <string name="button_convert_fbe">Limpiar y convertir…</string>
     <string name="button_disconnect_network">Desconectarse de la red</string>
+    <string name="button_height_text">Un botón de confirmación genérico (por ejemplo, \"Aceptar\", \"Listo\")</string>
     <string name="button_light_timeout">Mantener encendidas las luces de los botones</string>
+    <string name="button_normal_text">Botón normal</string>
     <string name="button_text_accept">Aceptar</string>
     <string name="button_text_accept_timer">Aceptar (%d)</string>
     <string name="button_text_cancel">Cancelar</string>
@@ -1611,6 +1615,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="check_find_device_status_failure_confirm">Aceptar</string>
     <string name="check_update">Buscar actualizaciones</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
+    <string name="checkbox_text">Cambiar</string>
     <string name="checking_decryption">Comprobando...</string>
     <string name="checking_find_device_status">Comprobando el estado de búsqueda del dispositivo…</string>
     <string name="checking_for_updates">Comprobando actualizaciones…</string>
@@ -2301,6 +2306,12 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_background_check_ok">Apagar</string>
     <string name="dialog_background_check_title">Desactivar el uso del fondo y detener la aplicación?</string>
     <string name="dialog_backup_title">¿Actualizar copias de seguridad antes de realizar el restablecimiento de fábrica?</string>
+    <string name="dialog_check_button_negative">Inténtelo de nuevo</string>
+    <string name="dialog_check_button_positive">Conectarse a Wi-Fi</string>
+    <string name="dialog_check_context">"Su dispositivo no puede conectarse a Internet.
+1. Toque \"Conectar a Wi-Fi\" para seleccionar una de las redes disponibles.
+2. Si desea utilizar datos móviles, toque \"Inténtelo de nuevo\" o retire y vuelva a insertar su tarjeta SIM."</string>
+    <string name="dialog_check_title">"No se puede conectar a Internet"</string>
     <string name="dialog_chose_item">Seleccionar un elemento para mostrar</string>
     <string name="dialog_content_login">¿Iniciar sesión en Cuenta Mi para actualizar?</string>
     <string name="dialog_location_message">"Su teléfono no puede administrar la batería normalmente porque %1$s sigue solicitando su ubicación cuando no está usando la aplicación. Para solucionar este problema, puedes desactivar la ubicación de esta aplicación."</string>
@@ -2324,6 +2335,10 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_title_color_calibration">Corrección de color preestablecido</string>
     <string name="dialog_title_hdmi_color_calibration">Corrección de color preestablecido</string>
     <string name="dialog_title_login">Iniciar sesión en Cuenta Mi</string>
+    <string name="dialog_wifi_button_negative">No</string>
+    <string name="dialog_wifi_button_positive">Sí</string>
+    <string name="dialog_wifi_context">Necesita conectarse a Internet para configurar su dispositivo. A menos que se conecte a una red Wi-Fi, es posible que se utilicen datos móviles. El uso de datos móviles puede generar tarifas de operador adicionales. ¿Usas datos móviles de todos modos?</string>
+    <string name="dialog_wifi_title">Usando datos móviles</string>
     <string name="dialog_yes">Sí</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disableNetwork">deshabilitar la red</string>
@@ -2943,6 +2958,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="font_settings_summary_cn">Fuentes y tamaño del texto</string>
     <string name="font_size_exhuge">Extra enorme</string>
     <string name="font_size_huge">Enorme</string>
+    <string name="font_size_kddi">Medio</string>
     <string name="font_size_large">Muy grande</string>
     <string name="font_size_make_larger_desc">Aumentar el tamaño</string>
     <string name="font_size_make_smaller_desc">Disminuir el tamaño</string>
@@ -3058,6 +3074,8 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="game_booster_title">Juego Turbo</string>
     <string name="game_controller_settings_category">Mandos de videojuegos</string>
     <string name="game_storage_settings">Juegos</string>
+    <string name="general_text">Campo de texto</string>
+    <string name="general_time">"Tiempo: %1$d:%2$d. Las vibraciones largas representan horas, las vibraciones cortas representan minutos. Habrá una breve pausa entre horas y minutos. Toca dos veces para probar."</string>
     <string name="gentle_notifications_also_display">Mostrar también en</string>
     <string name="gentle_notifications_display_lock">Pantalla de bloqueo</string>
     <string name="gentle_notifications_display_status">Barra de estado</string>
@@ -3159,6 +3177,8 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos a pantalla completa, puedes activar el modo con una mano usando la bola flotante. También puedes cambiar a usar botones en lugar de gestos a pantalla completa."</string>
     <string name="haptic_agent_completion_01_content_description">Tarea completada</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustando brillo</string>
+    <string name="haptic_experience">Demostración</string>
+    <string name="haptic_experience_details">Retroalimentación háptica &amp; accesibilidad</string>
     <string name="haptic_feedback_enable_title">Vibrar al tocar</string>
     <string name="haptic_feedback_level">Vibración</string>
     <string name="haptic_feedback_progress">Nivel de retroalimentación háptica</string>
@@ -3176,6 +3196,8 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="haptic_return_gesture_05_content_description">Regresando</string>
     <string name="haptic_shutdown_menu_06_content_description">Menú de apagado</string>
     <string name="haptic_single_selection_02_content_description">Artículo seleccionado</string>
+    <string name="haptic_switch_summary">Reciba comentarios hápticos específicos de los elementos seleccionados cuando el lector de pantalla está encendido</string>
+    <string name="haptic_switch_title">Retroalimentación háptica</string>
     <string name="haptic_text_edit_popup_13_content_description">Menú emergente</string>
     <string name="haptic_upper_right_menu_15_content_description">Menú desplegable</string>
     <string name="haptic_volume_adjustment_14_content_description">Ajuste de volúmen</string>
@@ -3208,6 +3230,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="headset_unsaved_devices">no guardar, conectar en su cuenta en otro teléfono</string>
     <string name="hearing_aids_category">Herramientas de asistencia auditiva</string>
     <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo haces, puedes perder parte de tu trabajo.</string>
+    <string name="height_light_list_text">Una lista de elementos importantes</string>
     <string name="help_and_feedback_title">Ayuda y comentarios</string>
     <string name="help_feedback_label">Ayuda y comentarios</string>
     <string name="help_label">Ayuda y sugerencias</string>
@@ -3376,6 +3399,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="input_methods_settings_title">Introducción de texto</string>
     <string name="input_pattern_hint_text">Dibuja tu patrón de desbloqueo</string>
     <string name="input_settings">Ajustes de entrada</string>
+    <string name="input_text">Barra de entrada de texto</string>
     <string name="install_all_warning">Su teléfono y datos personales son más vulnerables a los ataques de aplicaciones desconocidas. Al instalar aplicaciones de esta fuente, acepta ser responsable de cualquier daño que sufra su teléfono o la pérdida de datos que se pueda derivar de su uso.</string>
     <string name="install_applications">Orígenes desconocidos</string>
     <string name="install_applications_title">Permitir todas las fuentes</string>
@@ -4189,6 +4213,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_closeAnc">Desactivado</string>
     <string name="miheadset_connectHeadsetForFw">Conecte los auriculares para ver la versión del firmware</string>
     <string name="miheadset_connect_play_music">Iniciar la reproducción automáticamente cuando se conectan los auriculares</string>
+    <string name="miheadset_connect_toast_tips">Conecte los auriculares primero</string>
     <string name="miheadset_define_self">Personalizado</string>
     <string name="miheadset_disconnect">Desconectar</string>
     <string name="miheadset_disconnect_device">¿Desconectar este dispositivo?</string>
@@ -4238,8 +4263,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_transparent">Transparencia</string>
     <string name="miheadset_triple_click_key_mode">modo de tecla de triple clic</string>
     <string name="miheadset_triple_click_key_mode_summary">mapa de teclas de triple clic</string>
-    <string name="miheadset_unpair_device">par cancelar?</string>
-    <string name="miheadset_unpair_device_text">Se eliminarán todos los dispositivos asociados con esta cuenta Xiaomi</string>
+    <string name="miheadset_unpair_device_text">%1$s se desvinculará de todos los dispositivos asociados con esta Mi Cuenta.</string>
     <string name="mipush_fake_channel_group_name">Mi empuje</string>
     <string name="misc_files">Archivos variados</string>
     <string name="misc_files_selected_count">Has seleccionado %1$d de %2$d.</string>
@@ -4721,6 +4745,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="none">Nada</string>
     <string name="normal">Normal</string>
     <string name="normal_info">Todos los sonidos funcionarán con normalidad</string>
+    <string name="normal_list_text">Lista</string>
     <string name="normal_smartcover_title">Fondo opaco</string>
     <string name="not_allowed">La tarjeta SIM no permite establecer conexión con esta red.</string>
     <string name="not_battery_optimizing">No se está utilizando la optimización de la batería</string>
@@ -5096,6 +5121,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="photo_data">Fotos y videos</string>
     <string name="physical_keyboard_title">Teclado físico</string>
     <string name="pick_up_gesture_wakeup_title">Levantar para reactivar</string>
+    <string name="picker_text">Selector de hora</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés utilizando."</string>
@@ -6296,6 +6322,7 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="see_less">Ver menos</string>
     <string name="see_more">Ver más</string>
     <string name="seek_bar_info">Ajustar el tamaño</string>
+    <string name="seekbar_text">Deslizador</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="select_application">Seleccionar aplicación</string>
     <string name="select_automatically">Seleccionar una red automáticamente</string>
@@ -7050,6 +7077,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="system_touch">Retroalimentación háptica</string>
     <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
     <string name="system_update_settings_list_item_title">Actualizaciones del sistema</string>
+    <string name="tab_text">Pestaña</string>
     <string name="take_call_on_title">Tomar llamada en</string>
     <string name="talkback_summary">El lector de pantalla está destinado principalmente a personas ciegas y con problemas de visión</string>
     <string name="talkback_title">TalkBack</string>
