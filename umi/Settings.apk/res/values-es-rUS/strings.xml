@@ -5875,7 +5875,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="screen_pinning_unlock_pin">Solicitar PIN para desactivar</string>
     <string name="screen_projection">Emitir</string>
     <string name="screen_projection_characteristics">Funciones especiales</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Puedes seguir emitiendo cuando la pantalla de tu dispositivo está apagada. Esta función disminuye el consumo de energía.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Puede seguir emitiendo cuando la pantalla de su dispositivo esté apagada. Esta característica disminuye el consumo de energía.</string>
     <string name="screen_projection_characteristics_off_screen_title">Emitir con la pantalla apagada</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">"No mostrar notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Ocultar elementos privados</string>
@@ -7962,7 +7962,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wfd_settings_description">Conectarse a una pantalla usando Wi-Fi</string>
     <string name="wfd_settings_title">Pantalla inalámbrica</string>
     <string name="wfd_status_dialog_disconnect">Desconectar</string>
-    <string name="wfd_status_dialog_message">Los contenidos de la pantalla se muestran en otro dispositivo de visualización a través de una conexión inalámbrica</string>
+    <string name="wfd_status_dialog_message">El contenido de la pantalla se está emitiendo a otro dispositivo de forma inalámbrica</string>
     <string name="wfd_status_dialog_title">Pantalla inalámbrica</string>
     <string name="wfd_wps_keypad">Usar teclado</string>
     <string name="wfd_wps_pbc">Introducir PIN</string>
