@@ -133,19 +133,19 @@ Ver ayuda si tiene problemas para conectarse."</string>
     <string name="global_privacy">Términos y condiciones</string>
     <string name="global_privacy_detail"><Data>\"Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; antes de usar esta aplicación.&lt;br&gt;Si no acepta usar los servicios mencionados anteriormente, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted \".</Data></string>
     <string name="global_privacy_explain">¡Bienvenidos a Casting! Esta aplicación ofrece los siguientes servicios:</string>
-    <string name="global_privacy_feature">Usar ventanas minimizadas, transmitir contenido con la pantalla apagada y ocultar elementos privados.</string>
+    <string name="global_privacy_feature">Usar ventanas minimizadas, emitir contenido con la pantalla apagada y ocultar elementos privados.</string>
     <string name="global_privacy_main">"Proyectar los elementos de la pantalla de su teléfono en un monitor externo más grande."</string>
     <string name="global_privacy_negative">"Rechazar"</string>
     <string name="global_privacy_positive">De acuerdo</string>
     <string name="global_privacy_tip"><Data>Necesitamos recopilar la información personal necesaria para brindarle los servicios básicos y optimizar el proceso de casting. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a&gt;. Puede retirar su consentimiento a la Política de privacidad en los Ajustes en cualquier momento.</Data></string>
-    <string name="hang_up">Cast con pantalla apagada</string>
+    <string name="hang_up">Emitir con pantalla apagada</string>
     <string name="hang_up_alert_dialog_content">Siga emitiendo cuando la pantalla de su dispositivo esté apagada. Esta característica disminuye el consumo de energía. Presione el botón de Encendido para volver a encender la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
     <string name="hang_up_alert_dialog_pos">Aceptar</string>
     <string name="hang_up_alert_dialog_title">A punto de emitir con la pantalla apagada…</string>
     <string name="help_page_text_01">Ayuda</string>
     <string name="help_page_text_02">¿Qué es el casting?</string>
-    <string name="help_page_text_03">"Casting proyecta los elementos desde la pantalla de su teléfono en un monitor externo más grande. Le permite compartir imágenes y videos con sus amigos y familiares sin usar datos móviles."</string>
+    <string name="help_page_text_03">"La emisión consiste en proyectar los elementos de la pantalla de su teléfono en un monitor externo más grande. Le permite compartir imágenes y videos con sus amigos y familiares sin usar datos móviles."</string>
     <string name="help_page_text_04">¿Cómo envío elementos en una pantalla más grande?</string>
     <string name="help_page_text_05">Paso 1: verifique sus dispositivos y el entorno de red</string>
     <string name="help_page_text_06">"1. No necesita conectarse a Internet si desea transmitir algo desde un teléfono Mi a un televisor Mi.
@@ -189,7 +189,7 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="help_page_text_28">Primero, asegúrese de que la funcionalidad de Miracast está soportada en su dispositivo. En algunos de los modelos, puedes pulsar el botón [MENU] en el mando a distancia y luego seleccionar Ajustes &gt; Conexión &gt; Red &gt; Múltiples pantallas.</string>
     <string name="help_page_text_29">Atención al cliente de TPV: 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">Primero, asegúrese de que la funcionalidad de Miracast está soportada en su dispositivo. En algunos de los modelos, puedes pulsar el botón [SMART] en el mando a distancia y luego seleccionar Enviación &gt; Pantalla inalámbrica. Algunos modelos también soportan casting para juegos: Hi Cast &gt; Cast juegos &gt; Android.</string>
+    <string name="help_page_text_31">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede pulsar el botón [SMART] en el mando a distancia y luego seleccionar Emitir &gt; Pantalla inalámbrica. Algunos modelos también soportan emisión para juegos: Hola Emitir &gt; Emitir juegos &gt; Android.</string>
     <string name="help_page_text_32">Atención al cliente de Hisense: 400-611-1111</string>
     <string name="help_page_text_33">Skyworth</string>
     <string name="help_page_text_34">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede seleccionar Aplicaciones&gt; Casting&gt; Dispositivo Android&gt; Miracast.</string>
@@ -204,15 +204,15 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="help_page_text_43">Verifique la configuración de su televisor para asegurarse de que su monitor externo sea compatible con la funcionalidad Miracast.</string>
     <string name="help_page_text_44">Atención al cliente de Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede seleccionar Aplicaciones&gt; Pantalla inalámbrica.</string>
+    <string name="help_page_text_46">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede seleccionar Aplicaciones &gt; Pantalla inalámbrica.</string>
     <string name="help_page_text_47">Atención al cliente de TCL: 400-812-3456</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. Para activar esta función, vaya a Mis aplicaciones&gt; Pantalla WiFi.</string>
+    <string name="help_page_text_49">Primero, asegúrese de que la funcionalidad Miracast sea compatible con su dispositivo. Para activar esta función, vaya a Mis Aplicaciones &gt; Pantalla WiFi.</string>
     <string name="help_page_text_50">Atención al cliente de AODIN: 400-810-5858</string>
     <string name="help_page_text_51">LeEco</string>
-    <string name="help_page_text_52">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede activar esta función en Configuración&gt; Redes&gt; Varias pantallas&gt; Pantalla inalámbrica.</string>
+    <string name="help_page_text_52">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede activar esta función en Ajustes &gt; Redes &gt; Pantallas múltiples &gt; Pantalla inalámbrica.</string>
     <string name="help_page_text_53">Atención al cliente de LeEco: 10109000</string>
-    <string name="help_page_text_55">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y esté encendido. En algunos modelos, esta función se denomina Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples. Vea la información a continuación para aprender cómo enciende Miracast.
+    <string name="help_page_text_55">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y esté encendido. En algunos modelos, esta función se denomina Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples. Vea la información a continuación para aprender cómo activar Miracast.
 4. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Servicios &amp; comentarios\"."</string>
     <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y esté encendido. En algunos modelos, esta función se denomina Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
 4. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Servicios &amp; comentarios\"."</string>
@@ -307,7 +307,7 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="privacy_agree">Aceptar</string>
     <string name="privacy_detail"><Data>Esta aplicación debe conectarse a Internet y recopilar los datos personales necesarios para poder funcionar con normalidad. Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;.</Data></string>
     <string name="privacy_detail_extra"><Data>Algunas funciones son proporcionadas por un proveedor de servicios externo HappyCast. Antes de usar esta función, lea y acepte &lt;a href=%1$s&gt;Política de privacidad de HappyCast&lt;/a&gt; y &lt;a href=%2$s&gt;Declaración legal de HappyCast&lt;/a&gt;.</Data></string>
-    <string name="privacy_explain">"¡Bienvenidos a Casting! La transmisión permite proyectar los elementos de la pantalla de su teléfono en un monitor externo más grande. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para poder funcionar normalmente:"</string>
+    <string name="privacy_explain">"¡Bienvenidos a Emitir! La transmisión permite proyectar los elementos de la pantalla de su teléfono en un monitor externo más grande. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para poder funcionar normalmente:"</string>
     <string name="privacy_negative">Salir</string>
     <string name="privacy_permission_ble">Activar y desactivar Bluetooth</string>
     <string name="privacy_permission_ble_desc">Para encontrar dispositivos disponibles cercanos</string>
@@ -324,9 +324,9 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponibles cercanos</string>
     <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponibles cercanos</string>
     <string name="privacy_positive">Aceptar</string>
-    <string name="privacy_text_1"><Data>\"¡Bienvenido a Casting! Casting permite proyectar los elementos de la pantalla de su teléfono en un monitor externo más grande.
-Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Algunas funciones son proporcionadas por un servicio de terceros proveedor HappyCast. Antes de usar esta función, lea y acepte &lt;a href=%2$s&gt;Declaración legal&lt;/a&gt; &lt;a href=%1$s&gt;HappyCast y &lt;a href=%1$s&gt; Política de privacidad de HappyCast&lt;/a&gt;
-Para poder funcionar normalmente, esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para poder información personal: \"</Data></string>
+    <string name="privacy_text_1"><Data>\"¡Bienvenido a Emitir! Emitir permite proyectar los elementos de la pantalla de su teléfono en un monitor externo más grande.
+Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes. Algunas funciones son proporcionadas por un servicio de terceros proveedor HappyCast. Antes de usar esta función, lea y acepte &lt;a href=%2$s&gt;Declaración legal&lt;/a&gt; &lt;a href=%1$s&gt;HappyCast y Política de privacidad de HappyCast&lt;/a&gt;
+Para poder funcionar normalmente, esta aplicación debe conectarse a Internet y requiere los siguientes permisos para poder recopilar su información personal: \"</Data></string>
     <string name="privacy_text_2"><Data>\"Si no acepta otorgar dichos permisos o compartir y cargar su información personal, no podrá usar esta aplicación. Puede optar por desinstalar esta aplicación, cerrar sesión o restringir los permisos en la Configuración en tal casos.
 Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; antes de utilizar esta función \".</Data></string>
     <string name="privacy_text_pemission">"• Accede y guarda imágenes en tu dispositivo para proyectar estos elementos en monitores externos
