@@ -97,7 +97,7 @@
     <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s eliminados</string>
     <string name="announce_for_drag_enter_delete_zone">Elementos arrastrados a la zona de desinstalación</string>
-    <string name="announce_for_drag_enter_folder_grid">Puedes dejar elementos en la carpeta</string>
+    <string name="announce_for_drag_enter_folder_grid">Puede dejar elementos en la carpeta</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">Elementos movidos a la pantalla de vista previa %1$d</string>
     <string name="announce_for_drop">Caído %1$s</string>
     <string name="announce_for_drop_folder_grid_view">Número %1$d en la carpeta</string>
