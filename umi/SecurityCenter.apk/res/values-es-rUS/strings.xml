@@ -150,7 +150,7 @@
     <string name="alert_back_diving_mode_summary">¿Desactiva el modo inmersivo ahora?</string>
     <string name="alert_back_diving_mode_title">Modo inmersivo</string>
     <string name="alert_back_milink_hangup_tips_content">"El envío no se interrumpirá mientras finaliza una llamada. Puede presionar el botón de Encendido para activar la pantalla."</string>
-    <string name="alert_back_milink_hangup_tips_content_vb">La emisión no será interrumpida cuando la pantalla esté apagada y la aplicación funcione en segundo plano. Puedes presionar el Botón de encendido para volver a encender la pantalla.</string>
+    <string name="alert_back_milink_hangup_tips_content_vb">La emisión no será interrumpida cuando la pantalla esté apagada y la aplicación funcione en segundo plano. Puede presionar el Botón de encendido para volver a encender la pantalla.</string>
     <string name="all_address_choose_hint">Todos los números de esta provincia</string>
     <string name="allow_all">Permitir todo</string>
     <string name="already_close_gamebooster">Acelerador de velocidad de juegos deshabilitado</string>
