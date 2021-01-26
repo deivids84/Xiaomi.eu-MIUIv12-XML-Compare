@@ -76,7 +76,7 @@ Ver ayuda si tiene problemas para conectarse."</string>
     <string name="dialog_scanning_precondition">Active Wi-Fi y Bluetooth en su teléfono para usar la pantalla inalámbrica.</string>
     <string name="dialog_select_tv">Seleccionar dispositivo ( %d)</string>
     <string name="dialog_show_help">Ayuda</string>
-    <string name="disconnect">Deja de lanzar</string>
+    <string name="disconnect">Detener la emisión</string>
     <string name="early_morning">Mañana</string>
     <string name="enable_screen_projection_summary">Emitir los contenidos de la pantalla a un monitor externo</string>
     <string name="eras_ad">DC</string>
@@ -293,7 +293,7 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="notification_cast_desc">Emitiendo…</string>
     <string name="notification_desc_scanning">Buscando dispositivos cercanos…</string>
     <string name="notification_rc_title">Asistente de TV XiaoMi</string>
-    <string name="notification_show_more">Toca para ver más funciones</string>
+    <string name="notification_show_more">Pulse para ver más funciones</string>
     <string name="open_game_accelerate">Activar Game Turbo</string>
     <string name="path_setting_cast">Conexión &amp; compartir / Cast</string>
     <string name="path_setting_cast_demo">Conexión &amp; compartir / Cast / Demos</string>
@@ -389,7 +389,7 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a hre
     <string name="solar_term_winter_begins">Empieza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="status_bar_in_casting">Emitiendo…</string>
-    <string name="status_bar_in_casting_long">Toca para ver más funciones de casting</string>
+    <string name="status_bar_in_casting_long">Pulse para ver más funciones de emisión</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
