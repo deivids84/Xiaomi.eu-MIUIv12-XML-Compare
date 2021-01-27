@@ -476,7 +476,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="open_photo_and_contacts_cloud_sync_summary">Activeu la sincronització perquè els contactes i els elements de la galeria apareguin en aquest dispositiu.</string>
     <string name="open_photo_and_contacts_cloud_sync_title">Sincronitzeu els contactes i els elements de la galeria</string>
     <string name="option_feedback_title">Feedback</string>
-    <string name="option_privacy_policy">Política de privacitat</string>
+    <string name="option_privacy_policy">Política de privadesa</string>
     <string name="organization">Organització</string>
     <string name="other_system_data">Dades de l\'aplicació del sistema</string>
     <string name="other_user_app">Aplicacions de tercers</string>
@@ -516,7 +516,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="permlab_sendSmsNoConfirmation">Permet missatges SMS en segon pla</string>
     <string name="phone">Telèfon</string>
     <string name="pm">PM</string>
-    <string name="privacy_policy">Política de privacitat</string>
+    <string name="privacy_policy">Política de privadesa</string>
     <string name="prompt_before_transmission_message1_summary">Si trieu transferir-les des del vostre dispositiu antic, se sobreescriviaran les dades de l’aplicació (inclòs l’historial de xat).</string>
     <string name="prompt_before_transmission_message1_title">Aquestes aplicacions ja han generat dades d\'aplicacions al vostre nou dispositiu</string>
     <string name="prompt_before_transmission_message2_summary">"Les aplicacions dobles no es poden transferir. Tanmateix, podeu transferir aplicacions originals."</string>
