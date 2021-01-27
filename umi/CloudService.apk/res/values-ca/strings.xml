@@ -271,7 +271,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_find_device_guide_desc_pad">Si perdeu el dispositiu, inicieu sessió a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en qualsevol altre dispositiu per localitzar, bloquejar de forma remota o esborrar les dades del dispositiu perdut. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Mostra els detalls&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_desc_phone">Si perdeu el dispositiu, inicieu sessió a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en qualsevol altre dispositiu per localitzar, bloquejar de forma remota o esborrar les dades del dispositiu perdut. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Mostra els detalls&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_fail_reopen">Podeu activar Troba el dispositiu al Compte Mi - Xiaomi Cloud</string>
-    <string name="micloud_find_device_guide_fail_sub_net">Comprova la teva connexió de xarxa i torna a intentar-ho.</string>
+    <string name="micloud_find_device_guide_fail_sub_net">Comproveu la connexió de xarxa i torneu-ho a provar.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronitza contactes, fotos, notes i molt més amb Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronitzeu contactes, fotos, notes i molt més amb Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_noti_content">Protegiu les vostres dades fins i tot quan es perdi el vostre dispositiu</string>
