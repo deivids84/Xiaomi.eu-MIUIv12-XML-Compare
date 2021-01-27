@@ -11,6 +11,12 @@
         <item>Transporte público</item>
         <item>Taxi</item>
     </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>60 minutos</item>
+    </string-array>
     <string-array name="base_day_time_space">
         <item>Noche</item>
         <item>Noche</item>
