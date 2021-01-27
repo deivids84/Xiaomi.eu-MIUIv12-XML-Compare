@@ -2175,7 +2175,7 @@ Sembla que l’emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_enable_dialog_turn_on">Activa</string>
     <string name="zen_mode_forever">Fins que no ho desactiveu</string>
     <string name="zen_mode_settings_summary_off">Mai</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Activa el DND</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Activa No molestis</string>
     <string name="zen_mode_warnings_all_time_content">Se silenciaran les notificacions i les trucades</string>
     <string name="zen_mode_warnings_keyguard_content">Les notificacions i les trucades se silenciaran quan el dispositiu estigui bloquejat</string>
     <string name="zen_mode_warnings_quit_immediately">Desactiva</string>
