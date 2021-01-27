@@ -236,6 +236,15 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_express_tail_number">Orden: %1$s</string>
     <string name="app_health_card_completion">Objetivo</string>
     <string name="app_health_card_step">"Pasos de hoy:"</string>
+    <string name="app_health_setting_music_name_fire">Estufa</string>
+    <string name="app_health_setting_music_name_forest">Bosque</string>
+    <string name="app_health_setting_music_name_night">Noche de verano</string>
+    <string name="app_health_setting_music_name_ocean">Playa</string>
+    <string name="app_health_setting_music_name_rain">Llovizna</string>
+    <string name="app_health_setting_text_default_duration">Duración</string>
+    <string name="app_health_setting_text_download_alert_message">"Parece que no estás conectado a Wi-Fi. ¿Quiere usar %1$s de datos móviles para descargar elementos?"</string>
+    <string name="app_health_setting_text_sleep_aid_settings">Dormir</string>
+    <string name="app_health_setting_text_title">Salud</string>
     <string name="app_label">Bóveda de aplicaciones</string>
     <string name="app_memory_free">Disponible</string>
     <string name="app_memory_title">Memoria</string>
@@ -375,12 +384,14 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_sports_fav_add">Añadir</string>
     <string name="app_sports_fav_cancel_club">Quitar este club</string>
     <string name="app_sports_fav_cancel_league">Quitar esta liga</string>
+    <string name="app_sports_fav_cancel_multi_league_content" formatted="false">"El horario del club en %s y %s ya no se le enviará"</string>
     <string name="app_sports_fav_club">Club de preocupación</string>
     <string name="app_sports_fav_league">Liga de preocupaciones</string>
     <string name="app_sports_fav_title">Mi preocupación</string>
     <string name="app_sports_more_match">MÁS</string>
     <string name="app_sports_title">Deportes</string>
     <string name="app_sports_title_all_leagues">Todos los partidos</string>
+    <string name="app_sports_title_tip">Coincidir con datos relacionados proporcionados por un tercero</string>
     <string name="app_stock_more_add_stock">Añadir</string>
     <string name="app_stock_name_hszs">Hang Sen</string>
     <string name="app_stock_name_nsdk">Nasdaq</string>
@@ -417,6 +428,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_surround_title_my_fav">Mis favoritos</string>
     <string name="app_travel_btn_all_travel">Todos los viajes</string>
     <string name="app_travel_btn_flight_detail">Detalles</string>
+    <string name="app_travel_card_none">Sin datos</string>
     <string name="app_travel_card_title">Excursiones</string>
     <string name="app_travel_card_title_add">Añadir</string>
     <string name="app_travel_card_title_no_arr">Próximo viaje</string>
@@ -1218,7 +1230,7 @@ Bóveda de aplicaciones</string>
     <string name="miot_cta_dialog_title">Autorización de concesión</string>
     <string name="miot_del_dialog_cancel">Mantener</string>
     <string name="miot_del_dialog_sure">Eliminar</string>
-    <string name="miot_delete_dialog_content">"Podrás restaurar la tarjeta Xiaomi Home en los ajustes de Bóveda de aplicaciones."</string>
+    <string name="miot_delete_dialog_content">"Podrá restaurar la tarjeta Xiaomi Home en los ajustes de Bóveda de aplicaciones."</string>
     <string name="miot_delete_dialog_title">Eliminar tarjeta Xiaomi Home</string>
     <string name="miot_device_add_device">Agregar dispositivo</string>
     <string name="miot_device_all_device">Todos los dispositivos</string>
