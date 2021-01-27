@@ -196,10 +196,10 @@
     <string name="accessibility_quick_settings_data_saver_changed_off">Estalviador de dades desactivat.</string>
     <string name="accessibility_quick_settings_data_saver_changed_on">Estalviador de dades activat.</string>
     <string name="accessibility_quick_settings_detail">Configuració ràpida, %s.</string>
-    <string name="accessibility_quick_settings_dnd">No molestar.</string>
+    <string name="accessibility_quick_settings_dnd">No molestis.</string>
     <string name="accessibility_quick_settings_dnd_alarms_on">només alarmes</string>
-    <string name="accessibility_quick_settings_dnd_changed_off">No molestar desactivat.</string>
-    <string name="accessibility_quick_settings_dnd_changed_on">Activat No molestar.</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">No molestis desactivat.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">No molestis activat.</string>
     <string name="accessibility_quick_settings_dnd_none_on">silenci total</string>
     <string name="accessibility_quick_settings_edit">Edita l\'ordre de la configuració.</string>
     <string name="accessibility_quick_settings_expand">Obre la configuració ràpida.</string>
@@ -708,9 +708,9 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
     <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
     <string name="disconnect_vpn">Desconnecta la VPN</string>
-    <string name="dnd_is_off">No molestar està desactivat</string>
+    <string name="dnd_is_off">No molestis està desactivat</string>
     <string name="dnd_notification_warnings_title">No molestis està activat. Les notificacions es silencien i la vibració està desactivada.</string>
-    <string name="dnd_suppressing_shade_text">Notificacions en pausa per No molestar</string>
+    <string name="dnd_suppressing_shade_text">Notificacions en pausa per No molestis</string>
     <string name="do_disclosure_generic">Aquest dispositiu és gestionat per l\'organització</string>
     <string name="do_disclosure_with_name">Aquest dispositiu és gestionat per %s</string>
     <string name="do_not_silence">"No silenciïs"</string>
@@ -1533,9 +1533,9 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="qs_customize_remove">Suprimeix</string>
     <string name="qs_customize_title">Edita</string>
     <string name="qs_dnd_keep">Manté</string>
-    <string name="qs_dnd_prompt_app">Una aplicació (%s) va activar No molestar.</string>
-    <string name="qs_dnd_prompt_auto_rule">Una regla automàtica (%s) va activar No molestar.</string>
-    <string name="qs_dnd_prompt_auto_rule_app">Una regla o una aplicació automàtiques va activar No molestar.</string>
+    <string name="qs_dnd_prompt_app">Una aplicació (%s) va activar No molestis.</string>
+    <string name="qs_dnd_prompt_auto_rule">Una regla automàtica (%s) va activar No molestis.</string>
+    <string name="qs_dnd_prompt_auto_rule_app">Una regla automàtica o una aplicació va activar No molestis.</string>
     <string name="qs_dnd_replace">Substitueix</string>
     <string name="qs_dnd_until">Fins a %s</string>
     <string name="qs_edit">Edita</string>
@@ -1638,7 +1638,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_notifications_label">Notificacions</string>
     <string name="quick_settings_papermode_label">Mode lectura</string>
     <string name="quick_settings_powermode_label">Mode rendiment</string>
-    <string name="quick_settings_quietmode_label">No molesteu</string>
+    <string name="quick_settings_quietmode_label">No molestis</string>
     <string name="quick_settings_reset_confirmation_button">Amaga</string>
     <string name="quick_settings_reset_confirmation_message">Tornarà a aparèixer la propera vegada que l\'engegueu a la configuració.</string>
     <string name="quick_settings_reset_confirmation_title">Voleu amagar %1$s?</string>
