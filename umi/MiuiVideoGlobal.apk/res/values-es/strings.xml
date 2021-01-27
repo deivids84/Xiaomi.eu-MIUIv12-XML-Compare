@@ -165,7 +165,7 @@
     <string name="cloud_auto_pip_play_switch">Usar imagen en imagen automáticamente</string>
     <string name="cloud_online_player">Jugador</string>
     <string name="cloud_online_switch">Recomendaciones personalizadas</string>
-    <string name="cloud_online_switch_close_time">Puedes activar las recomendaciones de contenido persnalizado en %s</string>
+    <string name="cloud_online_switch_close_time">Puede activar las recomendaciones de contenido personalizadas en %s</string>
     <string name="cloud_online_switch_open_time">Mostrar recomendaciones de contenido personalizado</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
     <string name="columbus_player_close_desc">Perderás tu recompensa</string>
@@ -263,7 +263,7 @@ Envíe este código al supervisor."</string>
     <string name="dialog_privacy_title">Autorización</string>
     <string name="dialog_revoke_privacy_info_new2">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de nuestros servidores. Esto podría hacer que la aplicación sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
     <string name="dialog_revoke_privacy_title">Revocando autorización</string>
-    <string name="diy_channels_tips">Ahora puedes personalizar la lista de tus canales.</string>
+    <string name="diy_channels_tips">Ahora puede personalizar la lista de sus canales.</string>
     <string name="do_not_show_again">"No mostrar de nuevo"</string>
     <string name="download">Descargar</string>
     <string name="download_checking_tip">Iniciando descarga…</string>
