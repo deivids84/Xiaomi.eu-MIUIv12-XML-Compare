@@ -1454,35 +1454,35 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="power_discharge_by_only_short">Hasta %1$s</string>
     <string name="power_discharging_duration">Quedan aproximadamente %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Quedan aproximadamente %1$s función de su uso (%2$s)</string>
-    <string name="power_notification_controls_description">"Con los controles de notificaciones de energía puedes fijar un nivel de importancia del 0 al 5 para notificaciones de aplicaciones. 
+    <string name="power_notification_controls_description">"Con los controles de notificación de energía, puede establecer un nivel de importancia de 0 a 5 para las notificaciones de una aplicación. 
 
-\"&lt;b&gt;Nivel 5&lt;/b&gt;\" 
+\"<b>Nivel 5</b>\" 
 - Mostrar en la parte superior de la lista de notificaciones 
-- Permitir la interrupción de pantalla completa 
+- Permitir la interrupción de la pantalla completa 
 - Siempre visible 
 
-\"&lt;b&gt;Nivel 4&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 4</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Siempre visible 
 
-\"&lt;b&gt;Nivel 3&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 3</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 
-\"&lt;b&gt;Nivel 2&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 2</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
 
-\"&lt;b&gt;Nivel 1&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 1</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
-- Ocultar de la Pantalla de Bloqueo y barra de estado 
-- Mostrar al final de la lista de notificaciones 
+- Ocultar de la pantalla de bloqueo y de la barra de estado 
+- Mostrar en la parte inferior de la lista de notificaciones 
 
-\"&lt;b&gt;Nivel 0&lt;/b&gt;\" 
-- Bloquear todas las notificaciones de la aplicación"</string>
+\"<b>Nivel 0</b>\" 
+- Bloquear todas las notificaciones de la aplicación "</string>
     <string name="power_remaining_charging_duration_only">%1$s restante hasta carga completa</string>
     <string name="power_remaining_duration_only">Quedan alrededor de %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Alrededor de %1$s restante en función de su uso</string>
@@ -1989,7 +1989,7 @@ No se ha concedido permiso de grabación a esta aplicación, pero podría captur
     <string name="use_mtp_button_title">Montar como reproductor multimedia (MTP)</string>
     <string name="use_ptp_button_title">Montar como cámara (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
-    <string name="user_add_profile_item_summary">Desde tu cuenta, puedes restringir el acceso a las aplicaciones y al contenido</string>
+    <string name="user_add_profile_item_summary">Desde su cuenta, puede restringir el acceso a las aplicaciones y al contenido</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
     <string name="user_add_user">Añadir usuario</string>
     <string name="user_add_user_item_summary">Los usuarios tienen contenido y aplicaciones propios</string>
