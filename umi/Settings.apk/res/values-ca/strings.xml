@@ -2483,7 +2483,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="dndm_vip_list_group">Llista d\'excepcions</string>
     <string name="dndm_vip_list_starred_contact">Preferits</string>
     <string name="dndm_wristband">Activa\'l amb la Mi Band</string>
-    <string name="dndm_wristband_detailed">"Activeu No us molesteu si el vostre dispositiu portable detecta que estàs dormint dins d’una hora abans de l’hora d’inici programada"</string>
+    <string name="dndm_wristband_detailed">"Activa No molestis si el dispositiu portable detecta que dormiu fins una hora abans de l'hora d'inici programada"</string>
     <string name="do_disclosure_generic">Aquest dispositiu el gestiona l\'organització.</string>
     <string name="do_disclosure_with_name">Aquest dispositiu està gestionat per %s.</string>
     <string name="do_not_disturb_mode">Mode No molesteu</string>
