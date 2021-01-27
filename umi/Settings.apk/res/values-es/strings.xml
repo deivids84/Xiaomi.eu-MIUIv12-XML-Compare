@@ -2013,7 +2013,7 @@ Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando c
     <string name="dark_ui_summary_on_auto_mode_never">No se desactivará nunca automáticamente.</string>
     <string name="dark_ui_text">El tema oscuro usa un fondo negro para ayudar a mantener viva la batería por más tiempo en algunas pantallas. Los horarios de los temas oscuros esperan para encenderse hasta que se apaga la pantalla.</string>
     <string name="dark_ui_title">Modo oscuro</string>
-    <string name="dark_wallpaper_mode">Adaptar fondo de pantalla al modo oscuro</string>
+    <string name="dark_wallpaper_mode">Adaptar fondo de pantalla</string>
     <string name="dashboard_title">Ajustes</string>
     <string name="data_during_calls_summary">Permitir que esta SIM se use para los datos móviles únicamente durante las llamadas</string>
     <string name="data_during_calls_title">Datos durante las llamadas</string>
