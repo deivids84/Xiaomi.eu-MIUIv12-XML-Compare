@@ -317,7 +317,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="less_than_1_minute">Menys d’un minut</string>
     <string name="loading_data">Només un segon…</string>
     <string name="location_permission_request">Per connectar-se a altres dispositius propers</string>
-    <string name="login">Inicieu la sessió</string>
+    <string name="login">Inicia la sessió</string>
     <string name="login_failed">"No s'ha pogut iniciar la sessió. Proveu de nou."</string>
     <string name="logining">Inici de sessió…</string>
     <string name="main_button_continue">Continuar</string>
@@ -449,7 +449,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="notif_icloud_import_title">Importa dades des d’i iCloud</string>
     <string name="notif_icloud_loaded_summary">…esperant</string>
     <string name="notif_icloud_loading_summary">Carregant dades…</string>
-    <string name="notif_icloud_logining">Inicieu la sessió a iCloud al vell dispositiu iOS…</string>
+    <string name="notif_icloud_logining">S\'està iniciant la sessió a l\'iCloud de l\'antic dispositiu iOS…</string>
     <string name="notif_icloud_need_wifi_summary">S\'està esperant la Wi-Fi</string>
     <string name="notif_icloud_saved_summary">S\'ha importat correctament</string>
     <string name="notif_icloud_saving_summary">Restauració de dades…</string>
