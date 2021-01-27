@@ -786,7 +786,7 @@ update meu vídeo a la versió més recent en primer lloc."</string>
     <string name="ovp_setting_clear_cache_success">S\'ha eliminat la memòria cau correctament</string>
     <string name="ovp_setting_clear_cache_text">Netegeu els fitxers de memòria cau desats al vostre dispositiu</string>
     <string name="ovp_setting_clear_cache_title">Netejar memòria cau</string>
-    <string name="ovp_setting_privacy_policy_title">Política de privacitat</string>
+    <string name="ovp_setting_privacy_policy_title">Política de privadesa</string>
     <string name="ovp_setting_privacy_switch_tips">"Algunes funcions no estaran disponibles si revoca l’autorització"</string>
     <string name="ovp_setting_privacy_switch_title">Autorització &amp; revocació</string>
     <string name="ovp_setting_user_agreement_title">Acord d\'usuari</string>
