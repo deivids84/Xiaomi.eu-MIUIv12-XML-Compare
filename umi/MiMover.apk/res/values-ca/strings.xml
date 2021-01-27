@@ -482,7 +482,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="other_user_app">Aplicacions de tercers</string>
     <string name="other_user_app_data">Aplicacions i dades d\'aplicacions de tercers</string>
     <string name="other_user_data">Dades d’aplicacions de tercers</string>
-    <string name="password">Introduir la contrasenya</string>
+    <string name="password">Introduïu la contrasenya</string>
     <string name="password_null">"La contrasenya no pot estar buida"</string>
     <string name="perm_location">Ubicació d’accés</string>
     <string name="perm_package_stats">Accediu a les estadístiques d’ús de l’aplicació</string>
