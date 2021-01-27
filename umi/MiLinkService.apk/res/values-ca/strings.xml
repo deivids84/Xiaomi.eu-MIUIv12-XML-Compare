@@ -217,7 +217,7 @@ Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves apl
     <string name="help_page_text_55_global">"Si no us podeu connectar a la xarxa, assegureu-vos que el vostre monitor extern suporti la funcionalitat de Miracast i que estigui activada. En alguns models, aquesta funció s'anomena Pantalla sense fils, Screen Mirroring o Múltiples pantalles.
 4. Si teniu problemes, podeu informar-nos mitjançant l'aplicació \"Serveis i comentaris\"."</string>
     <string name="help_page_text_end">"Si la marca del vostre dispositiu no apareix aquí, poseu-vos en contacte amb el fabricant per obtenir més informació sobre les funcions d'emissió."</string>
-    <string name="keyguard_security_setting_privacy_policy">Política de privacitat</string>
+    <string name="keyguard_security_setting_privacy_policy">Política de privadesa</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
