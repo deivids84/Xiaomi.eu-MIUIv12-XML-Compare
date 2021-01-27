@@ -936,6 +936,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="databooster_tips_message">Activeu-ho per restringir totes les targetes SIM, excepte la targeta de dades. Desactiveu aquesta funció si es produeixen errors en els jocs que trieu.</string>
     <string name="databooster_tips_title">Atenció</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="day_overflow_tips">Advertiment diari d\'ús de dades</string>
     <string name="debug_open_final_tip">Vols activar la depuració USB?</string>
     <string name="debug_open_title">Aquesta funció està pensada per a desenvolupadors i és possible que no sigui convenient pels usuaris en general. Si activeu la depuració USB, podríeu provocar els canvis següents:</string>
@@ -1733,7 +1734,19 @@ de les teves sessions de joc"</string>
     <string name="gtb_setting_item_title_smart_5g">Optimització de xarxa 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Augment de la velocitat del meu WiFi</string>
     <string name="gtb_spring_festival_back_game">Torna al joc</string>
+    <string name="gtb_spring_festival_egg_obtain_fail">"No s'ha pogut connectar a la xarxa"</string>
     <string name="gtb_spring_festival_goto_gameturbo">Mostra</string>
+    <string name="gtb_spring_festival_guide">"Canvieu al mode horitzontal
+per unir-vos a la nostra caça d'ous"</string>
+    <string name="gtb_spring_festival_guide_know">Entesos</string>
+    <string name="gtb_spring_festival_push_active_desc">Guanyeu telèfons, dispositius intel·ligents i cupons</string>
+    <string name="gtb_spring_festival_push_active_title">La caça dels ous de Pasqua està activada!</string>
+    <string name="gtb_spring_festival_push_desc">Uniu-vos a la nostra caça d’ous per guanyar premis</string>
+    <string name="gtb_spring_festival_push_egg_title">Heu rebut un ou de Pasqua!</string>
+    <string name="gtb_spring_festival_push_gift_title">Arriben els premis de la caça d’ous!</string>
+    <string name="gtb_spring_festival_push_join">Unir-se</string>
+    <string name="gtb_spring_festival_push_see">Mostra</string>
+    <string name="gtb_spring_festival_shortcut_create">Crea una drecera a la pantalla d\'inici</string>
     <string name="gtb_wlan_speed_tips">Utilitzant Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operador actual: "</string>
@@ -3289,6 +3302,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="see_detail">Detalls</string>
     <string name="see_more_content">Actualitzeu Jocs per veure més aspectes destacats</string>
     <string name="select_province_and_city">Seleccioneu la ubicació</string>
+    <string name="send">Envia</string>
     <string name="send_msg_to_query">Envia un missatge de text per comprovar-ho</string>
     <string name="set_applock_password">Estableix una contrasenya</string>
     <string name="set_complete">S\'ha establert amb èxit</string>
