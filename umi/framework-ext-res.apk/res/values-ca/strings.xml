@@ -261,7 +261,7 @@
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Mode lectura</string>
     <string name="status_bar_toggle_power_mode">Rendiment</string>
-    <string name="status_bar_toggle_quiet_mode">No molesteu</string>
+    <string name="status_bar_toggle_quiet_mode">No molestis</string>
     <string name="status_bar_toggle_rotate">Gir blocat</string>
     <string name="status_bar_toggle_screen_button">Botons</string>
     <string name="status_bar_toggle_screenshot">Captura</string>
@@ -286,7 +286,7 @@
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">No molestis</string>
     <string name="total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
-    <string name="total_title">No molestis...</string>
+    <string name="total_title">No molestis</string>
     <string name="translation_more">Més</string>
     <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>
     <string name="translation_query_error_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar"</string>
