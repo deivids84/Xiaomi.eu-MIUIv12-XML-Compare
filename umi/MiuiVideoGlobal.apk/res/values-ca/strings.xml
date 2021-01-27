@@ -239,7 +239,7 @@
     <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els serveis de Google Play actualitzats actualment."</string>
     <string name="common_google_play_services_wear_update_text">Es necessita una versió nova dels serveis de Google Play. S\'actualitzarà en breu.</string>
     <string name="common_open_on_phone">Obert per telèfon</string>
-    <string name="common_signin_button_text">Inicieu la sessió</string>
+    <string name="common_signin_button_text">Inicia la sessió</string>
     <string name="common_signin_button_text_long">Inicieu la sessió amb Google</string>
     <string name="confirm_activate_email">Verificat</string>
     <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon associat</string>
@@ -503,7 +503,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="local_video_notification_title">S\'ha trobat un nou vídeo local</string>
     <string name="local_video_space">Ocupat: %s</string>
     <string name="lock_screen">Pantalla de bloqueig</string>
-    <string name="login">Inicieu la sessió</string>
+    <string name="login">Inicia la sessió</string>
     <string name="login_tip">Inicieu la sessió per poder rebre les nostres respostes al vostre comentari.</string>
     <string name="logo_neverthink">Comissariat per Neverthink.tv</string>
     <string name="logout">Tanca sessió</string>
@@ -1254,7 +1254,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="v_exit">Surt</string>
     <string name="v_finish">Fet</string>
     <string name="v_input_password">Introduïu la contrasenya</string>
-    <string name="v_login">Inicieu la sessió</string>
+    <string name="v_login">Inicia la sessió</string>
     <string name="v_menu_hide">Amagar</string>
     <string name="v_more">Més</string>
     <string name="v_network_failed">"No s'ha pogut connectar a la xarxa"</string>
