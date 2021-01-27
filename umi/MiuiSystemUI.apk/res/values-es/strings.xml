@@ -777,7 +777,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fingerprint_again_identified_msg">Ya puede usar su huella dactilar. Úsela para desbloquear el dispositivo, o introduzca la contraseña.</string>
     <string name="fingerprint_dialog_touch_sensor">Toca el sensor de huellas dactilares</string>
     <string name="fingerprint_enter_second_psw_msg">Introduce contraseña del Segundo espacio después de reiniciar el dispositivo, para poder usar el reconocimiento de huella</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">"No puede entrar en el Segundo espacio mientras estás en modo Lite"</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">"No puede entrar en el Segundo espacio mientras esté en modo Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduce contraseña para el Segundo espacio</string>
     <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Introduce la contraseña ahora o usa tu huella dactilar en unos segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Demasiados intentos fallidos. Introduce ahora la contraseña.</string>
