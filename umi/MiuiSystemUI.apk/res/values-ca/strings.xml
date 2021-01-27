@@ -1607,7 +1607,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_disclosure_personal_profile_named_vpn">El vostre perfil personal està connectat a %1$s</string>
     <string name="quick_settings_disclosure_vpns">Aquest dispositiu està connectat a VPN</string>
     <string name="quick_settings_dnd_alarms_label">Només alarmes</string>
-    <string name="quick_settings_dnd_label">No molestar</string>
+    <string name="quick_settings_dnd_label">No molestis</string>
     <string name="quick_settings_dnd_none_label">Silenci total</string>
     <string name="quick_settings_dnd_priority_label">Només prioritats</string>
     <string name="quick_settings_done">Fet</string>
