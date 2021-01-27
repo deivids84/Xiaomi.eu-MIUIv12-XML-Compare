@@ -8750,7 +8750,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">"Aquesta configuració no es pot canviar ara mateix. Una aplicació (%1$s) ha activat automàticament No molestar amb un comportament personalitzat."</string>
     <string name="zen_mode_apps_bypassing_list_count">%d més</string>
-    <string name="zen_mode_auto_rule">Programa les sessions del mode No molestis</string>
+    <string name="zen_mode_auto_rule">Programa les sessions de No molestis</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Programació</string>
     <string name="zen_mode_automation_settings_page_title">Horaris</string>
     <string name="zen_mode_automation_settings_title">Regles automàtiques</string>
@@ -8857,7 +8857,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_messages_list">missatges</string>
     <string name="zen_mode_messages_title">Missatges</string>
     <string name="zen_mode_miui_silent_category">Permet</string>
-    <string name="zen_mode_more_actions">Més opcions de DND</string>
+    <string name="zen_mode_more_actions">Més opcions de No molestis</string>
     <string name="zen_mode_no_exceptions">Cap</string>
     <string name="zen_mode_none_calls">Cap</string>
     <string name="zen_mode_none_messages">Cap</string>
