@@ -3538,7 +3538,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="keyboard_shortcuts_helper_summary">Mostra les dreceres disponibles</string>
     <string name="keyguard_advance_setting_title">Configuració avançada</string>
     <string name="keyguard_security_setting_others">Altres</string>
-    <string name="keyguard_security_setting_privacy_policy">Política de privacitat</string>
+    <string name="keyguard_security_setting_privacy_policy">Política de privadesa</string>
     <string name="keywords_accounts">compte, afegir un compte, perfil de treball, afegir compte</string>
     <string name="keywords_adb_wireless">adb, depuració, dev</string>
     <string name="keywords_add_bt_device">bluetooth</string>
@@ -3949,7 +3949,7 @@ com el PIN del primer espai. "</string>
     <string name="lockpassword_continue_label">Continua</string>
     <string name="lockpassword_credential_changed">El bloqueig de pantalla ja s’ha canviat. Torneu-ho a provar amb el nou bloqueig de pantalla.</string>
     <string name="lockpassword_draw_your_pattern_again_header">Torna a dibuixar el patró</string>
-    <string name="lockpassword_forgot_password">Has oblidat la teva contrasenya?</string>
+    <string name="lockpassword_forgot_password">Heu oblidat la vostra contrasenya?</string>
     <string name="lockpassword_forgot_pattern">Has oblidat el teu patró?</string>
     <string name="lockpassword_forgot_pin">Heu oblidat el PIN?</string>
     <string name="lockpassword_illegal_character">"La contrasenya conté caràcters no permesos."</string>
@@ -6685,7 +6685,7 @@ Si no el feu No accepteu concedir aquests permisos, no podreu utilitzar algunes 
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permetre</string>
     <string name="sos_phone_log_privacy_dialog_message">"Aquesta aplicació necessita permís per accedir a l’historial de trucades per poder-lo compartir amb els contactes d’emergència.
 Si no accepteu concedir aquests permisos, no podreu utilitzar algunes funcions d'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible. Sempre podeu optar per desactivar aquesta funció."</string>
-    <string name="sos_privacy_and_content_policy">Acord d\'usuari i política de privacitat</string>
+    <string name="sos_privacy_and_content_policy">Acord d’usuari i política de privadesa</string>
     <string name="sos_privacy_dialog_button_cancel">Cancel·la</string>
     <string name="sos_privacy_dialog_button_ok">D\'acord</string>
     <string name="sos_privacy_dialog_message">"Llegiu i confirmeu el nostres %s abans d'utilitzar aquesta opció.
@@ -8750,7 +8750,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">"Aquesta configuració no es pot canviar ara mateix. Una aplicació (%1$s) ha activat automàticament No molestar amb un comportament personalitzat."</string>
     <string name="zen_mode_apps_bypassing_list_count">%d més</string>
-    <string name="zen_mode_auto_rule">Programa les sessions del MDN</string>
+    <string name="zen_mode_auto_rule">Programa les sessions del mode No molestis</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Programació</string>
     <string name="zen_mode_automation_settings_page_title">Horaris</string>
     <string name="zen_mode_automation_settings_title">Regles automàtiques</string>
