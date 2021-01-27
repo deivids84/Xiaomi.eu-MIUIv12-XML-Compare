@@ -557,7 +557,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="lv_home_localt">Local</string>
     <string name="lv_home_recent">Recents</string>
     <string name="lv_home_settings">Configuració</string>
-    <string name="lv_input_password">Introduir la contrasenya</string>
+    <string name="lv_input_password">Introduïu la contrasenya</string>
     <string name="lv_local_folder">Carpetes</string>
     <string name="lv_local_video">Vídeos</string>
     <string name="lv_media_type_unsported">"No es pot reproduir aquest format de vídeo."</string>
@@ -1253,7 +1253,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="v_data_empty">No hi ha articles aquí</string>
     <string name="v_exit">Surt</string>
     <string name="v_finish">Fet</string>
-    <string name="v_input_password">Introduir la contrasenya</string>
+    <string name="v_input_password">Introduïu la contrasenya</string>
     <string name="v_login">Inicieu la sessió</string>
     <string name="v_menu_hide">Amagar</string>
     <string name="v_more">Més</string>
