@@ -5506,10 +5506,10 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="private_dns_mode_provider">Nom d\'amfitrió del proveïdor del DNS privat</string>
     <string name="private_dns_mode_provider_failure">"No es pot connectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduïu el nom d\'amfitrió del proveïdor DNS</string>
-    <string name="private_gallery_need_to_unlock">Introduir la contrasenya</string>
+    <string name="private_gallery_need_to_unlock">Introduïu la contrasenya</string>
     <string name="private_gallery_recording_intro_header">Dibuixa un patró de desbloqueig</string>
     <string name="private_gallery_reset_by_account">Per restablir la vostra contrasenya, inicieu la sessió al meu compte de Mi.</string>
-    <string name="private_sms_need_to_unlock">Introduir la contrasenya</string>
+    <string name="private_sms_need_to_unlock">Introduïu la contrasenya</string>
     <string name="private_sms_recording_intro_header">Dibuixa un patró de desbloqueig</string>
     <string name="private_sms_reset_by_account">Per restablir la vostra contrasenya, inicieu la sessió al meu compte de Mi.</string>
     <string name="process_dex2oat_label">Optimització de l\'aplicació</string>
