@@ -518,9 +518,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="apn_auth_type">Tipus d\'autenticació</string>
     <string name="apn_auth_type_none">Cap</string>
     <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
-    <string name="apn_chinaunicom_3gnet_general">沃宽带用户连接互联网</string>
-    <string name="apn_chinaunicom_3gwap_general">沃宽带用户手机上网</string>
-    <string name="apn_edit">Edita punt d\'accés</string>
+    <string name="apn_edit">Edita el punt d\'accés</string>
     <string name="apn_general">General</string>
     <string name="apn_http_port">Port</string>
     <string name="apn_http_proxy">Servidor intermediari</string>
@@ -8129,7 +8127,7 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_cellular_data_fallback_title">Canvia a dades mòbils automàticament</string>
     <string name="wifi_certificate">Certificat</string>
     <string name="wifi_check_password_try_again">Comproveu la contrasenya i torneu-ho a provar</string>
-    <string name="wifi_click_login_wlan">Cal autorització</string>
+    <string name="wifi_click_login_wlan">Requereix autorització</string>
     <string name="wifi_click_share_wlan">Toqueu per compartir la contrasenya</string>
     <string name="wifi_config_info">Configuració de la Wi-Fi</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_off">"La Wi-Fi no es torna a activar automàticament"</string>
