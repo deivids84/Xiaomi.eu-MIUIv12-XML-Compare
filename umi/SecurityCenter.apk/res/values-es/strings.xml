@@ -3339,7 +3339,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="shortcut_title_scan">Escanear</string>
     <string name="shortcut_title_whatsapp_clean">Limpiador de WhatsApp</string>
     <string name="show_system_app">Mostrar aplicaciones del sistema</string>
-    <string name="show_traffic_dialog_message">La información del consumo de datos se mostrará en la barra de notificaciones. Puedes desactivar esta característica en cualquier momento en Consumo de datos &gt; Ajustes.</string>
+    <string name="show_traffic_dialog_message">La información del consumo de datos se mostrará en la Barra de notificaciones. Puede desactivar esta característica en cualquier momento en Consumo de datos &gt; Ajustes.</string>
     <string name="show_traffic_dialog_title">Mostrar consumo en la barra de notificaciones</string>
     <string name="showpattern">Mostrar patrón</string>
     <string name="shutdown_cancel_reminder">"No se apagó"</string>
@@ -3352,7 +3352,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="signed_rule">Reglas</string>
     <string name="signed_rule_one">1. Regístrate 10, 20 o 28 días seguidos cada mes para obtener aceleración Xunyou 1, 2, o 3 días respectivamente.</string>
     <string name="signed_rule_three">"3. Cada inicio de mes se eliminan los días que te has registrado previamente. Los días restantes no se vuelven a contar."</string>
-    <string name="signed_rule_two">2. Solo puedes obtener 1 aceleración Xunyou por mes.</string>
+    <string name="signed_rule_two">2. Solo puede obtener 1 aceleración Xunyou por mes.</string>
     <string name="sim_location_error_dialog_message">"La SIM que estás usando es de %1$s. Esta ubicación es diferente a la que estableciste manualmente (%2$s). ¿Quieres cambiar la ubicación de la SIM a %3$s?"</string>
     <string name="sim_location_error_notify_message">Toca para cambiar la ubicación de la SIM.</string>
     <string name="sim_location_error_notify_title">Error de tarjeta SIM</string>
@@ -3809,7 +3809,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="system_permission_declare_privacy_no_network">Esta aplicación necesita los siguientes permisos para poder funcionar con normalidad:</string>
     <string name="system_permission_declare_privacy_no_permission">Ten en cuenta que Seguridad necesita conectarse a Internet y recopilar la información personal requerida para poder brindarle servicios. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Para entender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_revoke_system">Puedes salir de esta aplicación.</string>
+    <string name="system_permission_declare_revoke_system">Puede salir de esta aplicación.</string>
     <string name="system_permission_declare_revoke_uninstallable">Puede cerrar sesión, desinstalar esta aplicación o revocar su autorización en Seguridad&gt; Administrar aplicaciones&gt; Permisos&gt; Permisos.</string>
     <string name="system_permission_declare_title">Atención</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
@@ -3939,7 +3939,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="title_app_lock_disable">Bloquear aplicaciones</string>
     <string name="title_app_update">Actualizaciones disponibles</string>
     <string name="title_auto_update">Actualizar automáticamente</string>
-    <string name="title_background_connection">"¿No puedes usar %s en segundo plano?"</string>
+    <string name="title_background_connection">"¿No puede usar %s en segundo plano?"</string>
     <string name="title_block_calls_from_cantacts">¿Llamadas perdidas de tus contactos?</string>
     <string name="title_block_calls_from_strangers">¿Lllamadas perdidas importantes?</string>
     <string name="title_chain_start">Restringir inicio en cadena</string>
@@ -3956,7 +3956,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="title_dev_no">Opciones de desarrollador activadas</string>
     <string name="title_dev_yes">Opciones de desarrollador desactivadas</string>
     <string name="title_device_not_root">"Acceso root denegado"</string>
-    <string name="title_do_not_disturb">"¿No puedes oír el tono de llamada?"</string>
+    <string name="title_do_not_disturb">"¿No puede oír el tono de llamada?"</string>
     <string name="title_eye_shield">"¿El color de la pantalla no parece el correcto?"</string>
     <string name="title_find_device">Encontrar dispositivo</string>
     <string name="title_first_aid_kit">Solucionar problemas</string>
