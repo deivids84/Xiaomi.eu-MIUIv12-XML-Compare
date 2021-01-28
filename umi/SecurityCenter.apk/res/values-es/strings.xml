@@ -1692,12 +1692,11 @@ de sus sesiones de juego"</string>
     <string name="gs_dialog_confirm_close_title">Desactivar</string>
     <string name="gs_forbid_autosync">Restringir sincronización en segundo plano</string>
     <string name="gs_game_ai_record">Grabar usando IA</string>
-    <string name="gs_game_ai_record_subtitle">Puedes comenzar a grabar en la caja de herramientas mientras juegas. Los vídeos con momentos clave se generarán automáticamente y se eliminarán por defecto después de 7 días. También puedes elegir guardar vídeos de forma permanente.</string>
+    <string name="gs_game_ai_record_subtitle">Grabe momentos clave automáticamente y genere videos con momentos destacados de la sesión. Los videos se eliminarán automáticamente después de 7 días. Puede optar por guardarlos de forma permanente después de cada sesión de juego.</string>
     <string name="gs_game_disturb_msg">No Molestar</string>
     <string name="gs_game_duration">Duración</string>
     <string name="gs_game_manual_record">Grabar manualmente</string>
-    <string name="gs_game_manual_record_subtitle">Puedes comenzar a grabar en la caja de herramientas mientras juegas. Se pueden grabar hasta 30 segundos de vídeo después de tocar el botón Grabar. 
-Los vídeos se guardarán en Game Turbo y Momentos clave.</string>
+    <string name="gs_game_manual_record_subtitle">Utilice el atajo flotante para grabar hasta 30 segundos de video a la vez. Los videos se eliminarán automáticamente después de 7 días.</string>
     <string name="gs_game_manual_record_subtitle_child">Podrías encontrar algunos problemas al usar esta función:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">La grabación de tus sesiones de juego requiere un mayor consumo de energía, lo que puede provocar lag.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Es posible que otras funciones de grabación de pantalla no funcionen correctamente.</string>
@@ -2196,13 +2195,13 @@ Lee las instrucciones que vienen con el router y restaura los ajuntes de fábric
 
 \"&lt;b&gt;5. Asegúrate de que tu router está bien conectado&lt;/b&gt;\"
 Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problemas con la conexión de casa, contacta con el proveedor de servicios de Internet."</string>
-    <string name="network_sim_exception_detail">"Podría haber un problema con tu tarjeta SIM:
+    <string name="network_sim_exception_detail">"Puede haber un problema con su tarjeta SIM:
 
- 1. Asegúrate de que la cuenta con tu operador es correcta. Intenta usar la tarjeta SIM de un amigo para ver si puedes conectarte con normalidad.
+1. Asegúrese de que su cuenta esté al corriente con su operador. Intente usar la tarjeta SIM de un amigo y vea si puede conectarse con normalidad.
 
- 2. Si estás usando dos tarjetas SIM, prueba con la otra tarjeta y comprueba si puedes conectarte con normalidad.
+2. Si está usando dos tarjetas SIM, intente cambiar a la otra tarjeta y vea si puede conectarse.
 
- 3. Asegúrate de que tu tarjeta SIM y la ranura SIM del dispositivo no están dañadas. Confirma que la tarjeta SIM que estás usando está debidamente insertada en la ranura SIM de tu dispositivo."</string>
+3. Asegúrese de que su tarjeta SIM y la ranura SIM de su dispositivo no estén dañadas. Compruebe que la tarjeta SIM que está usando esté correctamente insertada en la bandeja SIM de su dispositivo."</string>
     <string name="network_speed_for_apps_close">Forzar detención</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">¿Forzar el cierre de esta aplicación?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">"No se pudo forzar el cierre de aplicaciones del sistema."</string>
@@ -2405,8 +2404,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="packages_subtitle">Paquetes incluidos</string>
     <string name="passwordIncorrect">Usuario o contraseña incorrectos</string>
     <string name="password_forget_pattern_confirm">Entendido</string>
-    <string name="password_forget_pattern_message">Por razones de seguridad, solo puedes restablecer tu contraseña después de restaurar los datos de fábrica. Toca para restaurar.</string>
-    <string name="password_forget_pattern_message_none">"Las aplicaciones no están bloqueadas. Puedes restablecer tu contraseña."</string>
+    <string name="password_forget_pattern_message">Por razones de seguridad, solo puede restablecer su contraseña después de restaurar los datos de fábrica. Pulse para restaurar.</string>
+    <string name="password_forget_pattern_message_none">"Las aplicaciones no están bloqueadas. Puede restablecer su contraseña."</string>
     <string name="password_forget_pattern_reset">Restablecer</string>
     <string name="password_forget_pattern_title">Atención</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Añadir Cuenta Mi para restablecer la contraseña en caso de que la olvide.</string>
@@ -2630,7 +2629,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_center_dialog_msg_bottom">Puede aumentar la duración de la batería hasta %1$d h %2$d m. ¿Activar ahorro de batería?</string>
     <string name="power_center_dialog_msg_title">Enciéndalo para obtener %1$s de tiempo extra. Se realizarán las siguientes acciones para ahorrar batería:</string>
     <string name="power_center_dialog_msg_top">Cuando el ahorro de batería está activado, MIUI realizará las siguientes optimizaciones:</string>
-    <string name="power_center_hints_scan_danger_result">Puedes solucionar los problemas de batería ahora</string>
+    <string name="power_center_hints_scan_danger_result">Puede solucionar los problemas de batería</string>
     <string name="power_center_list_item_auto_brightness">Ajustar el brillo de la pantalla automáticamente</string>
     <string name="power_center_list_item_close_bluetooth">Desactivar Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Ajustes avanzados</string>
@@ -3005,8 +3004,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="privacy_empty_location">"No ha accedido a la ubicación hoy"</string>
     <string name="privacy_empty_record">"No ha grabado audio hoy"</string>
     <string name="privacy_empty_storage">"No ha accedido al almacenamiento hoy"</string>
-    <string name="privacy_guide_permission_guide_text">Puedes recibir una alerta en la barra de estado cuando las aplicaciones acceden a tu ubicación, graben audio o tomen fotos.</string>
-    <string name="privacy_guide_permission_use_text">MIUI contará y mostrará la cantidad de veces que una aplicación use permisos delicados, incluyendo ubicación, contactos, historial de llamadas y acceso al almacenamiento, así como grabación de audio. Puedes saber cuántas veces utiliza estos permisos cada aplicación y determinar si necesitas ajustar la configuración de los permisos.</string>
+    <string name="privacy_guide_permission_guide_text">Puede recibir una alerta en la barra de estado cuando las aplicaciones acceden a tu ubicación, graben audio o tomen fotos.</string>
+    <string name="privacy_guide_permission_use_text">MIUI contará y mostrará la cantidad de veces que una aplicación use permisos delicados, incluyendo ubicación, contactos, historial de llamadas y acceso al almacenamiento, así como grabación de audio. Puede saber cuántas veces utilizan estos permisos cada aplicación y determinar si necesita ajustar la configuración de los permisos.</string>
     <string name="privacy_informed_title">Estadísticas</string>
     <string name="privacy_location_info_summary">Administrar acceso a tu ubicación</string>
     <string name="privacy_location_info_title">Información de ubicación</string>
