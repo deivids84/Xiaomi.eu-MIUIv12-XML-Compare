@@ -986,7 +986,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
     <string name="qq_login_notice">"Nota: Si ya has establecido una contraseña, necesitarás verificarla al iniciar sesión."</string>
     <string name="qq_login_sent_setting">Sincronizar mensajes enviados</string>
     <string name="qq_pwd_or_qq_auth_code">Introducir código QQ o contraseña email</string>
-    <string name="qq_sent_no_message">"¿No puede encontrar sus correos electrónicos enviados? Toque aquí para saber qué puede hacer."</string>
+    <string name="qq_sent_no_message">"¿No puede encontrar sus correos electrónicos enviados? Pulse aquí para saber qué puede hacer."</string>
     <string name="qq_sent_no_message_setting">Sincronizar mensajes enviados desde QQ Mail</string>
     <string name="qq_uthentication_failed">"Se ha producido un error en la autenticación, inicia sesión de nuevo."</string>
     <string name="questionnair_body_invisibility">"No se mostrarán los mensajes"</string>
