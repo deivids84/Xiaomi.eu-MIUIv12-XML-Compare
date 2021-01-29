@@ -134,7 +134,7 @@
     <string name="network_tip_dialog_content">Grabadora necesita conectarse a Internet, así como leer tus contactos para funcionar con normalidad. ¿Aceptar?</string>
     <string name="network_tip_dialog_ok">Acepto</string>
     <string name="network_tip_dialog_title">Se requiere conexión a Internet</string>
-    <string name="network_unavailable_tip">Conéctate a la red e inténtalo de nuevo.</string>
+    <string name="network_unavailable_tip">Conéctese a la red e inténtelo de nuevo.</string>
     <string name="new_record_name">Nueva grabación</string>
     <string name="no_file">Vacío</string>
     <string name="no_network">"No fue posible conectarse a la red"</string>
