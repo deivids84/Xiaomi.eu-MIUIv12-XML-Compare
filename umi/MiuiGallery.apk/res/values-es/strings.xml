@@ -1593,7 +1593,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_page_rotate_screen">Rotar pantalla</string>
     <string name="photo_page_save_uri_image_fail">"No se pudo guardar en la Galería"</string>
     <string name="photo_page_save_uri_image_ok">Foto guardada en la Galería</string>
-    <string name="photo_portrait_color_download_fail">"No se pudo descargar el plug-in. Conéctate a la red y vuelve a intentarlo."</string>
+    <string name="photo_portrait_color_download_fail">"No se pudo descargar el complemento. Conéctese a la red y vuelva a intentarlo."</string>
     <string name="photo_portrait_color_download_success">Filtros descargados con éxito</string>
     <string name="photo_portrait_color_no_face">Color pop solo funciona en fotos con personas</string>
     <string name="photo_portrait_download_sdk_without_wifi_msg">"Parece que su dispositivo no está conectado a Wi-Fi. Puede descargar filtros (%1$dMB) utilizando datos móviles."</string>
@@ -1633,7 +1633,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="picker_full_format">Puede seleccionar hasta %d fotos</string>
     <string name="picker_image_need_download">"%d de las fotos seleccionadas no están el dispositivo. ¿Deseas descargarlas usando datos móviles?"</string>
     <string name="picker_image_will_download">"%d de las fotos seleccionadas no están en el dispositivo. Se descargarán."</string>
-    <string name="picker_no_network_message">Conéctate a la red para descargar</string>
+    <string name="picker_no_network_message">Conéctese a la red para descargar</string>
     <string name="picker_origin_need_download">"%1$d de la(s) foto(s) seleccionada(s) (%2$dMB) no esta(n) en el dispositivo. ¿Deseas descargarlas usando datos móviles?"</string>
     <string name="picker_origin_request_progress_fail">"No se pudo descargar la imagen original debido a un error de red."</string>
     <string name="picker_origin_request_progress_message">Preparando archivos originales (%1$d/%2$d)…</string>
@@ -1802,7 +1802,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="search_mark_feedback_false_negative_title">Aceptar</string>
     <string name="search_mark_feedback_false_positive_title">Solucionar</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="search_net_error">Se ha producido un error de red. Conéctate a una red diferente e inténtalo de nuevo.</string>
+    <string name="search_net_error">Se ha producido un error de red. Conéctese a una red diferente e inténtelo de nuevo.</string>
     <string name="search_request_applied">Aplicado</string>
     <string name="search_request_open">Únete al equipo de prueba</string>
     <string name="search_request_requesting">Aprobado. Espera un momento antes de comenzar.</string>
@@ -1987,7 +1987,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="story_back_stop_download">Toca de nuevo para detener la descarga</string>
     <string name="story_cancel_download">Cancelar</string>
     <string name="story_download">Descargar</string>
-    <string name="story_download_failed_for_notwork">"No se pudo descargar. Conéctate a la red y vuelve a intentarlo."</string>
+    <string name="story_download_failed_for_notwork">"No se pudo descargar. Conéctese a la red y vuelva a intentarlo."</string>
     <string name="story_option_menu_delete">Borrar recuerdo</string>
     <string name="story_option_menu_rename">Renombrar</string>
     <string name="story_photo_downloading">Descargando…</string>
@@ -2216,7 +2216,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="video_editor_down_load_no_wifi_tips">Conectar a Wi-Fi para descargar</string>
     <string name="video_editor_down_load_now">Descargar</string>
     <string name="video_editor_download">Descargar</string>
-    <string name="video_editor_download_failed_for_notwork">"No se pudo descargar. Conéctate a la red y vuelve a intentarlo."</string>
+    <string name="video_editor_download_failed_for_notwork">"No se pudo descargar. Conéctese a la red y vuelva a intentarlo."</string>
     <string name="video_editor_download_with_metered_network_msg">La descarga de archivos puede generar tarifas adicionales para el operador. ¿Descargar de todos modos?</string>
     <string name="video_editor_download_with_metered_network_title">"Estás conectado a una red de datos"</string>
     <string name="video_editor_encode_video">Codificando vídeo…</string>
