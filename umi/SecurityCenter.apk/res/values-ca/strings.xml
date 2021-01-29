@@ -2614,7 +2614,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_battery_duration">Temps restant</string>
     <string name="power_center_battery_hardware">Maquinari %s</string>
     <string name="power_center_battery_health_poor_tip">Sembla que la salut de la bateria és baixa. Comproveu la bateria en un centre de serveis autoritzat</string>
-    <string name="power_center_battery_health_summary">Carregui i descarregui completament el dispositiu %1$d-%2$d vegades per millorar l\'exactitud de les estadístiques de salut de la bateria</string>
+    <string name="power_center_battery_health_summary">Carregueu i descarregueu completament el dispositiu %1$d-%2$d vegades per millorar l\'exactitud de les estadístiques de salut de la bateria</string>
     <string name="power_center_battery_last">%s restant</string>
     <string name="power_center_battery_level">%s carregat</string>
     <string name="power_center_battery_level_general">Normal</string>
@@ -3317,7 +3317,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="setting_online_service">Serveis en línia</string>
     <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
     <string name="settings">Configuració d\'ús de dades</string>
-    <string name="settings_battery_consume_abnormal_summary">Recepció de notificacions quan la bateria es descarregui ràpidament</string>
+    <string name="settings_battery_consume_abnormal_summary">Rebreu notificacions quan la bateria es descarregui ràpidament</string>
     <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
     <string name="settings_camera_subtitle_no">Sense metadades</string>
     <string name="settings_category_other">Altres paràmetres</string>
