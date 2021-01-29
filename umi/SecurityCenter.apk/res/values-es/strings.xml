@@ -2611,7 +2611,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_center_battery_duration">Tiempo restante</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
     <string name="power_center_battery_health_poor_tip">Parece que el estado de la batería es bajo. Revise su batería en un centro de servicio autorizado</string>
-    <string name="power_center_battery_health_summary">Cargue y descargue completamente su dispositivo de %1$d%2$d veces para mejorar la precisión de las estadísticas de salud de la batería</string>
+    <string name="power_center_battery_health_summary">Cargue y descargue completamente su dispositivo de %1$d a %2$d veces para mejorar la precisión de las estadísticas de salud de la batería</string>
     <string name="power_center_battery_last">%s</string>
     <string name="power_center_battery_level">%s cargado</string>
     <string name="power_center_battery_level_general">Texto normal</string>
