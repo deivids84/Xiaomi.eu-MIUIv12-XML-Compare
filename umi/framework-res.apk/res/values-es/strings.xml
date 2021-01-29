@@ -698,7 +698,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="ime_action_previous">Anterior</string>
     <string name="ime_action_search">Buscar</string>
     <string name="ime_action_send">Enviar</string>
-    <string name="immersive_cling_description">Para salir, desliza hacia abajo desde arriba.</string>
+    <string name="immersive_cling_description">Para salir, deslice hacia abajo desde arriba.</string>
     <string name="immersive_cling_positive">Entendido</string>
     <string name="immersive_cling_title">Modo de pantalla completa</string>
     <string name="importance_from_person">Esto es importante por los usuarios implicados.</string>
