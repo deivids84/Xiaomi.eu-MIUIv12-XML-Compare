@@ -1873,7 +1873,7 @@ Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la
     <string name="copy">Copiar</string>
     <string name="copyable_slice_toast">%1$s se ha copiado en el portapapeles.</string>
     <string name="copyright_title">Derechos de autor</string>
-    <string name="corner_assistant_gesture_summary">Desliza hacia arriba desde la esquina inferior izquierda o inferior derecha para activar el Asistente de Google</string>
+    <string name="corner_assistant_gesture_summary">Deslice hacia arriba desde la esquina inferior izquierda o inferior derecha para activar el Asistente de Google</string>
     <string name="corner_assistant_gesture_title">Deslizar desde una esquina para abrir el Asistente de Google</string>
     <string name="country_name">%s (sistema)</string>
     <string name="create">Crear</string>
@@ -3051,7 +3051,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="freeform_guide_notification_drop_down_summary">Mantén pulsado y luego despliega la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir ventanas flotantes</string>
     <string name="freeform_guide_settings">Ventana flotante</string>
-    <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba desde la barra de acción de una ventana flotante</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Deslice hacia arriba desde la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
     <string name="freeform_vedio_description">"·Mantén pulsado y luego despliega una notificación para abrirla en una ventana flotante.
 ·Toca \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
