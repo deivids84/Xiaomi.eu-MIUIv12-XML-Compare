@@ -2197,7 +2197,7 @@ Lee las instrucciones que vienen con el router y restaura los ajuntes de fábric
 Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problemas con la conexión de casa, contacta con el proveedor de servicios de Internet."</string>
     <string name="network_sim_exception_detail">"Puede haber un problema con su tarjeta SIM:
 
-1. Asegúrese de que su cuenta esté al día con su operador. Intente usar la tarjeta SIM de un amigo y vea si puede conectarse con normalidad.
+1. Asegúrese de que su cuenta esté al corriente con su operador. Intente usar la tarjeta SIM de un amigo y vea si puede conectarse con normalidad.
 
 2. Si está usando dos tarjetas SIM, intente cambiar a la otra tarjeta y vea si puede conectarse.
 
@@ -3004,7 +3004,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="privacy_empty_location">"No ha accedido a la ubicación hoy"</string>
     <string name="privacy_empty_record">"No ha grabado audio hoy"</string>
     <string name="privacy_empty_storage">"No ha accedido al almacenamiento hoy"</string>
-    <string name="privacy_guide_permission_guide_text">Puede recibir una alerta en la barra de estado cuando las aplicaciones acceden a su ubicación, graben audio o tomen fotos.</string>
+    <string name="privacy_guide_permission_guide_text">Puede recibir una alerta en la barra de estado cuando las aplicaciones acceden a tu ubicación, graben audio o tomen fotos.</string>
     <string name="privacy_guide_permission_use_text">MIUI contará y mostrará la cantidad de veces que una aplicación use permisos delicados, incluyendo ubicación, contactos, historial de llamadas y acceso al almacenamiento, así como grabación de audio. Puede saber cuántas veces utilizan estos permisos cada aplicación y determinar si necesita ajustar la configuración de los permisos.</string>
     <string name="privacy_informed_title">Estadísticas</string>
     <string name="privacy_location_info_summary">Administrar acceso a tu ubicación</string>
