@@ -317,12 +317,12 @@
         <item quantity="one">Descargando %d archivo restante</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d fotos, conéctate a la red e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar la foto, conéctate a la red e inténtalo de nuevo"</item>
+        <item quantity="other">"No se pudieron descargar %1$d fotos, conéctese a la red e inténtelo de nuevo"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto, conéctese a la red e intentelo de nuevo"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d fotos (%2$dMB), conéctate a la red e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar la foto (%2$dMB), conéctate a la red e inténtalo de nuevo"</item>
+        <item quantity="other">"No se pudieron descargar %1$d archivos (%2$d MB). Conéctese a la red y vuelva a intentarlo."</item>
+        <item quantity="one">"No se pudo descargar el archivo %1$d (%2$d MB). Conéctese a la red y vuelva a intentarlo."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d archivos (%2$d MB) aún no se han descargado. ¿Descargar usando datos móviles?"</item>
