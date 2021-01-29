@@ -194,10 +194,10 @@ No se puede ampliar el teclado ni la barra de navegación.\"</string>
 Para cambiar entre funciones, toque &amp; mantenga presionado el botón de accesibilidad."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Deslice 2 dedos hacia arriba desde la parte inferior de la pantalla.
 
-Para cambiar entre funciones, deslice 2 dedos hacia arriba y manténga pulsado."</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Desliza 3 dedos hacia arriba desde la parte inferior de la pantalla.
+Para cambiar entre funciones, deslice 2 dedos hacia arriba y mantenga pulsado."</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Deslice 3 dedos hacia arriba desde la parte inferior de la pantalla.
 
-Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado."</string>
+Para cambiar entre funciones, deslice 3 dedos hacia arriba y mantenga pulsado."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Toque rápidamente la pantalla 3 veces. Este acceso directo puede ralentizar su dispositivo.</string>
     <string name="accessibility_shortcut_edit_dialog_title_advance">Avanzado</string>
     <string name="accessibility_shortcut_edit_dialog_title_hardware">Mantenga presionadas las teclas de volumen</string>
@@ -2556,7 +2556,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="edge_mode_screenshot_summary">Toca dos veces en ambos bordes para hacer una captura de pantalla</string>
     <string name="edge_mode_state_summary">"El área alrededor de los bordes curvos no responderá al tacto"</string>
     <string name="edge_mode_state_title">Ignora el toque accidental en los bordes</string>
-    <string name="edge_to_edge_navigation_summary">Para ir a la pantalla de inicio, desliza el dedo hacia arriba desde la parte inferior de la pantalla. Para cambiar de aplicación, desliza el dedo hacia arriba desde la parte inferior de la pantalla, mantenla pulsada y levanta el dedo. Para ir atrás, desliza el dedo desde el borde izquierdo o el derecho.</string>
+    <string name="edge_to_edge_navigation_summary">Para ir a Inicio, deslice el dedo hacia arriba desde la parte inferior de la pantalla. Para cambiar de aplicación, deslice el dedo hacia arriba desde la parte inferior, mantenga presionado y luego suelte. Para volver, deslice el dedo desde el borde izquierdo o derecho.</string>
     <string name="edge_to_edge_navigation_title">Navegación por gestos</string>
     <string name="edit_rule">Editar reglas</string>
     <string name="edit_rules">Editar</string>
@@ -4530,7 +4530,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="natural_haptic">Toque natural</string>
     <string name="natural_haptic_summary">Los nuevos patrones de retroalimentación háptica aportan una dimensión adicional a todo lo que ve y toca en la pantalla.</string>
     <string name="nature_color">Predeterminado</string>
-    <string name="navigation_guide_app_quick_switch_hide_line_summary">Desliza hacia arriba desde la parte inferior de la pantalla, luego desliza hacia la izquierda o hacia la derecha</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslice hacia arriba desde la parte inferior de la pantalla, luego deslice hacia la izquierda o hacia la derecha</string>
     <string name="navigation_guide_app_quick_switch_summary">Desliza el dedo hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
     <string name="navigation_guide_app_quick_switch_title">Cambiar entre aplicaciones</string>
     <string name="navigation_guide_app_summary">Desliza a la izquierda o derecha desde el borde de la pantalla en la parte superior</string>
@@ -4551,9 +4551,9 @@ Selecciona tu sistema operativo:"</string>
     <string name="navigation_guide_gesture_line_dialog_title">Aprende un nuevo gesto</string>
     <string name="navigation_guide_hide_gesture_line_summary">"No mostrar el indicador de pantalla completa al usar gestos a pantalla completa"</string>
     <string name="navigation_guide_hide_gesture_line_title">Ocultar indicador de pantalla completa</string>
-    <string name="navigation_guide_home_summary">Desliza hacia arriba desde la parte inferior de la pantalla</string>
+    <string name="navigation_guide_home_summary">Deslice hacia arriba desde la parte inferior de la pantalla</string>
     <string name="navigation_guide_home_title">Ir a la pantalla de inicio</string>
-    <string name="navigation_guide_recent_summary">Desliza hacia arriba desde la parte inferior de la pantalla y pausar</string>
+    <string name="navigation_guide_recent_summary">Deslice hacia arriba desde la parte inferior de la pantalla y haga una pausa</string>
     <string name="navigation_guide_recent_title">Abrir Recientes</string>
     <string name="navigation_guide_settings">Demo de gestos</string>
     <string name="navigation_type_radio_text_full_screen">Gestos a pantalla completa</string>
@@ -7017,7 +7017,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="swipe_direction_title">Acciones al deslizar el dedo</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Enciende el nuevo gesto para cambiar de aplicación.</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Prueba el nuevo botón de inicio</string>
-    <string name="swipe_up_to_switch_apps_summary">Para cambiar de aplicación, desliza hacia arriba el botón de Inicio. Desliza hacia arriba de nuevo para ver todas las aplicaciones. Funciona desde cualquier pantalla. Ya no tendrás un botón de Información general en la parte inferior derecha de tu pantalla.</string>
+    <string name="swipe_up_to_switch_apps_summary">Para cambiar de aplicación, deslice el dedo hacia arriba en el botón Inicio. Para ver todas las aplicaciones, vuelva a deslizar hacia arriba. Para volver, pulse el botón atrás.</string>
     <string name="swipe_up_to_switch_apps_title">Desliza el botón de inicio hacia arriba</string>
     <string name="switchNetworkToast">La conexión a redes móviles puede generar tarifas adicionales</string>
     <string name="switch_access_service_on">Cambio de acceso</string>
