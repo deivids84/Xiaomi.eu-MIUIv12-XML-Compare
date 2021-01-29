@@ -61,7 +61,7 @@
     <string name="cloudservice_new_sync">Sincronizar %s con Xiaomi Cloud</string>
     <string name="confirm_delete">Eliminar</string>
     <string name="confirm_save">Mantener</string>
-    <string name="connect_network">Conéctese a una red Wi-Fi o inserta tarjeta SIM</string>
+    <string name="connect_network">Conéctese a una red Wi-Fi o inserte una tarjeta SIM</string>
     <string name="connect_network_china">Conéctese a Wi-Fi o inserte una tarjeta SIM</string>
     <string name="connect_wlan">Conectar a red Wi-Fi</string>
     <string name="connect_wlan_china">Conectar a red Wi-Fi</string>
