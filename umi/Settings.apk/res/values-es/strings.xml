@@ -1853,7 +1853,7 @@ Esta información identifica si sus contactos pueden usar ciertas funciones, com
     <string name="controls_subtitle">Cómo reducir el uso de la batería</string>
     <string name="convenience_key_category_title">Control del sistema</string>
     <string name="conversation_category_title">Conversacion</string>
-    <string name="conversation_onboarding_summary">"Una vez que marques una conversación como prioridad o realices cualquier otro cambio en las conversaciones, aparecerán aquí. 
+    <string name="conversation_onboarding_summary">"Una vez que marque una conversación como prioritaria o realice cualquier otro cambio en las conversaciones, aparecerán aquí. 
 
 Para cambiar la configuración de la conversación: 
 Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la pantalla desplegable, luego toque &amp; mantenga una conversación."</string>
