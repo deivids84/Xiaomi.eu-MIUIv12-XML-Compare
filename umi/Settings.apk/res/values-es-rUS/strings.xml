@@ -335,7 +335,7 @@ Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado
     <string name="adb_authorization_timeout_title">Deshabilitar el tiempo de espera de autorización de adb</string>
     <string name="adb_device_fingerprint_title_format">Huella digital del dispositivo: %1$s</string>
     <string name="adb_device_forget">Olvidar</string>
-    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todos los ordenadores autorizados?"</string>
+    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todos las computadoras autorizadas?"</string>
     <string name="adb_pair_method_code_summary">Emparejar nuevos dispositivos usando un código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Vincular dispositivo con código de vinculación</string>
     <string name="adb_pair_method_qrcode_summary">Emparejar nuevos dispositivos usando un escáner de código QR</string>
@@ -346,7 +346,7 @@ Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de sincronización de Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Emparejar con dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">No se pudo emparejar el dispositivo. O el código QR era incorrecto o el dispositivo no está conectado a la misma red.</string>
-    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre tu ordenador y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
+    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre su computadora y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
     <string name="adb_warning_title">¿Permitir la depuración USB?</string>
     <string name="adb_wireless_connection_failed_message">Asegúrese de que %1$s esté conectado a la red correcta</string>
     <string name="adb_wireless_connection_failed_title">Conexión fallida</string>
@@ -1297,7 +1297,7 @@ Calidad de reproducción"</string>
     <string name="bluetooth_show_files_received_via_bluetooth">Archivos recibidos (Bluetooth)</string>
     <string name="bluetooth_show_received_files">Mostrar archivos recibidos</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-    <string name="bluetooth_talkback_computer">Ordenador</string>
+    <string name="bluetooth_talkback_computer">Computadora</string>
     <string name="bluetooth_talkback_headphone">Auriculares</string>
     <string name="bluetooth_talkback_headset">Cascos</string>
     <string name="bluetooth_talkback_imaging">Escáner</string>
@@ -1348,7 +1348,7 @@ Calidad de reproducción"</string>
     <string name="boot_sounds_title">Sonidos de encendido</string>
     <string name="bootloader">Modo Fastboot</string>
     <string name="bootloader_apply_step_1">¿Activar el modo Fastboot?</string>
-    <string name="bootloader_apply_step_2">Cuando el dispositivo esté en modo Fastboot y conectado al ordenador,</string>
+    <string name="bootloader_apply_step_2">Cuando el dispositivo esté en modo Fastboot y conectado a la computadora,</string>
     <string name="bootloader_apply_step_3">los datos del dispositivo (p.ej. contraseñas, mensajes) podrían ser accesibles sin tu permiso.</string>
     <string name="bootloader_apply_step_4">Podría conllevar la pérdida de datos o incluso daños irreparables en el hardware.</string>
     <string name="bootloader_apply_step_5">Asegúrate de saber cómo utilizar el modo Fastboot antes de activarlo.</string>
@@ -1369,7 +1369,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_locked_answer_1_warning">"Recuerde: no podrá utilizar \"Buscar dispositivo\" después de desbloquear el teléfono."</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrese de haber insertado la tarjeta SIM en su dispositivo.
 2. Pulse \"Agregar cuenta\" para asociar su Cuenta Mi a este dispositivo.
-3. Descargue la herramienta de desbloqueo de nuestro sitio web. Tenga presente que debe desbloquear los dispositivos usando un ordenador. Descargue la herramienta aquí:"</string>
+3. Descargue la herramienta de desbloqueo de nuestro sitio web. Tenga presente que debe desbloquear los dispositivos usando una computadora. Descargue la herramienta aquí:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Toca \ \"Agregar cuenta \" a continuación para asociar su Cuenta Mi con este dispositivo. 2. Descargue la herramienta de desbloqueo desde nuestro sitio web. Ten en cuenta que debe desbloquear dispositivos usando una computadora. Descarga aquí:"</string>
     <string name="bootloader_locked_check_status">Añadir cuenta y dispositivo</string>
     <string name="bootloader_locked_question_1">¿Por qué deberían bloquearse los dispositivos?</string>
@@ -1642,7 +1642,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="clear_adb_keys">Revocar autorizaciones de depuración USB</string>
     <string name="clear_all_data">Borrar todos los datos</string>
     <string name="clear_cache_btn_text">Borrar caché</string>
-    <string name="clear_data_alert_info">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haz una copia de seguridad de los elementos importantes en tu ordenador y Xiaomi Cloud antes de continuar.</string>
+    <string name="clear_data_alert_info">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haga una copia de seguridad de los elementos importantes en su computadora y Xiaomi Cloud antes de continuar.</string>
     <string name="clear_data_dlg_text">Todos los datos de esta aplicación se eliminarán de forma permanente. Esto incluye todos los archivos, ajustes, cuentas, bases de datos, etc.</string>
     <string name="clear_data_dlg_title">¿Eliminar datos de la aplicación?</string>
     <string name="clear_failed_dlg_text">No se ha podido borrar los datos de la aplicación.</string>
@@ -1730,8 +1730,8 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="common_settings">Ajustes rápidos</string>
     <string name="complete_parameters">Todas las especificaciones</string>
     <string name="complete_settings">Ajustes generales</string>
-    <string name="computer_backup_summary">Haz una copia de seguridad y restaura elementos usando un ordenador</string>
-    <string name="computer_backup_title">Ordenador</string>
+    <string name="computer_backup_summary">Haga una copia de seguridad y restaure elementos usando una computadora</string>
+    <string name="computer_backup_title">Computadora</string>
     <string name="computing_size">Calculando…</string>
     <string name="condition_airplane_summary">La red móvil, la conexión Wi-Fi y el Bluetooth están desactivados. No puedes hacer llamadas ni conectarte a Internet.</string>
     <string name="condition_airplane_title">Modo avión activado</string>
