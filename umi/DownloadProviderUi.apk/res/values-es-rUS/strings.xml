@@ -2,7 +2,7 @@
 <resources>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>
-    <string name="DOWNLOAD_UNIT_MB">Mb</string>
+    <string name="DOWNLOAD_UNIT_MB">MB</string>
     <string name="DOWNLOAD_UNIT_TB">tuberculosis</string>
     <string name="Only_the_wifi">Utilizar sólo Wi-Fi</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
