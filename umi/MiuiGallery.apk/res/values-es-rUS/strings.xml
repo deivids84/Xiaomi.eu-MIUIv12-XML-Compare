@@ -563,7 +563,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="device_status_sending">Enviando…</string>
     <string name="device_status_success">Enviado correctamente</string>
     <string name="device_status_waiting">Esperando…</string>
-    <string name="device_type_pc">Ordenador</string>
+    <string name="device_type_pc">Computadora</string>
     <string name="disable_auto_upload_tip">¿Desactivar la sincronización con Xiaomi Cloud para este álbum?</string>
     <string name="disable_auto_upload_title">Desactivar la sincronización con Xiaomi Cloud</string>
     <string name="do_not_remind_me">"No mostrar de nuevo"</string>
@@ -1465,7 +1465,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="other_album_operation_remove_from_other_albums">Eliminar de álbumes redundantes</string>
     <string name="other_settings">Ajustes adicionales</string>
     <string name="owner_album_subtitle">Compartido con %1$s personas</string>
-    <string name="pc_device_model_name">Ordenador</string>
+    <string name="pc_device_model_name">Computadora</string>
     <string name="people_album_empty_title">Las fotos pueden ordenarse por las personas que aparecen</string>
     <string name="people_jump_failed">Espera hasta que las fotos con personas se sincronicen con Xiaomi Cloud e inténtalo de nuevo</string>
     <string name="people_mark_mode_title">Seleccionar \"%s\"</string>
