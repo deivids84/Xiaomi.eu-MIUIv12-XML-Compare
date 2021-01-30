@@ -7697,6 +7697,7 @@ Toca en más para añadir palabras."</string>
     <string name="users_summary">Has iniciado sesión como %1$s</string>
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
+    <string name="var_font_switch_title">Fuente variable de todo el sistema</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamiento dañino de apps instaladas via ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Verificar apps a través de USB</string>
     <string name="version_text">versión %1$s</string>
