@@ -302,7 +302,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de sincronización de Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Emparejar con dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">No se pudo emparejar el dispositivo. O el código QR era incorrecto o el dispositivo no está conectado a la misma red.</string>
-    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre tu ordenador y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
+    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre tu computadora y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
     <string name="adb_warning_title">¿Permitir la depuración USB?</string>
     <string name="adb_wireless_connection_failed_message">Asegúrese de que %1$s esté conectado a la red correcta</string>
     <string name="adb_wireless_connection_failed_title">Conexión fallida</string>
@@ -1971,8 +1971,8 @@ Tu teléfono podría calentarse de más si:
 Se le notificará cuando pueda volver a utilizar el puerto USB."</string>
     <string name="usb_contaminant_title">Puerto USB desactivado</string>
     <string name="usb_debugging_allow">Permitir</string>
-    <string name="usb_debugging_always">Permitir siempre desde este ordenador</string>
-    <string name="usb_debugging_message">"La huella de la clave del RSA del ordenador es:
+    <string name="usb_debugging_always">Permitir siempre desde esta computadora</string>
+    <string name="usb_debugging_message">"La huella de la clave del RSA de la computadora es:
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">"El usuario que actualmente inició sesión en este dispositivo no puede activar la depuración USB. Para usar esta función inicia sesión con una cuenta de administrador."</string>
     <string name="usb_debugging_secondary_user_title">Depuración USB no permitida</string>
