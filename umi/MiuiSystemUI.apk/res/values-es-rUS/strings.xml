@@ -291,7 +291,7 @@
     <string name="activity_not_found">La aplicación no está instalada en tu dispositivo</string>
     <string name="adb_device_fingerprint_title_format">Huella digital del dispositivo: %1$s</string>
     <string name="adb_device_forget">Olvidar</string>
-    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todos los ordenadores autorizados?"</string>
+    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todas las computadoras autorizadas?"</string>
     <string name="adb_pair_method_code_summary">Emparejar nuevos dispositivos usando un código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Vincular dispositivo con código de vinculación</string>
     <string name="adb_pair_method_qrcode_summary">Emparejar nuevos dispositivos usando un escáner de código QR</string>
