@@ -374,8 +374,8 @@ Frecuencia de muestreo"</string>
     <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
     <string name="loading_injected_setting_summary">Cargando…</string>
     <string name="local_backup_password_summary_change">Toca para cambiar o quitar la contraseña de las copias de seguridad completas del escritorio</string>
-    <string name="local_backup_password_summary_none">Las copias de seguridad completas de ordenador no están protegidas</string>
-    <string name="local_backup_password_title">Contraseña para copias de ordenador</string>
+    <string name="local_backup_password_summary_none">Las copias de seguridad completas de escritorio no están protegidas actualmente</string>
+    <string name="local_backup_password_title">Contraseña de respaldo de escritorio</string>
     <string name="local_backup_password_toast_confirmation_mismatch">La nueva contraseña y la de confirmación no coinciden</string>
     <string name="local_backup_password_toast_success">Nueva contraseña de seguridad establecida</string>
     <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>
