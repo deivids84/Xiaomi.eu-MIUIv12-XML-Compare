@@ -201,7 +201,7 @@
     <string name="notification_channel_description_download">Mostrar el progreso de la descarga en el tono de notificación</string>
     <string name="notification_channel_name_download">Mostrar progreso de descarga</string>
     <string name="notify_connected_action_button">Desconectar</string>
-    <string name="notify_connected_message">Puede transferir archivos e interactuar con su teléfono usando esta computadora</string>
+    <string name="notify_connected_message">Puede transferir archivos e interactuar con su teléfono usando este ordenador</string>
     <string name="notify_connected_title">Conectado a %1$s</string>
     <string name="ok">Ok</string>
     <string name="open_folder">mostrar</string>
@@ -209,7 +209,7 @@
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy_all_purpose">¡Bienvenido a MIUI+ Beta! Puede usar esta aplicación para conectar su teléfono a un ordenador y combinar dos dispositivos en una única estación de trabajo.</string>
     <string name="privacy_describe_change_wifi_state">Para conectar dispositivos y transferir archivos mediante Wi-Fi</string>
-    <string name="privacy_describe_location">Para encontrar computadoras cercanas y transferir archivos</string>
+    <string name="privacy_describe_location">Para encontrar ordenadores cercanos y transferir archivos</string>
     <string name="privacy_describe_record_audio">Para redirigir la reproducción de audio a su computadora</string>
     <string name="privacy_describe_storage">Para enviar y recibir archivos</string>
     <string name="relay_msg_photo_text">Guardado en la Galería con éxito</string>
@@ -227,15 +227,15 @@
     <string name="send">Enviar</string>
     <string name="settings_connect">Como conectar</string>
     <string name="settings_connect_more_help"><u>Ayuda</u></string>
-    <string name="settings_connect_summary1">Descargue e instale MIUI+ Beta en su computadora: https://pc.mi.com/aiot.</string>
+    <string name="settings_connect_summary1">Descargue e instale MIUI+ Beta en su ordenador: https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Escanee el código QR en la pantalla de la computadora con su dispositivo móvil. Puede utilizar varias aplicaciones del sistema (por ejemplo, escáner, cámara, mi navegador) para hacer eso.</string>
     <string name="settings_connect_title1">Paso 1</string>
     <string name="settings_connect_title2">Paso 2</string>
     <string name="settings_feature">Características especiales</string>
     <string name="settings_feature_characteristics">Características especiales</string>
-    <string name="settings_feature_characteristics_summary_1">Copie texto en su teléfono y péguelo en su computadora, agregue imágenes y sincronice ediciones en sus documentos.</string>
+    <string name="settings_feature_characteristics_summary_1">Copie texto en su teléfono y péguelo en su ordenador, agregue imágenes y sincronice ediciones en sus documentos.</string>
     <string name="settings_feature_characteristics_summary_2">Arrastre y suelte elementos para transferirlos hacia y desde su dispositivo.</string>
-    <string name="settings_feature_characteristics_summary_3">Solo acerque su teléfono a una computadora previamente conectada para conectarse de nuevo automáticamente.</string>
+    <string name="settings_feature_characteristics_summary_3">Solo acerque su teléfono a un ordenador previamente conectado para conectarse de nuevo automáticamente.</string>
     <string name="settings_feature_characteristics_title_1">Sincronización y traspaso sin problemas</string>
     <string name="settings_feature_characteristics_title_2">Transferir archivos</string>
     <string name="settings_feature_characteristics_title_3">Conectarse automáticamente</string>
@@ -353,7 +353,7 @@
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="worker_authorization_loading">Un momento…</string>
-    <string name="worker_authorization_message">Después de conectarse, use MIUI+ en su computadora para administrar elementos en su dispositivo móvil.</string>
+    <string name="worker_authorization_message">Después de conectarse, use MIUI+ en su ordenador para administrar elementos en su dispositivo móvil.</string>
     <string name="worker_authorization_title">¿Conecte ahora?</string>
     <string name="worker_authorization_trusted">Siempre conecta</string>
     <string name="worker_authorization_trusted_only_once">Conectar una vez</string>
