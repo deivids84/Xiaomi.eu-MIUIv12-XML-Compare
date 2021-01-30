@@ -3269,10 +3269,10 @@ Puedes cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y 
     <string name="how_backup_content">"Puedes guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en tu dispositivo móvil, computadora o unidad USB.
 
 Dispositivo móvil
-Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerda copiar las copias de seguridad a tu ordenador.
+Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerda copiar las copias de seguridad a tu computadora.
 
-Ordenador
-Crea una copia de seguridad en este dispositivo, luego ve a MIUI-backup-AllBackup y copia la copia de seguridad en tu ordenador mediante un cable USB.
+Computadora
+Crea una copia de seguridad en este dispositivo, luego ve a MIUI-backup-AllBackup y copia la copia de seguridad en tu computadora mediante un cable USB.
 
 Unidad USB
 Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
@@ -3291,8 +3291,8 @@ Nota: Recuerde la contraseña que estableció para las copias de seguridad cifra
 Dispositivo móvil
 Toca \"Dispositivo móvil\", encuentra la opción para restaurar elementos y selecciona la copia de seguridad para continuar.
 
-Ordenador
-Copia la copia de seguridad de tu ordenador a MIUI-backup-AllBackup a través del cable USB y restaura elementos desde tu dispositivo móvil.
+Computadora
+Copia la copia de seguridad de tu computadora a MIUI-backup-AllBackup a través del cable USB y restaura elementos desde tu dispositivo móvil.
 
 Unidad USB
 Copia la copia de seguridad de tu unidad USB a MIUI-backup-AllBackup y selecciona la opción para restaurar elementos desde una unidad USB para continuar.
@@ -4054,8 +4054,8 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
 Has iniciado sesión en las cuentas que se indican a continuación:
 "</string>
     <string name="master_clear_all">"¿Eliminar todos los datos de la memoria interna del teléfono? ¡Esta acción no podrá deshacerse!"</string>
-    <string name="master_clear_apply_step_1"><b>&#8220;Restablecer datos de fábrica&#8221; eliminará todos los datos de tu teléfono</b>, incluyendo fotos, canciones, notas, y otros datos personales. Asegúrate de copiar a tu ordenador cualquier elemento importante.</string>
-    <string name="master_clear_apply_step_2">Asegúrese de que todo el contenido importante esté respaldado en su ordenador. Todos los datos de este dispositivo se borrarán durante el reinicio. <b>\"No podrá restaurar contenido de lo que no haya realizado una copia de seguridad\".</b></string>
+    <string name="master_clear_apply_step_1"><b>&#8220;Restablecer datos de fábrica&#8221; eliminará todos los datos de tu teléfono</b>, incluyendo fotos, canciones, notas, y otros datos personales. Asegúrate de copiar a tu computadora cualquier elemento importante.</string>
+    <string name="master_clear_apply_step_2">Asegúrese de que todo el contenido importante esté respaldado en su computadora. Todos los datos de este dispositivo se borrarán durante el reinicio. <b>\"No podrá restaurar contenido de lo que no haya realizado una copia de seguridad\".</b></string>
     <string name="master_clear_apply_title">Atención</string>
     <string name="master_clear_button_text">Borrar todos los datos</string>
     <string name="master_clear_confirm_title">¿Borrar todos los datos?</string>
@@ -4475,16 +4475,16 @@ Selecciona tu sistema operativo:"</string>
     <string name="msd_install_download_zhushou">"He descargado Mi Phone Manager"</string>
     <string name="msd_install_finish">Aceptar</string>
     <string name="msd_install_next">Siguiente</string>
-    <string name="msd_install_retry">"Si el ordenador no detecta el dispositivo, prueba lo siguiente:"</string>
+    <string name="msd_install_retry">"Si la computadora no detecta el dispositivo, prueba lo siguiente:"</string>
     <string name="msd_install_retry_connect">Reconectar el cable USB.</string>
     <string name="msd_install_retry_reinstall">Reinstala el controlador.</string>
     <string name="msd_install_retry_reinstall_mac">Instala primero Android File Transfer, luego ejecuta el software.</string>
     <string name="msd_install_status_done">Controlador instalado</string>
     <string name="msd_install_status_undo">Instalar controlador</string>
     <string name="msd_install_succeed">Controlador instalado</string>
-    <string name="msd_pc_system_install_finish_summary_vista">Para Windows Vista y versiones posteriores, %1$s aparecerá como almacenamiento USB cuando lo conecte al ordenador.</string>
+    <string name="msd_pc_system_install_finish_summary_vista">Para Windows Vista y versiones posteriores, %1$s aparecerá como almacenamiento USB cuando lo conecte a la computadora.</string>
     <string name="msd_pc_system_install_finish_summary_xp">Después de instalar el controlador
-%1$s aparecerá como almacenamiento USB cuando se conecte al ordenador.</string>
+%1$s aparecerá como almacenamiento USB cuando se conecte a la computadora.</string>
     <string name="msd_pc_system_install_summary_xp">1. Ejecuta setup.exe para instalar</string>
     <string name="msg_wlan_signal_found">"¿Conectarse a %s?"</string>
     <string name="msim_sim_radio_off">Desactivado</string>
@@ -5624,7 +5624,7 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="reset_network_final_desc_esim">¿Restablecer todas las configuraciones de red y borrar las SIM descargadas? No puede deshacer esta acción.</string>
     <string name="reset_network_title">Restablecer Wi-Fi, redes móviles y Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
-    <string name="reset_remove_data_hint">Todos los elementos mencionados arriba serán borrados permanentemente. Respalda todos los elementos importantes en tu ordenador o en Xiaomi Cloud antes de continuar.</string>
+    <string name="reset_remove_data_hint">Todos los elementos mencionados arriba serán borrados permanentemente. Respalda todos los elementos importantes en tu computadora o en Xiaomi Cloud antes de continuar.</string>
     <string name="reset_second_space_passwd">Restablecer la contraseña del Segundo espacio</string>
     <string name="reset_second_space_passwd_cancel">Cancelar</string>
     <string name="reset_second_space_passwd_confirm">Continuar</string>
@@ -6384,7 +6384,7 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="settings_panel_title">Panel de ajustes</string>
     <string name="settings_safetylegal_activity_loading">Cargando…</string>
     <string name="settings_safetylegal_activity_title">Información de seguridad</string>
-    <string name="settings_safetylegal_activity_unreachable">No tienes conexión de datos. Para ver esta información, accede a %s desde cualquier ordenador conectado a Internet.</string>
+    <string name="settings_safetylegal_activity_unreachable">No tienes conexión de datos. Para ver esta información, accede a %s desde cualquier computadora conectada a Internet.</string>
     <string name="settings_safetylegal_title">Información de seguridad</string>
     <string name="settings_shortcut">Acceso a Ajustes</string>
     <string name="setup_choose_unlock_mixed_password">Contraseña</string>
@@ -6795,7 +6795,7 @@ Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus dato
 Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee. 
 
 \"&lt;b&gt;Copia de seguridad de fotos y de otro contenido multimedia&lt;/b&gt;\" 
-Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfiérelos a un ordenador con un cable USB. 
+Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfiérelos a una computadora con un cable USB. 
 
 \"&lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;\" 
 Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muévelas a otro espacio de almacenamiento del dispositivo."</string>
@@ -6839,7 +6839,7 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo.\"</string>
     <string name="storage_summary">Usado: %1$s, disponible: %2$s</string>
     <string name="storage_summary_format">%1$s usados en %2$s</string>
     <string name="storage_summary_with_sdcard">Almacenamiento interno: %1$s usado (disponible: %2$s)</string>
-    <string name="storage_title_usb">Conexión USB a ordenador</string>
+    <string name="storage_title_usb">Conexión USB a computadora</string>
     <string name="storage_type_external">Almacenamiento externo</string>
     <string name="storage_type_internal">Almacenamiento interno</string>
     <string name="storage_unmount_failure">No se ha podido expulsar %1$s de forma segura</string>
@@ -7524,7 +7524,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="usb_insert_summary">Conectar almacenamiento USB</string>
     <string name="usb_install_app">Instalar vía USB</string>
     <string name="usb_install_app_desc">Permitir la instalación de aplicaciones vía USB</string>
-    <string name="usb_midi_summary">Permite a las aplicaciones compatibles con MIDI utilizar software de MIDI en tu ordenador por USB.</string>
+    <string name="usb_midi_summary">Permite a las aplicaciones compatibles con MIDI utilizar software de MIDI en tu computadora por USB.</string>
     <string name="usb_midi_title">Utilizar dispositivo como MIDI</string>
     <string name="usb_mount">Montar almacenamiento USB</string>
     <string name="usb_msd_driver_installer_summary">Obtener controladores para Windows y OSX</string>
@@ -7535,7 +7535,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="usb_mtp_title">Dispositivo multimedia (MTP)</string>
     <string name="usb_pref">USB</string>
     <string name="usb_preference">Preferencias USB</string>
-    <string name="usb_ptp_summary">Permitir transferir fotos con el software de la cámara y archivos a ordenadores que no admitan MTP</string>
+    <string name="usb_ptp_summary">Permitir transferir fotos con el software de la cámara y archivos a computadoras que no admitan MTP</string>
     <string name="usb_ptp_title">Cámara (PTP)</string>
     <string name="usb_reverse_charge">Carga inversa</string>
     <string name="usb_summary_MIDI">Utilizar el dispositivo como MIDI</string>
