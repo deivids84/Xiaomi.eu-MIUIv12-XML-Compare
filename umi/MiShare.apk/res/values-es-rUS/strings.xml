@@ -51,7 +51,7 @@
     <string name="device_status_sending">Enviando…</string>
     <string name="device_status_success">Enviado correctamente</string>
     <string name="device_status_waiting">Esperando…</string>
-    <string name="device_type_pc">Ordenadores</string>
+    <string name="device_type_pc">Computadoras</string>
     <string name="disconnect">DESCONECTAR</string>
     <string name="enable_midrop">Activar</string>
     <string name="error_ap_in_use">"No se pueden enviar archivos a otros dispositivos cuando el hotspot está activado"</string>
@@ -77,7 +77,7 @@
     <string name="error_send_file_not_found">"No se pudo encontrar el archivo. Inténtalo de nuevo."</string>
     <string name="error_send_file_service_disabled">Transferencia saliente cancelada</string>
     <string name="error_send_transfer_error">"No se pudieron transferir los elementos. Inténtalo de nuevo."</string>
-    <string name="error_send_transfer_pc_error">Transferencia agotada. Actualice la aplicación para compartir archivos en su ordenador y vuelva a intentarlo.</string>
+    <string name="error_send_transfer_pc_error">Transferencia agotada. Actualice la aplicación para compartir archivos en su computadora y vuelva a intentarlo.</string>
     <string name="error_slave_wifi_in_use">"Mi Share no funcionará cuando el Wi-Fi dual esté activado. Apague el Wi-Fi dual en la Configuración y vuelva a intentarlo."</string>
     <string name="error_slave_wifi_in_use_china">"Mi Share no funcionará cuando el Wi-Fi dual esté activado. Apague el Wi-Fi dual en la Configuración y vuelva a intentarlo."</string>
     <string name="error_timeout">Se agotó el tiempo de espera de la sesión. Espere uno o dos minutos y vuelva a intentarlo.</string>
@@ -126,7 +126,7 @@ Esta función es compatible con OPPO, Vivo, Realme y otros fabricantes de teléf
     <string name="not_set">Sin definir</string>
     <string name="notification_channel_name">Transferencia de notificaciones</string>
     <string name="operate_too_fast">¡Demasiado rapido! Espere hasta que se completen las operaciones en curso.</string>
-    <string name="pc_device_model_name">Ordenador</string>
+    <string name="pc_device_model_name">Computadora</string>
     <string name="permission_denied_hint">Otorgue los permisos necesarios para poder usar Mi Share</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="purpose">"¡Bienvenido a Mi Share! Puede utilizar esta aplicación para transferir archivos entre dispositivos. Protegemos su información personal de acuerdo con las leyes, regulaciones y políticas pertinentes.
