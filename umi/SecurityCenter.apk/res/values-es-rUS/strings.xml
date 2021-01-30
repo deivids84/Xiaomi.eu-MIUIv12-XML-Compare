@@ -4142,7 +4142,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="usb_mount">Montar dispositivo USB</string>
     <string name="usbsharenet_exception_summary">"No se pudo conectar a Internet usando la conexión compartida por USB. Comprueba la conexión USB del dispositivo y reinicia Mi PC Suite."</string>
     <string name="usbsharenet_exception_title">Comprobar conexión compartida por USB</string>
-    <string name="usbsharenet_pc_exception_summary">"No se pudo conectar a Internet usando la conexión compartida por USB. Comprueba la conexión a Internet del ordenador."</string>
+    <string name="usbsharenet_pc_exception_summary">"No se pudo conectar a Internet usando la conexión compartida por USB. Comprueba la conexión a Internet de su computadora."</string>
     <string name="use_immediately">Usar</string>
     <string name="user_define_title">Añadir reglas</string>
     <string name="user_guide">Desliza hacia arriba para descubrir más juegos nuevos</string>
