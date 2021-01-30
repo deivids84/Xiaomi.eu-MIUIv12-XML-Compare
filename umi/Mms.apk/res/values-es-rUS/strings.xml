@@ -895,7 +895,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_forward_successful">Reenviado con éxito</string>
     <string name="rcs_group_chat_closed">(Cerrado)</string>
     <string name="rcs_group_notification_invitation">Invitación de chat de grupo</string>
-    <string name="rcs_hello_from_pc">Inicia sesión en Fetion en tu ordenador para transferir archivos.</string>
+    <string name="rcs_hello_from_pc">Inicia sesión en Fetion en tu computadora para transferir archivos.</string>
     <string name="rcs_list_bottom_loading">Un momento…</string>
     <string name="rcs_list_bottom_search">Buscando…</string>
     <string name="rcs_main_purpose">Esta función te permite enviar y recibir mensajes RCS. Mensajería RCS es proporcionada por China Mobile.</string>
@@ -928,7 +928,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_pref_video_message_default_quality">Opciones de impresión de vídeo</string>
     <string name="rcs_recipient_type_contact">Reenviar al contacto</string>
     <string name="rcs_recipient_type_group">Reenviar al chat de grupo</string>
-    <string name="rcs_recipient_type_pc">Reenviar al ordenador</string>
+    <string name="rcs_recipient_type_pc">Reenviar a la computadora</string>
     <string name="rcs_remember_my_choice">Recordar mi elección</string>
     <string name="rcs_resend_not_online">"No puede utilizar Mensajería de China Mobile"</string>
     <string name="rcs_resend_sim_card_not_insert">"Parece que tu tarjeta SIM no está instalada"</string>
