@@ -3202,6 +3202,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="haptic_switch_title">Retroalimentación háptica</string>
     <string name="haptic_text_edit_popup_13_content_description">Menú emergente</string>
     <string name="haptic_upper_right_menu_15_content_description">Menú desplegable</string>
+    <string name="haptic_video_content_description">Vídeo demostración de retroalimentación háptica</string>
     <string name="haptic_volume_adjustment_14_content_description">Ajuste de volúmen</string>
     <string name="hardkeyboard_category">Ajustes del teclado físico</string>
     <string name="hardware_info">Modelo &amp; hardware</string>
@@ -8496,7 +8497,9 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_switch_to_gsm_message">Conexión a Wi-Fi perdida. ¿Usar la conexión de datos móviles en su lugar?</string>
     <string name="wifi_switch_to_gsm_title">¿Usar GSM?</string>
     <string name="wifi_tap_to_sign_in">Toca aquí para iniciar sesión en la red</string>
+    <string name="wifi_tether_checkbox_kddi_text">Anclaje a red Wi-Fi</string>
     <string name="wifi_tether_checkbox_text">Zona Wi-Fi portátil</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Configurar anclaje a red Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Configurar zona Wi-Fi portátil</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s portátil</string>
     <string name="wifi_tether_enabled_subtext">%1$s está activa</string>
@@ -8582,6 +8585,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wizard_back">Volver</string>
     <string name="wizard_finish">Finalizar</string>
     <string name="wizard_next">Siguiente</string>
+    <string name="wlan_scanner_unresizeble">"No se pueden mostrar los ajustes del Wi-Fi en el modo de pantalla dividida"</string>
     <string name="words_title">Texto</string>
     <string name="work_alarm_ringtone_title">Sonido de alarma de trabajo predeterminado</string>
     <string name="work_mode_label">Modo de trabajo</string>
