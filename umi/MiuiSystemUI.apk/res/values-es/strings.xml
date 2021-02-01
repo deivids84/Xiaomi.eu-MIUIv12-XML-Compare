@@ -594,6 +594,7 @@ Vuelva a intentarlo en %d segundo."</string>
     <string name="connected_via_network_scorer_default">Conectado automáticamente vía proveedor de clasificaciones de redes</string>
     <string name="connected_via_passpoint">Conectado vía %1$s</string>
     <string name="content_description_menu_button">Menú</string>
+    <string name="control_center_notification_switch_guide">Deslice el dedo para cambiar entre el Centro de control y el Panel de notificaciones</string>
     <string name="controls_added_tooltip">Mantenga presionado el botón de encendido para ver nuevos controles</string>
     <string name="controls_confirmation_confirming">Confirmando…</string>
     <string name="controls_confirmation_message">Confirmar cambio por %s</string>
