@@ -51,8 +51,8 @@
     <string name="battery_id">Identificador de la bateria:</string>
     <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
     <string name="battery_plug_wirelee_summary">Carregador sense fils en cada connexió, desconnecta una vegada</string>
-    <string name="battery_plug_wirelee_title">Prova de càrrega sense cable</string>
-    <string name="battery_plugin_wirelee">La càrrega sense cable està enllaçada</string>
+    <string name="battery_plug_wirelee_title">Prova de càrrega sense fils</string>
+    <string name="battery_plugin_wirelee">La càrrega sense fils està connectada</string>
     <string name="battery_plugout_wirelee">Activeu la càrrega sense cable</string>
     <string name="battery_value">Electricitat</string>
     <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
