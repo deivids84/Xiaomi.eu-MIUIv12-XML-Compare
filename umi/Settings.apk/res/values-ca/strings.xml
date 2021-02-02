@@ -3246,6 +3246,7 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="haptic_switch_title">Resposta hàptica</string>
     <string name="haptic_text_edit_popup_13_content_description">Menú emergent</string>
     <string name="haptic_upper_right_menu_15_content_description">Menú desplegable</string>
+    <string name="haptic_video_content_description">Vídeo de demostració de la retroalimentació hàptica</string>
     <string name="haptic_volume_adjustment_14_content_description">Ajust del volum</string>
     <string name="hardkeyboard_category">Configuració de teclat físic</string>
     <string name="hardware_info">Model i maquinari</string>
@@ -8561,7 +8562,9 @@ també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_switch_to_gsm_message">S\'ha perdut la connexió Wi-Fi. Voleu utilitzar la connexió de dades mòbils?</string>
     <string name="wifi_switch_to_gsm_title">Voleu utilitzar la GSM?</string>
     <string name="wifi_tap_to_sign_in">Toqueu aquí per iniciar la sessió a la xarxa</string>
+    <string name="wifi_tether_checkbox_kddi_text">Ancoratge per Wi-Fi</string>
     <string name="wifi_tether_checkbox_text">Punt d\'accés portàtil</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Configureu la connexió Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Configura un punt d\'accés portàtil</string>
     <string name="wifi_tether_configure_subtext">Portàtil %1$s %2$s</string>
     <string name="wifi_tether_enabled_subtext">S\'ha activat el punt d\'accés Wi-Fi portàtil %1$s</string>
@@ -8649,6 +8652,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wizard_back">Enrere</string>
     <string name="wizard_finish">Finalitza</string>
     <string name="wizard_next">Següent</string>
+    <string name="wlan_scanner_unresizeble">"No es pot mostrar la configuració de la Wi-Fi en mode de pantalla dividida"</string>
     <string name="words_title">Text</string>
     <string name="work_alarm_ringtone_title">So d\'alarma de treball per defecte</string>
     <string name="work_mode_label">Mode professional</string>
