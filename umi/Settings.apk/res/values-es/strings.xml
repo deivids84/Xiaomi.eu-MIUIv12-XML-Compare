@@ -374,7 +374,7 @@ Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado
     <string name="add_facerecoginition_text">Añadir datos faciales</string>
     <string name="add_fingerprint_cancel_button_text">Atrás</string>
     <string name="add_fingerprint_dirty_fingerprint">Asegúrate de que la superficie de la pantalla está limpia. Intenta guardar tu huella dactilar otra vez.</string>
-    <string name="add_fingerprint_done_msg">Ahora puedes desbloquear el dispositivo con tu huella.</string>
+    <string name="add_fingerprint_done_msg">Ahora puede desbloquear el dispositivo con su huella.</string>
     <string name="add_fingerprint_done_title">"¡Todo listo!​"</string>
     <string name="add_fingerprint_edge_instruction_msg">Mueve tu dedo para que el sensor pueda grabar los límites de tu huella dactilar.</string>
     <string name="add_fingerprint_edge_instruction_title">Mueve el dedo ligeramente</string>
@@ -493,7 +493,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="ambient_display_title">Pulse dos veces para comprobar el teléfono</string>
     <string name="ambient_display_wake_screen_title">Activar pantalla</string>
     <string name="android_beam_disabled_summary">Para usar esta función, activa el NFC</string>
-    <string name="android_beam_explained">Puedes compartir una página web, vídeo u otro contenido desde tu pantalla a otro dispositivo, toca los dispositivos a la vez (normalmente en la parte trasera).</string>
+    <string name="android_beam_explained">Puede compartir una página web, vídeo u otro contenido de su pantalla en otro dispositivo, juntando los dispositivos (normalmente en la parte trasera).</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Compartir contenido NFC desactivado</string>
     <string name="android_beam_on_summary">Compartir contenido NFC activado</string>
@@ -529,7 +529,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="apn_edit">Editar punto de acceso</string>
     <string name="apn_general">General</string>
     <string name="apn_http_port">Puerto</string>
-    <string name="apn_http_proxy">Apoderado</string>
+    <string name="apn_http_proxy">Proxy</string>
     <string name="apn_mms_port">Puerto para MMS</string>
     <string name="apn_mms_proxy">Proxy para MMS</string>
     <string name="apn_name">Nombre</string>
@@ -685,7 +685,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="auto_adjust_effect_title">Ajustar la temperatura del color automáticamente</string>
     <string name="auto_brightness_default_title">Predeterminado</string>
     <string name="auto_brightness_description">El brillo de la pantalla se ajustará automáticamente a su entorno y actividades. Puede mover el control deslizante manualmente para ayudar a que el brillo adaptable conozca sus preferencias.</string>
-    <string name="auto_brightness_disclaimer">Optimiza el brillo en función de la luz ambiental. Puedes ajustarlo temporalmente aunque actives esta función.</string>
+    <string name="auto_brightness_disclaimer">Optimice el brillo en función de la luz ambiental. Puede ajustarlo temporalmente aunque activada esta función.</string>
     <string name="auto_brightness_high_title">Alto</string>
     <string name="auto_brightness_low_title">Bajo</string>
     <string name="auto_brightness_off_summary">"No ajustar en función de la luz ambiental"</string>
@@ -5510,7 +5510,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="proxy_hostname_label">Nombre de host</string>
     <string name="proxy_port_label">Puerto</string>
     <string name="proxy_settings_label">Ajustes de proxy</string>
-    <string name="proxy_settings_title">Apoderado</string>
+    <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_url_title">"URL PAC "</string>
     <string name="proxy_warning_limited_support">El navegador utiliza el proxy HTTP, pero otras aplicaciones no pueden usarlo.</string>
     <string name="qtifeedback_settings_subtitle">Informes de Qualcomm Technologies</string>
