@@ -493,7 +493,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="ambient_display_title">Pulse dos veces para comprobar el teléfono</string>
     <string name="ambient_display_wake_screen_title">Activar pantalla</string>
     <string name="android_beam_disabled_summary">Para usar esta función, activa el NFC</string>
-    <string name="android_beam_explained">Puede compartir una página web, vídeo u otro contenido de su pantalla en otro dispositivo, juntando los dispositivos (normalmente en la parte trasera).</string>
+    <string name="android_beam_explained">Puede compartir una página web, vídeo u otro contenido de su pantalla, juntando los dispositivos (normalmente en la parte trasera).</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Compartir contenido NFC desactivado</string>
     <string name="android_beam_on_summary">Compartir contenido NFC activado</string>
@@ -685,7 +685,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="auto_adjust_effect_title">Ajustar la temperatura del color automáticamente</string>
     <string name="auto_brightness_default_title">Predeterminado</string>
     <string name="auto_brightness_description">El brillo de la pantalla se ajustará automáticamente a su entorno y actividades. Puede mover el control deslizante manualmente para ayudar a que el brillo adaptable conozca sus preferencias.</string>
-    <string name="auto_brightness_disclaimer">Optimice el brillo en función de la luz ambiental. Puede ajustarlo temporalmente aunque activada esta función.</string>
+    <string name="auto_brightness_disclaimer">Optimice el brillo en función de la luz ambiental. Puede ajustarlo temporalmente aunque esté activada esta función.</string>
     <string name="auto_brightness_high_title">Alto</string>
     <string name="auto_brightness_low_title">Bajo</string>
     <string name="auto_brightness_off_summary">"No ajustar en función de la luz ambiental"</string>
@@ -1004,12 +1004,12 @@ Aplicaciones principales por uso de batería:"</string>
     <string name="billing_cycle_less_than_one_day_left">Queda menos de 1 día</string>
     <string name="billing_cycle_none_left">No queda tiempo</string>
     <string name="bind_xiaomi_account_confirm">Añadir</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir Cuenta Mi %s. Si olvidas tu contraseña, puedes utilizar esta cuenta para reiniciarla."</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Está a punto de añadir una Cuenta Mi %s. Si olvida su contraseña, puede utilizar esta cuenta para reiniciarla."</string>
     <string name="bind_xiaomi_account_success">Cuenta Mi añadida con éxito</string>
     <string name="biometric_weak_improve_matching_title">Mejorar correspondencia facial</string>
     <string name="biometric_weak_liveliness_summary">Se requiere parpadear para desbloquear</string>
     <string name="biometric_weak_liveliness_title">Verificación de persona real</string>
-    <string name="ble_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones del sistema pueden detectar dispositivos Bluetooth aunque esta conexión esté desactivada. Puedes cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
+    <string name="ble_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones del sistema pueden detectar dispositivos Bluetooth aunque esta conexión esté desactivada. Puede cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
     <string name="blob_expires_text">Caduca a las %s</string>
     <string name="blob_id_text">ID de datos compartidos: %d</string>
     <string name="block_list_connected_devices">Dispositivos conectados</string>
