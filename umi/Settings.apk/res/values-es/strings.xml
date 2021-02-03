@@ -3998,7 +3998,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, evitar que se escriban respuestas u otros textos en las notificaciones</string>
     <string name="lockscreen_settings_title">Ajustes de la pantalla de bloqueo</string>
     <string name="lockscreen_settings_what_to_show_category">Qué mostrar</string>
-    <string name="lockscreen_sidepanel_shortcuts_summary">Personaliza las aplicaciones que se muestran en el panel lateral de la pantalla de bloqueo</string>
+    <string name="lockscreen_sidepanel_shortcuts_summary">Personalice las aplicaciones que se muestran en el panel lateral de la pantalla de bloqueo</string>
     <string name="lockscreen_sidepanel_shortcuts_title">Accesos directos del panel lateral</string>
     <string name="login_account_dialog_message">Inicia sesión en Cuenta Mi y activa la sincronización con Xiaomi Cloud.</string>
     <string name="login_account_dialog_title">Iniciar sesión en Cuenta Mi</string>
@@ -5656,9 +5656,9 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando la configuración de APN predeterminada</string>
     <string name="restore_default_apn_completed">Se ha restablecido la configuración predeterminada de APN.</string>
-    <string name="restore_device_id_content">Reiniciar las recomendaciones personalizadas</string>
+    <string name="restore_device_id_content">Se restablecerán las recomendaciones personalizadas</string>
     <string name="restore_device_id_title">Restaurar ID del Dispositivo</string>
-    <string name="restore_dialog_content">Restaurar ID del Dispositivo reiniciará las recomendaciones personalizadas.</string>
+    <string name="restore_dialog_content">Restablecer la ID de su dispositivo restablecerá también las recomendaciones personalizadas. ¿Reiniciar ahora?</string>
     <string name="restore_dialog_positive">Reiniciar</string>
     <string name="restore_dialog_title">Atención</string>
     <string name="restore_oaid_content">Restablecer su ID de dispositivo actual creará una nueva. ¿Restablecer ahora?</string>
