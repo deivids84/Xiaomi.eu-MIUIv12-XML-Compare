@@ -227,7 +227,7 @@
     <string name="send">Enviar</string>
     <string name="settings_connect">Como conectar</string>
     <string name="settings_connect_more_help"><u>Ayuda</u></string>
-    <string name="settings_connect_summary1">Descargue e instale MIUI+ Beta en su ordenador: https://pc.mi.com/aiot.</string>
+    <string name="settings_connect_summary1">Descargue e instale MIUI+ Beta en su ordenador: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Escanee el código QR en la pantalla de la computadora con su dispositivo móvil. Puede utilizar varias aplicaciones del sistema (por ejemplo, escáner, cámara, mi navegador) para hacer eso.</string>
     <string name="settings_connect_title1">Paso 1</string>
     <string name="settings_connect_title2">Paso 2</string>
