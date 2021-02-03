@@ -7698,7 +7698,7 @@ Toca en más para añadir palabras."</string>
     <string name="user_restrictions_controlled_by">Controladas por %1$s</string>
     <string name="user_restrictions_title">Acceso a contenido y aplicaciones</string>
     <string name="user_set_lock_button">Establecer bloqueo</string>
-    <string name="user_settings_footer_text">Comparte tu teléfono añadiendo usuarios. Cada uno tiene su propio espacio personal en el teléfono con opciones de configuración, aplicaciones, cuentas y pantallas de inicio personalizadas, entre otras cosas.</string>
+    <string name="user_settings_footer_text">Comparta su teléfono añadiendo nuevos usuarios. Cada usuario tiene un espacio personal en su teléfono para Pantallas de inicio personalizadas, cuentas, aplicaciones, configuraciones y más.</string>
     <string name="user_settings_forbidden">"No se pueden cambiar los ajustes de administrador en este espacio. Vuelve al Primer espacio."</string>
     <string name="user_settings_title">Usuarios</string>
     <string name="user_setup_button_setup_later">Ahora no</string>
@@ -7776,7 +7776,7 @@ Toca en más para añadir palabras."</string>
     <string name="virus_scanner_title">Escáner de virus</string>
     <string name="virus_scanner_update_lib">Actualizar definiciones</string>
     <string name="visibility_override_title">Pantalla de bloqueo</string>
-    <string name="vision_settings_description">Personaliza este dispositivo para adaptarlo a tus necesidades. Puedes modificar las funciones de accesibilidad posteriormente en Ajustes.</string>
+    <string name="vision_settings_description">Puede personalizar este dispositivo para adaptarlo a sus necesidades. Estas funciones de accesibilidad se pueden cambiar más tarde en Ajustes.</string>
     <string name="vision_settings_suggestion_title">Cambia tamaño de fuente</string>
     <string name="vision_settings_title">Ajustes de visión</string>
     <string name="voice_access">Controles de voz</string>
