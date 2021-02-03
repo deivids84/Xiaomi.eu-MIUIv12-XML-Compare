@@ -2176,14 +2176,14 @@ Su dispositivo es %d%% más rápido ahora."</string>
     <string name="network_disable_dialog_btn_text">Descartar</string>
     <string name="network_disable_dialog_content">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique la configuración de su red y vuelva a intentarlo.</string>
     <string name="network_disable_dialog_title">"No es posible conectarse a la red"</string>
-    <string name="network_mobile_exception_detail">"Tu dispositivo no se puede conectar a Internet:
+    <string name="network_mobile_exception_detail">"Su dispositivo no se puede conectar a Internet:
 
- 1. Asegúrate de que no has sobrepasado el límite del plan de datos.
+ 1. Asegúrese de que no ha sobrepasado el límite de su plan de datos.
 
- 2. Si acabas de recargar tu saldo, reinicia el dispositivo e inténtalo de nuevo.
+ 2. Si acaba de recargar su saldo, reinicie el dispositivo e inténtelo de nuevo.
 
- 3. La señal de red de tu operador quizá es débil en tu ubicación actual."</string>
-    <string name="network_operator_exception_summary">"No se pudo activar la tarjeta SIM. Asegúrate de que tu tarjeta SIM está insertada correctamente y que tu plan de datos ha sido activado por tu compañía."</string>
+ 3. La señal de red de su operador puede ser débil en su ubicación actual."</string>
+    <string name="network_operator_exception_summary">"No se pudo activar la tarjeta SIM. Asegúese de que su tarjeta SIM está insertada correctamente y que su plan de datos ha sido activado por su compañía."</string>
     <string name="network_permission_exception_tips">"No se puede usar la conexión de datos para conectarse a la red"</string>
     <string name="network_roaming_exception_tips">"No se pueden usar los datos móviles en itinerancia para conectarse a la red."</string>
     <string name="network_route_exception_detail">"Podría haber un problema con el router al que estás conectado:
