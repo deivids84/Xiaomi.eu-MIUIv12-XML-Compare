@@ -720,7 +720,7 @@ y Mi Mover esté activado"</string>
     <string name="trans_wlan_tips_message">"No apague el Wi-Fi ni cambie a otras redes Wi-Fi durante la transferencia. De lo contrario, Mi Mover no podrá transferir datos."</string>
     <string name="trans_wlan_tips_title">"No apague el Wi-Fi"</string>
     <string name="unknown_hint">Desconocido</string>
-    <string name="usb_backup_select_data_too_large">"Los archivos seleccionados son grandes. Asegúrate de que la unidad USB tiene suficiente espacio.
+    <string name="usb_backup_select_data_too_large">"Los archivos seleccionados son grandes. Asegúrese de que la unidad USB tiene suficiente espacio.
 Transferir solo elementos importantes."</string>
     <string name="usb_restore_select_data_too_large">"Los archivos copiados son grandes. Llevará tiempo restaurarlos.
 Restaurar solo los elementos importantes será más rápido."</string>
@@ -744,7 +744,7 @@ pulse \"Soy un emisor\" y seleccione un punto de acceso para conectar.
 No cierre la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
-    <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona con normalidad."</string>
+    <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrese de que el Administrador de Descargas funciona con normalidad."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible, comprueba tu tarjeta SD."</string>
     <string name="xiaomi_update_dialog_message">"Presentando la versión %1$s
 Tamaño:%2$s"</string>
