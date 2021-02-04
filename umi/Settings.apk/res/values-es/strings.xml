@@ -1036,13 +1036,13 @@ Aplicaciones principales por uso de batería:"</string>
     <string name="bluetooth_ask_enablement_and_discovery">%1$s quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos durante %2$d segundos.</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" quiere activar el Bluetooth y hacer tu teléfono visible para otros dispositivos durante %1$d segundos."</string>
     <string name="bluetooth_ask_enablement_and_discovery_no_name">Una aplicación quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos durante %1$d segundos.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" quiere activar el Bluetooth y hacer tu teléfono visible para otros dispositivos. Puedes cambiar esto más tarde en los ajustes del Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Una aplicación quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s quiere activar el Bluetooth y hacer visible su teléfono para otros dispositivos. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" quiere activar el Bluetooth y hacer su teléfono visible para otros dispositivos. Puede cambiar esto más tarde en los ajustes de Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Una aplicación quiere activar el Bluetooth y hacer visible su teléfono para otros dispositivos. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
     <string name="bluetooth_ask_enablement_detected">" quiere activar el Bluetooth."</string>
     <string name="bluetooth_ask_enablement_no_name">Una aplicación quiere activar el Bluetooth</string>
-    <string name="bluetooth_ask_lasting_discovery">%1$s quiere hacer visible tu teléfono para otros dispositivos Bluetooth. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
-    <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicación quiere hacer visible tu teléfono para otros dispositivos Bluetooth. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery">%1$s quiere hacer visible su teléfono para otros dispositivos Bluetooth. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicación quiere hacer visible su teléfono para otros dispositivos Bluetooth. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
     <string name="bluetooth_audio_share_feature_notice_summary">¿Compartir audio con otros dispositivos conectados?</string>
     <string name="bluetooth_audio_share_feature_notice_title">Compartir audio</string>
     <string name="bluetooth_battery_level">%1$s batería</string>
@@ -1363,7 +1363,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_server_token_expired_1">"No se pudo verificar. Intente agregar su cuenta y dispositivo de nuevo."</string>
     <string name="bootloader_device_bind_server_token_expired_2">"No se pudo verificar. Vuelve a iniciar sesión en tu cuenta y comienza de nuevo."</string>
     <string name="bootloader_device_bind_sim_invalid">Tarjeta SIM inválida. Reemplázala y vuelve a intentarlo.</string>
-    <string name="bootloader_locked_answer_1">"Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al modo Fastboot para flashear el dispositivo, puedes desbloquearlo."</string>
+    <string name="bootloader_locked_answer_1">"Bloqueamos los dispositivos para asegurarnos de que son seguros y de que su información personal no se comparta con terceros. Si necesita entrar al modo Fastboot para flashear el dispositivo, desbloquéelo primero."</string>
     <string name="bootloader_locked_answer_1_warning">"Recuerde: no podrá utilizar \"Buscar dispositivo\" después de desbloquear el teléfono."</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrese de haber insertado la tarjeta SIM en su dispositivo.
 2. Pulse \"Agregar cuenta\" para asociar su Cuenta Mi a este dispositivo.
@@ -1398,7 +1398,7 @@ Calidad de reproducción"</string>
     <string name="brightness_auto_adjust_on">El brillo de la pantalla se optimizará según la luz ambiental.</string>
     <string name="brightness_summary">Ajustar el brillo de la pantalla</string>
     <string name="brightness_title">Brillo</string>
-    <string name="bt_aac_dialog_summary">"El dispositivo actual admite codec AAC. Sin embargo, AAC puede no reproducir sonido debido a problemas de compatibilidad. Su dispositivo cambió a codec SBC automáticamente. Puedes cambiar esto en la configuración."</string>
+    <string name="bt_aac_dialog_summary">"El dispositivo actual admite codec AAC. Sin embargo, AAC puede no reproducir sonido debido a problemas de compatibilidad. Su dispositivo cambió a codec SBC automáticamente. Puede cambiar esto en los Ajustes."</string>
     <string name="bt_aac_dialog_title">Conexión bluetooth</string>
     <string name="bt_aac_open_dialog_summary">"AAC puede no reproducir el sonido debido a problemas de compatibilidad. Puede desactivar esta función en Configuración&gt; Bluetooth&gt; Dispositivos emparejados."</string>
     <string name="bt_aac_open_dialog_title">Cambio a codec AAC</string>
@@ -1700,7 +1700,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="color_lamp_notification_pulse_title">Parpadear para notificaciones cuando la pantalla esté apagada</string>
     <string name="color_lamp_title">Luz LED</string>
     <string name="color_led_applications_title">Seleccionar aplicaciones</string>
-    <string name="color_led_applications_title_summary">Puedes restringir el uso de la luz LED para cada aplicación</string>
+    <string name="color_led_applications_title_summary">Puede restringir el uso de la luz LED para cada aplicación</string>
     <string name="color_led_battery_title">Seguir mientras se carga</string>
     <string name="color_led_charging_summary">Se apagará cuando la batería esté cargada</string>
     <string name="color_led_end_time">Hora de finalización</string>
@@ -1746,7 +1746,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="computer_backup_summary">Haz una copia de seguridad y restaura elementos usando un ordenador</string>
     <string name="computer_backup_title">Ordenador</string>
     <string name="computing_size">Calculando…</string>
-    <string name="condition_airplane_summary">La red móvil, la conexión Wi-Fi y el Bluetooth están desactivados. No puedes hacer llamadas ni conectarte a Internet.</string>
+    <string name="condition_airplane_summary">Redes no disponibles</string>
     <string name="condition_airplane_title">Modo avión activado</string>
     <string name="condition_battery_summary">Ha disminuido el rendimiento. Las conexiones automáticas y los servicios de ubicación están desactivados.</string>
     <string name="condition_battery_title">Ahorro de batería activado</string>
