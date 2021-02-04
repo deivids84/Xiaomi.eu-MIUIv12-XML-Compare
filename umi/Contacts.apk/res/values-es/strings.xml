@@ -330,6 +330,7 @@
     <string name="contact_clear_search_history">Limpiar historial</string>
     <string name="contact_delete_toast">Contacto eliminado correctamente</string>
     <string name="contact_detail_action_item_calllog">Registro de llamadas</string>
+    <string name="contact_detail_calllog_call_note_tips">Notas</string>
     <string name="contact_detail_calllog_call_record_tips">Llamada grabada</string>
     <string name="contact_detail_calllog_correct_yellow_page">Corregir o notificar</string>
     <string name="contact_detail_calllog_empty">Sin historial</string>
@@ -466,6 +467,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
 2. Abre Ajustes en la aplicación de Contactos y ve a “Importar/Exportar contactos” -- “Importar desde tarjeta SIM”, mantén pulsado cualquier contacto SIM para seleccionarlo, selecciona todos los contactos que desees y pulsa “Importar”.”"</string>
     <string name="device_version_header_bluetooth">Importar vía Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importar vía tarjeta SIM</string>
+    <string name="dialerIconLabel">Recientes</string>
     <string name="dialer_copy_view_delete_description">Borrar número copiado</string>
     <string name="dialer_digits_copy_number_label">Número copiado</string>
     <string name="dialer_empty_text_no_call_log">Sin contactos recientes</string>
@@ -672,6 +674,7 @@ Motivo: \"%s\""</string>
     <string name="keep_local_btn">"Usar la memoría interna del dispositivo"</string>
     <string name="label_custom_type">Personalizado</string>
     <string name="label_no_duplicate_contacts">No se han encontrado duplicados</string>
+    <string name="label_notes">Notas</string>
     <string name="label_sip_address">Llamada a través de Internet</string>
     <string name="launcherDialer">Teléfono</string>
     <string name="listCustomView">Contactos en vista personalizada</string>
@@ -721,6 +724,7 @@ Motivo: \"%s\""</string>
     <string name="menu_settings">Ajustes</string>
     <string name="menu_share">Compartir</string>
     <string name="menu_share_qrcode">Código QR</string>
+    <string name="menu_share_text">Texto</string>
     <string name="menu_share_vcard_file">Archivo</string>
     <string name="menu_sync_remove">Eliminar sincronización de grupo</string>
     <string name="midnight">Noche</string>
@@ -919,6 +923,7 @@ Motivo: \"%s\""</string>
     <string name="preference_smart_group_company_summary">Agrupar por compañía</string>
     <string name="preference_smart_group_company_title">Compañías</string>
     <string name="preference_smart_group_frequency_summary">Agrupar por más recientes</string>
+    <string name="preference_smart_group_frequency_title">Recientes</string>
     <string name="preference_smart_group_location_summary">Agrupar por código de área</string>
     <string name="preference_smart_group_location_title">Ubicaciones</string>
     <string name="preference_smart_group_title">Grupos inteligentes</string>
@@ -956,6 +961,7 @@ Motivo: \"%s\""</string>
     <string name="reading_vcard_failed_title">"No se pudieron leer los datos de vCard"</string>
     <string name="rebuild_t9_index_dialog_message">Reconstruyendo…</string>
     <string name="recentCallsIconLabel">Registro de llamadas</string>
+    <string name="recent_contacts_label">Recientes</string>
     <string name="recent_number">Reciente</string>
     <string name="redirect_calls_to_vm_confirm_message">Antes de configurar el buzón de voz, comprueba los términos y condiciones del contrato con tu operador de red.</string>
     <string name="redirect_calls_to_vm_confirm_text">Aceptar</string>
@@ -1059,6 +1065,7 @@ Motivo: \"%s\""</string>
     <string name="smart_group_frequency_2">De 1 a 3 meses</string>
     <string name="smart_group_frequency_3">De 3 a 6 meses</string>
     <string name="smart_group_frequency_4">Hace más de 6 meses</string>
+    <string name="smart_group_frequency_label">Recientes</string>
     <string name="smart_group_label">Grupos inteligentes</string>
     <string name="smart_group_location_label">Ubicaciones</string>
     <string name="smart_group_location_unavailable">No hay información de ubicación</string>
