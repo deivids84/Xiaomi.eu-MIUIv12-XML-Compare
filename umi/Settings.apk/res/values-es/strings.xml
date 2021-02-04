@@ -2651,21 +2651,21 @@ Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Pedir cont
     <string name="encryption_interstitial_message_pattern">"Para proteger aún más tu dispositivo, haz que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir patrón al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_pattern_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar el patrón antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
+    <string name="encryption_interstitial_message_pattern_for_face">"Además de utilizar su cara para desbloquear el dispositivo, puede protegerlo aún más si lo configuras para solicitar el patrón antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida el patrón para iniciarse?"</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el patrón para iniciarse?"</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puede protegerlo aún más si haces que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir patrón al iniciar el dispositivo?"</string>
+Esto es útil para proteger sus datos si pierdes el dispositivo o se lo roban. ¿Pedir patrón al iniciar el dispositivo?"</string>
     <string name="encryption_interstitial_message_pin">"Para proteger aún más tu dispositivo, haz que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_pin_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar el PIN antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
+    <string name="encryption_interstitial_message_pin_for_face">"Además de utilizar su cara para desbloquear el dispositivo, puede protegerlo aún más si lo configuras para solicitar el PIN antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida el PIN para iniciarse?"</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+Esto es útil para proteger sus datos si pierdes el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el PIN para iniciarse?"</string>
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puede protegerlo aún más si haces que solicite el PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
+Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
     <string name="encryption_interstitial_no">No</string>
     <string name="encryption_interstitial_yes">Sí</string>
     <string name="encryption_progress_summary">"Encriptando, no reinicies el dispositivo."</string>
@@ -2761,7 +2761,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="external_source_untrusted">No permitido</string>
     <string name="extreme_threats_summary">Recibe alertas de amenazas graves contra la vida y propiedad</string>
     <string name="extreme_threats_title">Amenazas extremas</string>
-    <string name="face_add_max">Puedes añadir hasta %d caras</string>
+    <string name="face_add_max">Puede añadir hasta %d caras</string>
     <string name="face_data_apply_for_category_title">Desbloquear usando datos faciales</string>
     <string name="face_data_apply_for_keyguard_title">Bloquear pantalla</string>
     <string name="face_data_input_camera_fail">"No se pudo cargar la cámara"</string>
@@ -2826,7 +2826,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_unlock_success_show_message_toast">Las notificaciones se mostrarán en la pantalla de bloqueo</string>
     <string name="face_unlock_success_stay_screen_msg">Permanezca en la pantalla de bloqueo después de verificar su rostro. Desliza hacia arriba para abrir la pantalla de inicio.</string>
     <string name="face_unlock_success_stay_screen_title">Permanezca en la pantalla de bloqueo después de desbloquear</string>
-    <string name="face_unlock_title">Puedes desbloquear el teléfono con tu cara. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
+    <string name="face_unlock_title">Puede desbloquear el teléfono con su cara. Por motivos de seguridad, para utilizar esta opción necesita un método de bloqueo de pantalla alternativo.</string>
     <string name="factory_reset_summary">Eliminar todos los datos de la memoria interna del teléfono</string>
     <string name="failed_to_check_find_device_status_content">"No se pudo verificar el estado de Encontrar dispositivo. Espera un par de minutos e inténtalo de nuevo."</string>
     <string name="failed_to_check_find_device_status_title">"No se pudo comprobar el estado"</string>
@@ -2867,7 +2867,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="find_my_device_disable">Desactivado</string>
     <string name="find_my_device_enable">Activado</string>
     <string name="find_my_device_summary">Esta función requiere iniciar sesión en Mi cuenta</string>
-    <string name="fingerprint_add_max">Puedes añadir hasta %d huellas dactilares</string>
+    <string name="fingerprint_add_max">Puede añadir hasta %d huellas dactilares</string>
     <string name="fingerprint_add_title">Añadir huella dactilar</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla y huella dactilar</string>
     <string name="fingerprint_apply_to_privacy_password">Contraseña de protección de privacidad</string>
@@ -2889,7 +2889,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_intro_error_unknown">No se pueden añadir más huellas dactilares</string>
     <string name="fingerprint_last_delete_confirm">Sí, borrar</string>
     <string name="fingerprint_last_delete_message">"No podrá usar sus huellas digitales para desbloquear su teléfono, autorizar compras o iniciar sesión en aplicaciones con ellos"</string>
-    <string name="fingerprint_last_delete_message_profile_challenge">"No puedes utilizar tus huellas dactilares para desbloquear el perfil de trabajo, autorizar compras o iniciar sesión en aplicaciones de trabajo"</string>
+    <string name="fingerprint_last_delete_message_profile_challenge">"No podrá usar sus huellas digitales para desbloquear su perfil de trabajo, autorizar compras o iniciar sesión en aplicaciones de trabajo"</string>
     <string name="fingerprint_last_delete_title">¿Borrar todas las huellas?</string>
     <string name="fingerprint_list_title">Huella</string>
     <string name="fingerprint_lock_first">Desbloquear Primer espacio</string>
@@ -2911,7 +2911,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_unlock_set_unlock_pattern">Huella dactilar + patrón</string>
     <string name="fingerprint_unlock_set_unlock_pin">Huella dactilar + PIN</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuar sin huella dactilar</string>
-    <string name="fingerprint_unlock_title">Puedes desbloquear el teléfono con tu huella dactilar. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
+    <string name="fingerprint_unlock_title">Puede desbloquear el teléfono con su huella dactilar. Por motivos de seguridad, para utilizar esta opción necesita un método de bloqueo de pantalla alternativo.</string>
     <string name="fingerprint_unlock_touch_type">Toca</string>
     <string name="fingerprint_unlock_type">Método de reconocimiento de huellas dactilares</string>
     <string name="fingerprint_usage_category_title">Usar huella para</string>
@@ -3112,7 +3112,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="gesture_setting_on">Activado</string>
     <string name="gesture_settings_activity_title">Configuración de gestos</string>
     <string name="gesture_settings_title">Gestos de acceso rápido</string>
-    <string name="gesture_wakeup_summary">Puedes tocar dos veces para apagar la pantalla cuando esté aplicado el tema Predeterminado o Clásico</string>
+    <string name="gesture_wakeup_summary">Puede tocar dos veces para apagar la pantalla cuando esté aplicado el tema Predeterminado o Clásico</string>
     <string name="gesture_wakeup_title">Tocar dos veces para encender o apagar la pantalla</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
@@ -3189,7 +3189,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="handy_mode_enable">Modo a una mano</string>
     <string name="handy_mode_size">Tamaño de pantalla</string>
     <string name="handy_mode_tips">Desliza a la izquierda o a la derecha desde el botón Inicio para poner la pantalla más cerca de un lado.</string>
-    <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos a pantalla completa, puedes activar el modo con una mano usando la bola flotante. También puedes cambiar a usar botones en lugar de gestos a pantalla completa."</string>
+    <string name="handy_mode_tips_full_screen">"Cuando esté utilizando gestos a pantalla completa, puede activar el modo con una mano usando la bola flotante. También puede cambiar al uso de botones en lugar de gestos a pantalla completa."</string>
     <string name="haptic_agent_completion_01_content_description">Tarea completada</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustando brillo</string>
     <string name="haptic_experience">Demostración</string>
@@ -3244,7 +3244,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="headset_settings_title">Auriculares</string>
     <string name="headset_unsaved_devices">Usado en otros dispositivos</string>
     <string name="hearing_aids_category">Herramientas de asistencia auditiva</string>
-    <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo haces, puedes perder parte de tu trabajo.</string>
+    <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo hace, puede perder parte de su trabajo.</string>
     <string name="height_light_list_text">Una lista de elementos importantes</string>
     <string name="help_and_feedback_title">Ayuda y comentarios</string>
     <string name="help_feedback_label">Ayuda y comentarios</string>
@@ -3262,7 +3262,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="high_power_filter_on">Sin optimizar</string>
     <string name="high_power_off">Optimizando el uso de la batería</string>
     <string name="high_power_on">No optimizada</string>
-    <string name="high_power_prompt_body">"Si permites que %1$s se ejecute siempre en segundo plano, es posible que se reduzca la duración de la batería. 
+    <string name="high_power_prompt_body">"Si permite que %1$s se ejecute siempre en segundo plano, es posible que se reduzca la duración de la batería. 
 
 Puedes cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y notificaciones."</string>
     <string name="high_power_prompt_title">¿Permitir que la aplicación se ejecute siempre en segundo plano?</string>
@@ -3280,19 +3280,19 @@ Puedes cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y 
     <string name="homepage_condition_footer_content_description">Ocultar</string>
     <string name="homepage_personal_settings">Sugerencias</string>
     <string name="how_adjust_font_size">¿Cómo ajusto el tamaño del texto?</string>
-    <string name="how_backup_content">"Puedes guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en tu dispositivo móvil, computadora o unidad USB.
+    <string name="how_backup_content">"Puede guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en su dispositivo móvil, ordenador o unidad USB.
 
 Dispositivo móvil
-Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerda copiar las copias de seguridad a tu ordenador.
+Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-copia de seguridad-Todas las copias). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerde respaldar las copias de seguridad en su ordenador.
 
 Ordenador
-Crea una copia de seguridad en este dispositivo, luego ve a MIUI-backup-AllBackup y copia la copia de seguridad en tu ordenador mediante un cable USB.
+Cree una copia de seguridad en el dispositivo, luego vaya a MIUI-copia de seguridad-Todas las copias y respalde la copia de seguridad en su ordenador mediante un cable USB.
 
 Unidad USB
-Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
+Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
 
-Xiaomi Cloud
-Sincroniza tus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
+Nube de Xiaomi
+Sincronice sus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
     <string name="how_backup_title">¿Cómo puedo hacer una copia de seguridad de los artículos?</string>
     <string name="how_encrypt_content">"Solo puede cifrar copias de seguridad locales. Estos son algunos métodos de encriptación que puede usar:
 a) Vaya a Ajustes &gt; Ajustes adicionales en la página con sus copias de seguridad locales, toque el botón para activar la encriptación e inicie sesión en su Cuenta Mi. Las copias de seguridad se cifrarán automáticamente. Recuerde que deberá iniciar sesión en su Cuenta Mi para restaurar el contenido de las copias de seguridad cifradas.
