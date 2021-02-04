@@ -29,9 +29,4 @@
         <item>Mueve tu dedo ligeramente</item>
         <item>Esta huella dactilar ha sido añadida, use un dedo diferente.</item>
     </string-array>
-    <string-array name="white_list_pass_through_app">
-        <item>com.android.fileexplorer</item>
-        <item>com.miui.huanji</item>
-        <item>com.miui.backup</item>
-    </string-array>
 </resources>
