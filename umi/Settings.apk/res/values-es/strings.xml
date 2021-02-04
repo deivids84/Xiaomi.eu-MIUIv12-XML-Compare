@@ -1791,7 +1791,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="confirm_erase">Eliminar</string>
     <string name="confirm_fingerprint">Verifica su huella dactilar</string>
     <string name="confirm_fingerprint_msg">Coloca el dedo en el sensor</string>
-    <string name="confirm_frp_credential_message">Tu dispositivo fue restablecido de fábrica. Puedes desbloquearlo con tu contraseña anterior.</string>
+    <string name="confirm_frp_credential_message">Su dispositivo fue restablecido de fábrica. Puede desbloquearlo con su contraseña previa.</string>
     <string name="confirm_frp_credential_skip_txt">Usar cuenta de Google en su lugar</string>
     <string name="confirm_frp_credential_title">Desbloquear después del Reseteo de fábrica</string>
     <string name="confirm_lock_pattern_header_text">Dibuja tu patrón</string>
@@ -1916,7 +1916,7 @@ Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la
     <string name="crypt_keeper_conditions">"La encriptación puede tardar una hora o más. Debes comenzar con la batería cargada y mantener tu teléfono enchufado durante el proceso. Si lo interrumpes, perderás algunos o todos tus datos."</string>
     <string name="crypt_keeper_conditions_title">Acerca del cifrado de tu dispositivo</string>
     <string name="crypt_keeper_confirm_title">¿Cifrar dispositivo?</string>
-    <string name="crypt_keeper_content">Puedes cifrar tus cuentas, configuraciones, aplicaciones descargadas y tus datos, contenido multimedia y otros archivos.</string>
+    <string name="crypt_keeper_content">Puede cifrar sus cuentas, configuraciones, aplicaciones descargadas y sus datos, contenido multimedia y otros archivos.</string>
     <string name="crypt_keeper_content_title">Cifrar dispositivo</string>
     <string name="crypt_keeper_data_corrupt_summary">"La contraseña que ha introducido es correcta, pero desafortunadamente sus datos están corruptos. 
 
@@ -1925,9 +1925,9 @@ Para seguir utilizando el teléfono, debe restablecer los datos de fábrica. Cua
     <string name="crypt_keeper_decrypt_methods">"Después de encriptar tu teléfono, suponiendo que has configurado un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberás desbloquear la pantalla para desencriptar el teléfono cada vez que lo enciendas. La única manera diferente de desencriptar es realizar un restablecimiento de datos de fábrica, se eliminarán todos tus datos."</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si has cifrado tu teléfono, deberás introducir tu contraseña, PIN o patrón cada vez que reinicies el dispositivo para desbloquearlo."</string>
     <string name="crypt_keeper_decrypt_methods_title">Descifrando el dispositivo</string>
-    <string name="crypt_keeper_desc">"Puedes cifrar tus cuentas, los ajustes, las aplicaciones descargadas y sus datos, archivos multimedia y otros archivos. Después de cifrar el teléfono, siempre que hayas configurado una pantalla de bloqueo (es decir, un patrón, una contraseña o un PIN numérico), tendrás que desbloquear la pantalla para descifrar el teléfono cada vez que lo enciendas. También puedes descifrar el dispositivo restableciendo los datos de fábrica, pero se borrarán todos tus datos.
+    <string name="crypt_keeper_desc">"Puede cifrar sus cuentas, los ajustes, las aplicaciones descargadas y sus datos, archivos multimedia y otros archivos. Después de cifrar el teléfono, siempre que haya configurado una pantalla de bloqueo (es decir, un patrón, una contraseña o un PIN numérico), tendrá que desbloquear la pantalla para descifrar el teléfono cada vez que lo encienda. También puedes descifrar el dispositivo restableciendo los datos de fábrica, pero se borrarán todos sus datos.
 
-El proceso de cifrar tarda 1 hora o más. Debes iniciar el proceso con la batería cargada y mantener el teléfono enchufado. Si se interrumpe el proceso, perderás tus datos de forma total o parcial."</string>
+El proceso de cifrar tarda 1 hora o más. Debe iniciar el proceso con la batería cargada y mantener el teléfono enchufado. Si se interrumpe el proceso, perderá sus datos de forma parcial o total."</string>
     <string name="crypt_keeper_dialog_need_password_message">Debes establecer una contraseña o un PIN para la pantalla de bloqueo para poder iniciar el proceso de cifrado.</string>
     <string name="crypt_keeper_dialog_need_password_title">Falta la contraseña o el PIN de la pantalla de bloqueo</string>
     <string name="crypt_keeper_encrypt_title">Cifrar teléfono</string>
@@ -2051,9 +2051,9 @@ Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando c
     <string name="data_usage_app_restrict_background">Conexiones automáticas</string>
     <string name="data_usage_app_restrict_background_summary">Habilitar el uso de datos móviles en segundo plano</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Para restringir las conexiones automáticas, establece un límite de datos móviles.</string>
-    <string name="data_usage_app_restrict_dialog">"Esta función puede hacer que deje de funcionar una aplicación que tenga que utilizar conexiones automáticas cuando solo haya disponibles redes móviles.
+    <string name="data_usage_app_restrict_dialog">"Esta función puede hacer que una aplicación que depende de los datos en segundo plano deje de funcionar cuando solo hay redes móviles disponibles.
 
-Puedes encontrar controles de uso de datos más adecuados en las opciones de configuración disponibles en la aplicación."</string>
+Puede encontrar controles de uso de datos más apropiados en la configuración disponible dentro de la aplicación."</string>
     <string name="data_usage_app_restrict_dialog_title">¿Restringir conexiones automáticas?</string>
     <string name="data_usage_app_restricted">con restricción</string>
     <string name="data_usage_app_settings">Ajustes de la aplicación</string>
@@ -2123,7 +2123,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
 
 Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="data_usage_restrict_background_title">¿Restringir conexiones automáticas?</string>
-    <string name="data_usage_restrict_denied_dialog">Solo puedes restringir el uso de datos en segundo plano si estableces un límite de datos móviles.</string>
+    <string name="data_usage_restrict_denied_dialog">La restricción de datos en segundo plano solo es posible cuando ha establecido un límite de datos móviles.</string>
     <string name="data_usage_summary_format">%1$s de datos usados</string>
     <string name="data_usage_summary_title">Uso de datos</string>
     <string name="data_usage_sweep_limit">&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
@@ -2329,7 +2329,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_check_title">"No se puede conectar a Internet"</string>
     <string name="dialog_chose_item">Seleccionar un elemento para mostrar</string>
     <string name="dialog_content_login">¿Iniciar sesión en Cuenta Mi para actualizar?</string>
-    <string name="dialog_location_message">"Su teléfono no puede administrar la batería normalmente porque %1$s sigue solicitando su ubicación cuando no está usando la aplicación. Para solucionar este problema, puedes desactivar la ubicación de esta aplicación."</string>
+    <string name="dialog_location_message">"Su teléfono no puede administrar la batería con normalidad porque %1$s sigue solicitando su ubicación cuando no está usando la aplicación. Para solucionar este problema, puede desactivar la ubicación de esta aplicación."</string>
     <string name="dialog_location_ok">Apagar</string>
     <string name="dialog_location_title">¿Desea desactivar la ubicación?</string>
     <string name="dialog_network_priority_title">Prioridad</string>
@@ -2426,7 +2426,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dlg_error_unmount_text">No se ha podido desactivar la tarjeta SD. Inténtalo de nuevo más tarde.</string>
     <string name="dlg_ok">Aceptar</string>
     <string name="dlg_remove_locales_error_message">Guarda al menos un idioma preferido</string>
-    <string name="dlg_remove_locales_error_title">No puedes quitar todos los idiomas</string>
+    <string name="dlg_remove_locales_error_title">No puede quitar todos los idiomas</string>
     <string name="dlg_remove_locales_message">El texto se mostrará en otro idioma.</string>
     <string name="dndm_alarm_content">Sonidos</string>
     <string name="dndm_alarm_content_all">Permitir todo</string>
@@ -2642,9 +2642,9 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="encryption_interstitial_message_password">"Para proteger aún más tu dispositivo, haz que solicite la contraseña antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir contraseña al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_password_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar la contraseña antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
+    <string name="encryption_interstitial_message_password_for_face">"Además de usar su cara para desbloquear el dispositivo, puede proteger aún más este dispositivo solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida la contraseña para iniciarse?"</string>
+Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Pedir contraseña para iniciar su dispositivo?"</string>
     <string name="encryption_interstitial_message_password_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite la contraseña antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir contraseña al iniciar el dispositivo?"</string>
