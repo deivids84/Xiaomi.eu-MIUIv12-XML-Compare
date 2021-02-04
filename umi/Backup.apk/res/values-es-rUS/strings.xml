@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="abort_backup_confirm">"La copia no ha terminado. ¿Detener de todos modos?"</string>
+    <string name="abort_backup_confirm">"La copia de respaldo no se ha terminado de hacer. ¿La quieres detener de todos modos?"</string>
     <string name="abort_restore_confirm">"La restauración no se ha terminado. ¿La quieres detener de todos modos?"</string>
     <string name="account_contact_backup_info">Cuenta de Google, Cuenta Mi y datos de Contactos</string>
     <string name="account_login">Iniciar sesión</string>
