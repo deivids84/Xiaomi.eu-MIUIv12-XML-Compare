@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Más</string>
     <string name="abc_action_mode_done">Listo</string>
     <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_activitychooserview_choose_application">Elije una aplicación</string>
     <string name="abc_capital_off">DESACTIVADO</string>
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="abort_backup_confirm">"La copia no ha terminado. ¿Detener de todos modos?"</string>
-    <string name="abort_restore_confirm">"Restauración no finalizada. ¿Detener de todos modos?"</string>
+    <string name="abort_restore_confirm">"La restauración no se ha terminado. ¿La quieres detener de todos modos?"</string>
     <string name="account_contact_backup_info">Cuenta de Google, Cuenta Mi y datos de Contactos</string>
     <string name="account_login">Iniciar sesión</string>
     <string name="account_summary">Hacer copia de seguridad de tu cuenta de Google, Cuenta Mi y otros datos de usuario</string>
