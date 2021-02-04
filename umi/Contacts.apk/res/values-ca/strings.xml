@@ -330,6 +330,7 @@
     <string name="contact_clear_search_history">Esborra l\'historial</string>
     <string name="contact_delete_toast">S\'ha eliminat el contacte amb èxit</string>
     <string name="contact_detail_action_item_calllog">Historial de trucades</string>
+    <string name="contact_detail_calllog_call_note_tips">Notes</string>
     <string name="contact_detail_calllog_call_record_tips">Gravar trucada</string>
     <string name="contact_detail_calllog_correct_yellow_page">Corregeix o informa</string>
     <string name="contact_detail_calllog_empty">No hi ha historial</string>
@@ -466,6 +467,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
 %2$d. Obriu la configuració a l’aplicació Contactes i, a continuació, aneu a \"Importar/Exportar contactes\" - \"Importar de la targeta SIM\", manteniu premut qualsevol contacte SIM per seleccionar-lo, seleccioneu tots els contactes necessaris i toqueu \"Importa\"."</string>
     <string name="device_version_header_bluetooth">Assegureu-vos que el Bluetooth està activat</string>
     <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
+    <string name="dialerIconLabel">Recents</string>
     <string name="dialer_copy_view_delete_description">Esborra el número copiat</string>
     <string name="dialer_digits_copy_number_label">Número copiat</string>
     <string name="dialer_empty_text_no_call_log">No hi ha contactes recents</string>
@@ -671,6 +673,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="keep_local_btn">"Utilitzeu l'emmagatzematge intern del telèfon"</string>
     <string name="label_custom_type">Personalitzat</string>
     <string name="label_no_duplicate_contacts">No s\'han trobat duplicats</string>
+    <string name="label_notes">Notes</string>
     <string name="label_sip_address">Trucada internet</string>
     <string name="launcherDialer">Telèfon</string>
     <string name="listCustomView">Contactes a vista personalitzada</string>
@@ -720,6 +723,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="menu_settings">Configuració</string>
     <string name="menu_share">Comparteix</string>
     <string name="menu_share_qrcode">Codi QR</string>
+    <string name="menu_share_text">Text</string>
     <string name="menu_share_vcard_file">Fitxer</string>
     <string name="menu_sync_remove">Eliminar grup de sincronització</string>
     <string name="midnight">Nit</string>
@@ -918,6 +922,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
     <string name="preference_smart_group_company_title">Per empresa</string>
     <string name="preference_smart_group_frequency_summary">Agrupa per el més recent</string>
+    <string name="preference_smart_group_frequency_title">Recents</string>
     <string name="preference_smart_group_location_summary">Agrupa per codi d\'àrea</string>
     <string name="preference_smart_group_location_title">Per ubicació</string>
     <string name="preference_smart_group_title">Grups intel·ligents</string>
@@ -955,6 +960,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="reading_vcard_failed_title">"No s'ha pogut llegir vCard"</string>
     <string name="rebuild_t9_index_dialog_message">Reconstruint&#8230;</string>
     <string name="recentCallsIconLabel">Registre de trucades</string>
+    <string name="recent_contacts_label">Recents</string>
     <string name="recent_number">Recents</string>
     <string name="redirect_calls_to_vm_confirm_message">Abans de configurar la bústia de correu, reviseu els termes i condicions del vostre contracte amb el proveïdor de xarxa mòbil.</string>
     <string name="redirect_calls_to_vm_confirm_text">D\'acord</string>
@@ -1058,6 +1064,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="smart_group_frequency_2">%1$d a %2$d mesos</string>
     <string name="smart_group_frequency_3">%1$d a %2$d mesos</string>
     <string name="smart_group_frequency_4">Fa més de %d mesos</string>
+    <string name="smart_group_frequency_label">Recents</string>
     <string name="smart_group_label">Grups intel·ligents</string>
     <string name="smart_group_location_label">Per ubicació</string>
     <string name="smart_group_location_unavailable">Sense direcció</string>
