@@ -750,7 +750,7 @@ Permitir a Notas grabar audio."</string>
     <string name="toolbar_undo_description">Deshacer</string>
     <string name="toolbar_voice_description">Voz</string>
     <string name="trash_folder_name">Papelera</string>
-    <string name="trash_folder_reminder">Las notas que elimine se eliminarán de forma permanente en %1$d días.</string>
+    <string name="trash_folder_reminder">Las notas que elimines se eliminarán de forma permanente en %1$d días.</string>
     <string name="trash_folder_reminder_new">Las notas se guardan en la papelera durante %d días antes de eliminarse de forma permanente</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
