@@ -34,7 +34,7 @@
     <string name="account_summary">Hacer una copia de seguridad de tu Cuenta de Google, Cuenta Mi y otros datos de usuario</string>
     <string name="alert_button_agree_and_continue">Permitir</string>
     <string name="alert_button_deny">Rechazar</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en una computadora. ¿Permitir?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia de seguridad en una computadora. ¿Permitir?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite requiere permisos para restaurar elementos en tu teléfono. ¿Permitir?</string>
     <string name="alert_miasist_occupy_backup">Haciendo copia de seguridad usando Mi PC Suite… Espere hasta que la copia de respaldo esté completada y vuelva a intentarlo.</string>
     <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espere hasta que todo esté restaurado y vuelva a intentarlo.</string>
