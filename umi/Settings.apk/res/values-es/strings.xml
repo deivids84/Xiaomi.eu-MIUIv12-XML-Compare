@@ -2642,12 +2642,12 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="encryption_interstitial_message_password">"Para proteger aún más tu dispositivo, haz que solicite la contraseña antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir contraseña al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_password_for_face">"Además de usar su cara para desbloquear el dispositivo, puede proteger aún más este dispositivo solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
+    <string name="encryption_interstitial_message_password_for_face">"Además de usar su cara para desbloquear el dispositivo, puede protegerlo aún más solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
 
 Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Pedir contraseña para iniciar su dispositivo?"</string>
-    <string name="encryption_interstitial_message_password_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite la contraseña antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+    <string name="encryption_interstitial_message_password_for_fingerprint">"Además de usar su huella dactilar para desbloquear el dispositivo, puede protegerlo aún más solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir contraseña al iniciar el dispositivo?"</string>
+Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Pedir contraseña para iniciar su dispositivo?"</string>
     <string name="encryption_interstitial_message_pattern">"Para proteger aún más tu dispositivo, haz que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir patrón al iniciar el dispositivo?"</string>
