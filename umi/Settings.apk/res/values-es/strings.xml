@@ -3300,19 +3300,19 @@ b) Si está usando Mi PC Suite para hacer una copia de seguridad de su contenido
 
 Nota: Recuerde la contraseña que estableció para las copias de seguridad cifradas. No podrá descifrar sus copias de seguridad si las olvida."</string>
     <string name="how_encrypt_title">¿Cómo cifro mis copias de seguridad?</string>
-    <string name="how_restore_backup_content">"A continuación, te mostramos cómo puedes restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
+    <string name="how_restore_backup_content">"A continuación, le mostramos cómo puede restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
 
 Dispositivo móvil
-Toca \"Dispositivo móvil\", encuentra la opción para restaurar elementos y selecciona la copia de seguridad para continuar.
+Pulse \"Dispositivo móvil\", encuentre la opción para restaurar elementos y seleccione la copia de seguridad para continuar.
 
 Ordenador
-Copia la copia de seguridad de tu ordenador a MIUI-backup-AllBackup a través del cable USB y restaura elementos desde tu dispositivo móvil.
+Pase la copia de seguridad de su ordenador a MIUI-copia de seguridad-Todas las copias mediante el cable USB y restaure los elementos desde su dispositivo móvil.
 
 Unidad USB
-Copia la copia de seguridad de tu unidad USB a MIUI-backup-AllBackup y selecciona la opción para restaurar elementos desde una unidad USB para continuar.
+Pase la copia de seguridad de su unidad USB a MIUI-copia de seguridad-Todas las copias y seleccione la opción para restaurar elementos desde una unidad USB para continuar.
 
-Xiaomi Cloud
-Abre Xiaomi Cloud y restaura elementos desde allí."</string>
+Nube de Xiaomi
+Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="how_restore_backup_title">¿Cómo restauro los elementos respaldados?</string>
     <string name="http_invoke_app">Aplicaciones web</string>
     <string name="http_invoke_app_summary">Abrir aplicaciones más rápido sin instalarlas</string>
@@ -3682,7 +3682,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="left_function_key">Acceso directo derecho</string>
     <string name="legacy_control_center_desc">Deslice la barra de estado hacia abajo para ver los conmutadores y las notificaciones</string>
     <string name="legacy_control_center_title">Versión antigua</string>
-    <string name="legacy_navigation_summary">Para volver, ir a la pantalla de inicio o cambiar de aplicación, puedes usar los botones de la parte inferior de la pantalla.</string>
+    <string name="legacy_navigation_summary">Regresar, Inicio, y cambie aplicación con botones en la parte inferior de su pantalla.</string>
     <string name="legacy_navigation_title">Navegación con 3 botones</string>
     <string name="legal_information">Información legal</string>
     <string name="legal_workday">Días laborables</string>
@@ -3698,7 +3698,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="line_breaking_title">Optimizar texto</string>
     <string name="link_turbo_prompt">"\"Las estadísticas en esta página muestran solo la cantidad de datos utilizados para aumentar la velocidad de conexión Wi-Fi. Estas estadísticas no reflejan el uso real de datos móviles\"."</string>
     <string name="link_turbo_settings_all_app_display_loading">Un momento…</string>
-    <string name="link_turbo_settings_all_app_reach_max">Puedes seleccionar hasta 15 aplicaciones</string>
+    <string name="link_turbo_settings_all_app_reach_max">Puede seleccionar hasta 15 aplicaciones</string>
     <string name="link_turbo_usage_state_month">Este mes</string>
     <string name="link_turbo_usage_state_month_total">Este mes</string>
     <string name="link_turbo_usage_state_today">Hoy</string>
@@ -3855,7 +3855,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lock_settings_profile_unification_dialog_body">El dispositivo utilizará el bloqueo de pantalla de tu perfil de trabajo. Las políticas de trabajo se aplicarán a ambos bloqueos.</string>
     <string name="lock_settings_profile_unification_dialog_confirm">Utilizar un único bloqueo</string>
     <string name="lock_settings_profile_unification_dialog_title">¿Utilizar un único bloqueo?</string>
-    <string name="lock_settings_profile_unification_dialog_uncompliant_body">"El bloqueo de tu perfil de trabajo no cumple los requisitos de seguridad de tu organización. Puedes utilizar el mismo bloqueo para la pantalla del dispositivo y el perfil de trabajo, pero se aplicarán las políticas del bloqueo de trabajo."</string>
+    <string name="lock_settings_profile_unification_dialog_uncompliant_body">"El bloqueo de su perfil de trabajo no cumple los requisitos de seguridad de su organización. Puede utilizar el mismo bloqueo para la pantalla del dispositivo y el perfil de trabajo, pero se aplicarán las políticas del bloqueo de trabajo."</string>
     <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Utilizar un único bloqueo</string>
     <string name="lock_settings_profile_unification_summary">Utilizar un único bloqueo para el perfil de trabajo y la pantalla del dispositivo</string>
     <string name="lock_settings_profile_unification_title">Utilizar un único bloqueo</string>
@@ -4015,7 +4015,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lost_internet_access_cancel">Mantener conexión Wi-Fi</string>
     <string name="lost_internet_access_persist">No volver a mostrar</string>
     <string name="lost_internet_access_switch">Cambiar a datos móviles</string>
-    <string name="lost_internet_access_text">Puedes cambiarte a la red móvil cuando la conexión Wi-Fi no sea buena. Podrían aplicarse cargos por el uso de datos.</string>
+    <string name="lost_internet_access_text">Puede cambiarse a la red móvil cuando la conexión Wi-Fi no sea buena. Podrían aplicarse cargos por el uso de datos.</string>
     <string name="lost_internet_access_title">La red Wi‑Fi no está conectada a Internet</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento. %1$s usado (disponible: %2$s)</string>
@@ -4113,7 +4113,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="max_cpu6_info">Hexa-core Max </string>
     <string name="max_cpu8_info">Octa-core Max </string>
     <string name="max_fingerprint_number_reached">"No se pueden añadir más de 5 huellas. Para añadir una nueva, elimina una huella existente primero."</string>
-    <string name="max_fingerprint_reached_toast">Puedes agregar hasta 5 huellas dactilares</string>
+    <string name="max_fingerprint_reached_toast">Puede añadir hasta 5 huellas dactilares</string>
     <string name="maximum_memory_use">Uso máximo de memoria</string>
     <string name="media_button">Botón multimedia</string>
     <string name="media_category">Multimedia</string>
@@ -4358,8 +4358,8 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="miui_sos_remind_sendinfo">"No olvide decirles a estas personas que son sus contactos de emergencia ahora. Por lo tanto, podrán ayudarlo más rápido en caso de emergencia."</string>
     <string name="miui_sos_remind_sendnow">Enviar ahora</string>
     <string name="miui_sos_remind_title">Atención</string>
-    <string name="miui_sos_settings_alert_contacts_repeat">"No puedes añadir contactos duplicados."</string>
-    <string name="miui_sos_settings_alert_contacts_too_many">Puedes agregar hasta 3 contactos de emergencia..</string>
+    <string name="miui_sos_settings_alert_contacts_repeat">"No puede añadir contactos duplicados."</string>
+    <string name="miui_sos_settings_alert_contacts_too_many">Puede agregar hasta 3 contactos de emergencia.</string>
     <string name="miui_sos_settings_category">Opciones de SOS</string>
     <string name="miui_sos_statusbar_summary">Pulse para desactivarlo</string>
     <string name="miui_sos_statusbar_title">SOS de Emergencia está activo</string>
@@ -4482,8 +4482,8 @@ Cambiar a %1$s no cancelará tu servicio de %2$s."</string>
     <string name="msd_driver_download_mac_url">Obtén el controlador en http://www.android.com/filetransfer/</string>
     <string name="msd_driver_download_xp">Windows: Descarga Mi Phone Manager para usar el teléfono como un dispositivo de almacenamiento USB.</string>
     <string name="msd_driver_download_xp_url">Obtén el controlador en http://zhushou.mi.com/</string>
-    <string name="msd_help_summary">"¿No puedes conectar tu dispositivo?
-Selecciona tu sistema operativo:"</string>
+    <string name="msd_help_summary">"¿No puede conectarse a su dispositivo?
+Seleccione su sistema operativo:"</string>
     <string name="msd_help_title">Ayuda</string>
     <string name="msd_install">¿Reinstalar controlador?</string>
     <string name="msd_install_download_zhushou">"He descargado Mi Phone Manager"</string>
@@ -4948,7 +4948,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="oldman_installed_current_btn">Reestablecer Pantalla de inicio original</string>
     <string name="oldman_installed_current_des">"Has establecido el modo Lite como tu Pantalla de inicio por defecto. Pulsa el botón inferior para volver a la Pantalla de inicio original."</string>
     <string name="oldman_installed_not_current_btn">Establecer como Pantalla de inicio por defecto</string>
-    <string name="oldman_installed_not_current_des">El modo Lite está instalado en tu dispositivo. Puedes usarlo como tu Pantalla de inicio por defecto.</string>
+    <string name="oldman_installed_not_current_des">El modo Lite está instalado en su dispositivo. Puede usarlo como su Pantalla de inicio por defecto.</string>
     <string name="oldman_mode_entry_name">Modo Lite</string>
     <string name="oldman_mode_settings">Modo Lite</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
