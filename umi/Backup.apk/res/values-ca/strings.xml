@@ -115,6 +115,7 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
     <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
     <string name="cloud_backup_login">Inicieu la sessió al compte Mi</string>
     <string name="cloud_backup_window_title">Còpies de seguretat de Xiaomi Cloud</string>
+    <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Última còpia de seguretat "</string>
     <string name="cloud_no_backup">Sense còpies de seguretat</string>
     <string name="cloud_restore_guide">Per restaurar les dades d\'usuari per %s, toqueu Restaura</string>
