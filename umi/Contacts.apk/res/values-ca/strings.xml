@@ -255,6 +255,7 @@
     <string name="calllog_menu_send_sms">Enviar un missatge</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_missed">"No s'ha pogut connectar"</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d s</string>
     <string name="callrecordview_item_op_time_rejected">Rebutjat</string>
     <string name="callrecordview_item_op_time_short_incoming">"Entrant: "</string>
@@ -436,6 +437,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="description_image_button_star">estrella</string>
     <string name="description_image_button_three">tres</string>
     <string name="description_image_button_two">dos</string>
+    <string name="description_image_button_zero">zero</string>
     <string name="description_minus_button">Menys</string>
     <string name="description_quick_contact_for">Contacte ràpid per %1$s</string>
     <string name="description_quick_dial_button">Marcació ràpida</string>
@@ -502,6 +504,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="editContactNameExpandOpenDescription">Ampliar el nom</string>
     <string name="edit_contact_card_title">Edita la targeta del contacte</string>
     <string name="edit_contact_photo">Edita foto del contacte</string>
+    <string name="eight_letter">TUV</string>
     <string name="email">Correu electrònic</string>
     <string name="emailLabelsGroup">Correu electrònic</string>
     <string name="email_custom">Envia el correu a %s</string>
@@ -549,6 +552,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="favorites_list_empty">No hi ha favorits</string>
     <string name="feedback">Comentaris</string>
     <string name="firewall_setting">Llista de bloqueig</string>
+    <string name="five_letter">JKL</string>
     <string name="flow_use_analyse">Estadístiques d\'ús</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -601,6 +605,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="four_letter">GHI</string>
     <string name="frequentList">Freqüents</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
@@ -824,6 +829,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="nickname_picker_name_column">Nom de contacte</string>
     <string name="nickname_picker_nickname_column">Títol</string>
     <string name="night">Vespre</string>
+    <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Per crear grups necessita un compte.</string>
     <string name="no_contacts_dialog_message">"Els contactes poden estar emmagatzemats a la targeta SIM. Intenta importar-los des de la teva targeta SIM a la memòria interna del telèfon i torna a provar."</string>
     <string name="no_contacts_dialog_title">"No es poden trobar contactes"</string>
@@ -1020,6 +1026,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="service_provider">Agenda</string>
     <string name="service_provider_detail">Detalls de la guia</string>
     <string name="set_default">Defineix per defecte</string>
+    <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Comparteix el contacte com a</string>
     <string name="share_error">"Aquest contacte no es pot compartir"</string>
     <string name="share_over_limit">"No es poden compartir més de %d contactes"</string>
@@ -1058,6 +1065,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="sim_no_contact">No hi ha contactes a la targeta SIM</string>
     <string name="sim_unloaded">"La targeta SIM no està posada"</string>
     <string name="single_group_list_empty">No hi ha membres en el grup</string>
+    <string name="six_letter">MNO</string>
     <string name="smart_group_company_label">Per l\'empresa</string>
     <string name="smart_group_company_unavailable">Cap empresa</string>
     <string name="smart_group_frequency_1">Durant el passat mes</string>
@@ -1069,9 +1077,11 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="smart_group_location_label">Per ubicació</string>
     <string name="smart_group_location_unavailable">Sense direcció</string>
     <string name="sms">Missatge de text</string>
+    <string name="sms_assistant">Text %s</string>
     <string name="sms_callback">Tornar la trucada amb un text</string>
     <string name="sms_car">Auto text</string>
     <string name="sms_company_main">Empresa principal de text</string>
+    <string name="sms_custom">Text %s</string>
     <string name="sms_disambig_title">Seleccioneu el número</string>
     <string name="sms_fax_home">Text del fax de casa</string>
     <string name="sms_fax_work">Text del fax de treball</string>
@@ -1080,10 +1090,12 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="sms_main">Text principal</string>
     <string name="sms_mms">MMS de text</string>
     <string name="sms_mobile">Text mòbil</string>
+    <string name="sms_other">Text</string>
     <string name="sms_other_fax">Text del Fax</string>
     <string name="sms_pager">Localitzador de text</string>
     <string name="sms_radio">Text del radi</string>
     <string name="sms_telex">Text del tèlex</string>
+    <string name="sms_tty_tdd">Text TTY/TDD</string>
     <string name="sms_work">Text de la feina</string>
     <string name="sms_work_mobile">Text del mòbil de treball</string>
     <string name="sms_work_pager">Text del cercador de treball</string>
@@ -1176,6 +1188,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="the_united_nations_day">Dia de les Nacions Unides</string>
     <string name="the_valentines_day">"Dia de Sant Valentí"</string>
     <string name="the_water_lantern_festival">Festa dels fanals d\'aigua</string>
+    <string name="three_letter">DEF</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
@@ -1199,6 +1212,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
+    <string name="two_letter">ABC</string>
     <string name="type_mx_msg">Missatge Mi</string>
     <string name="unable_get_device_id">No es pot obtenir l\'IMEI</string>
     <string name="undefined">No configurat</string>
