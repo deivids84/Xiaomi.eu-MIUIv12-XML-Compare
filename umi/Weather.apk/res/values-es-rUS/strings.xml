@@ -326,7 +326,7 @@
     <string name="privacy_settings">Política de Privacidad</string>
     <string name="pull_fresh_updated">Actualizado con éxito</string>
     <string name="pull_fresh_updating">Actualizando…</string>
-    <string name="radar_cloud_image_title">Mapa radar</string>
+    <string name="radar_cloud_image_title">Mapa de radar</string>
     <string name="radar_cloud_update_time">Antes %1$s</string>
     <string name="rain_sound_setting_summary_text">Acompaña los cambios climáticos con efectos de sonido</string>
     <string name="rain_sound_setting_title_text">Efectos de sonido</string>
@@ -365,8 +365,8 @@
     <string name="share_button">Compartir</string>
     <string name="share_menu_title">Compartir</string>
     <string name="share_subject">Compartir</string>
-    <string name="share_weather_desc">\#MIUI Tiempo#Hoy %1$s %2$s</string>
-    <string name="share_weather_save_pic_fail">"No se puede obtener captura de pantalla"</string>
+    <string name="share_weather_desc">\#Tiempo MIUI #Hoy %1$s %2$s</string>
+    <string name="share_weather_save_pic_fail">"No se pudo tomar la captura de pantalla"</string>
     <string name="shortcut_short_label_24_hour_forecast">Pronóstico 24 horas</string>
     <string name="shortcut_short_label_recent_forecast">Consultar el tiempo</string>
     <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
@@ -393,7 +393,7 @@
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Comienzo del Invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de Invierno</string>
-    <string name="some_where_on_earth">En algún lugar de la Tierra</string>
+    <string name="some_where_on_earth">En algún lugar del planeta</string>
     <string name="suggestion_for_blizzard">Mantente abrigado y viaja seguro</string>
     <string name="suggestion_for_cloudy">El cielo nublado es perfecto para selfies</string>
     <string name="suggestion_for_daxue">Las carreteras pueden estar bloqueadas</string>
