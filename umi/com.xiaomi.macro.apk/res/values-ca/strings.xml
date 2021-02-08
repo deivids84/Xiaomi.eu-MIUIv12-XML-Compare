@@ -77,6 +77,7 @@
     <string name="one_guide_introduce">Feu clic a Nou per crear una macro</string>
     <string name="operation_track_explain">Si l\'operació de lliscament de punts és visible</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
+    <string name="play_delay">retard de reproducció</string>
     <string name="play_delay_explain">Utilitza amb la funció de penjar de la pantalla</string>
     <string name="play_delay_not_null_tips">Establiu primer el retard</string>
     <string name="play_speed">velocitat de reproducció</string>
