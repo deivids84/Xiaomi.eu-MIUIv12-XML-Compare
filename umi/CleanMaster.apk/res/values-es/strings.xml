@@ -401,7 +401,7 @@
     <string name="hints_ad_header_left">Archivos obsoletos</string>
     <string name="hints_apk_header_left">Paquetes</string>
     <string name="hints_apk_version">Versión %s</string>
-    <string name="hints_app_uninstall_residual">¿Borrar archivos de desinstalación residuales?</string>
+    <string name="hints_app_uninstall_residual">¿Limpiar archivos residuales de desintalación?</string>
     <string name="hints_cache_header_left">Archivos en caché</string>
     <string name="hints_cache_msd_desc">"Eliminar las actualizaciones delta no afecta al uso de las aplicaciones"</string>
     <string name="hints_cache_msd_title">Actualización Delta</string>
@@ -554,7 +554,7 @@
     <string name="notification_uninstall_clean_hint">Limpia la basura para liberar espacio de almacenamiento</string>
     <string name="notification_uninstall_clean_text">Las aplicaciones desinstaladas dejan la basura en su dispositivo</string>
     <string name="notification_uninstalled_clean_button_text">Ver</string>
-    <string name="notification_uninstalled_clean_with_name">Partidas residuales de %s</string>
+    <string name="notification_uninstalled_clean_with_name">Elementos residuales de %s</string>
     <string name="notification_uninstalled_clean_without_name">Las aplicaciones desinstaladas dejan elementos residuales</string>
     <string name="notification_wechat_clean_high_level_hint">Limpia la basura para acelerar tu dispositivo</string>
     <string name="notification_wechat_clean_high_level_text_a">WeChat generó muchos archivos basura</string>
