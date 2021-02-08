@@ -1068,6 +1068,7 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="package_installed_device_owner">Instal·lat per l\'administrador</string>
     <string name="package_updated_device_owner">Actualitzat per l\'administrador</string>
     <string name="passwordIncorrect">Contrasenya incorrecta.</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="paste">Enganxa</string>
     <string name="paste_as_plain_text">Enganxa com a text sense format</string>
     <string name="peerTtyModeFull">L\'altre dispositiu ha sol·licitat el mode TTY COMPLET</string>
@@ -1374,6 +1375,7 @@ per al compte %s"</string>
     <string name="phoneTypePager">Cercapersones</string>
     <string name="phoneTypeRadio">Ràdio</string>
     <string name="phoneTypeTelex">Tèlex</string>
+    <string name="phoneTypeTtyTdd">TTY TDD</string>
     <string name="phoneTypeWork">Feina</string>
     <string name="phoneTypeWorkMobile">Mòbil de la feina</string>
     <string name="phoneTypeWorkPager">Cercapersones de la feina</string>
@@ -1543,6 +1545,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
     <string name="serviceClassData">Dades</string>
     <string name="serviceClassDataAsync">Asíncron</string>
     <string name="serviceClassDataSync">Sincronitza</string>
+    <string name="serviceClassFAX">FAX</string>
     <string name="serviceClassPAD">TECLAT</string>
     <string name="serviceClassPacket">Paquet</string>
     <string name="serviceClassVoice">Veu</string>
