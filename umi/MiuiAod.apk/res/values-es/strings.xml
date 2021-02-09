@@ -40,6 +40,7 @@
     <string name="am">AM</string>
     <string name="ambient_display_screen_title">Pantalla ambiente</string>
     <string name="ambient_display_screen_title_sp">Pantalla ambiental</string>
+    <string name="animation_clock_panel">Marcador de onda</string>
     <string name="aod_close_color_inversion">"Esta función no puede ser combinada con inversión del color. Desactiva inversión del color primero."</string>
     <string name="aod_component">Elementos mostrados</string>
     <string name="aod_dual_clock_date">HH:mm dd/MM</string>
