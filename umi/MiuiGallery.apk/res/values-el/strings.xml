@@ -1527,7 +1527,7 @@
     <string name="photo_editor_miui_beauty_no_face">"Αδυναμία εντοπισμού προσώπου"</string>
     <string name="photo_editor_mosaic">Μωσαϊκό</string>
     <string name="photo_editor_navigator_cancel">Ακύρωση</string>
-    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Η λήψη %s απαιτεί περίπου 4MB δεδομένων κινητής. Λήψη τώρα;</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Η λήψη %s απαιτεί περίπου %2$d MB δεδομένων κινητής τηλεφωνίας. Κατεβάστε τώρα?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Προειδοποίηση κατανάλωσης δεδομένων</string>
     <string name="photo_editor_navigator_download_title">Φόρτωση…</string>
     <string name="photo_editor_navigator_export">Αποθήκευση</string>
