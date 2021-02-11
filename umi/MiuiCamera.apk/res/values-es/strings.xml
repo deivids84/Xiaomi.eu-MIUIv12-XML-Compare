@@ -1015,6 +1015,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Cuadro medio</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Medición por puntos</string>
     <string name="pref_camera_autoexposure_title">Ajustes de auto exposición</string>
+    <string name="pref_camera_auxiliary_close">Desactivado</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Verificación de exposición</string>
     <string name="pref_camera_auxiliary_focus_peak">Pico de enfoque</string>
     <string name="pref_camera_auxiliary_title">Auxiliar</string>
@@ -1105,6 +1106,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_high_quality_preferred_title">Mejora la calidad de la imagen</string>
     <string name="pref_camera_histogram_entry_disable">Desactivar</string>
     <string name="pref_camera_histogram_entry_enable">Activar</string>
+    <string name="pref_camera_iso_entry_auto">Automático</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Baja</string>
     <string name="pref_camera_jpegquality_entry_normal">Estándar</string>
