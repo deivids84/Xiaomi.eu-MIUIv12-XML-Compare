@@ -1070,9 +1070,11 @@ Motivo: \"%s\""</string>
     <string name="smart_group_location_label">Ubicaciones</string>
     <string name="smart_group_location_unavailable">No hay información de ubicación</string>
     <string name="sms">Mensaje de texto</string>
+    <string name="sms_assistant">Texto %s</string>
     <string name="sms_callback">Enviar SMS a una llamada recibida</string>
     <string name="sms_car">SMS al coche</string>
     <string name="sms_company_main">SMS al teléfono principal de la empresa</string>
+    <string name="sms_custom">Texto %s</string>
     <string name="sms_disambig_title">Seleccionar número</string>
     <string name="sms_fax_home">SMS al fax de casa</string>
     <string name="sms_fax_work">SMS al fax del trabajo</string>
@@ -1081,10 +1083,12 @@ Motivo: \"%s\""</string>
     <string name="sms_main">SMS al número de teléfono principal</string>
     <string name="sms_mms">SMS a MMS</string>
     <string name="sms_mobile">SMS al móvil</string>
+    <string name="sms_other">Texto</string>
     <string name="sms_other_fax">SMS al fax</string>
     <string name="sms_pager">SMS al buscapersonas</string>
     <string name="sms_radio">SMS a la radio</string>
     <string name="sms_telex">SMS al télex</string>
+    <string name="sms_tty_tdd">Texto TTY/TDD</string>
     <string name="sms_work">SMS al trabajo</string>
     <string name="sms_work_mobile">SMS al móvil del trabajo</string>
     <string name="sms_work_pager">SMS al buscapersonas del trabajo</string>
