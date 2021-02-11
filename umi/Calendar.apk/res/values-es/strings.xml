@@ -156,6 +156,7 @@
     <string name="date_interval_description">Averigua cuántos días hay entre 2 fechas</string>
     <string name="date_interval_end">A</string>
     <string name="date_interval_start">Desde</string>
+    <string name="date_interval_tab">Intervalo</string>
     <string name="date_interval_text_to">Al %1$s</string>
     <string name="date_jump_title">Ir a la fecha</string>
     <string name="date_picker_lunar">Calendario Lunar</string>
