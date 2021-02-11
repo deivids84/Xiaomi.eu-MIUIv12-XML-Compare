@@ -11,6 +11,11 @@
         <item>Red doméstica</item>
         <item>Todas las redes</item>
     </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>Tendencia</item>
+        <item>Caliente</item>
+        <item>COLD</item>
+    </string-array>
     <string-array name="ai_item_action_array">
         <item>Ninguna</item>
         <item>Activar Asistente de Google</item>
@@ -460,28 +465,28 @@
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
-        <item>Accra</item>
-        <item>Addis Ababa</item>
-        <item>Algiers</item>
-        <item>Blantyre</item>
+        <item>Acra</item>
+        <item>Adís Abeba</item>
+        <item>Argel</item>
+        <item>Blantire</item>
         <item>Brazzaville</item>
-        <item>Cairo</item>
+        <item>El Cairo</item>
         <item>Casablanca</item>
-        <item>Conakry</item>
+        <item>Conakri</item>
         <item>Dakar</item>
-        <item>Dar es Salaam</item>
-        <item>Djibouti</item>
+        <item>Dar es-Salam</item>
+        <item>Yibuti</item>
         <item>Freetown</item>
         <item>Gaborone</item>
         <item>Harare</item>
-        <item>Johannesburg</item>
+        <item>Johannesburgo</item>
         <item>Kampala</item>
-        <item>Khartoum</item>
+        <item>Jartum</item>
         <item>Kigali</item>
-        <item>Kinshasa</item>
+        <item>Kinsasa</item>
         <item>Lagos</item>
         <item>Maseru</item>
-        <item>Mogadishu</item>
+        <item>Mogadiscio</item>
         <item>Nairobi</item>
         <item>São Tomé</item>
         <item>Timbuktu</item>
@@ -539,55 +544,55 @@
         <item>New Salem</item>
         <item>Panama</item>
         <item>Phoenix</item>
-        <item>Port of Spain</item>
-        <item>Port-au-Prince</item>
+        <item>Puerto España</item>
+        <item>Puerto Príncipe</item>
         <item>Puerto Rico</item>
         <item>Santo Domingo</item>
-        <item>São Paulo</item>
+        <item>Sao Paulo</item>
         <item>St. Johns</item>
-        <item>St. Kitts</item>
-        <item>St. Lucia</item>
-        <item>St. Thomas</item>
+        <item>Isla de San Cristóbal</item>
+        <item>Santa Lucía</item>
+        <item>Santo Tomás</item>
         <item>Tijuana</item>
         <item>Toronto</item>
         <item>Vancouver</item>
         <item>Winnipeg</item>
-        <item>South Pole</item>
+        <item>Polo Sur</item>
         <item>Longyearbyen</item>
-        <item>Almaty</item>
-        <item>Amman</item>
-        <item>Anadyr</item>
+        <item>Almatý</item>
+        <item>Amán</item>
+        <item>Anádyr</item>
         <item>Aqtau</item>
-        <item>Baghdad</item>
-        <item>Bahrain</item>
-        <item>Baku</item>
+        <item>Bagdad</item>
+        <item>Baréin</item>
+        <item>Bakú</item>
         <item>Bangkok</item>
         <item>Beirut</item>
-        <item>Calcutta</item>
-        <item>Damascus</item>
+        <item>Calcuta</item>
+        <item>Damasco</item>
         <item>Dhaka</item>
-        <item>Dubai</item>
+        <item>Dubái</item>
         <item>Gaza</item>
-        <item>Hebron</item>
+        <item>Hebrón</item>
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
-        <item>Jakarta</item>
-        <item>Jerusalem</item>
-        <item>Kabul</item>
+        <item>Yakarta</item>
+        <item>Jerusalén</item>
+        <item>Kabúl</item>
         <item>Karachi</item>
-        <item>Kathmandu</item>
+        <item>Katmandú</item>
         <item>Kuala Lumpur</item>
         <item>Kuwait</item>
-        <item>Macau</item>
+        <item>Macao</item>
         <item>Manila</item>
-        <item>Muscat</item>
-        <item>Phnom Penh</item>
+        <item>Mascat</item>
+        <item>Nom Pen</item>
         <item>Pyongyang</item>
-        <item>Qatar</item>
-        <item>Yangon</item>
-        <item>Riyadh</item>
-        <item>Seoul</item>
-        <item>Shanghai</item>
+        <item>Catar</item>
+        <item>Rangún</item>
+        <item>Riad</item>
+        <item>Seúl</item>
+        <item>Shanghái</item>
         <item>Singapore</item>
         <item>Taipei</item>
         <item>Tehran</item>
