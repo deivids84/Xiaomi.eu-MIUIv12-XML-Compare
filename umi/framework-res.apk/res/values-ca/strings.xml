@@ -593,6 +593,8 @@ utilitzat %s"</string>
     <string name="factorytest_not_system">L\'acció FACTORY_TEST només és compatible amb els paquets instal·lats a /system/app.</string>
     <string name="factorytest_reboot">Reinicia</string>
     <string name="failed_to_copy_to_clipboard">No s\'ha pogut copiar al porta-retalls</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">S\'ha completat el codi de funció.</string>
     <string name="fcError">Problema de connexió o codi de funció no vàlid.</string>
     <string name="find">Cerca</string>
