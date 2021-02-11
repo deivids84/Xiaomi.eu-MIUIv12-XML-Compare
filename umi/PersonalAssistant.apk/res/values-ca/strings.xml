@@ -100,6 +100,7 @@
     <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
     <string name="alipay_sdk_tiemout">La sessió ha expirat. Torneu-la a iniciar.</string>
     <string name="all_function_title">Totes les dreceres</string>
+    <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="already">Completat:</string>
     <string name="am">am</string>
     <string name="announce_for_drag">Arrossegant un element</string>
