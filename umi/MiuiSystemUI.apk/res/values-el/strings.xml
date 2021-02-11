@@ -369,9 +369,9 @@
     <string name="battery_info_status_full">Πλήρης</string>
     <string name="battery_info_status_not_charging">"Συνδεδεμένη, δεν μπορεί να φορτίσει τώρα"</string>
     <string name="battery_info_status_unknown">Άγνωστο</string>
-    <string name="battery_low_percent_format">%d%% απομένουν</string>
+    <string name="battery_low_percent_format">%s απομένουν</string>
     <string name="battery_low_percent_format_hybrid">Απομένουν %1$s , περίπου %2$s απομένουν βάσει της χρήσης σας</string>
-    <string name="battery_low_percent_format_hybrid_short">Απομένουν %1$s , περίπου %2$s απομένουν</string>
+    <string name="battery_low_percent_format_hybrid_short">Απομένουν %1$s, περίπου %2$s απομένουν</string>
     <string name="battery_low_percent_format_saver_started">%s απομένουν. Η εξοικονόμηση μπαταρίας είνια ενεργή.</string>
     <string name="battery_low_title">Χαμηλή μπαταρία</string>
     <string name="battery_low_why">Ρυθμίσεις</string>
@@ -1336,7 +1336,7 @@ d MMMM"</string>
     <string name="not_default_data_content_description">Δεν έχει οριστεί για χρήση δεδομένων</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_alert_title">Προεπιλογή</string>
-    <string name="notification_app_settings">Προσαρμογή: %1$s</string>
+    <string name="notification_app_settings">Προσαρμογή</string>
     <string name="notification_appops_ok">ΟΚ</string>
     <string name="notification_appops_settings">Ρυθμίσεις</string>
     <string name="notification_bubble_title">Φούσκα</string>
