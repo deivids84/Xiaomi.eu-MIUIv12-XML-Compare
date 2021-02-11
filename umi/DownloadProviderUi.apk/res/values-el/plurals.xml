@@ -5,8 +5,8 @@
         <item quantity="one">Διαγραφή %d εργασίας;</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d λήψεις αφαιρέθηκαν</item>
-        <item quantity="one">%1$d λήψη αφαιρέθηκε</item>
+        <item quantity="other">Διαγράφηκαν %s λήψεις με επιτυχία</item>
+        <item quantity="one">Διαγράφηκε %s λήψη με επιτυχία</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d ημέρες</item>
