@@ -2051,7 +2051,7 @@ Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando c
     <string name="data_usage_app_restrict_background">Conexiones automáticas</string>
     <string name="data_usage_app_restrict_background_summary">Habilitar el uso de datos móviles en segundo plano</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Para restringir las conexiones automáticas, establece un límite de datos móviles.</string>
-    <string name="data_usage_app_restrict_dialog">"Esta función puede hacer que una aplicación que depende de los datos en segundo plano deje de funcionar cuando solo estén dsiponibles las redes móviles.
+    <string name="data_usage_app_restrict_dialog">"Esta función puede hacer que una aplicación que dependa de los datos en segundo plano deje de funcionar cuando solo esté disponible la red de datos móviles.
 
 Puede encontrar controles de uso de datos más apropiados en la configuración disponible dentro de la aplicación."</string>
     <string name="data_usage_app_restrict_dialog_title">¿Restringir conexiones automáticas?</string>
@@ -2643,7 +2643,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="encryption_interstitial_message_password">"Para proteger aún más tu dispositivo, haz que solicite la contraseña antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir contraseña al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_password_for_face">"Además de usar su cara para desbloquear el dispositivo, puede protegerlo aún más solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
+    <string name="encryption_interstitial_message_password_for_face">"Además de usar su rostro para desbloquear el dispositivo, puede protegerlo aún más solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
 
 Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Quiere que el dispositivo pida contraseña al iniciarse?"</string>
     <string name="encryption_interstitial_message_password_for_fingerprint">"Además de usar su huella dactilar para desbloquear el dispositivo, puede protegerlo aún más solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
@@ -2652,10 +2652,10 @@ Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Quiere que
     <string name="encryption_interstitial_message_pattern">"Para proteger aún más tu dispositivo, haz que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir patrón al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_pattern_for_face">"Además de utilizar su cara para desbloquear el dispositivo, puede protegerlo aún más si lo configuras para solicitar el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
+    <string name="encryption_interstitial_message_pattern_for_face">"Además de utilizar su rostro para desbloquear el dispositivo, puede protegerlo aún más si lo configura para solicitar el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
 
 Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el patrón al iniciarse?"</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puede protegerlo aún más si haces que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puede protegerlo aún más si lo configura para solicitar el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
 
 Esto es útil para proteger sus datos si pierdes el dispositivo o se lo roban. ¿Quiere que el dispositivo pida patrón al iniciarse?"</string>
     <string name="encryption_interstitial_message_pin">"Para proteger aún más tu dispositivo, haz que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
@@ -2663,10 +2663,10 @@ Esto es útil para proteger sus datos si pierdes el dispositivo o se lo roban. �
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
     <string name="encryption_interstitial_message_pin_for_face">"Además de utilizar su cara para desbloquear el dispositivo, puede protegerlo aún más si lo configura para solicitar el PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
 
-Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quieres que el dispositivo pida el PIN para iniciarse?"</string>
+Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el PIN para iniciarse?"</string>
     <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puede protegerlo aún más si hace que solicite el PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicie.
 
-Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
+Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el PIN para iniciarse?"</string>
     <string name="encryption_interstitial_no">No</string>
     <string name="encryption_interstitial_yes">Sí</string>
     <string name="encryption_progress_summary">"Encriptando, no reinicies el dispositivo."</string>
@@ -3284,7 +3284,7 @@ Puede cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y n
     <string name="how_backup_content">"Puede guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en su dispositivo móvil, ordenador o unidad USB.
 
 Dispositivo móvil
-Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-copia de seguridad-Todas las copias). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerde respaldar las copias de seguridad en su ordenador.
+Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-copia de seguridad-Todas las copias). Nota: Realizar un restablecimiento de fábrica eliminará las copias de seguridad de forma permanente. Recuerde respaldar las copias de seguridad en su ordenador.
 
 Ordenador
 Cree una copia de seguridad en el dispositivo, luego vaya a MIUI-copia de seguridad-Todas las copias y respalde la copia de seguridad en su ordenador mediante un cable USB.
@@ -3684,7 +3684,7 @@ Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="left_function_key">Acceso directo derecho</string>
     <string name="legacy_control_center_desc">Deslice la barra de estado hacia abajo para ver los conmutadores y las notificaciones</string>
     <string name="legacy_control_center_title">Versión antigua</string>
-    <string name="legacy_navigation_summary">Regresar, Inicio, y cambie aplicación con botones en la parte inferior de su pantalla.</string>
+    <string name="legacy_navigation_summary">Para volver, ir a la pantalla de inicio o cambiar de aplicación, puedes usar los botones de la parte inferior de la pantalla.</string>
     <string name="legacy_navigation_title">Navegación con 3 botones</string>
     <string name="legal_information">Información legal</string>
     <string name="legal_workday">Días laborables</string>
@@ -4017,7 +4017,7 @@ Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="lost_internet_access_cancel">Mantener conexión Wi-Fi</string>
     <string name="lost_internet_access_persist">No volver a mostrar</string>
     <string name="lost_internet_access_switch">Cambiar a datos móviles</string>
-    <string name="lost_internet_access_text">Puede cambiarse a la red móvil cuando la conexión Wi-Fi no sea buena. Podrían aplicarse cargos por el uso de datos.</string>
+    <string name="lost_internet_access_text">Puede cambiarse a la red móvil cuando la conexión Wi-Fi no sea buena. Podrían aplicarse costes por el uso de datos.</string>
     <string name="lost_internet_access_title">La red Wi‑Fi no está conectada a Internet</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento. %1$s usado (disponible: %2$s)</string>
@@ -4951,7 +4951,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="oldman_installed_current_btn">Reestablecer Pantalla de inicio original</string>
     <string name="oldman_installed_current_des">"Has establecido el modo Lite como tu Pantalla de inicio por defecto. Pulsa el botón inferior para volver a la Pantalla de inicio original."</string>
     <string name="oldman_installed_not_current_btn">Establecer como Pantalla de inicio por defecto</string>
-    <string name="oldman_installed_not_current_des">El modo Lite está instalado en su dispositivo. Puede usarlo como su Pantalla de inicio por defecto.</string>
+    <string name="oldman_installed_not_current_des">El modo lite está instalado en su dispositivo. Puede usarlo como su pantalla de inicio por defecto.</string>
     <string name="oldman_mode_entry_name">Modo Lite</string>
     <string name="oldman_mode_settings">Modo Lite</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
@@ -4964,7 +4964,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="onehour">30 minutos</string>
     <string name="onscreen_keyboard_settings_summary">Ajustes de teclado en pantalla</string>
     <string name="open_demo_mode">Activar</string>
-    <string name="open_demo_mode_warning_message">Cuando el modo de demostración está activado, el reloj de la barra de estado se detendrá y los iconos de batería y señal se mostrarán llenos. Puede desactivar el modo de demostración o reiniciar el dispositivo para cambiar esto.</string>
+    <string name="open_demo_mode_warning_message">Cuando el modo de demostración está activado, el reloj de la barra de estado se detendrá y los iconos de batería y señal se mostrarán llenos. Puede desactivar el modo de demostración o reiniciar el dispositivo para cambiarlo.</string>
     <string name="open_game_accelerate">Activar Game Turbo</string>
     <string name="open_haptic_feedback">Retroalimentación háptica</string>
     <string name="open_miui_optimization_title">Activar optimización MIUI</string>
@@ -5340,7 +5340,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="preferred_sms_warning_use_system">"No usar"</string>
     <string name="premium_sms_access">Acceso a SMS premium</string>
     <string name="premium_sms_none">Ninguna aplicación instalada ha solicitado acceso SMS premium</string>
-    <string name="premium_sms_warning">Es posible que el envío de SMS premium le supongan costes adicionales y el importe se sume a las facturas de su operador. Si habilita el permiso para una aplicación, puede enviar SMS premium con ella.</string>
+    <string name="premium_sms_warning">Es posible que el envío de SMS premium le suponga costes adicionales y el importe se sume a las facturas de su operador. Si habilita el permiso para una aplicación, puede enviar SMS premium con ella.</string>
     <string name="prevent_ringing_option_mute">Mudo</string>
     <string name="prevent_ringing_option_mute_summary">Activado (mudo)</string>
     <string name="prevent_ringing_option_none">Hacer nada</string>
@@ -5858,13 +5858,13 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar la lista de aplicaciones que usan el modo lectura automáticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
     <string name="screen_paper_texture">Textura</string>
-    <string name="screen_pinning_description">"La fijación de aplicaciones le permite mantener la aplicación actual a la vista hasta que la desancle. Esta función se puede utilizar, por ejemplo, para permitir que un amigo de confianza juegue un juego específico. 
+    <string name="screen_pinning_description">"La fijación de aplicaciones le permite mantener la aplicación actual a la vista hasta que la desvincule. Esta función se puede utilizar, por ejemplo, para permitir que un amigo de confianza juegue un juego específico. 
 
 Cuando una aplicación está anclada, la aplicación anclada puede abrir otras aplicaciones y los datos personales pueden ser accesibles. 
 
 Para usar la fijación de aplicaciones: \u0009
 1.\u0009Active la fijación de aplicaciones \u0009
-2.\u0009Abra Descripción general \u0009
+2.\u0009Abra la descripción general \u0009
 3.\u0009Pulse el icono de la aplicación en la parte superior de la pantalla y luego pulse Anclar"</string>
     <string name="screen_pinning_dialog_message">"Cuando la aplicación está anclada: 
 
@@ -6293,10 +6293,10 @@ Su teléfono puede ser desbloqueado por alguien que se parezca mucho a usted, di
     <string name="security_settings_fingerprint_enroll_dialog_delete">Eliminar</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nombre</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">Aceptar</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puedes utilizar tu huella dactilar para autorizar acceso a aplicaciones y compras. <annotation id="url">Más información</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\" La opción de bloqueo de pantalla está inhabilitada. Para obtener más información, ponte en contacto con el administrador de la organización. \"<annotation id="admin_details">Más detalles</annotation>\"
+    <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puede utilizar su huella dactilar para autorizar acceso a aplicaciones y compras. <annotation id="url">Más información</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\" La opción de bloqueo de pantalla está inhabilitada. Para obtener más información, pongase en contacto con el administrador de la organización. \"<annotation id="admin_details">Más detalles</annotation>\"
 
-Puedes seguir utilizando tu huella dactilar para autorizar compras y acceder a las aplicaciones. \"<annotation id="url">Más información</annotation></string>
+Puede seguir utilizando su huella dactilar para autorizar compras y acceder a las aplicaciones. \"<annotation id="url">Más información</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Listo</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Hazlo después</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Registro no completado</string>
@@ -6305,7 +6305,7 @@ Puedes seguir utilizando tu huella dactilar para autorizar compras y acceder a l
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustración con la ubicación del sensor de huellas dactilares y dispositivo</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Localiza el sensor de huellas dactilares situado en la parte trasera del teléfono.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Localiza el sensor</string>
-    <string name="security_settings_fingerprint_enroll_finish_message">Cuando aparezca este icono, puedes usar tu huella dactilar para identificarte o autorizar una compra.</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Cuando aparezca este icono, puede usar su huella dactilar para identificarse o autorizar una compra</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Huella dactilar añadida</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancelar</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Saltar</string>
@@ -6317,9 +6317,9 @@ Nota: Es posible que tu huella dactilar sea menos segura que un buen patrón o P
     <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Solo tienes que tocar el sensor de huellas dactilares para desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones. Cualquier huella dactilar que añadas podrá realizar estas acciones, por lo que debes tener cuidado con las huellas que incluyas.
 
 Nota: Es posible que tu huella dactilar sea menos segura que un buen patrón o PIN."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Solo tienes que tocar el sensor de huellas dactilares para autorizar compras o iniciar sesión en aplicaciones. Cualquier huella dactilar que añadas podrá realizar estas acciones, por lo que debes tener cuidado con las huellas que incluyas.
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Use su huella dactilar para desbloquear el teléfono o autorizar compras.
 
-Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para obtener más información, ponte en contacto con el administrador de tu organización."</string>
+Nota: no puede usar su huella dactilar para desbloquear este dispositivo. Para obtener más información, comuníquese con el administrador de su organización."</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueo con huella dactilar</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Usar tu huella dactilar</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Levanta el dedo y vuelve a tocar el sensor</string>
@@ -6643,15 +6643,15 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sort_order_frequent_notification">Más frecuente</string>
     <string name="sort_order_recent_notification">Más reciente</string>
     <string name="sort_order_size">Ordenar por tamaño</string>
-    <string name="sos_phone_call_privacy_dialog_message">"Para llamar a sus contactos de emergencia y reproducir grabación SOS, esta aplicación necesita los siguientes permisos:
+    <string name="sos_phone_call_privacy_dialog_message">"Para llamar a sus contactos de emergencia y reproducir una grabación SOS, esta aplicación necesita los siguientes permisos:
 • Hacer llamadas
 Para hacer llamadas a sus contactos de emergencia
 • Monitorizar el estado del dispositivo
 Para reproducir la grabación SOS cuando sus contactos de emergencia recogen
-Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puedes elegir desactivar esta función."</string>
+Si no acepta otorgar estos permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede elegir desactivar esta función."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
     <string name="sos_phone_log_privacy_dialog_message">"Esta aplicación necesita permiso para acceder a su historial de llamadas para poder compartirlo con sus contactos de emergencia.
-Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puedes elegir desactivar esta función."</string>
+Si no acepta otorgar estos permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Puede desactivar esta función."</string>
     <string name="sos_privacy_and_content_policy">Acuerdo de Usuario y Política de Privacidad</string>
     <string name="sos_privacy_dialog_button_cancel">Cancelar</string>
     <string name="sos_privacy_dialog_button_ok">Aceptar</string>
