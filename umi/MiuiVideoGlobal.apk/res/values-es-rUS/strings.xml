@@ -177,6 +177,7 @@
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de Internet</string>
+    <string name="com_facebook_internet_permission_error_title">Error de AndroidManifest</string>
     <string name="com_facebook_like_button_liked">Te gusta</string>
     <string name="com_facebook_like_button_not_liked">Me gusta</string>
     <string name="com_facebook_loading">Cargando...</string>
