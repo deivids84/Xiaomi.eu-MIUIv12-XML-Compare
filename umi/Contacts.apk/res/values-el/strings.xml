@@ -165,7 +165,7 @@
     <string name="bh_system_recommend_des">Επιτρέψτε μας να αναλύσουμε την επισκεψιμότητά σας και να προτείνουμε ψηφιακά προϊόντα με βάση τα αποτελέσματα</string>
     <string name="bh_tag_phones">Συχνά χρησιμοποιούμενοι αριθμοί τηλεφώνου</string>
     <string name="bh_tags_number_exceed">"Δεν είναι δυνατή η αποθήκευση περισσότερων αριθμών τηλεφώνου"</string>
-    <string name="bh_time_before">Πριν %1$d %2$s</string>
+    <string name="bh_time_before">Πριν %1$s %2$s</string>
     <string name="bh_toast_start_intent_failed">"Δεν ήταν δυνατή η εύρεση μιας εφαρμογής για τον χειρισμό αυτής της ενέργειας"</string>
     <string name="bh_traffic_service">Περισσότερες υπηρεσίες</string>
     <string name="bh_traffic_surplus">Δεδομένα που απομένουν</string>
