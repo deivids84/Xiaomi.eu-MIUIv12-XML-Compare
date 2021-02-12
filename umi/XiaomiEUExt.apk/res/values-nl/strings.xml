@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add">Toevoegen</string>
+    <string name="app_name">Xiaomi.eu extensie</string>
+    <string name="confirm_reset">Opnieuw instellen bevestigen</string>
+    <string name="confirm_reset_message">Standaard-applicaties herstellen?</string>
+    <string name="contributors">Bijdragers</string>
+    <string name="delete">Verwijderen</string>
+    <string name="hide_apps_close">Zichtbare app pictogrammen</string>
+    <string name="hide_apps_open">Verborgen app pictogrammen</string>
+    <string name="home_hide_apps">App pictogrammen verbergen</string>
+    <string name="home_search_bar_app">Zoekbalk provider</string>
+    <string name="home_search_gesture_app">Veeg omhoog zoek provider</string>
+    <string name="loading">Gewoon een seconde…</string>
+    <string name="lockscreen_side_apps">Snelkoppelingen zijpaneel</string>
+    <string name="no_apps">Geen apps</string>
+    <string name="reset">Reset</string>
+    <string name="select_app">Selecteer een app</string>
+    <string name="select_apps">Selecteer apps</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
