@@ -1,9 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>wit</item>
+        <item>Donker blauw</item>
+        <item>Licht blauw</item>
+        <item>Rood</item>
+        <item>Groen</item>
+        <item>Roze</item>
+        <item>Bruin</item>
+        <item>Grijs</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Selecteer afbeelding</item>
+        <item>Transparante achtergrond</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Speciale dag</item>
         <item>Dag om te herinneren</item>
         <item>Levendige momenten</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="baby_sexy">
         <item>Jongen</item>
@@ -13,10 +86,197 @@
         <item>Back-up maken van foto\'s</item>
         <item>Foto\'s synchroniseren met de cloud</item>
     </string-array>
+    <string-array name="card_last_week_day">
+        <item>Afgelopen maandag</item>
+        <item>Afgelopen dinsdag</item>
+        <item>Afgelopen woensdag</item>
+        <item>Afgelopen donderdag</item>
+        <item>Afgelopen vrijdag</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Laatste Chinese Nieuwjaars Eve"</item>
+        <item>Laatste Chinees Nieuwjaar</item>
+        <item>Laatste Lantaarn Festival</item>
+        <item>Laatste Drakenboot Festival</item>
+        <item>Laatste Qixi Festival</item>
+        <item>Laatste Mid-Herfst Festival</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Chinees Nieuwjaar Oog door de jaren"</item>
+        <item>Chinees Nieuwjaar door de jaren</item>
+        <item>Lantaarn Festival door de jaren</item>
+        <item>Drakenboot Festival door de jaren</item>
+        <item>Qixi Festival door de jaren</item>
+        <item>Mid-Herfst Festival door de jaren</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Laatste Nieuwjaar Dag"</item>
+        <item>"Laatste Valentijnsdag"</item>
+        <item>Laatste Arbeidsdag</item>
+        <item>"Laatste Kinderdag"</item>
+        <item>Laatste nationale dag</item>
+        <item>Laatste Kerstmis</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Nieuwjaarsdag door de jaren"</item>
+        <item>"Valentijnsdag door de jaren"</item>
+        <item>Werkdag door de jaren</item>
+        <item>"Kinderdag door de jaren"</item>
+        <item>Nationale Dag door de jaren</item>
+        <item>Kerstmis door de jaren</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>januari</item>
+        <item>februari</item>
+        <item>maart</item>
+        <item>april</item>
+        <item>mei</item>
+        <item>juni</item>
+        <item>juli</item>
+        <item>augustus</item>
+        <item>september</item>
+        <item>oktober</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Tijd om te spelen</item>
+        <item>"Kiddo's weekend"</item>
+        <item>Het kleine</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Mijn weekenden</item>
         <item>Stukjes uit mijn leven</item>
         <item>Weekend herinneringen</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Nieuwe vrienden en oude huisdieren</item>
+        <item>"Vorig jaar krijgen zij elkaar"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Vrije tijd</item>
+        <item>Breedte</item>
+        <item>Dromen</item>
+        <item>Wolken</item>
+        <item>Gedachten</item>
+        <item>Buds</item>
+        <item>Metamorfose</item>
+        <item>Diepte</item>
+        <item>Reflecties</item>
+        <item>Minimalistisch</item>
+        <item>Mysterie</item>
+        <item>Fog</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Achtergronden omzetten in schetsen</item>
+        <item>Waterkleur stijl achtergronden</item>
+        <item>Cyberpunk retro</item>
+        <item>Misplaatste verticale segmenten</item>
+        <item>Hazy blur</item>
+        <item>Futuristisch gevoel</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Schets</item>
+        <item>Waterkleur</item>
+        <item>RGB</item>
+        <item>Jaloezie</item>
+        <item>Mistig venster</item>
+        <item>Techniek</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Gekleurde omtrek</item>
+        <item>Afgeronde omtrek</item>
+        <item>Fluorescerende omtrek</item>
+        <item>Gekleurde schaduw</item>
+        <item>Elektrische golf</item>
+        <item>Stroom</item>
+        <item>Golven</item>
+        <item>Deeltjes</item>
+        <item>Tekstveld</item>
+        <item>Vleugels</item>
+        <item>Engel</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Algemeen</item>
+        <item>Reizen</item>
+        <item>Werk</item>
+        <item>Documenten</item>
+        <item>Opleiding</item>
+        <item>Examens</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Sociale zekerheid</item>
+        <item>Verklaring van de gezondheid</item>
+        <item>Medische verzekering</item>
+        <item>ID</item>
+        <item>Toestand voor verblijf</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Kleiner een kubus</item>
+        <item>Kleinere twee kabels</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Toelating applicatie</item>
+        <item>Leerling netwerk</item>
+        <item>Leerlingnetwerk voor basisscholen</item>
+        <item>Leerling netwerk profiel</item>
+        <item>Toelating door de universiteit</item>
+        <item>NCEE</item>
+        <item>Hervatten</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Universiteit Engelse test 1</item>
+        <item>Universiteit Engelse test 2</item>
+        <item>Universiteit Engelse test 3</item>
+        <item>Putonghua Vaardigheidstest 1</item>
+        <item>Putonghua Vaardigheidstest 2</item>
+        <item>Wetenschappelijk Engels Test</item>
+        <item>PET voor colleges</item>
+        <item>PETS level 3</item>
+        <item>Nationale Computer Rang Examinatie 1</item>
+        <item>Nationale Computer Rang Examinatie 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primaire en middelbare school leraar certificaat</item>
+        <item>Certificering trainer</item>
+        <item>"Rijbewijs"</item>
+        <item>Handleiding toestaan</item>
+        <item>Elektronische gids vergunning</item>
+        <item>Nationaal justitieel onderzoek</item>
+        <item>Certificaat elektronische eersteklas constructor</item>
+        <item>Certificaat voor secundaire constructor</item>
+        <item>Junior boekhouding titelonderzoek</item>
+        <item>Gecertificeerde publieke accountant</item>
+        <item>Gidsvergunning van Peking</item>
+        <item>Intermediaal boekhoudkundig titelexamen</item>
+        <item>Ouderlijk boekhoudkundig titelexamen</item>
+        <item>Boekhouding kwalificatie certificaat</item>
+        <item>Gecertificeerd openbaar accountant examen</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Verenigde Staten</item>
+        <item>Vietnam</item>
+        <item>Japans</item>
+        <item>Hong Kong en Macau</item>
+        <item>Zuid-Korea</item>
+        <item>Thailand (toerist)</item>
+        <item>Thailand (bij aankomst)</item>
+        <item>Indië</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Maleisië</item>
+        <item>Nieuw Zeeland</item>
+        <item>Italiaans</item>
+        <item>Argentinië</item>
+        <item>Brazilië</item>
+        <item>IJsland</item>
+        <item>Kenia</item>
     </string-array>
     <string-array name="month">
         <item>Januari</item>
@@ -32,6 +292,20 @@
         <item>November</item>
         <item>December</item>
     </string-array>
+    <string-array name="month_last_year">
+        <item>Afgelopen januari</item>
+        <item>Afgelopen februari</item>
+        <item>Afgelopen maart</item>
+        <item>Afgelopen april</item>
+        <item>Afgelopen mei</item>
+        <item>Afgelopen juni</item>
+        <item>Afgelopen juli</item>
+        <item>Afgelopen augustus</item>
+        <item>Afgelopen september</item>
+        <item>Afgelopen oktober</item>
+        <item>Afgelopen november</item>
+        <item>Afgelopen december</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Vader</item>
         <item>Moeder</item>
@@ -44,6 +318,10 @@
         <item>Samen</item>
         <item>Goede tijden</item>
         <item>Gezamelijk</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Samen</item>
+        <item>Obligaties en dassen</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Ik</item>
@@ -60,6 +338,12 @@
         <item>Herfst</item>
         <item>Winter</item>
     </string-array>
+    <string-array name="season_last_year">
+        <item>Afgelopen voorjaar</item>
+        <item>Afgelopen zomer</item>
+        <item>Afgelopen herfst</item>
+        <item>Afgelopen winter</item>
+    </string-array>
     <string-array name="sharer_relation_addressive">
         <item>Vader</item>
         <item>Moeder</item>
@@ -71,5 +355,15 @@
     <string-array name="sports_title">
         <item>Verdergaan</item>
         <item>Vol energie</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Ze groeien zo snel</item>
+        <item>"Kiddo's foto's"</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Afgelopen weekenden</item>
+        <item>Dagen om te onthouden</item>
+        <item>Dagelijkse evenementen</item>
+        <item>Gewone &amp; Buitengewone</item>
     </string-array>
 </resources>
