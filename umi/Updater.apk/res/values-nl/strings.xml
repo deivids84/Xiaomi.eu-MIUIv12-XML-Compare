@@ -1,2 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Updater</string>
+    <string name="battery_islow">&lt;font color=#f37981&gt;Sluit uw lader aan&lt;/font&gt;</string>
+    <string name="battery_islow_desc">Batterijniveau is te laag om zip-bestand veilig te installeren, sluit uw lader aan en probeer het later opnieuw!</string>
+    <string name="btn_changelog">Wijzigingslogboek</string>
+    <string name="btn_download">Download (%1$s)</string>
+    <string name="btn_error">Fout opgetreden, opnieuw proberen?</string>
+    <string name="btn_install">Controleer MD5 &amp; Installeren</string>
+    <string name="btn_no">annuleren</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_pause">Onderbreken</string>
+    <string name="btn_share">Delen</string>
+    <string name="btn_stop">Stoppen</string>
+    <string name="btn_wrong_md5">Slechte MD5, klik om ROM te verwijderen!</string>
+    <string name="btn_yes">ja</string>
+    <string name="channel_downloading">Voortgang downloaden</string>
+    <string name="channel_service">Updater Achtergrond Service</string>
+    <string name="channel_update">Nieuwe versie beschikbaar</string>
+    <string name="check_new_version">Op updates controleren</string>
+    <string name="default_filedownloader_notification_content">FileDownloader wordt uitgevoerd.</string>
+    <string name="dialog_3g_desc">Wees ervan bewust dat het gebruik van mobiele data om ROM\'s te downloaden aanzienlijke quota van uw pakket kan kosten.</string>
+    <string name="dialog_3g_title">Waarschuwing!</string>
+    <string name="dialog_btn_3g">Toch doorgaan</string>
+    <string name="dialog_btn_wifi">Overschakelen naar Wi-Fi</string>
+    <string name="dialog_stop_desc">U kunt of Pauzeer of stoppen met downloaden, maak nu uw keuze.</string>
+    <string name="dialog_stop_title">Download stoppen?</string>
+    <string name="dialog_twrp">Uw interne opslag is versleuteld. Nadat het apparaat opnieuw is opgestart om te herstellen, voer het wachtwoord van uw apparaat in om door te gaan.</string>
+    <string name="download_done">Succesvol gedownload!</string>
+    <string name="download_fail">Fout tijdens downloaden!</string>
+    <string name="download_fail_desc">MD5 Sum komt niet overeen…</string>
+    <string name="downloading">Downloaden:</string>
+    <string name="downloading_desc">Bezig met downloaden, controleer de status in het systeemvak.</string>
+    <string name="fetching_data">Downloadlink ophalen, even geduld…</string>
+    <string name="install_desc">Apparaat zal opnieuw opstarten naar recovery en het gekozen bestand installeren: <b>%1$s</b>\"
+Data zal niet worden gewist.\"</string>
+    <string name="install_title">Weet u zeker dat u wilt doorgaan?</string>
+    <string name="menu_title_current_version_log">Wat is nieuw?</string>
+    <string name="menu_title_pick_rom_file">Updatepakket kiezen</string>
+    <string name="menu_title_recovery">Opnieuw opstarten naar herstelmodus</string>
+    <string name="message_checkbox">Verberg toekomstige berichten van het Xiaomi.eu team</string>
+    <string name="message_checkbox_device">Niet meer weergeven</string>
+    <string name="message_title">LET OP!</string>
+    <string name="new_version">Nieuwe versie gevonden!</string>
+    <string name="no_info">Geen info beschikbaar.</string>
+    <string name="no_mirror">Alle mirrors zijn momenteel offline, probeer het later…</string>
+    <string name="no_network">Geen netwerktoegang.</string>
+    <string name="no_update">Je bent up to date!</string>
+    <string name="no_xioamieu">"U gebruikt geen MIUI Rom gemaakt door Xiaomi.eu team!
+Er zijn geen updates beschikbaar voor u!"</string>
+    <string name="notif_cancel">annuleren</string>
+    <string name="notif_install">Installeren</string>
+    <string name="notif_new_summary">Tik om details te krijgen</string>
+    <string name="notif_new_title">Nieuwe versie beschikbaar!</string>
+    <string name="notif_service_summary">Houd vast om melding \"Achtergrond Service\" uit te schakelen!</string>
+    <string name="notif_service_title">App wordt uitgevoerd op de achtergrond…</string>
+    <string name="notifications_switch">Meldingen weergeven</string>
+    <string name="permdesc_cache_filesystem">App toestaan om bestanden te schrijven op /cache.</string>
+    <string name="permdesc_reboot">Hiermee kan de app het apparaat herstarten.</string>
+    <string name="permlab_cache_filesystem">Cache toegang</string>
+    <string name="permlab_reboot">Herstart toegang</string>
+    <string name="pick_not_found">Er is geen geschikte bestandsbeheerder gevonden.</string>
+    <string name="pick_title">Kies gebruik:</string>
+    <string name="recovery_desc">Apparaat zal nu opnieuw opstarten naar Herstel modus als u niet bekend bent met de modus toekomstige acties annuleren. Doorgaan?</string>
+    <string name="server_error">Server reageert niet, de toepassing werkt mogelijk niet zoals het hoort!</string>
+    <string name="share_desc">Je MIUI-versie is bijgewerkt naar %1$s, controleer de laatste wijzigingen op: %2$s</string>
+    <string name="share_title">Delen met</string>
+    <string name="stable">Stabiel</string>
+    <string name="version">Momenteel geïnstalleerd:</string>
+    <string name="weekly">wekelijks</string>
+    <string name="wifi_recommended">Geen wifi-verbinding om veilig te downloaden!</string>
+</resources>
