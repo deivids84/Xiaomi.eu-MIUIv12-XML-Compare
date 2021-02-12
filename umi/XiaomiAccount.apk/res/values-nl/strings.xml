@@ -103,6 +103,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="change_email_address">E-mailadres wijzigen</string>
     <string name="change_password">Wachtwoord wijzigen</string>
     <string name="change_phone_number">Telefoonnr. wijzigen</string>
+    <string name="character_counter_content_description">Karakter limiet overschreden %1$d van %2$d</string>
     <string name="cloud_description_closed">Bezet | Synchronisatie is uitgeschakeld</string>
     <string name="cloud_description_normal">Bezet</string>
     <string name="cloud_service">Xiaomi Cloud</string>
@@ -174,6 +175,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="diagnosis_log_sent_format">"Logbestand succesvol verzonden. 
 ID:%s
 Stuur deze code naar de leidinggevende."</string>
+    <string name="download_file">Downloaden %s…</string>
     <string name="empty_device_list_notice">Geen apparaten</string>
     <string name="ep_unsupported">"Kan op uw apparaat niet op Mi Account aanmelden"</string>
     <string name="error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een andere Mi Account.</string>
@@ -183,6 +185,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
+    <string name="facebook_login">Log in met Facebook</string>
     <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al gekoppeld aan een andere Mi Account</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Apparaat zoeken</string>
@@ -216,9 +219,11 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="for_diagnosis_usage_only">Wordt alleen gebruikt voor het opsporen het problemen.</string>
     <string name="get_back_pwd">Wachtwoord resetten</string>
     <string name="get_device_list_failed">"Kan apparaten niet verkrijgen"</string>
+    <string name="get_identity_auth_url_failed">"Kon ID niet verifiëren"</string>
     <string name="get_phone_bind_exceed_limit">"U kunt maximaal 3 Mi Accounts aan één telefoonnummer koppelen. Kan geen nieuwe meer accounts toevoegen."</string>
     <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
     <string name="google">Google</string>
+    <string name="google_login">Meld u aan met Google</string>
     <string name="guest_account_label">Mi Gast Account</string>
     <string name="health_action_activate">Activeren</string>
     <string name="health_action_install">Installeren</string>
@@ -261,6 +266,15 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="mipay_indentity_done">Geverifieerd</string>
     <string name="mipay_others">Overig</string>
     <string name="mipay_transit_card">Transport kaart</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Trek omlaag om te verversen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Vernieuwen gelukt</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Verversen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Loslaten om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Dat is alles voor nu"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Dat is alles voor nu"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Gewoon een seconde…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Kan items niet laden"</string>
+    <string name="mtrl_chip_close_icon_content_description">Verwijder %1$s</string>
     <string name="multi_user_not_show_sync_activity_message_1">"Het lijkt erop dat u uw Eerste ruimte Mi Account gebruikt."</string>
     <string name="multi_user_not_show_sync_activity_message_2">"In zo'n geval, zullen alle gegevens worden gesynchroniseerd met uw Tweede ruimte. Als u dit wilt voorkomen, schakel dan synchronisatie met de cloud niet in."</string>
     <string name="multi_user_not_show_sync_activity_title">"Schakel synchronisatie met de cloud niet in"</string>
@@ -384,6 +398,8 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_login_instead_reg">Gebruik dit nummer</string>
     <string name="passport_login_instead_reg_with_email">Gebruik dit e-mailadres</string>
     <string name="passport_login_other_account">Een ander account</string>
+    <string name="passport_login_other_phone">Gebruik een andere account</string>
+    <string name="passport_login_other_way">Andere manieren om in te loggen</string>
     <string name="passport_login_prompt">Alle Mi services. Eén Mi Account.</string>
     <string name="passport_login_recycle_account_no">Nee</string>
     <string name="passport_login_recycle_account_yes">Ja</string>
@@ -401,6 +417,10 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_prev">Vorige</string>
     <string name="passport_privacy_policy">Privacybeleid</string>
     <string name="passport_privacy_policy_required">Privacybeleid (vereist)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff>%2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff>%2$s</string>
+    <string name="passport_provision_input_email_register_prompt">Uw persoonlijke gegevens worden opgeslagen in overeenstemming met de wetten en regels van de regio die u kiest.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> tekens van ten minste <xliff id="min_pwd_type" refersto="2">%3$d</xliff> van de volgende soorten: letters, cijfers, speciale symbolen</string>
     <string name="passport_pwd_generate_failure">"Kon geen wachtwoord genereren"</string>
     <string name="passport_pwd_generating">Genereren…</string>
     <string name="passport_querying_phone_info">Accountgegevens opvragen…</string>
@@ -437,6 +457,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_register_restricted_title">"Kan dit telefoonnummer niet gebruiken"</string>
     <string name="passport_register_using_other_ways">Andere manieren om account te maken</string>
     <string name="passport_registered_phone_num">Telefoon: %s</string>
+    <string name="passport_registered_phone_num_v2">Telefoon nummer</string>
     <string name="passport_registered_phone_user_ID">Gebruikers-ID: %s</string>
     <string name="passport_registered_phone_user_name">Gebruikersnaam: %s</string>
     <string name="passport_reject_recycle_account">Nee</string>
@@ -483,8 +504,15 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_trust_device">Dit apparaat toevoegen aan geverifieerde apparaten</string>
     <string name="passport_trying_read_verify_code_sms">Verificatiecode ophalen…</string>
     <string name="passport_uplink_reg">Gebruik telefoonnummer</string>
+    <string name="passport_uplink_send_sms_hint">"Tik op \"Verzenden\" nadat je doorverwezen bent naar de pagina met een samengesteld bericht."</string>
     <string name="passport_uplink_slot1_reg">Gebruik sim 1</string>
     <string name="passport_uplink_slot2_reg">Gebruik sim 2</string>
+    <string name="passport_uplink_sms_send_cancel">Verzenden van uplink SMS geannuleerd</string>
+    <string name="passport_uplink_sms_send_confirm">Verzonden</string>
+    <string name="passport_uplink_sms_send_failed">"Kon uplink SMS niet verifiëren"</string>
+    <string name="passport_uplink_sms_sending">Betaald bericht wordt verzonden…</string>
+    <string name="passport_uplink_suggest_dialog_msg">"Kon geen code ontvangen. In plaats daarvan een betaalde uplink SMS gebruiken?"</string>
+    <string name="passport_uplink_suggest_dialog_title">Aandacht</string>
     <string name="passport_use_generated_pwd_message">Zorg ervoor dat u uw wachtwoord onthoudt. U kunt deze gebruiken om u bij andere Mi-services aan te melden.</string>
     <string name="passport_use_generated_pwd_title">Onthoud uw wachtwoord!</string>
     <string name="passport_user_agreement">Gebruikersovereenkomst</string>
@@ -506,6 +534,9 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_wrong_voice">De code die u hebt ingevoerd is incorrect</string>
     <string name="passport_wx_bind_account_limit">"Kan momenteel geen account creëren. Probeer een andere aanmeldmethode."</string>
     <string name="passport_yes">Ja</string>
+    <string name="password_toggle_content_description">Toon wachtwoord</string>
+    <string name="password_view_hide_password">Wachtwoord verbergen</string>
+    <string name="password_view_show_password">Toon wachtwoord</string>
     <string name="permission_group_contacts">Contacten</string>
     <string name="permission_group_phone">Telefoon</string>
     <string name="permission_group_sms">Sms</string>
@@ -513,6 +544,9 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
     <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
     <string name="preference_copied">\'%1$s\' is gekopieerd naar het klembord.</string>
+    <string name="provision_back">Achterzijde</string>
+    <string name="provision_next">Volgende</string>
+    <string name="provision_skip_underline">Overslaan</string>
     <string name="push_notification_content">Verificatiecode ophalen</string>
     <string name="push_notification_title">U heeft zich op een onbekend apparaat aangemeld op uw Mi Account</string>
     <string name="push_notify_dialog_message">"Een onbekend apparaat is gebruikt om aan te melden op uw Mi Account. Vul deze verificatiecode in op het apparaat. Als u dit niet bent, verander dan onmiddellijk het wachtwoord van uw Mi Account. Geef uw verificatiecode niet aan derden."</string>
@@ -599,5 +633,6 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="vip_account_settings">VIP-instellingen</string>
     <string name="vip_settings_info">VIP-instellingen</string>
     <string name="weixin">WeChat</string>
+    <string name="weixin_login">Meld u aan met WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
