@@ -1355,12 +1355,14 @@ para personalizar la Galería"</string>
     <string name="new_relation_invalid_prefix">"Los nombres de grupo no pueden empezar con “.” o “_”"</string>
     <string name="next">Siguiente</string>
     <string name="night">Noche</string>
+    <string name="no">No</string>
     <string name="no_ignore_faces">No hay nadie aquí</string>
     <string name="no_map_app">No se ha encontrado ninguna aplicación para esta acción</string>
     <string name="no_network_connect">"No se pudo completar. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="no_network_connected">No hay conexión de red</string>
     <string name="noon">Mediodía</string>
     <string name="not_ask_any_more">"No preguntar de nuevo por \"%s\" respuestas"</string>
+    <string name="not_is">No</string>
     <string name="not_remind_again">"No mostrar de nuevo"</string>
     <string name="not_remind_any_more">"No mostrar de nuevo"</string>
     <string name="not_set">Sin definir</string>
@@ -1387,6 +1389,7 @@ para personalizar la Galería"</string>
     <string name="ok">Aceptar</string>
     <string name="onekey_auto">Automático</string>
     <string name="onekey_food">Comida</string>
+    <string name="onekey_none">Original</string>
     <string name="onekey_portrait">Retrato</string>
     <string name="onekey_scene">Paisaje</string>
     <string name="online_video_error_unknown">Ocurrió un error de reproducción en línea. En su lugar, descargó el artículo.</string>
@@ -1491,6 +1494,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_editor_adjust">Ajuste</string>
     <string name="photo_editor_beautify">Modo belleza</string>
     <string name="photo_editor_beautify_auto">Automático</string>
+    <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_common_download_failed">"No se pudo descargar el complemento. Verifique la configuración de su red e intentelo de nuevo."</string>
     <string name="photo_editor_common_download_finish">Complemento descargado con éxito</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Parece que no está conectado a la red Wi-Fi. ¿Descargar complemento (%1$d MB) usando datos móviles?"</string>
