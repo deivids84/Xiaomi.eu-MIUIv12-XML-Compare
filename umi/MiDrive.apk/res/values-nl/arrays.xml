@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>Voor het inloggen via Mi Account</item>
+        <item>Voor het previewen, uploaden, downloaden en synchroniseren van bestanden</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Voor het inloggen via Mi Account</item>
+        <item>Voor het previewen, uploaden, downloaden en synchroniseren van bestanden</item>
+        <item>Voor het opsporen van beschikbare updates</item>
+    </string-array>
+</resources>
