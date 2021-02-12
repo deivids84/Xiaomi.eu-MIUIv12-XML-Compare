@@ -6,6 +6,7 @@
     <string name="app_version_which_call">App-versie: %s</string>
     <string name="autoconnect">Automatisch verbinden</string>
     <string name="ime_privacy_policy">Kies toetsenbord</string>
+    <string name="legal_written_offer">Geschreven aanbod</string>
     <string name="license_host_unreachable">"Kon niet verbinden met het netwerk. Om deze informatie nu te kunnen bekijken, 
 ga naar %s op een ander verbonden apparaat."</string>
     <string name="loading">Een ogenblik geduld…</string>
