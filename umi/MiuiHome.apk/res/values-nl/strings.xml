@@ -214,6 +214,7 @@
     <string name="default_folder_title_services">Services</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Hulpmiddelen</string>
+    <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
     <string name="default_screen_preview_title">Standaardscherm instellen</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Verwijderen</string>
@@ -222,7 +223,13 @@
     <string name="delete_screen">Scherm verwijderen</string>
     <string name="delete_wallpaper_message">%1$d achtergrond verwijderen?</string>
     <string name="deselect_all">Alles deselecteren</string>
+    <string name="dialog_work_profile_button_1">Volgende</string>
+    <string name="dialog_work_profile_button_2">Ik snap het</string>
+    <string name="dialog_work_profile_content_1">Persoonlijke gegevens zijn gescheiden &amp; verborgen van werkapps</string>
+    <string name="dialog_work_profile_content_2">Werkapps &amp; gegevens zijn zichtbaar voor uw IT-beheerder</string>
+    <string name="dialog_work_profile_title">Werk profiel</string>
     <string name="disable_wallpaper_scroll">Achtergrond scrollen uitschakelen</string>
+    <string name="double_tap_to_lock_title">Dubbeltikken om scherm te vergrendelen</string>
     <string name="download_action">Downloaden</string>
     <string name="drawer_background">Achtergronden</string>
     <string name="drawer_background_dark">Donker</string>
@@ -314,6 +321,7 @@
     <string name="guide_install_app_msg">"Deze app is niet op uw apparaat geïnstalleerd. De app nu zoeken en installeren?"</string>
     <string name="guide_install_app_title">App zoeken en installeren?</string>
     <string name="guide_tips_editing_mode">Druk en ingedrukt houden om een widget op te pakken</string>
+    <string name="hide_apps_title">App pictogrammen verbergen</string>
     <string name="home_gesture_content_center">Inhoudscentrum</string>
     <string name="home_gesture_global_search">Zoeken</string>
     <string name="home_gesture_no_action">Geen</string>
@@ -336,12 +344,15 @@
     <string name="launcher_icon_management">Startscherm snelkoppelingen beheren</string>
     <string name="launcher_not_exist">Er is een fout opgetreden, ga terug naar het Startscherm en probeer het opnieuw.</string>
     <string name="launcher_pull_down_title">Veeg omlaag op het Startscherm</string>
+    <string name="launcher_search_bar_provider_title">Zoekbalk provider</string>
     <string name="launcher_search_bar_title">Startscherm zoekbalk</string>
     <string name="launcher_search_bar_value_disable">Uitschakelen</string>
     <string name="launcher_search_bar_value_enable">Aanzetten</string>
+    <string name="launcher_slide_up_search_provider_title">Veeg omhoog zoek provider</string>
     <string name="launcher_slide_up_title">Veeg omhoog op het Startscherm</string>
     <string name="launcher_sliding_up_gesture">Veeg omhoog op het Startscherm om zoeken te openen</string>
     <string name="launcher_title">Startscherm en Recent</string>
+    <string name="lib_name">Filament Android</string>
     <string name="like">Toevoegen aan favorieten</string>
     <string name="liked">Toegevoegd aan favorieten</string>
     <string name="loading_desktop">Een ogenblik geduld…</string>
@@ -524,6 +535,8 @@
     <string name="reset_fail">"Kon niet herstellen"</string>
     <string name="reset_scene_prompt">Scherm zal hersteld worden naar de standaard lay-out.</string>
     <string name="reset_title">Herstellen</string>
+    <string name="resource_canary_leak_tip">het heeft gelekt!</string>
+    <string name="resource_canary_wait_for_heapdump_message">Knipsel momentopname...</string>
     <string name="restore_icon_successful">Succesvol toegevoegd</string>
     <string name="screen_cells_config_title">Startscherm lay-out</string>
     <string name="screen_locked_toast">Startscherm lay-out is vergrendeld.</string>
