@@ -4,6 +4,26 @@
         <item quantity="other">%1$d dagen geleden</item>
         <item quantity="one">%1$d dag geleden</item>
     </plurals>
+    <plurals name="download_done_info_for_sys_content">
+        <item quantity="other">%1$d items succesvol gedownload</item>
+        <item quantity="one">%1$d item succesvol gedownload</item>
+    </plurals>
+    <plurals name="download_fail_info_for_sys_content">
+        <item quantity="other">"Kan %1$d items niet downloaden"</item>
+        <item quantity="one">"Kan %1$d item niet downloaden"</item>
+    </plurals>
+    <plurals name="downloading_info_for_sys_title">
+        <item quantity="other">Downloaden… %1$d items over (%2$s%%)</item>
+        <item quantity="one">Downloaden… %1$d item over (%2$s%%)</item>
+    </plurals>
+    <plurals name="exception_copy_delete">
+        <item quantity="other">"Sommige items ontbreken. Kan %1$d items niet kopiëren."</item>
+        <item quantity="one">"Sommige items ontbreken. Kan item %1$d niet kopiëren."</item>
+    </plurals>
+    <plurals name="exception_move_delete">
+        <item quantity="other">"Sommige items ontbreken. Kon %1$d items niet verplaatsen."</item>
+        <item quantity="one">"Sommige items ontbreken. Kan %1$d item niet verplaatsen."</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d uur geleden</item>
         <item quantity="one">%1$d uur geleden</item>
@@ -11,5 +31,37 @@
     <plurals name="mins_ago">
         <item quantity="other">%1$d minuten geleden</item>
         <item quantity="one">%1$d minuut geleden</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%2$d items die \"%1$s \" bevatten</item>
+        <item quantity="one">%2$d item met \"%1$s\"</item>
+    </plurals>
+    <plurals name="setting_file_list_item_desc">
+        <item quantity="other">%1$d items +unnamed@@0 %2$s × %3$s</item>
+        <item quantity="one">%1$d item +unnamed@@0 %2$s × %3$s</item>
+    </plurals>
+    <plurals name="setting_list_folder_item_desc">
+        <item quantity="other">%1$d items Litouws %2$s</item>
+        <item quantity="one">%1$d item +unnamed@@0 %2$s</item>
+    </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%1$d artikelen</item>
+        <item quantity="one">%1$d artikel</item>
+    </plurals>
+    <plurals name="upload_done_info_for_sys_content">
+        <item quantity="other">%1$d items succesvol geüpload</item>
+        <item quantity="one">%1$d item succesvol geüpload</item>
+    </plurals>
+    <plurals name="upload_fail_info_for_sys_content">
+        <item quantity="other">"Kon %1$d items niet uploaden"</item>
+        <item quantity="one">"Kon %1$d item niet uploaden"</item>
+    </plurals>
+    <plurals name="uploading_info_for_sys_title">
+        <item quantity="other">Uploaden… %1$d items over (%2$s%%)</item>
+        <item quantity="one">Uploaden… %1$d item over (%2$s%%)</item>
+    </plurals>
+    <plurals name="view_all">
+        <item quantity="other">1$d items</item>
+        <item quantity="one">%1$d artikel</item>
     </plurals>
 </resources>
