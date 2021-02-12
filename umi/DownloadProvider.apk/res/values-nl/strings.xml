@@ -1,25 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Downloads</string>
+    <string name="auto_restart_under_wifi">Wi-Fi zal dit bestand automatisch downloaden</string>
     <string name="button_cancel_download">Annuleren</string>
+    <string name="button_download_now">Nu downloaden</string>
     <string name="button_queue_for_wifi">Wachtrij</string>
     <string name="button_start_now">Nu starten</string>
+    <string name="button_wait_for_wifi">Wachten</string>
+    <string name="channel_active">Actieve download</string>
+    <string name="channel_complete">Download voltooid</string>
+    <string name="channel_insufficient_space">Onvoldoende ruimte</string>
+    <string name="channel_waiting">Download wachten</string>
+    <string name="dialog_button_cancel">annuleren</string>
+    <string name="dialog_button_ok">Ok</string>
+    <string name="dialog_content_limit0">Downloads beperken</string>
+    <string name="dialog_content_limit_max">Onbeperkt</string>
+    <string name="dialog_data_limit_button1">Wachten op Wi-Fi</string>
+    <string name="dialog_data_limit_button2">downloaden</string>
+    <string name="dialog_data_limit_msg1">%s van mobiele data wordt gebruikt om dit bestand te downloaden. Nu downloaden?</string>
+    <string name="dialog_data_limit_msg3">Limiet wijzigen</string>
+    <string name="dialog_data_limit_title">Waarschuwing voor gegevensgebruik</string>
     <string name="dialog_insufficient_space_on_cache">Kan download niet voltooien, niet genoeg interne opslagruimte over.</string>
     <string name="dialog_insufficient_space_on_external">Kan download niet voltooien, niet genoeg externe opslagruimte over.</string>
+    <string name="dialog_not_show_again">"Niet meer weergeven"</string>
+    <string name="dialog_tip_limit">Waarschuw bij het downloaden van bestand groter dan %s</string>
+    <string name="dialog_tip_limit0">Telkens waarschuwen</string>
+    <string name="dialog_tip_no_limit">"Waarschuw niet"</string>
+    <string name="download_apk_desktop_installing">Installeren</string>
+    <string name="download_apk_desktop_pause">Gepauzeerd</string>
+    <string name="download_apk_desktop_pending">Lopende</string>
+    <string name="download_apk_desktop_running">Downloaden</string>
     <string name="download_error">Kon niet downloaden</string>
     <string name="download_no_application_title">"Kan bestand niet openen"</string>
     <string name="download_queued">In wachtrij</string>
     <string name="download_remaining">%s resterend</string>
     <string name="download_running">Aan het downloaden</string>
     <string name="download_unknown_title">&lt;Naamloos&gt;</string>
+    <string name="enter_garbage_clean">Opschonen interne opslag.</string>
     <string name="insufficient_space">"Onvoldoende opslagruimte"</string>
+    <string name="mobile_recommended_title">Mobiel gegevensgebruik</string>
+    <string name="notif_text_engine_off">Xunlei versneller staat uit.</string>
+    <string name="notif_text_engine_on">Versnellen…</string>
     <string name="notif_title_file_size">%1$d totaal</string>
+    <string name="notif_title_multiple_downloading">%1$d bestanden downloaden</string>
     <string name="notif_title_single_downloading">%1$s downloaden</string>
     <string name="notification_download_complete">Met succes gedownload.</string>
     <string name="notification_download_failed">Kon items niet downloaden.</string>
+    <string name="notification_download_success_more">%1$d gedownload</string>
     <string name="notification_need_wifi_for_size">Downloadgrootte vereist wifi.</string>
     <string name="notification_paused_in_background">Gepauzeerd op achtergrond.</string>
     <string name="notify_disabled_net_by_app">Internettoegang beperkt</string>
+    <string name="notify_install_guide_forward_text">Open</string>
+    <string name="notify_install_guide_msg">Succesvol geïnstalleerd</string>
+    <string name="notify_install_guide_title">%s succesvol geïnstalleerd</string>
     <string name="notify_only_wifi_download">Wachten op wifi</string>
     <string name="paused_waiting_for_network">Wachten op netwerk</string>
     <string name="permdesc_accessAllDownloads">Hiermee kan de app alle downloads bekijken en wijzigen die door andere apps zijn begonnen.</string>
@@ -36,10 +69,21 @@
     <string name="permlab_downloadManagerAdvanced">Geavanceerde functies van Downloads.</string>
     <string name="permlab_downloadWithoutNotification">Bestanden downloaden zonder melding</string>
     <string name="permlab_seeAllExternal">Bekijk alle downloads naar USB-opslag</string>
+    <string name="privacy_notif_content">Tik om details te bekijken.</string>
+    <string name="privacy_notif_title">Xunlei Download Accelerator is ingeschakeld</string>
     <string name="privacy_tip_cancel">Annuleren</string>
+    <string name="privacy_tip_content">"Gebruik Xunlei Accelerator om de downloads te versnellen? De URL van de download-host zal worden geüpload naar de servers van Xunlei. Je Mi Accountgegevens worden ook geüpload om te controleren of je actieve abonnementen op deze dienst hebt."</string>
     <string name="privacy_tip_ok">OК</string>
+    <string name="privacy_tip_title">Xunlei Versneller gebruiken?</string>
+    <string name="recommended_file_size_download_in_mobile">%s van mobiele data gebruiken om dit bestand te downloaden?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Uw mobiele data verbinding gebruiken om dit bestand te downloaden?</string>
     <string name="root_downloads">Downloads</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="task_already_exist">Taak bestaat al</string>
+    <string name="warning_tip_cancel">downloaden</string>
+    <string name="warning_tip_content">"Je bent niet langer verbonden met Wi-Fi. Gebruik van je mobiele gegevensverbinding om deze download te voltooien, verhoogt je gegevensgebruik. Als je de datalimiet van je abonnement overschrijdt, kan je provider je extra kosten in rekening brengen."</string>
+    <string name="warning_tip_ok">Onderbreken</string>
+    <string name="warning_tip_title">Waarschuwing voor gegevensgebruik</string>
     <string name="wifi_recommended_body">"Het nu starten van deze %1$s download kan het leven van uw batterij verkorten en/of resulteren in een excessief gebruik van uw mobiele dataverbinding, wat, afhankelijk van uw abonnement, kan leiden tot kosten.
 
 Tik %2$s om deze download te starten wanneer u de volgende keer met wifi bent verbonden."</string>
@@ -48,4 +92,8 @@ Tik %2$s om deze download te starten wanneer u de volgende keer met wifi bent ve
 
 Tik%2$s om deze download te starten als u de volgende keer met een wifi-netwerk verbonden bent."</string>
     <string name="wifi_required_title">Dit bestand is te groot om te downloaden met behulp van mobiele data</string>
+    <string name="xl_speedup_experience_notify_context">"Snelheid is een boost voor elke download wanneer je een Xunlei lid bent"</string>
+    <string name="xl_speedup_experience_notify_title">Xunlei lidmaatschap</string>
+    <string name="xl_speedup_notify_button_experience">Probeer gratis</string>
+    <string name="xl_speedup_notify_button_member">Word lid</string>
 </resources>
