@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="accessibility_speakerphone_enabled">Luidspreker staat aan</string>
+    <string name="alert_place_outgoing_call_with_redirection">Oproep omleiden met %1$s</string>
+    <string name="alert_place_unredirect_outgoing_call">Oproep met mijn telefoonnummer</string>
+    <string name="alert_redirect_outgoing_call_or_not">Kies hoe u deze oproep wilt plaatsen</string>
+    <string name="alert_redirect_outgoing_call_timeout">"Oproep kan niet worden geplaatst door %1$s. Probeer een andere app voor doorsturen van oproepen of neem contact op met de ontwikkelaar voor hulp."</string>
+    <string name="blocked_numbers_butter_bar_title">Blokkeerlijst is uitgeschakeld</string>
+    <string name="cant_call_due_to_no_supported_service">"Kan niet bellen omdat er geen aanroepen accounts zijn die oproepen van dit type ondersteunen."</string>
+    <string name="cant_call_due_to_ongoing_call">"Kan niet bellen vanwege uw %1$s oproep."</string>
+    <string name="cant_call_due_to_ongoing_calls">"Kan niet bellen. Beëindig eerst uw %1$s gesprekken."</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">"Kan niet bellen vanwege een oproep in een andere app."</string>
+    <string name="change_default_call_screening_dialog_affirmative">Instellen als standaard</string>
+    <string name="change_default_call_screening_dialog_negative">annuleren</string>
+    <string name="change_default_call_screening_dialog_title">Maak %s je standaard app voor oproepscreening?</string>
+    <string name="change_default_call_screening_warning_message">%s kan informatie over bellers zien die niet in uw contacten staan en kan deze oproepen blokkeren. Alleen apps die u vertrouwt, moeten worden ingesteld als de standaard gespreksscreening-app.</string>
+    <string name="change_default_call_screening_warning_message_for_disable_old_app">%s zal niet langer in staat zijn om oproepen te screenen.</string>
+    <string name="change_default_dialer_dialog_affirmative">Instellen als standaard</string>
+    <string name="developer_title">Telecom ontwikkelaar menu</string>
+    <string name="duplicate_video_call_not_allowed">"Kan niet meer oproepen toevoegen"</string>
+    <string name="notification_channel_call_blocking">Blokkeren van oproepen</string>
+    <string name="outgoing_call_not_allowed_no_permission">"Deze app kan geen uitgaande oproepen starten zonder de vereiste machtigingen."</string>
+    <string name="phone_settings_call_blocking_txt">Blokkeren van oproepen</string>
+    <string name="phone_settings_number_not_in_contact_summary_txt">"Blokkeer nummers die niet in je contacten staan"</string>
+    <string name="phone_settings_number_not_in_contact_txt">Nummers niet in contacten</string>
+    <string name="phone_settings_payphone_summary_txt">Oproepen van betaaltelefoons blokkeren</string>
+    <string name="phone_settings_payphone_txt">Telefoon betalen</string>
+    <string name="phone_settings_private_num_summary_txt">"Blokkeer bellers die hun nummer niet openbaar maken"</string>
+    <string name="phone_settings_private_num_txt">Privé</string>
+    <string name="phone_settings_unknown_summary_txt">Blokkeer oproepen van niet geïdentificeerde bellers</string>
+    <string name="phone_settings_unknown_txt">onbekend</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Blokkeren van oproepen uit</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Blokkeren van oproepen</string>
+    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Het blokkeren van oproepen is uitgeschakeld om noodresponders toe te staan contact met je op te nemen.</string>
+    <string name="phone_strings_emergency_call_made_dialog_title_txt">Genoemde noodoproepen</string>
+    <string name="respond_via_sms_failure_format">"Kan bericht niet verzenden naar %s."</string>
+    <string name="telecommAppLabel">Gesprekken beheren</string>
+</resources>
