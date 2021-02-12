@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="about_extreme_mode">Extreme batterijbesparing</string>
     <string name="about_hide_mode">Over App batterijbesparing</string>
+    <string name="accessibility_service_description">Batterij spaarstand</string>
     <string name="active_classify">Sorteer bij activiteiten</string>
     <string name="adaptive_battery_summary">"Beperk batterijgebruik van apps die u niet vaak gebruikt"</string>
     <string name="adaptive_battery_title">Gebruik Flexibele Batterij</string>
@@ -42,6 +43,10 @@
     <string name="atrace_start">A-trace log aan het opnemen…</string>
     <string name="base_info">Basisinfo</string>
     <string name="cloud_addr_info">Cloud info</string>
+    <string name="cloud_china_addr">Chinese servergegevens bijwerken</string>
+    <string name="cloud_international_addr">Internationale servergegevens bijwerken</string>
+    <string name="cloud_russion_addr">Update server data</string>
+    <string name="cloud_staging_addr">Update staging server data</string>
     <string name="config_classify">Sorteer bij app instellingen</string>
     <string name="config_description">"MIUI kan apps identificeren met specifieke achtergrondprocessen (bijv. berichten- en navigatieapps, mediaspelers) en Batterijbesparing toepassen op een manier die geen belangrijke achtergrondactiviteit beïnvloedt."</string>
     <string name="config_mode_title">Achtergrondinstellingen</string>
@@ -58,6 +63,7 @@ Batterijbesparing zal belangrijke apps selectief behandelen."</string>
     <string name="config_suggest_suffix_title">Batterijbesparing (aanbevolen)</string>
     <string name="confirm">OК</string>
     <string name="copy">Kopiëren</string>
+    <string name="current_cloud_addr_is">Cloud control server adres is:</string>
     <string name="empty_title_apps_container_list">Geen apps</string>
     <string name="enable_sleep_mode">Schakel de Slaapmodus in om het batterijgebruik in de nacht te optimaliseren</string>
     <string name="error_filename_too_long">De ingegeven bestandsnaam is te lang.</string>
@@ -144,6 +150,8 @@ Batterijbesparing zal belangrijke apps selectief behandelen."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sucess">Klaar</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="update_profile_failture_not_connect_wifi">"Kan niet bijwerken. Maak verbinding met Wi-Fi en probeer het opnieuw."</string>
+    <string name="update_profile_sucess">Succesvol bijgewerkt van server</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="vip_feedback">VIP-feedback</string>
