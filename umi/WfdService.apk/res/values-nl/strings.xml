@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wfd Service</string>
+    <string name="channel_name">WFD service</string>
+    <string name="notif_text">Schermkopie is ingeschakeld</string>
+    <string name="notif_title">Draadloze display</string>
     <string name="perm_desc">Qualcomm Wi-Fi Display Stack APIs</string>
     <string name="perm_label">QC Wi-Fi Display Stack</string>
 </resources>
