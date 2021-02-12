@@ -43,6 +43,7 @@
     <string name="base_rate">Tasa de interés base</string>
     <string name="bmi_error_text">"Este IMC no parece correcto. Asegúrese de que la altura y el peso que ha introducido son correctos."</string>
     <string name="bmi_label_information">Información</string>
+    <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Sobrepeso</string>
     <string name="bmi_label_underweight">Bajo de peso</string>
     <string name="bmi_over_weight">Sobrepeso</string>
