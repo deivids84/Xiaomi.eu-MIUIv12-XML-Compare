@@ -36,6 +36,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d jaar oud)"</item>
+        <item quantity="one">" (%1$d jaar oud)"</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>
         <item quantity="one">%1$d-%2$d time</item>
@@ -116,6 +120,10 @@
         <item quantity="other">%1$d hrs</item>
         <item quantity="one">%1$d hr</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d seconden resterend</item>
+        <item quantity="one">%1$d seconde resterend</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Binnen 1 uur</item>
         <item quantity="other">Binnen 1 uur</item>
@@ -131,6 +139,14 @@
     <plurals name="in_num_minutes">
         <item quantity="other">in %d minuten</item>
         <item quantity="one">in 1 minuut</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d dagen sinds laatste gewicht</item>
+        <item quantity="one">%1$d dag sinds laatste gewicht</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d dagen sinds laatste gewicht</item>
+        <item quantity="one">%1$d dag sinds laatste gewicht</item>
     </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d meters</item>
@@ -168,6 +184,10 @@
         <item quantity="other">%1$d mins ago</item>
         <item quantity="one">%1$d min ago</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
@@ -179,6 +199,74 @@
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
         <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
+    </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">%s meer Calorieën over om te verbranden tot je je doel bereikt hebt</item>
+        <item quantity="one">%s meer Calorie over om te verbranden tot je je doel bereikt hebt</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Nog %s kilometer tot je je doel bereikt hebt</item>
+        <item quantity="one">Nog %s kilometer over tot je je doel bereikt hebt</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Nog %s minuten tot je je doel bereikt hebt</item>
+        <item quantity="one">Nog %s minuten over tot je je doel bereikt hebt</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"U schakelt %s kilometer"</item>
+        <item quantity="one">"U schakelt %s kilometer af"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"Je loopt %s kilometer"</item>
+        <item quantity="one">"Je hebt %s kilometer gelopen"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"Je hebt %s Calorieën verbrand"</item>
+        <item quantity="one">"Je hebt %s Calorie verbrand"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"Je hebt %s kilometer gelopen"</item>
+        <item quantity="one">"Je hebt %s kilometer gelopen"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Je hebt al %1$s Calorieën gelopen"</item>
+        <item quantity="one">"Je hebt %1$s Calorie al verbrand"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Je bent al %1$s kilometer fietsen"</item>
+        <item quantity="one">"Je hebt %1$s kilometer al fietsen"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"U bent al %1$s kilometer gerend"</item>
+        <item quantity="one">"Je hebt al %1$s kilometer gelekt"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d seconden</item>
+        <item quantity="one">%1$d seconde</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Je hebt al %1$s kilometer gelopen"</item>
+        <item quantity="one">"Je hebt al %1$s kilometer gelopen"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Je hebt al %1$s stappen gelopen"</item>
+        <item quantity="one">"Je hebt al %1$s stap gelopen"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Calorieën</item>
+        <item quantity="one">%1$d Calorie</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">stappen</item>
+        <item quantity="one">stap</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d stappen</item>
