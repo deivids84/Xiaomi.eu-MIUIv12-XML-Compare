@@ -100,6 +100,7 @@
     <string name="alipay_sdk_payed_success">Pagado con éxito</string>
     <string name="alipay_sdk_tiemout">Sesión caducada. Vuelve a iniciar sesión.</string>
     <string name="all_function_title">Todos los atajos</string>
+    <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="already">Completado:</string>
     <string name="am">AM</string>
     <string name="announce_for_drag">Arrastrando un elemento</string>
