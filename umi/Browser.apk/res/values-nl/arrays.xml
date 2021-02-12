@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="pref_fling_gesture_entries">
         <item>Pagina verder/terug</item>
         <item>Tabbladen wisselen</item>
@@ -16,7 +75,7 @@
     <string-array name="pref_navscreen_layoutstate_choices">
         <item>Verticale weergave</item>
         <item>Horizontale weergave</item>
-        <item>Horizontal view</item>
+        <item>Horizontale weergave</item>
     </string-array>
     <string-array name="pref_tab_restore_array">
         <item>Altijd vragen</item>
@@ -35,6 +94,10 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Bladwijzers</item>
+        <item>Geschiedenis</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Verwijderen</item>
