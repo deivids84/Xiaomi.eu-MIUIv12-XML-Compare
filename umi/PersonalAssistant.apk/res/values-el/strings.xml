@@ -462,7 +462,7 @@
     <string name="authorize_button">Αποδοχή</string>
     <string name="baidu_map">Χάρτες Baidu</string>
     <string name="ball_dialog_confirm">Εγκατάσταση</string>
-    <string name="ball_dialog_content">Εγκαταστήστε HuPu Sports για χρήση της λειτουργίας αυτής. Εγκατάσταση τώρα;</string>
+    <string name="ball_dialog_content">Εγκαταστήστε %s για να χρησιμοποιήσετε αυτήν τη δυνατότητα. Εγκατάσταση τώρα;</string>
     <string name="ball_dialog_tip">"Να μην εμφανιστεί ξανά"</string>
     <string name="ball_dialog_title">Εγκατάσταση της εφαμρογής πρώτα.</string>
     <string name="ball_football_recent_ing">Σε εξέλιξη</string>
