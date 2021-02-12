@@ -14,6 +14,65 @@
         <item>Nov</item>
         <item>Dec</item>
     </string-array>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_chars2">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Vanavond</item>
         <item>Morgen</item>
@@ -28,6 +87,10 @@
         <item>Normaal</item>
         <item>Groot</item>
         <item>Zeer groot</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>factuur</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Recent bekeken</item>
@@ -50,6 +113,23 @@
         <item>Alle</item>
         <item>Alleen afzenders</item>
     </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Werkruimte:</item>
+        <item>Email:</item>
+        <item>mobiel:</item>
+        <item>Telefoonnummer:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mailadres:</item>
+        <item>Telefoon:</item>
+        <item>Fax:</item>
+        <item>E-mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adres:</item>
         <item>Tel:</item>
@@ -59,6 +139,15 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Postcode:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Disclaimer:</item>
+        <item>E-mail disclaimer</item>
+        <item>Verzonden via WPSMail</item>
+        <item>Verzonden vanaf</item>
+        <item>Verzonden met</item>
+        <item>Bedankt,</item>
+        <item>Met vriendelijke groeten</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Bedankt,</item>
