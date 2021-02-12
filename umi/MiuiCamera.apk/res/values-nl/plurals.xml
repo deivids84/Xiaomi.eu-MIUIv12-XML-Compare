@@ -36,6 +36,14 @@
         <item quantity="other">%1$s min.</item>
         <item quantity="one">%1$s min.</item>
     </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Registreer %d seconden</item>
+        <item quantity="one">Registreer %d seconde</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Je kunt met maximaal %d onderwerpen op tijd bevriezen van video\'s.</item>
+        <item quantity="one">Je kunt alleen video\'s bevriezen met tijd met %d onderwerp.</item>
+    </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s foto\'s</item>
         <item quantity="one">%1$s foto</item>
