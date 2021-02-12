@@ -27,5 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="close">Afsluiten</string>
+    <string name="close_hit_again">Druk nogmaals om het scherm te verlaten</string>
+    <string name="important_ration_info">Belangrijke informatie</string>
+    <string name="no_important_ration_info">Foutopsporing informatie</string>
+    <string name="qr_load">Laden... Een ogenblik geduld...</string>
+    <string name="qualitative_info">Kwalitatieve informatie</string>
+    <string name="qualitative_title">Consistentie informatie</string>
+    <string name="ration_title">ID lesinformatie</string>
     <string name="search_menu_title">Zoeken</string>
 </resources>
