@@ -52,6 +52,10 @@
         <item quantity="other">%1$d dagen hiervoor</item>
         <item quantity="one">%1$d dag hiervoor</item>
     </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s mappen</item>
+        <item quantity="one">Map %1$s</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">%1$s notities verwijderd uit de map</item>
         <item quantity="one">%1$s notitie verwijderd uit de map</item>
@@ -80,9 +84,17 @@
         <item quantity="other">in %d minuten</item>
         <item quantity="one">in 1 minuut</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s items</item>
+        <item quantity="one">%1$s item</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Zojuist</item>
         <item quantity="other">Zojuist</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s notities</item>
+        <item quantity="one">%1$s notitie</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
