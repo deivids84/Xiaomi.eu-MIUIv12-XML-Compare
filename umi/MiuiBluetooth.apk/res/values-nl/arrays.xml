@@ -28,6 +28,16 @@
         <item>Mi VR</item>
         <item>Xiaomi Wear</item>
     </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Trillen bij bellen</item>
+        <item>Trillen bij ontvangen bericht</item>
+        <item>Trillen bij alarm</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Neem een foto</item>
+        <item>Telefoon zoeken</item>
+        <item>Vind Mi-key</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Gebruik systeemvoorkeur (Standaard)</item>
         <item>16 bits/sample</item>
