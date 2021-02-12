@@ -23,6 +23,11 @@
         <item>Grootte</item>
         <item>Naam</item>
     </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>Grootte</item>
+        <item>Frequentie gebruik</item>
+        <item>Installatie tijd</item>
+    </string-array>
     <string-array name="wechat_sort">
         <item>Datum</item>
         <item>Grootte</item>
