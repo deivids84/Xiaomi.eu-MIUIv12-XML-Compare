@@ -36,9 +36,29 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">%1$d nieuwe foto\'s gevonden</item>
+        <item quantity="one">%1$d nieuwe foto gevonden</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Een half uur geleden</item>
         <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d uur geleden</item>
+        <item quantity="one">%1$d uur geleden</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Binnen 1 uur</item>
@@ -60,9 +80,17 @@
         <item quantity="one">Zojuist</item>
         <item quantity="other">Zojuist</item>
     </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d items geselecteerd</item>
+        <item quantity="one">%1$d item geselecteerd</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
