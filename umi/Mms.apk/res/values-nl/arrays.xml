@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Naam</item>
         <item>Roepnaam</item>
@@ -14,6 +73,11 @@
         <item>Notitie</item>
         <item>Relatie</item>
     </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Promotionele berichten van %s</item>
+        <item>Vervoerder serviceberichten van %s</item>
+        <item>Financiële berichten van %s</item>
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maximum</item>
         <item>2 dagen</item>
@@ -26,10 +90,64 @@
         <item>1 dag</item>
         <item>Maximum</item>
     </string-array>
+    <string-array name="message_sending_method">
+        <item>Voorgestelde berichtenservice</item>
+        <item>SMS, MMS</item>
+        <item>RCS-chat, RCS-bestandsoverdracht</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Altijd</item>
         <item>Alleen stille modus</item>
         <item>Nooit</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Nooit vragen en altijd verzenden als sms-link</item>
+        <item>Nooit vragen en nooit verzenden als sms-link</item>
+        <item>Altijd vragen</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Nooit vragen en altijd verzenden als SMS</item>
+        <item>Nooit vragen en nooit verzenden als sms</item>
+        <item>Altijd vragen</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>altijd vragen</item>
+        <item>nooit verkleinen</item>
+        <item>verander altijd de grootte van een geselecteerde optie die vervolgens wordt opgeslagen als standaardwaarde</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>altijd vragen</item>
+        <item>nooit verkleinen</item>
+        <item>verander altijd de grootte van een geselecteerde optie die vervolgens wordt opgeslagen als standaardwaarde</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
