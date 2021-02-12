@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Applicatie extensie service</string>
+    <string name="auth_activity_label">Verificatie codes</string>
+    <string name="auth_fingerprint_content">Vingerafdruk lezen…</string>
+    <string name="auth_fingerprint_content_message">Plaats je vinger op de sensor</string>
+    <string name="auth_fingerprint_content_message_error">"Kan vingerafdruk niet scannen, probeer het opnieuw"</string>
+    <string name="auth_fingerprint_title">Verifieer je vingerafdruk</string>
+    <string name="autofill_description">"MIUI kan je wachtwoorden versleutelen en opslaan zodat je ze automatisch kunt invoeren wanneer je ze nodig hebt. Xiaomi kan je versleutelde wachtwoorden niet lezen."</string>
+    <string name="autofill_hint_email_address">E-mailadres</string>
+    <string name="autofill_hint_name">naam</string>
+    <string name="autofill_hint_password">Wachtwoord</string>
+    <string name="autofill_hint_phone">Telefoon nummer</string>
+    <string name="autofill_hint_username">Gebruikersnaam</string>
+    <string name="autofill_item_activity_label">App wachtwoorden</string>
+    <string name="autofill_list_activity_label">App wachtwoorden</string>
+    <string name="autofill_list_title">Wachtwoorden beheren</string>
+    <string name="autofill_password">Wachtwoorden automatisch invoeren</string>
+    <string name="autofill_password_activity_label">Verificatie codes</string>
+    <string name="autofill_service_label">Wachtwoorden beheren</string>
+    <string name="autofill_setting_activity_label">Wachtwoorden beheren</string>
+    <string name="cancel">annuleren</string>
+    <string name="change_passwork_dialog_content">"Je hebt al een wachtwoord voor deze account opgeslagen. Het wachtwoord nu bijwerken?"</string>
+    <string name="change_passwork_dialog_title">Wachtwoord bijwerken?</string>
+    <string name="delete">Verwijderen</string>
+    <string name="invalid_package_signature">Ongeldige app-handtekening</string>
+    <string name="login_mi_account_alert">Prompt</string>
+    <string name="login_mi_account_summary">Om de wachtwoordmanager in te schakelen, moet je inloggen op het Xiaomi-account, of je nu wilt inloggen?</string>
+    <string name="ok">Ok</string>
+    <string name="password_manager">Wachtwoord beheerder</string>
+    <string name="password_manager_summary">Cloud wachtwoord manager, maak een backup naar het Xiaomi account</string>
+    <string name="save_content_tip">"De volgende items worden opgeslagen: "</string>
+    <string name="search">Zoeken</string>
+    <string name="settings_clear_data_confirmation_description">"Als je nu wachtwoorden verwijdert, moet je ze de volgende keer als je inlogt handmatig invoeren.
+Verwijder het wachtwoord?"</string>
+    <string name="settings_clear_data_confirmation_title">Wachtwoorden verwijderen</string>
+    <string name="using_miui_autofill_message">Om wachtwoorden automatisch in te voeren, MIUI slaat uw accountgegevens en wachtwoorden op uw apparaat op.</string>
+</resources>
