@@ -1,12 +1,204 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">over %d minuten</item>
+        <item quantity="one">over 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d AOD thema\'s</item>
+        <item quantity="one">%1$d AOD theme</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d lettertypen</item>
+        <item quantity="one">%1$d font</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d pictogrammen</item>
+        <item quantity="one">%1$d pictogram</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d thema\'s</item>
+        <item quantity="one">%1$d thema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Voeg %1$d items toe</item>
+        <item quantity="one">Voeg %1$d item toe</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">%1$d items aan uw account toegevoegd. Bekijk toegevoegde artikelen in uw bestellingen.</item>
+        <item quantity="one">%1$d item aan uw account toegevoegd. Bekijk toegevoegde artikelen in uw bestellingen.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"Je kunt alleen %1$d gratis items downloaden als je niet bent ingelogd (achtergronden en beltonen uitgesloten). Meld je aan om items zonder beperkingen te downloaden."</item>
+        <item quantity="one">"U kunt alleen %1$d gratis item downloaden als u niet bent ingelogd (achtergronden en beltonen uitgesloten). Meld u aan om items zonder beperkingen te downloaden."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">"%1$d artikelen zijn niet aan uw account toegevoegd"</item>
+        <item quantity="one">"%1$d item is niet toegevoegd aan uw account"</item>
+    </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">Updates voor %1$d thema\'s zijn beschikbaar</item>
+        <item quantity="one">Er is een update voor %1$d thema beschikbaar</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="other">%1$d thema\'s bijwerken</item>
+        <item quantity="one">Thema %1$d wordt bijgewerkt</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d ventilatoren</item>
+        <item quantity="one">%1$d ventilator</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d artikelen</item>
+        <item quantity="one">%1$d artikel</item>
+    </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d pictogrammen</item>
+        <item quantity="one">%1$d pictogram</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="other">%1$d meer reacties</item>
+        <item quantity="one">%1$d meer reactie</item>
+    </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s beloningen</item>
+        <item quantity="one">%s beloning</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s beloningen</item>
+        <item quantity="one">%s beloning</item>
+    </plurals>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">%d minuut geleden</item>
+    </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">Toegepast op %1$d apparaten</item>
+        <item quantity="one">Toegepast op %1$d apparaat</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="other">Updates voor %1$d iconen zijn beschikbaar</item>
+        <item quantity="one">Updates voor %1$d pictogram zijn beschikbaar</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">%1$d iconen bijwerken…</item>
+        <item quantity="one">%1$d pictogram bijwerken…</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">over 1 minuut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d reacties</item>
         <item quantity="one">%d reactie</item>
     </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">%1$d items succesvol gedownload</item>
+        <item quantity="one">%1$d item succesvol gedownload</item>
+    </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f punten</item>
+        <item quantity="one">%1$.1f punt</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s beltonen</item>
+        <item quantity="one">%1$s beltoon</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Updates beschikbaar voor %1$d thema\'s.</item>
+        <item quantity="one">Update beschikbaar voor %1$d thema.</item>
+    </plurals>
     <plurals name="theme_designer_products_count">
         <item quantity="other">%1$s producten</item>
         <item quantity="one">%1$s product</item>
+    </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Updates beschikbaar voor %1$d thema\'s</item>
+        <item quantity="one">Update beschikbaar voor %1$d thema</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Zoeken tussen %1$d apps</item>
+        <item quantity="one">Zoeken naar %1$d app</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">%1$d apps gevonden</item>
+        <item quantity="one">%1$d app gevonden</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">"Je kunt over %1$d uur gratis proberen \"%2$s\""</item>
+        <item quantity="one">"Je kunt over %1$d uur gratis proberen \"%2$s\""</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3 dagen gratis proefperiode (%1$d items over voor vandaag)</item>
+        <item quantity="one">3 dagen gratis proefperiode (%1$d item over voor vandaag)</item>
+    </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d afbeeldingen</item>
+        <item quantity="one">%1$d afbeelding</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d afbeeldingen</item>
