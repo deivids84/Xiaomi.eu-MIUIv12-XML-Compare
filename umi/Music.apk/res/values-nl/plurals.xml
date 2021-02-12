@@ -44,6 +44,42 @@ totaal %2$d nummer"</item>
         <item quantity="other">%d zelfde soort nummers</item>
         <item quantity="one">%d zelfde soort nummer</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">over %d minuten</item>
+        <item quantity="one">over 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d reacties</item>
         <item quantity="one">%d reactie</item>
@@ -86,6 +122,30 @@ Let op: Bestand wordt ook van dit apparaat verwijderd."</item>
         <item quantity="other">%d gratis downloads resterend</item>
         <item quantity="one">%d gratis download resterend</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">over 1 minuut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
+    </plurals>
     <plurals name="list_header_fans_count">
         <item quantity="other">%d volgers</item>
         <item quantity="one">%d volger</item>
@@ -105,6 +165,10 @@ Let op: Bestand wordt ook van dit apparaat verwijderd."</item>
     <plurals name="notification_download_failed_more">
         <item quantity="other">"Kon %1$d bestanden niet downloaden"</item>
         <item quantity="one">"Kon %1$d bestand niet downloaden"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d volgers</item>
