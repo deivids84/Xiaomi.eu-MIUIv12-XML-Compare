@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>toegang tot netwerk</item>
+        <item>SMS lezen</item>
+        <item>SMS wijzigen</item>
+        <item>SMS ontvangen</item>
+        <item>sms verzenden</item>
+        <item>telefoon bellen</item>
+        <item>Contacten lezen</item>
+        <item>contacten aanpassen</item>
+        <item>gesprekkenlijst lezen</item>
+        <item>oproepgeschiedenis aanpassen</item>
+        <item>toegang tot camera</item>
+        <item>toegang tot locatie</item>
+    </string-array>
+</resources>
