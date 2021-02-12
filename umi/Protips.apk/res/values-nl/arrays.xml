@@ -1,2 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="tips">
+        <item>"Bekijk al je apps.
+ Raak het Launcher pictogram aan. @drawable/all_apps"</item>
+        <item>"Apps naar je startscherm slepen.
+ Raak aan &amp; houd een app vast in de Launcher totdat het trilt."</item>
+        <item>"Herschikken van uw startscherm.
+ Raak aan &amp; houd een item vast en wanneer het trilt, sleep het waar je wilt."</item>
+        <item>"Verwijder items.
+ Raak aan &amp; houd een item vast en wanneer het trilt, sleep het naar het prullenbakpictogram. @drawable/prullenbak"</item>
+        <item>"Meerdere beginschermen.
+ Veeg naar links of rechts om te schakelen. Sleep items naar andere schermen."</item>
+        <item>"Bent u klaar met deze widget?
+ Druk op &amp; ingedrukt houden en wanneer het trilt, sleep het naar het prullenbak-icoon."</item>
+    </string-array>
+    <string-array name="tips2">
+        <item>"Thuis is een tuin 
+Klik &amp; houd een lege plek ingedrukt 
+Om nieuwe pictogrammen te laten groeien"</item>
+        <item>"Telefoon is niet waterbestendig 
+Niet meeslepen in water 
+of andere vloeistoffen"</item>
+        <item>"Wil je meer startschermen? 
+Veeg naar links en rechts om ze te vinden 
+(geen diefstal vereist)"</item>
+        <item>"Kleine startscherm stippen 
+Wat kunnen ze doen? 
+Raak aan &amp; vasthouden om te leren."</item>
+        <item>"Statusbalk iconen 
+Om hun geheimen 
+te ontdekken de windowshade"</item>
+        <item>"Er is een truc om 
+items te verslepen om het Home scherm te verslepen 
+Pauzeer aan de randen"</item>
+        <item>"Touch Market for apps 
+Like een doos chocolade 
+Elke verrassing"</item>
+        <item>"Oh, en tussen haakjes: 
+Ceci is nest pas une trombot 
+Ik ben een Android"</item>
+    </string-array>
+</resources>
