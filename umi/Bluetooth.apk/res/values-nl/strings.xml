@@ -10,8 +10,13 @@
     <string name="auth_notif_ticker">OBEX-verificatieverzoek</string>
     <string name="auth_notif_title">Sessiesleutel</string>
     <string name="bluetooth_a2dp_sink_queue_name">Now Playing</string>
+    <string name="bluetooth_advanced_feat_description">Bluetooth Geavanceerde Browsing Functie</string>
     <string name="bluetooth_connected">Bluetooth-audio gekoppeld</string>
     <string name="bluetooth_disconnected">Bluetooth-audio ontkoppeld</string>
+    <string name="bluetooth_map_remote_advance_feature_support">Toegang tot geavanceerde berichten ondersteund</string>
+    <string name="bluetooth_map_remote_message_access_feature_downgrade">Downgraden van de functies voor externe berichten</string>
+    <string name="bluetooth_map_repair_for_adv_message_access_feature">Koppel opnieuw om de geavanceerde functies voor berichttoegang te gebruiken</string>
+    <string name="bluetooth_map_repair_for_message_access_version_comp">Koppel opnieuw om de versiecompatibiliteit van berichten te bereiken</string>
     <string name="bluetooth_map_settings_app_icon">App-pictogram</string>
     <string name="bluetooth_map_settings_cancel">Annuleren</string>
     <string name="bluetooth_map_settings_count">Plaatsen over:</string>
@@ -20,12 +25,17 @@
     <string name="bluetooth_map_settings_save">Opslaan</string>
     <string name="bluetooth_map_settings_title">Instellingen voor delen van berichten via Bluetooth</string>
     <string name="bluetooth_opp_file_limit_exceeded">Bestanden groter dan 4 GB kunnen niet worden overgedragen</string>
+    <string name="bluetooth_rc_feat_content">Peer ondersteunt geavanceerde functies</string>
+    <string name="bluetooth_rc_feat_subtext">Herkoppelen van peer om het in te schakelen</string>
+    <string name="bluetooth_rc_feat_title">Bluetooth Media Browsen</string>
     <string name="bluetooth_sap_notif_disconnect_button">Verbinding verbreken</string>
     <string name="bluetooth_sap_notif_disconnecting">Wachten tot verbinding met client wordt verbroken</string>
     <string name="bluetooth_sap_notif_force_disconnect_button">Verbreken van verbinding forceren</string>
     <string name="bluetooth_sap_notif_message">Verzoek indienen om verbinding met client te verbreken?</string>
     <string name="bluetooth_sap_notif_ticker">Simtoegang via Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Simtoegang via Bluetooth</string>
+    <string name="bt_audio_share_notification_content">Tik om opties te bekijken</string>
+    <string name="bt_audio_share_notification_title">Audio voor delen</string>
     <string name="bt_enable_cancel">Annuleren</string>
     <string name="bt_enable_line1">Als je Bluetooth-services wilt gebruiken, moet je eerst Bluetooth inschakelen.</string>
     <string name="bt_enable_line2">Bluetooth nu inschakelen?</string>
@@ -72,6 +82,7 @@
     <string name="incoming_file_confirm_timeout_content">Er is een time-out opgetreden bij het accepteren van een inkomend bestand van \'%1$s\'</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
     <string name="incoming_file_confirm_title">Bestandsoverdracht</string>
+    <string name="incoming_file_toast_msg">Inkomend bestand van een ander apparaat. Bevestig dat u dit bestand wilt ontvangen.</string>
     <string name="incoming_line1">Van</string>
     <string name="incoming_line2">Bestandsnaam</string>
     <string name="incoming_line3">Grootte</string>
@@ -84,6 +95,7 @@
     <string name="not_exist_file">Geen bestand</string>
     <string name="not_exist_file_desc">"Het bestand bestaat niet. 
 "</string>
+    <string name="notice_audio_share_disconnected">Audio niet langer delen als gevolg van een onderbroken verbinding</string>
     <string name="notification_received">Delen via Bluetooth: %1$s ontvangen</string>
     <string name="notification_received_fail">Delen via Bluetooth: bestand %1$s niet ontvangen</string>
     <string name="notification_receiving">Delen via Bluetooth: %1$s ontvangen</string>
@@ -103,8 +115,17 @@
     <string name="pbap_session_key_dialog_title">Typ de sessiesleutel voor %1$s</string>
     <string name="permdesc_bluetoothShareManager">Hiermee krijgt de app toegang tot de beheerfunctie voor delen via Bluetooth om deze functie te gebruiken voor het overdragen van bestanden.</string>
     <string name="permdesc_bluetoothWhitelist">Hiermee kan de app tijdelijk een Bluetooth-apparaat op de witte lijst plaatsen, waardoor dat apparaat bestanden kan verzenden naar dit apparaat zonder bevestiging van de gebruiker.</string>
+    <string name="permdesc_handoverStatus">Staat het ontvangen van overdrachtsgegevens toe via Bluetooth.</string>
     <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
     <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth-apparaat op witte lijst plaatsen.</string>
+    <string name="permlab_handoverStatus">Ontvang overdrachtsuitzendingen van Bluetooth ontvangen.</string>
+    <string name="phonebook_advance_feature_support">Phonebook Advance Functie Ondersteund</string>
+    <string name="remote_pbap_version_change">Wijziging externe Phonebook Profiel Versie</string>
+    <string name="remote_phonebook_feature_downgrade">Functie voor extern telefoonboek downgraden</string>
+    <string name="repair_for_adv_phonebook_feature">Her-paar voor geavanceerde telefoonfunctie</string>
+    <string name="repair_for_phonebook_access_version_comp">Herkoppel voor de Toegangsversie van Phonebook</string>
+    <string name="snapdragon_sound_notification_content">Dit apparaat ondersteunt Qualcomm® Snapdragon SoundTM technologie</string>
+    <string name="snapdragon_sound_notification_title">Bluetooth</string>
     <string name="start_server">TCP-server starten</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_canceled">Overdracht geannuleerd door gebruiker.</string>
