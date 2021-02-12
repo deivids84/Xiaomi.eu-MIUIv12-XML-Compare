@@ -40,6 +40,18 @@
         <item quantity="other">%1$d contactpersonen verwijderen?</item>
         <item quantity="one">%1$d contactpersoon verwijderen?</item>
     </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" Dagen"</item>
+        <item quantity="one">" Dag"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" Uren"</item>
+        <item quantity="one">" uur"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" minuten"</item>
+        <item quantity="one">" min."</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Verwijder %1$d contactpersonen</item>
         <item quantity="one">Verwijder %1$d contactpersoon</item>
