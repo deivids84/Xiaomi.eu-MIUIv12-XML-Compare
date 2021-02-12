@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Wfd Service</string>
+    <string name="perm_desc">Qualcomm Wi-Fi Display Stack APIs</string>
+    <string name="perm_label">QC Wi-Fi Display Stack</string>
+</resources>
