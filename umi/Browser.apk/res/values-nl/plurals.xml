@@ -147,8 +147,8 @@ De volgende afspelen in %d seconde…"</item>
         <item quantity="one">%d afbeelding</item>
     </plurals>
     <plurals name="vo_source_comment">
-        <item quantity="other">%1$s +%1$s %2$s reacties</item>
-        <item quantity="one">%1$s Scratz %2$s reactie</item>
+        <item quantity="other">%1$s | %2$s opmerkingen</item>
+        <item quantity="one">%1$s | %2$s reactie</item>
     </plurals>
     <plurals name="vo_vote_num">
         <item quantity="other">%d mensen hebben al gestemd</item>
