@@ -19,6 +19,14 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="assist_center_title">Momenteel gebruikt</string>
+    <string name="assist_center_traffic_title">Resterend</string>
+    <string name="assist_key1_title">Vandaag gebruikt</string>
+    <string name="assist_key2_title">Gegevensplan</string>
+    <string name="noti_key1_today_used">Vandaag: %1$s</string>
+    <string name="noti_key2_remain">Resterend %1$s</string>
+    <string name="noti_key2_used">Gebruikt: %1$s</string>
+    <string name="noti_key3">Details &gt;</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
