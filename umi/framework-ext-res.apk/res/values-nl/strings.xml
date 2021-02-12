@@ -45,6 +45,7 @@
     <string name="bluetooth_enable_notification_content">%s Bluetooth ingeschakeld</string>
     <string name="bluetooth_enable_notification_title">Bluetooth is ingeschakeld</string>
     <string name="bluetooth_open">Deze app heeft Bluetooth ingeschakeld</string>
+    <string name="bottom_bar_smallwindow_text">Loslaten naar pin</string>
     <string name="btn_cancel">Annuleren</string>
     <string name="btn_sure">OК</string>
     <string name="button_text_cancel">Annuleren</string>
@@ -67,6 +68,7 @@
     <string name="content_description_translate">Vertalen</string>
     <string name="content_description_web_url">Bladeren</string>
     <string name="copy">Kopiëren</string>
+    <string name="customer_location_judgment">China</string>
     <string name="cut">Knippen</string>
     <string name="data_usage_context">Als Wi-Fi niet is ingeschakeld, maakt uw apparaat verbinding met een mobiel netwerk, wat kan leiden tot extra kosten, afhankelijk van uw betalingsabonnement. Dank u!</string>
     <string name="default_device_name">Onbekend apparaat</string>
@@ -78,10 +80,14 @@
     <string name="device_status_success">Succesvol verzonden</string>
     <string name="device_status_waiting">Wachten…</string>
     <string name="device_type_pc">Computer</string>
+    <string name="disable_nfc">NFC uitgeschakeld voor draadloos opladen</string>
+    <string name="disable_nfc_reverse">NFC uitgeschakeld voor omgekeerde draadloze opladen</string>
     <string name="eighthours">8 uur</string>
     <string name="enable_livetalk_summary">Bespaar 70% op uw belkosten</string>
     <string name="enable_livetalk_title">Pakket herladen inschakelen</string>
     <string name="enable_midrop">Inschakelen</string>
+    <string name="enable_nfc">NFC is weer aan het opladen.</string>
+    <string name="enable_nfc_reverse">NFC staat weer aan, wordt niet meer omgekeerd.</string>
     <string name="fc_dialog_body">Bugrapport verzenden naar Xiaomi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug op te lossen en zal nooit worden gedeeld in een commerciële context.</string>
     <string name="fc_dialog_jump_to_preview">Samenvatting bekijken</string>
     <string name="file_cannot_print">"Kan dit item niet printen."</string>
@@ -99,6 +105,8 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Niet nu</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Inschakelen</string>
     <string name="fp_nav_center_action_choose_dlg_title">Snel tikken inschakelen</string>
+    <string name="freeform_exchange_tip">Laat los om app te openen</string>
+    <string name="freeform_exchange_tip2">Sleep naar de hoek om te annuleren</string>
     <string name="frequent_email">Veelgebruikte e-mailadressen</string>
     <string name="frequent_phrases">Vaak gebruikte zinnen</string>
     <string name="functions_are_being_developed">Deze functie zal binnenkort beschikbaar zijn. Houd het in de gaten!</string>
@@ -128,6 +136,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
     <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
     <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
     <string name="lockscreen_access_pattern_start">Patroon gestart</string>
+    <string name="magic_window_toast">App Multiplier ingeschakeld.</string>
     <string name="maml_component_customization_title">Instellingen</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -152,6 +161,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
     <string name="miui_warning_tip_info">Er is een fout opgetreden in %1$s. Deze app nu sluiten?</string>
     <string name="multi_file_name">%1$s，%2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nearby_share">Delen in de buurt</string>
     <string name="notification_channel_hotspot">Hotspot-melding</string>
     <string name="onehour">30 minuten</string>
     <string name="oneplus">OnePlus</string>
@@ -300,6 +310,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
     <string name="translation_query_error">"Kon geen resultaten vinden"</string>
     <string name="translation_query_error_network">"Kon geen informatie verkrijgen. Controleer netwerkinstellingen en probeer opnieuw"</string>
     <string name="turn_off">Uitschakelen</string>
+    <string name="turn_on_work_profile">keer aan</string>
     <string name="twohours">1 uur</string>
     <string name="unknown_caller">Onbekend nummer</string>
     <string name="unrecognized_manufacture">Onbekend</string>
