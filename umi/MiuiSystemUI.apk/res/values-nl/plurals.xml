@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">%d dag geleden</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min geleden</item>
+        <item quantity="one">%d min geleden</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d yr ago</item>
+        <item quantity="one">%d yr ago</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s besturingselementen toegevoegd.</item>
+        <item quantity="one">%s controle toegevoegd.</item>
+    </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Ongeldige PIN, %d resterende pogingen</item>
         <item quantity="one">Ongeldige PIN, %d resterende pogingen</item>
@@ -56,6 +72,10 @@
         <item quantity="other">Vul SIM-pincode in, u heeft %d resterende pogingen.</item>
         <item quantity="one">Voer SIM-pincode in, u heeft %d resterende pogingen voordat u contact op moet nemen met uw provider, om uw apparaat te ontgrendelen.</item>
     </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Voer SIM%1$d pincode in, je hebt nog %2$d pogingen over.</item>
+        <item quantity="one">Voer SIM%1$d PIN in, je hebt nog %2$d poging over voordat je contact met je provider moet opnemen om je apparaat te ontgrendelen.</item>
+    </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">SIM is nu uitgeschakeld. Voer uw PUK-code in om door te gaan. U heeft %d resterende pogingen voordat uw SIM permanent onbruikbaar is. Contacteer uw provider voor meer informatie.</item>
         <item quantity="one">SIM is nu uitgeschakeld. Voer uw PUK-code in om door te gaan. U heeft %d resterende pogingen voordat uw SIM permanent onbruikbaar is. Contacteer uw provider voor meer informatie.</item>
@@ -80,6 +100,10 @@
         <item quantity="other">"Apparaat is niet ontgrendeld voor %d uren. Bevestig PIN."</item>
         <item quantity="one">"Apparaat is niet ontgrendeld voor %d uur. Bevestig PIN."</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Probeer het over %d seconden opnieuw.</item>
+        <item quantity="one">Probeer het over 1 seconde opnieuw.</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d nieuwe meldingen</item>
         <item quantity="one">%d nieuwe melding</item>
@@ -95,6 +119,22 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">Probeer opnieuw in %d seconden</item>
         <item quantity="one">Probeer opnieuw in %d seconden</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d apparaten</item>
+        <item quantity="one">%d apparaat</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d uren</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Je kunt maximaal %d gebruikers toevoegen.</item>
+        <item quantity="one">Er kan slechts één gebruiker worden aangemaakt.</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d apparaten verbonden</item>
