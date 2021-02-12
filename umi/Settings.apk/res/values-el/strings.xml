@@ -936,7 +936,7 @@
     <string name="battery_saver_sticky_description_new">Η Εξοικονόμηση μπαταρίας απενεργοποιείται όταν η στάθμη της μπαταρίας του τηλεφώνου σας είναι στο %1$s</string>
     <string name="battery_saver_sticky_title_new">Απενεργοποίηση όταν είναι φορτισμένη</string>
     <string name="battery_saver_turn_on_automatically_never">Ποτέ</string>
-    <string name="battery_saver_turn_on_automatically_pct">στο %1$d%% μπαταρία</string>
+    <string name="battery_saver_turn_on_automatically_pct">σε %1$s μπαταρία</string>
     <string name="battery_saver_turn_on_automatically_title">Αυτόματη ενεργοποίηση</string>
     <string name="battery_saver_turn_on_summary">Επέκταση διάρκειας ζωής της μπαταρίας</string>
     <string name="battery_screen_usage">Χρήση οθόνης: ^1</string>
