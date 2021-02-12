@@ -1,2 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Ongeldige PIN, %d resterende pogingen</item>
+        <item quantity="one">Ongeldige PIN, %d resterende pogingen</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Ongeldige PUK-code, %d resterende pogingen</item>
+        <item quantity="one">Ongeldige PUK-code, %d resterende pogingen</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Voer uw wachtwoord ten minste eens elke %d uur in om deze te blijven onthouden</item>
+        <item quantity="one">Voer uw wachtwoord ten minste eens elk %d uur in om deze te blijven onthouden</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Voer uw wachtwoord ten minste eens elke %d uur in om deze te blijven onthouden</item>
+        <item quantity="one">Voer uw wachtwoord ten minste eens elk %d uur in om deze te blijven onthouden</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Nog ongeveer %d uren resterend</item>
+        <item quantity="one">Nog ongeveer %d uur resterend</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Nog ongeveer %d  minuten resterend</item>
+        <item quantity="one">Nog ongeveer %d  minuut resterend</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Nog ongeveer %1$d u %2$d m resterend</item>
+        <item quantity="one">Nog ongeveer %1$d u %2$d m resterend</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d u %2$d m</item>
+        <item quantity="one">%1$d u %2$d m</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d uur resterend</item>
+        <item quantity="one">%d uur resterend</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d minuten resterend</item>
+        <item quantity="one">%d minuut resterend</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d u %2$d m resterend</item>
+        <item quantity="one">%1$d u %2$d m resterend</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Vul SIM-pincode in, u heeft %d resterende pogingen.</item>
+        <item quantity="one">Voer SIM-pincode in, u heeft %d resterende pogingen voordat u contact op moet nemen met uw provider, om uw apparaat te ontgrendelen.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM is nu uitgeschakeld. Voer uw PUK-code in om door te gaan. U heeft %d resterende pogingen voordat uw SIM permanent onbruikbaar is. Contacteer uw provider voor meer informatie.</item>
+        <item quantity="one">SIM is nu uitgeschakeld. Voer uw PUK-code in om door te gaan. U heeft %d resterende pogingen voordat uw SIM permanent onbruikbaar is. Contacteer uw provider voor meer informatie.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Foutieve SIM-pincode. U heeft %d resterende pogingen.</item>
+        <item quantity="one">Foutieve SIM-pincode. U heeft %d resterende pogingen voordat u contact met uw provider op moet nemen, om uw apparaat te ontgrendelen.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Onjuiste SIM PUK-code, u heeft %d resterende pogingen voordat uw SIM permanent onbruikbaar is.</item>
+        <item quantity="one">Onjuiste SIM PUK-code, u heeft %d resterende poging voordat uw SIM permanent onbruikbaar is.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"Apparaat is al %d uur niet ontgrendeld. Bevestig wachtwoord."</item>
+        <item quantity="one">"Apparaat is al %d uur niet ontgrendeld. Bevestig wachtwoord."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"Apparaat is niet ontgrendeld voor %d uur. Bevestig patroon."</item>
+        <item quantity="one">"Apparaat is niet ontgrendeld voor %d uur. Bevestig patroon."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"Apparaat is niet ontgrendeld voor %d uren. Bevestig PIN."</item>
+        <item quantity="one">"Apparaat is niet ontgrendeld voor %d uur. Bevestig PIN."</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s meer meldingen binnen.</item>
+        <item quantity="one">%s meer melding binnen.</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Probeer opnieuw in %d minuten</item>
+        <item quantity="one">Probeer opnieuw in %d minuut</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Probeer opnieuw in %d seconden</item>
+        <item quantity="one">Probeer opnieuw in %d seconden</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d apparaten verbonden</item>
+        <item quantity="one">%1$d apparaat verbonden</item>
+    </plurals>
+</resources>
