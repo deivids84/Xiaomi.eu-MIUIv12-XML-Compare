@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">SLA service</string>
+    <string name="notification_summary">Wi-Fi %1$s\u0009\u0009Datanetwerk %2$s</string>
+    <string name="notification_title">Het wifi-netwerk is traag en maakt gebruik van het gegevensnetwerk om te versnellen.</string>
+</resources>
