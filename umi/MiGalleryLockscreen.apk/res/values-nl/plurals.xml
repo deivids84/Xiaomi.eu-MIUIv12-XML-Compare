@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="article_num">
+        <item quantity="other">%d artikelen</item>
+        <item quantity="one">%d artikel</item>
+    </plurals>
     <plurals name="feed_article_entrance_title">
         <item quantity="other">%d artikelen over dit onderwerp</item>
         <item quantity="one">%d artikel over dit onderwerp</item>
+    </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%s items</item>
+        <item quantity="one">%s item</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%s apparaten</item>
+        <item quantity="one">%s apparaat</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s personen geabonneerd</item>
@@ -11,6 +23,14 @@
     <plurals name="lockscreen_magazine_system_subscribe">
         <item quantity="other">%1$s achtergronden</item>
         <item quantity="one">%1$s achtergrond</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s foto\'s</item>
+        <item quantity="one">%s foto</item>
     </plurals>
     <plurals name="time_day_ago">
         <item quantity="other">%d dagen geleden</item>
@@ -23,5 +43,9 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">%d minuut geleden</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d afbeeldingen</item>
+        <item quantity="one">%d afbeelding</item>
     </plurals>
 </resources>
