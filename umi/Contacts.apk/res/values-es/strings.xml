@@ -255,6 +255,7 @@
     <string name="calllog_menu_send_sms">Enviar mensaje</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
     <string name="callrecordview_item_op_time_missed">"No contestó"</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d minuto</string>
     <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
     <string name="callrecordview_item_op_time_rejected">Rechazada</string>
     <string name="callrecordview_item_op_time_short_incoming">"Entrante: "</string>
@@ -436,6 +437,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="description_image_button_star">estrella</string>
     <string name="description_image_button_three">tres</string>
     <string name="description_image_button_two">dos</string>
+    <string name="description_image_button_zero">cero</string>
     <string name="description_minus_button">Menos</string>
     <string name="description_quick_contact_for">Contacto rápido de %1$s</string>
     <string name="description_quick_dial_button">Marcación rápida</string>
@@ -502,6 +504,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="editContactNameExpandOpenDescription">Expandir nombre</string>
     <string name="edit_contact_card_title">Selecciona elementos para compartir</string>
     <string name="edit_contact_photo">Editar foto de contacto</string>
+    <string name="eight_letter">TUV</string>
     <string name="email">Correo electrónico</string>
     <string name="emailLabelsGroup">Correo electrónico</string>
     <string name="email_custom">Enviar correo electrónico a %s</string>
@@ -550,6 +553,7 @@ Motivo: \"%s\""</string>
     <string name="favorites_list_empty">No hay favoritos</string>
     <string name="feedback">Realimentación</string>
     <string name="firewall_setting">Lista de bloqueo</string>
+    <string name="five_letter">JKL</string>
     <string name="flow_use_analyse">Estadísticas de uso</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -602,6 +606,7 @@ Motivo: \"%s\""</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="four_letter">GHI</string>
     <string name="frequentList">Frecuentes</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
@@ -825,6 +830,7 @@ Motivo: \"%s\""</string>
     <string name="nickname_picker_name_column">Nombre de contacto</string>
     <string name="nickname_picker_nickname_column">Título</string>
     <string name="night">Noche</string>
+    <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Para crear grupos necesitas una cuenta.</string>
     <string name="no_contacts_dialog_message">"Los contactos pueden almacenarse en su tarjeta SIM. Intente importarlos al almacenamiento interno de su dispositivo e inténtelo de nuevo."</string>
     <string name="no_contacts_dialog_title">"No se pueden encontrar contactos"</string>
@@ -1021,6 +1027,7 @@ Motivo: \"%s\""</string>
     <string name="service_provider">Directorio</string>
     <string name="service_provider_detail">Detalles del directorio</string>
     <string name="set_default">Establecer como predeterminado</string>
+    <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Compartir contacto como</string>
     <string name="share_error">"Este contacto no puede compartirse"</string>
     <string name="share_over_limit">"No puede compartir más de 1000 contactos"</string>
@@ -1059,6 +1066,7 @@ Motivo: \"%s\""</string>
     <string name="sim_no_contact">No hay contactos en la tarjeta SIM</string>
     <string name="sim_unloaded">"Tarjeta SIM no instalada"</string>
     <string name="single_group_list_empty">No hay miembros en el grupo</string>
+    <string name="six_letter">MNO</string>
     <string name="smart_group_company_label">Compañías</string>
     <string name="smart_group_company_unavailable">No hay información de la compañía</string>
     <string name="smart_group_frequency_1">En el mes pasado</string>
@@ -1181,6 +1189,7 @@ Motivo: \"%s\""</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_valentines_day">"Día de San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de las Luces de Agua</string>
+    <string name="three_letter">DEF</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
@@ -1204,6 +1213,7 @@ Motivo: \"%s\""</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="two_letter">ABC</string>
     <string name="type_mx_msg">Mi mensaje</string>
     <string name="unable_get_device_id">No se pudo obtener el IMEI</string>
     <string name="undefined">Sin definir</string>
