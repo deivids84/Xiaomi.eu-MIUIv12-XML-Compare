@@ -190,6 +190,15 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort">Sorteren op</string>
     <string name="menu_item_sort_name">Naam</string>
     <string name="menu_item_sort_size">Grootte</string>
+    <string name="miui_device_name">Android</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Trek omlaag om te verversen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Vernieuwen gelukt</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Verversen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Loslaten om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Dat is alles voor nu"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Dat is alles voor nu"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Gewoon een seconde…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Kan items niet laden"</string>
     <string name="msg_alert_cancel_restore">Items aan het herstellen. Toch stoppen?</string>
     <string name="msg_alert_restore_error">"Kon items niet herstellen van Xiaomi Cloud. Probeer het opnieuw."</string>
     <string name="msg_restore_start_with_metered_network">"Uw Startscherm zal opnieuw opgestart worden. Gebackupte apps zullen automatisch gedownload worden. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s van de bestanden zullen gedownload worden.&lt;/font&gt;&lt;/b&gt;"</string>
@@ -206,10 +215,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_second_space">Tweede ruimte</string>
     <string name="preference_copied">\'%1$s\' is gekopieerd naar het klembord.</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
+    <string name="provision_back">Achterzijde</string>
     <string name="provision_background_restore_more_data">Herstel meer items op de achtergrond</string>
     <string name="provision_error_connect_msg">"Test het netwerk en probeer het opnieuw. Back-ups zijn niet beschikbaar wanneer uw apparaat offline is."</string>
     <string name="provision_error_connect_title">"Verbinden is mislukt"</string>
+    <string name="provision_next">Volgende</string>
     <string name="provision_restore_data">Items aan het herstellen</string>
+    <string name="provision_skip_underline">Overslaan</string>
     <string name="query_restore_description">Herstel Startscherm apps en instellingen met deze back-up. Hierbij worden alle app data voor dubbele apps die al op dit apparaat geïnstalleerd zijn overschreven. Apps die niet in deze back-up zitten zullen verplaatst worden naar het laatste Startscherm.</string>
     <string name="query_restore_summary">Er is een Xiaomi Cloud back-up van dit apparaat gevonden. Wilt u Startscherm apps en instellingen herstellen of wilt u het als nieuw apparaat gebruiken en eerdere Xiaomi Cloud back-ups verwijderen?</string>
     <string name="recover_home_settings">Herstel Startscherm instellingen</string>
