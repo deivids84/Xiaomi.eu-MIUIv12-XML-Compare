@@ -1,2 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="doc_photo_adjust_section_title">Sleep om aan te passen</string>
+    <string name="doc_photo_cancel">Annuleren</string>
+    <string name="doc_photo_confirm">Afsluiten</string>
+    <string name="doc_photo_doc_photo_title">Document bewerken</string>
+    <string name="doc_photo_enhance_bin">Zwart-wit</string>
+    <string name="doc_photo_enhance_color">Geoptimaliseerd</string>
+    <string name="doc_photo_enhance_none">Origineel</string>
+    <string name="doc_photo_idcard_alert_msg">Alle wijzigingen negeren en de editor afsluiten?</string>
+    <string name="doc_photo_idcard_emblem">Achterkant</string>
+    <string name="doc_photo_idcard_mode_title">ID-kaart</string>
+    <string name="doc_photo_idcard_portrait">Voorkant</string>
+    <string name="doc_photo_not_support">"Kan deze afbeelding niet als een document bewerken"</string>
+    <string name="doc_photo_view_effect">Voorbeeld</string>
+    <string name="extra_photo_common_save_fail">"Kon niet opslaan"</string>
+    <string name="extra_photo_common_saving">Opslaan…</string>
+    <string name="motion_photo_cancel">Annuleren</string>
+    <string name="motion_photo_re_pick_title">Live foto</string>
+    <string name="motion_photo_save_fail">"Kon niet opslaan"</string>
+    <string name="motion_photo_save_gif">Opslaan als GIF</string>
+    <string name="motion_photo_save_gif_ing">Opslaan GIF…</string>
+    <string name="motion_photo_save_image">Beste afbeelding opslaan</string>
+    <string name="motion_photo_save_image_ing">Opslaan beste afbeelding…</string>
+    <string name="motion_photo_save_video">Opslaan als video</string>
+    <string name="motion_photo_save_video_ing">Video wordt opgeslagen…</string>
+    <string name="motion_photo_toast_default">Standaard</string>
+    <string name="motion_photo_toast_long_press_play">Houd de foto ingedrukt om af te spelen</string>
+    <string name="motion_photo_toast_suggest">Aanbevolen</string>
+    <string name="refocus_discard_confirm_message">Wijzigingen opslaan?</string>
+    <string name="refocus_discard_negative_btn">Annuleren</string>
+    <string name="refocus_discard_positive_btn">Opslaan</string>
+    <string name="refocus_photo_not_support">"Kan geen vervaging toepasssen op deze foto"</string>
+    <string name="refocus_relighting_toast">Verplaats de cirkel om de lichtinvalshoek aan te passen</string>
+    <string name="refocus_save_cancel">Annuleren</string>
+    <string name="refocus_save_title">Secteer formaat</string>
+    <string name="refocus_save_to_photo">Opslaan als afbeelding</string>
+    <string name="refocus_save_to_video">Opslaan als video</string>
+    <string name="refocus_saving">Opslaan…</string>
+    <string name="refocus_title">Vervaging</string>
+    <string name="refocus_type_movie_relighting">Filmisch</string>
+    <string name="refocus_type_relighting">Studio verlichting</string>
+    <string name="refocus_type_relighting_no_face">"Kon gezicht niet vinden"</string>
+    <string name="refocus_type_relighting_small_face">3D-verlichting werkt op foto\'s waar gezichten meer ruimte innemen dan hier</string>
+    <string name="refocus_type_static">Mate van vervaging</string>
+    <string name="refocus_type_video">Lichtsporen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
