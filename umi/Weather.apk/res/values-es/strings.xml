@@ -306,6 +306,7 @@
     <string name="notif_weather_title">%1$s en %2$s hoy</string>
     <string name="other_settings">Otros ajustes</string>
     <string name="particulate_matter_exceeded">Alta</string>
+    <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Demasiado alta</string>
     <string name="permission_device_info">Información del dispositivo</string>
     <string name="permission_device_introduce">Para reconocer la ID del dispositivo según el modelo del dispositivo y el IMEI, y para proporcionar servicios localizados según las preferencias de idioma</string>
