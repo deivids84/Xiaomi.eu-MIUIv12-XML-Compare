@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">over %d minuten</item>
+        <item quantity="one">over 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d games toegevoegd</item>
         <item quantity="one">%d game toegevoegd</item>
@@ -80,9 +116,17 @@
         <item quantity="other">%d jaar geleden gebruikt</item>
         <item quantity="one">%d jaar geleden gebruikt</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">U kunt de App lock gebruiken met %1$s apps</item>
+        <item quantity="one">U kunt de App lock gebruiken met de %1$s app</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">U kunt ten minste %s apps beschermen</item>
         <item quantity="one">U kunt ten minste %s app beschermen</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s apps worden beschermd met de App lock</item>
+        <item quantity="one">%s app wordt beschermd met de App lock</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d-apps kunnen op de achtergrond verbinding maken met het netwerk</item>
@@ -111,6 +155,14 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Na %1$d minuten</item>
         <item quantity="one">Na %1$d minuut</item>
+    </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">In %d seconden</item>
+        <item quantity="one">Over %d seconde</item>
+    </plurals>
+    <plurals name="ew_concern_date">
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">%d dag geleden</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Zoek in %d apps</item>
@@ -160,6 +212,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">Deïnstalleren %2$d games (inclusief %1$s)</item>
         <item quantity="one">Deïnstalleren %2$d game (inclusief %1$s)</item>
     </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">%d AI opnames opgeslagen in Game Turbo</item>
+        <item quantity="one">%d AI opname opgeslagen in Game Turbo</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d secs</item>
         <item quantity="one">%d sec</item>
@@ -167,6 +223,42 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d dagen op rij ingecheckt</item>
         <item quantity="one">%d tijd ingecheckt</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="one">"Probeer nu van stem wisselaar
+om een %ddagen gratis proefperiode te krijgen!"</item>
+        <item quantity="other">"Probeer nu van stem wisselaar
+om een %ddagen gratis proefperiode te krijgen!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Kan geen gratis %d-dag-proefversie ontvangen"</item>
+        <item quantity="one">"Kan geen gratis %d-dag-proefversie ontvangen"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">%ddagen gratis proefperiode ontvangen</item>
+        <item quantity="one">%ddagen gratis proefperiode ontvangen</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Krijg een %d-daagse gratis proefversie</item>
+        <item quantity="one">Krijg een %d-daagse gratis proefversie</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Uw abonnement is verlopen.
+U kunt nu een gratis proefperiode van %ddagen krijgen!"</item>
+        <item quantity="one">"Uw abonnement is verlopen.
+U kunt nu een gratis proefperiode van %ddagen krijgen!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Krijg een %d-daagse gratis proefversie</item>
+        <item quantity="one">Krijg een %d-daagse gratis proefversie</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Gefeliciteerd! Je hebt %s Paaseieren ontgrendeld."</item>
+        <item quantity="one">"Gefeliciteerd! Je hebt %s Paasei ontgrendeld."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d meer tekens</item>
@@ -228,9 +320,41 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">Geen datagebruik bijhouden voor de %d-apps</item>
         <item quantity="one">Geen datagebruik bijhouden voor de %d-app</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Verwijder %d afbeeldingen permanent?</item>
+        <item quantity="one">Verwijder %d afbeelding permanent?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d afbeeldingen worden permanent verwijderd nadat u de tis pagina hebt verlaten. Toch verwijderen?</item>
+        <item quantity="one">%d afbeelding wordt permanent verwijderd nadat u de tis pagina hebt verlaten. Toch verwijderen?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Verwijder %d afbeeldingen</item>
+        <item quantity="one">Verwijder %d afbeelding</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">over 1 minuut</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">%d games toegevoegd</item>
         <item quantity="one">%d game toegevoegd</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Je kunt %d items beschermen</item>
+        <item quantity="one">Je kunt %d item beschermen</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s uren</item>
@@ -240,9 +364,17 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">%s minuten</item>
         <item quantity="one">%s minuut</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Verbind minstens %d punten</item>
         <item quantity="one">Verbind minstens %d punt</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Verbind ten minste %s punten</item>
+        <item quantity="one">Verbind ten minste %s punt</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Wacht %d seconden en probeer het opnieuw. "</item>
@@ -272,6 +404,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">%d updates zijn beschikbaar</item>
         <item quantity="one">%d update is beschikbaar</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+    </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Voer minstens %d tekens in</item>
         <item quantity="one">Voer minstens %d teken in</item>
@@ -284,6 +420,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">"Netwerktoegang is beperkt voor de apps &lt;font color='#ff0000'&gt;%d&lt;/font&gt;"</item>
         <item quantity="one">"Netwerktoegang is beperkt voor de app &lt;font color='#ff0000'&gt;%d&lt;/font&gt;"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d dagen zonder veiligheidsscans</item>
+        <item quantity="one">%d dag zonder veiligheidsscans</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Heeft %2$d%% van de batterij verbruikt gedurende de laatste %1$d minuten</item>
         <item quantity="one">Heeft %2$d%% van de batterij verbruikt gedurende de laatste %1$d minuut</item>
@@ -292,9 +432,29 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">%2$d apps, inclusief %1$s, verbruiken veel batterij</item>
         <item quantity="one">%2$d app, inclusief %1$s, verbruikt veel batterij</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Verwijder %d installatiepakketten</item>
+        <item quantity="one">Verwijder %d installatiepakket</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Verwijder %d overgebleven APK\'s</item>
+        <item quantity="one">Verwijder %d overgebleven APK</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problemen met batterijgebruik</item>
+        <item quantity="one">%d probleem met accugebruik</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimaliseer %d items om batterij te besparen</item>
+        <item quantity="one">Optimaliseer %d item om batterij te besparen</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dagen sinds laatste controle</item>
         <item quantity="one">%d dag sinds laatste controle</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d apps vergrendeld</item>
@@ -404,9 +564,25 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">Gedownload door %1$d personen</item>
         <item quantity="one">Gedownload door %1$d persoon</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">keer</item>
+        <item quantity="one">Tijd</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problemen met batterijgebruik</item>
+        <item quantity="one">%d probleem met accugebruik</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dagen "</item>
         <item quantity="one">"%d dag "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" Uren"</item>
+        <item quantity="one">" uur"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" minuten"</item>
+        <item quantity="one">" min."</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d uur "</item>
@@ -415,6 +591,26 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Repareer %d problemen met batterijgebruik</item>
+        <item quantity="one">Probleem met %d accugebruik opgelost</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">U kunt %d problemen met batterijgebruik oplossen</item>
+        <item quantity="one">Je kunt %d probleem met batterijgebruik oplossen</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d items kunnen worden geoptimaliseerd"</item>
+        <item quantity="one">" %d item kan worden geoptimaliseerd"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimaliseer %d items om batterij te besparen</item>
+        <item quantity="one">Optimaliseer %d item om batterij te besparen</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Je kunt %d items optimaliseren om batterij te besparen</item>
+        <item quantity="one">U kunt %d item optimaliseren om batterij te besparen</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d℃</item>
@@ -452,6 +648,18 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">Uw apparaat wordt afgesloten over %d seconden. Sluit de oplader aan.</item>
         <item quantity="one">Uw apparaat wordt afgesloten over %d seconde. Sluit de oplader aan.</item>
     </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d apps starten automatisch</item>
+        <item quantity="one">%d app start regelmatig op</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d apps accuverbruik</item>
+        <item quantity="one">%d app batterij bijna leeg</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s keer</item>
+        <item quantity="one">%s keer</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d app iconen verborgen</item>
         <item quantity="one">%d app icoon verborgen</item>
@@ -467,6 +675,50 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="privacy_pop_times">
         <item quantity="other">%s keren</item>
         <item quantity="one">%s keer</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d high-risk permissies verleend</item>
+        <item quantity="one">%d toestemming met een hoog risico verleend</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d riskante apps gevonden</item>
+        <item quantity="one">%d riskante app gevonden</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d risico van het openbaar maken van locatieinfo gedetecteerd</item>
+        <item quantity="one">%d risico van het openbaar maken van locatie-info gedetecteerd</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d risico\'s gedetecteerd</item>
+        <item quantity="one">%d risico gedetecteerd</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d mogelijke risico\'s gevonden</item>
+        <item quantity="one">%d mogelijk risico gevonden</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d foto\'s bevatten mogelijk de informatie die privé of gevoelig is</item>
+        <item quantity="one">%d foto bevat mogelijk de informatie die privé of gevoelig is</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d functies die uw privacy beschermen zijn uitgeschakeld</item>
+        <item quantity="one">%d functie die uw privacy beschermt is uitgeschakeld</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d gevoelige machtigingen verleend</item>
+        <item quantity="one">%d gevoelige machtiging verleend</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">%d apps verwijderen</item>
+        <item quantity="one">Verwijder %d app</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d items hebben extra bescherming nodig</item>
+        <item quantity="one">%d item heeft extra bescherming nodig</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d batterijproblemen</item>
@@ -556,9 +808,23 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">"Heb geen %d games toegevoegd"</item>
         <item quantity="one">"Heb geen %d game toegevoegd"</item>
     </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Verbind ten minste %s punten</item>
+        <item quantity="one">Verbind ten minste %s punt</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Voer %s cijfers in</item>
+        <item quantity="one">Voer %s cijfer in</item>
+    </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Je hebt al %d uur video's bekeken.
+Neem een pauze!"</item>
+        <item quantity="one">"Je hebt al %d uur video's bekeken.
+Neem een pauze!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d weergaves</item>
