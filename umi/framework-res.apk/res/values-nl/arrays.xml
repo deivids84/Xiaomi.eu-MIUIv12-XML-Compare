@@ -6,6 +6,35 @@
     <item>Overig</item>
     <item>Aangepast</item>
   </string-array>
+  <string-array name="fingerprint_acquired_vendor">
+    <item>Opnieuw proberen</item>
+    <item></item>
+    <item></item>
+    <item>Bedek de vingerafdrukscanner volledig en voer druk uit</item>
+    <item></item>
+    <item>Bedek de vingerafdrukscanner volledig en voer druk uit</item>
+    <item>Bedek de vingerafdrukscanner volledig en voer druk uit</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Bedek de vingerafdrukscanner volledig en voer druk uit</item>
+    <item>Bedek de vingerafdrukscanner volledig en voer druk uit</item>
+    <item>"Te snel! Kan vingerafdruk niet herkennen"</item>
+    <item>Beweeg je vinger een beetje en probeer het opnieuw</item>
+    <item>Til je vinger op en zet het terug op de scanner</item>
+    <item>Houd je vinger iets langer op de scanner</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Beweeg je vinger enigszins</item>
+    <item>Deze vingerafdruk is toegevoegd, gebruik een andere vinger</item>
+  </string-array>
   <string-array name="imAddressTypes">
     <item>Thuis</item>
     <item>Werk</item>
