@@ -122,8 +122,8 @@
         <item>Uitgeschakeld</item>
         <item>Gefilterd ingeschakeld</item>
         <item>Ingeschakeld</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
+        <item>Ingeschakelde headers gefilterd</item>
+        <item>Ingefilterde media Pkts</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Verbeterde kleuren</item>
