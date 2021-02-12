@@ -36,9 +36,81 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="agenda_anniversary_day">
+        <item quantity="other">·%1$d dagen</item>
+        <item quantity="one">·%1$d dag</item>
+    </plurals>
+    <plurals name="agenda_anniversary_year">
+        <item quantity="other">·%1$d jaren</item>
+        <item quantity="one">·%1$d jaar</item>
+    </plurals>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Over %d minuten</item>
+        <item quantity="one">Over %d minuut</item>
+    </plurals>
+    <plurals name="agenda_countdown_day">
+        <item quantity="other">Over %1$d dagen</item>
+        <item quantity="one">-Over %1$d dag</item>
+    </plurals>
+    <plurals name="agenda_tip_count_down">
+        <item quantity="other">Begint in %1$d minuten</item>
+        <item quantity="one">Begint in %1$d minuut</item>
+    </plurals>
+    <plurals name="app_course_to_start">
+        <item quantity="other">Begint over %1$d minuten</item>
+        <item quantity="one">Begint in %1$d min</item>
+    </plurals>
+    <plurals name="app_express_content_title_1">
+        <item quantity="other">%d pakketten zijn onderweg</item>
+        <item quantity="one">%d pakket is onderweg</item>
+    </plurals>
+    <plurals name="app_express_settings_title_2">
+        <item quantity="other">%d telefoonnummers toegevoegd</item>
+        <item quantity="one">%d telefoonnummer toegevoegd</item>
+    </plurals>
+    <plurals name="app_miot_total_device">
+        <item quantity="other">%1$d apparaten</item>
+        <item quantity="one">%1$d apparaat</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">In %d dagen</item>
+        <item quantity="one">In %d dag</item>
+    </plurals>
+    <plurals name="base_time_hour_ago">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
+    </plurals>
+    <plurals name="base_time_minute_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">%d minuut geleden</item>
+    </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">Vertrekt in %d dagen</item>
+        <item quantity="one">Vertrekt in %d dag</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">%1$dd geleden</item>
+        <item quantity="other">%1$dd geleden</item>
+    </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">%s items verwijderen uit express?</item>
+        <item quantity="one">%s item uit expressies verwijderen?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">%s items geselecteerd</item>
+        <item quantity="one">Geselecteerde %s item</item>
+    </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">%d telefoonnummers toegevoegd</item>
+        <item quantity="one">%d telefoonnummer toegevoegd</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Een half uur geleden</item>
         <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">%1$duur geleden</item>
+        <item quantity="other">%1$duur geleden</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Binnen 1 uur</item>
@@ -60,8 +132,68 @@
         <item quantity="one">Zojuist</item>
         <item quantity="other">Zojuist</item>
     </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">%s items uit favorieten verwijderen?</item>
+        <item quantity="one">%s item uit favorieten verwijderen?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">%s items gemarkeerd als belangrijk</item>
+        <item quantity="one">%s als belangrijk gemarkeerd</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">%s items geselecteerd</item>
+        <item quantity="one">Geselecteerde %s item</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="one">%1$dmin geleden</item>
+        <item quantity="other">%1$dmin geleden</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">%s items verwijderen uit betaling?</item>
+        <item quantity="one">%s item uit betaling verwijderen?</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">%s items geselecteerd</item>
+        <item quantity="one">Geselecteerde %s item</item>
+    </plurals>
+    <plurals name="shopping_delete_num">
+        <item quantity="other">%s geselecteerde items verwijderen?</item>
+        <item quantity="one">%s geselecteerd item verwijderen?</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">Vertrekt in %d dagen</item>
+        <item quantity="one">Vertrekt in %d dag</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Vertrek over %d uur</item>
+        <item quantity="one">Vertrekt over %d uur</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Vertrekt over %d minuten</item>
+        <item quantity="one">Vertrekt binnen %d min</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d uren</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%dmonetaristische stappen</item>
+        <item quantity="one">%dmonetaristische stap</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">%d minuut geleden</item>
     </plurals>
 </resources>
