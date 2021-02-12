@@ -321,28 +321,28 @@
         <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας, συνδεθείτε στο δίκτυο και δοκιμάστε ξανά"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών (%2$dMB), συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
-        <item quantity="one">"Αδυναμία λήψης φωτογραφίας (%2$dMB), συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d αρχείων (%2$d MB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d αρχείου (%2$d MB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d αρχεία (%2$d MB) δεν έχουν κατεβάσει ακόμα. Λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας?"</item>
         <item quantity="one">"%1$d αρχείο (%2$d MB) δεν έχει ληφθεί ακόμα. Λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών, προσπάθεια ξανά;"</item>
-        <item quantity="one">"Αδυναμία λήψης φωτογραφίας, προσπάθεια ξανά;"</item>
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφιών, δοκιμάστε ξανά;"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας, δοκιμάστε ξανά;"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών(%2$dMB), προσπάθεια ξανά;"</item>
-        <item quantity="one">"Αδυναμία λήψης φωτογραφίας(%2$dMB), προσπάθεια ξανά;"</item>
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφιών (%2$d MB), δοκιμάστε ξανά;"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας (%2$d MB), δοκιμάστε ξανά;"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
-        <item quantity="other">"Παραλείφθηκαν %d φωτογραφίες που δεν βρέθηκαν στην συσκευή."</item>
-        <item quantity="one">"Παραλείφθηκε μια φωτογραφία που δεν βρέθηκε στην συσκευή."</item>
+        <item quantity="other">"Παραλείφθηκαν %d φωτογραφίες που δεν βρίσκονται στη συσκευή."</item>
+        <item quantity="one">"Παράλειψη %d φωτογραφίας που δεν υπάρχει στη συσκευή."</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Βρέθηκαν %1$d νέες φωτογραφίες</item>
-        <item quantity="one">Βρέθηκε μία νέα φωτογραφία</item>
+        <item quantity="one">Βρέθηκε %1$d νέα φωτογραφία</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Συνολικά %d φωτογραφίες</item>
