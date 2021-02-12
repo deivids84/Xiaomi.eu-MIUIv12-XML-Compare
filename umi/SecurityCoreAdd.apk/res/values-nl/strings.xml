@@ -487,10 +487,14 @@ Voor sommige dubbele apps is ondersteuning door Google Services Framework vereis
     <string name="xspace_disable">Niet aangemaakt</string>
     <string name="xspace_enable">Aangemaakt</string>
     <string name="xspace_facebook_title">Facebook</string>
+    <string name="xspace_guide_content_bound">Beschikbare apps</string>
     <string name="xspace_guide_des">Gebruik 2 accounts zonder te schakelen</string>
+    <string name="xspace_guide_description">"Elke account
+verdient een eigen app"</string>
     <string name="xspace_guide_title">Maak een duale app</string>
     <string name="xspace_header">Dubbele apps</string>
     <string name="xspace_instagram_title">Instagram</string>
+    <string name="xspace_install_complete">&lt;font&gt;Dubbele app succesvol aangemaakt. &lt;/font&gt;&lt;font color=#0D84FF&gt;Open nu&lt;/font&gt;.</string>
     <string name="xspace_install_completed">Icoontje toegevoegd aan het Startscherm</string>
     <string name="xspace_install_completed_global">Icoon toegevoegd aan lade</string>
     <string name="xspace_install_failed">"Kon niet aanmaken"</string>
@@ -499,11 +503,13 @@ Voor sommige dubbele apps is ondersteuning door Google Services Framework vereis
     <string name="xspace_label">Dubbele apps</string>
     <string name="xspace_loading_msg">Apps laden…</string>
     <string name="xspace_notification">Dubbele App-meldingen</string>
+    <string name="xspace_notification_button">Probeer</string>
     <string name="xspace_notification_error">Meld u aan bij duale WeChat en probeer het opnieuw</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Dubbele app-accounts verwijderen"</string>
     <string name="xspace_setting_label">Dubbele app-instellingen</string>
     <string name="xspace_settins">Instellen</string>
+    <string name="xspace_start">Aanmaken</string>
     <string name="xspace_uninstall_completed">Dubbele app succesvol verwijderd</string>
     <string name="xspace_uninstall_dialog_content">Bij het verwijderen van de dubbele app worden alle app-gegevens verwijderd.</string>
     <string name="xspace_uninstall_dialog_title">Dubbele app verwijderen</string>
