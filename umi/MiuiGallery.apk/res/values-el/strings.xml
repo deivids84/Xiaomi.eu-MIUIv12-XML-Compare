@@ -1597,7 +1597,7 @@
     <string name="photo_font_download_without_wifi_title">Προειδοποίηση κατανάλωσης δεδομένων</string>
     <string name="photo_movie_module_finish">Επιτυχής φόρτωση Κλιπ</string>
     <string name="photo_movie_module_loading">Φόρτωση Κλιπ…</string>
-    <string name="photo_movie_select_image_range">Τα κλιπ μπορούν να περιέχουν 3-20 φωτογραφίες</string>
+    <string name="photo_movie_select_image_range">Τα κλιπ μπορούν να περιέχουν %1$d-%2$d φωτογραφίες</string>
     <string name="photo_page_lock_screen">Προσανατολισμός κλειδώματος</string>
     <string name="photo_page_rotate_screen">Περιστροφή οθόνης</string>
     <string name="photo_page_save_uri_image_fail">"Αδυναμία αποθήκευσης στη Συλλογή"</string>
@@ -1914,7 +1914,7 @@
     <string name="sky_static">Στατική</string>
     <string name="sky_sunny">Sunny</string>
     <string name="slideshow_interval_dialog_title">Εισαγωγή διαστήματος</string>
-    <string name="slideshow_interval_invalid">Το διάστημα πρέπει να είναι μεταξύ 3 και 3600 δευτερολέπτων</string>
+    <string name="slideshow_interval_invalid">Το διάστημα πρέπει να είναι μεταξύ %1$d και %2$d δευτερολέπτου</string>
     <string name="slideshow_interval_title">Εμφάνιση κάθε διαφάνειας για</string>
     <string name="slideshow_loop_title">Επανάληψη όλων των διαφανειών</string>
     <string name="slim_complete">Ολοκλήρωση</string>
@@ -1924,8 +1924,8 @@
     <string name="slim_cost_time_second">%dδ απομένουν</string>
     <string name="slim_description_dialog_detail">Μειώστε το μέγεθος αρχείων τοπικών φωτογραφιών. Τα αρχικά αρχεία θα αποθηκευτούν στο Xiaomi Cloud.</string>
     <string name="slim_description_dialog_ok">Κατάλαβα</string>
-    <string name="slim_description_dialog_slim_after">Μετά:  167KB</string>
-    <string name="slim_description_dialog_slim_before">Πριν:  3.07MB</string>
+    <string name="slim_description_dialog_slim_after">Μετά: %d KB</string>
+    <string name="slim_description_dialog_slim_before">Πριν: %.2f MB</string>
     <string name="slim_exit_dialog_positive">Διακοπή</string>
     <string name="slim_exit_dialog_title">Διακοπή βελτιστοποίησης</string>
     <string name="slim_running">Γίνεται βελτιστοποίηση…</string>
@@ -2255,7 +2255,7 @@
     <string name="video_editor_filter_wangshi">Ρέτρο</string>
     <string name="video_editor_filter_xiaosenlin">Άλσος</string>
     <string name="video_editor_intelligent_special_effect">Εφέ</string>
-    <string name="video_editor_invalid_trim_arguments">Πρέπει να είναι πάνω από 1 δευτερόλεπτο</string>
+    <string name="video_editor_invalid_trim_arguments">Πρέπει να είναι μεγαλύτερο από %d δευτερόλεπτο</string>
     <string name="video_editor_loading_plugin">Φόρτωση…</string>
     <string name="video_editor_loading_warning_msg">"Λόγω σφάλματος κωδικοποίησης, ορισμένες λειτουργίες και προεπισκοπήσεις μπορεί να μην είναι διαθέσιμες κατά την διαδικασία επεξεργασίας. Παρ'όλα αυτά, αυτό δεν θα επηρεάσει το τελικό αρχείο βίντεου."</string>
     <string name="video_editor_loading_warning_title">Σφάλμα κωδικοποίησης</string>
@@ -2276,15 +2276,15 @@
     <string name="video_editor_smart_effect_fastslow">Κίνηση</string>
     <string name="video_editor_smart_effect_freesze">Παύση κίνησης</string>
     <string name="video_editor_smart_effect_halo">Φωτοστέφανο</string>
-    <string name="video_editor_smart_effect_high_iframes_text">Αυτό το εφέ δουλεύει καλύτερα για βίντεο 120 fps.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">Αυτό το εφέ λειτουργεί καλύτερα για βίντεο %d fps.</string>
     <string name="video_editor_smart_effect_movie">Ταινία</string>
     <string name="video_editor_smart_effect_none">Χωρίς</string>
     <string name="video_editor_smart_effect_radical">Αισιόδοξο</string>
     <string name="video_editor_smart_effect_rhythm">Σφυγμός</string>
     <string name="video_editor_smart_effect_street">Μητρόπολη</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Αυτό το εφέ θα εφαρμοστεί σε βίντεο που δεν ξεπερνούν τα 40 δευτερόλεπτα. Αυτόματη προσαρμογή διάρκειας.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_6">Μπορείτε να εφαρμόσετε αυτό το εφέ σε βίντεο τουλάχιστον 6 δευτερόλεπτων.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Αυτό το εφέ θα εφαρμοστεί σε βίντεο που δεν ξεπερνούν τα 60 δευτερόλεπτα. Αυτόματη προσαρμογή διάρκειας.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Αυτό το εφέ μπορεί να εφαρμοστεί σε βίντεο όχι περισσότερο από %d δευτερόλεπτα. Προσαρμοσμένη διάρκεια αυτόματα.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_6">Μπορείτε να εφαρμόσετε αυτό το εφέ σε βίντεο διάρκειας τουλάχιστον %d δευτερολέπτων.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Αυτό το εφέ μπορεί να εφαρμοστεί σε βίντεο όχι περισσότερο από %d δευτερόλεπτα. Προσαρμοσμένη διάρκεια αυτόματα.</string>
     <string name="video_editor_template_family">Οικογένεια</string>
     <string name="video_editor_template_forbidden_tips">"Αδυναμία εκτέλεσης ενέργειας κατά την χρήση πρότυπου"</string>
     <string name="video_editor_template_oldfilm">Βίνταζ</string>
