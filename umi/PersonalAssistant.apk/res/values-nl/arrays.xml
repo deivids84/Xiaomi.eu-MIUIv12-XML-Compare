@@ -1,5 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Week 1</item>
+        <item>Week 2</item>
+        <item>Week 3</item>
+        <item>Week %1$d</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>schijf</item>
+        <item>Openbaar vervoer</item>
+        <item>Cab</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minuten</item>
+        <item>20 minuten</item>
+        <item>30 minuten</item>
+        <item>60 minuten</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Nacht</item>
+        <item>Nacht</item>
+        <item>Ochtend</item>
+        <item>Middag</item>
+        <item>Middag</item>
+        <item>Avond</item>
+        <item>Avond</item>
+    </string-array>
     <string-array name="day_time_space">
         <item>Nacht</item>
         <item>Vroeg in de ochtend</item>
