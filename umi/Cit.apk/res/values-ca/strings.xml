@@ -678,7 +678,7 @@ En la segona línia es mostra el nom i el número de versió de MBN predetermina
     <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
     <string name="cit_tool_wifi_rx_count_error">El valor de sortida no és un número.</string>
     <string name="cit_tool_wifi_rx_error">Error en executar el programa</string>
-    <string name="cit_tool_wifi_rx_exit">Rx: surt</string>
+    <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
     <string name="cit_tool_wifi_rx_run">Executa</string>
     <string name="cit_tool_wifi_rx_stop">Atura</string>
     <string name="cit_tool_wifi_rxbg_test_channel">canal:</string>
