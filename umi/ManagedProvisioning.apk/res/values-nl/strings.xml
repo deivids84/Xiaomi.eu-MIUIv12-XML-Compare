@@ -48,6 +48,17 @@
     <string name="cant_replace_or_remove_work_profile">"Kan werkprofiel niet vervangen of verwijderen"</string>
     <string name="cant_set_up_device">"Kan apparaat niet instellen"</string>
     <string name="cant_set_up_profile">"Kan profiel niet instellen"</string>
+    <string name="car_ui_alert_dialog_default_button">Afsluiten</string>
+    <string name="car_ui_preference_switch_off">UIT</string>
+    <string name="car_ui_preference_switch_on">op</string>
+    <string name="car_ui_restricted_while_driving">Functie niet beschikbaar tijdens het rijden</string>
+    <string name="car_ui_scrollbar_page_down_button">Scroll naar beneden</string>
+    <string name="car_ui_scrollbar_page_up_button">Omhoog scrollen</string>
+    <string name="car_ui_toolbar_default_search_hint">Zoek…</string>
+    <string name="car_ui_toolbar_menu_item_overflow_title">Overloop</string>
+    <string name="car_ui_toolbar_menu_item_search_title">Zoeken</string>
+    <string name="car_ui_toolbar_menu_item_settings_title">Instellingen</string>
+    <string name="car_ui_toolbar_nav_icon_content_description">Achterzijde</string>
     <string name="change_device_launcher">Apparaat-launcher wijzigen</string>
     <string name="close_list">Lijst sluiten</string>
     <string name="collapse">Samenvouwen</string>
@@ -181,6 +192,9 @@
     <string name="something_went_wrong">Er is iets misgegaan</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_setup_reset_device_question">Instellen stoppen en apparaat resetten?</string>
+    <string name="sud_back_button_label">Achterzijde</string>
+    <string name="sud_more_button_label">Meer</string>
+    <string name="sud_next_button_label">Volgende</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure_you_want_to_delete_profile">Als je doorgaat, worden alle apps en gegevens in dit profiel verwijderd.</string>
     <string name="take_a_few_minutes">Dit kan enkele minuten duren</string>
