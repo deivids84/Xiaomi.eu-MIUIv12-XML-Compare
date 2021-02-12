@@ -44,6 +44,9 @@
     <item>Standaard</item>
     <item>Klassiek</item>
   </string-array>
+  <string-array name="quality_business_devices">
+    <item>lithium</item>
+  </string-array>
   <string-array name="transformation_entries">
     <item>Klassiek</item>
     <item>Vervagen</item>
