@@ -283,7 +283,9 @@
     <string name="cancel_action">Cancelar</string>
     <string name="cancel_pop3_attchemt_downloading">"No se puede cancelar descargas en curso de adjuntos en cuentas POP3"</string>
     <string name="cant_move_or_change_labels">"No se puede mover los elementos de varias cuentas."</string>
+    <string name="cc">Cc</string>
     <string name="cc_bcc">CC BCC</string>
+    <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">"No se pudo agregar el certificado \"%s\""</string>
     <string name="certificate_added">Certificado \"%s\" agregado correctamente</string>
     <string name="certificate_alias_prompt_certificate_name">Nombre</string>
