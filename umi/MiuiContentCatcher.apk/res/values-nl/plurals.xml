@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <plurals name="settings_clear_data_confirmation">
+        <item quantity="other">"Als u nu wachtwoorden verwijdert, moet u ze de volgende keer als u inlogt handmatig invoeren.
+Verwijder de wachtwoorden voor %1$s geselecteerde apps?"</item>
+        <item quantity="one">"Als u nu wachtwoorden verwijdert, moet u ze de volgende keer als u inlogt handmatig invoeren.
+Verwijder het wachtwoord voor geselecteerde app voor %1$s?"</item>
+    </plurals>
+</resources>
