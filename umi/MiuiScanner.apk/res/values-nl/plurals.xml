@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="are_you_sure_you_want_delete_file">
+        <item quantity="other">%1$d bestanden nu verwijderen?</item>
+        <item quantity="one">%1$d bestand nu verwijderen?</item>
+    </plurals>
+    <plurals name="are_you_sure_you_want_delete_this">
+        <item quantity="other">%1$d afbeeldingen nu verwijderen?</item>
+        <item quantity="one">Verwijder %1$d afbeelding?</item>
+    </plurals>
     <plurals name="choosed">
         <item quantity="other">Geselecteerd %1$d items</item>
         <item quantity="one">Geselecteerd %1$d item</item>
