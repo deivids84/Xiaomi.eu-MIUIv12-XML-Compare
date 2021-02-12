@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">over %d minuten</item>
+        <item quantity="one">over 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">%1$s berichten verwijderen?</item>
         <item quantity="one">%1$s bericht verwijderen?</item>
@@ -28,9 +64,33 @@
         <item quantity="other">"Kon niet naar %d contacten verzenden"</item>
         <item quantity="one">"Kon niet naar %d contact verzenden"</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Een half uur geleden</item>
+        <item quantity="other">Een half uur geleden</item>
+    </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d berichten</item>
         <item quantity="one">%d bericht</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Over 1 uur</item>
+        <item quantity="other">Over 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Over een half uur</item>
+        <item quantity="other">Over een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Onmiddellijk</item>
+        <item quantity="other">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">over 1 minuut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Op dit moment</item>
+        <item quantity="other">Op dit moment</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Gemerkt als %2$s door %1$d personen</item>
@@ -39,6 +99,18 @@
     <plurals name="message_count">
         <item quantity="other">%1$s berichten</item>
         <item quantity="one">%1$s bericht</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s berichten +%s "</item>
+        <item quantity="one">"%s bericht voerig "</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Je hebt %d groepschatuitnodigingen ontvangen</item>
+        <item quantity="one">U hebt %d uitnodiging voor groepschat ontvangen</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personen</item>
