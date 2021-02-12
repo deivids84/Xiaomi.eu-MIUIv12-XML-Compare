@@ -1,2 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="settings_search_mirror">
+        <item>MIUI+ bèta</item>
+        <item>Verbinding &amp; delen/MIUI+ bèta</item>
+        <item>Scherm Combo; Duet; Multiscreen; Duo; Computer; Spieter; MIUI+</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Schakel draagbare hotspot, Mi Share, uit of casten op uw mobiele apparaat voordat u deze functie gebruikt.
+2. Wi-Fi uitschakelen op zowel uw mobiele apparaat als computer.
+3. Zorg ervoor dat uw mobiele apparaat dicht bij uw computer staat. U kunt geen verbinding maken met apparaten als deze op verschillende plaatsen staan."</item>
+        <item>Uw computer gebruikt Bluetooth om mobiele apparaten in de buurt te detecteren die eerder zijn aangesloten. Controleer of Bluetooth is ingeschakeld op uw mobiele apparaat.</item>
+        <item>"Mobiele apparaten kunnen geen data synchroniseren met computers wanneer het scherm is vergrendeld. Deze app staat standaard het vergrendelen van het scherm niet toe wanneer uw mobiele apparaat is verbonden met een computer. U kunt dit wijzigen in de Instellingen."</item>
+        <item>"1. Compatibele mobiele apparaten: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Als u doorverwezen bent naar onze officiële website na het scannen van de QR-code, wordt uw apparaat nog niet ondersteund.
+2. Compatibele computers: ²-Computers: ・Pro 15-' s (Zwam 15.6 2020G) , RedmiBook 16, RedmiBook 14 II, RedmiBook 14 II, RedmiBook Air 13. Download MIUI+ Beta voor uw computer hier: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Kan je geen verbinding maken met de QR-code?"</item>
+        <item>"Kan je geen mobiele apparaten vinden met jouw computer?"</item>
+        <item>"Kan je mobiele apparaat niet vergrendelen?"</item>
+        <item>Compatibiliteit</item>
+    </string-array>
+</resources>
