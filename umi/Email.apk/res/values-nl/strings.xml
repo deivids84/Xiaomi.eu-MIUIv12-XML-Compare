@@ -30,6 +30,9 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="about_checking_update">update controleren...</string>
+    <string name="about_go_to_update">Ga naar update</string>
+    <string name="about_lasted_version">Het is de laatste editie</string>
     <string name="account_add_title">Selecteer e-mailservice</string>
     <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Dubbel account</string>
@@ -45,6 +48,8 @@
     <string name="account_security_title">Apparaatbeveiliging</string>
     <string name="account_security_verification">Accountverificatie</string>
     <string name="account_set_up_change_type_note">Als u tussen POP3 en IMAP instellingen moet schakelen, verwijder dan uw account en maak een nieuwe aan met de door u gewenste instellingen.</string>
+    <string name="account_setting_general_summry">Stel E-mail veelvoorkomende functies in</string>
+    <string name="account_setting_general_title">Functie instellingen</string>
     <string name="account_setting_message_body_load_complete">Volledige bericht</string>
     <string name="account_setting_message_body_load_head_abstract">E-mail samenvatting</string>
     <string name="account_setting_message_body_load_head_only">Alleen header</string>
@@ -52,8 +57,10 @@
     <string name="account_settings_action">Accountinstellingen</string>
     <string name="account_settings_background_attachments_summary">Bijlagen downloaden via WLAN</string>
     <string name="account_settings_background_attachments_summary_inter">Bijlagen downloaden via wifi</string>
+    <string name="account_settings_background_attachments_title">Bijlagen automatisch downloaden</string>
     <string name="account_settings_data_usage">Synchroniseerinstellingen</string>
     <string name="account_settings_description_label">Accountnaam</string>
+    <string name="account_settings_does_not_support_pop">POP3-protocol ondersteunt het instellen van dit item niet</string>
     <string name="account_settings_edit_quick_responses_label">Snel antwoord</string>
     <string name="account_settings_edit_quick_responses_summary">Korte berichten bewerken om in e-mails te plakken</string>
     <string name="account_settings_incoming_summary">Gebruikersnaam, wachtwoord en andere serverinstellingen</string>
@@ -69,6 +76,7 @@
     <string name="account_settings_notifications">Meldingen</string>
     <string name="account_settings_notify_label">E-mailmeldingen</string>
     <string name="account_settings_notify_summary">Melding weergeven als er een nieuwe e-mail binnenkomt</string>
+    <string name="account_settings_only_notify_inbox">Alleen push-postvak in</string>
     <string name="account_settings_param">Accountinstellingen</string>
     <string name="account_settings_preference_att_save_path">Standaardlocatie voor bijlages</string>
     <string name="account_settings_preference_head_icon">Profielfoto\'s</string>
@@ -178,6 +186,7 @@
     <string name="account_sync_settings_settings">Contacten en kalender synchroniseren</string>
     <string name="account_sync_settingstip_description">Synchroniseren</string>
     <string name="account_waiting_for_folders_msg">Folders aan het laden…</string>
+    <string name="action_filter">Filteren</string>
     <string name="activity_folder_selection">Map kiezen</string>
     <string name="activity_mailbox_selection">Account kiezen</string>
     <string name="ad_merge">Advertenties en Meldingen</string>
@@ -193,6 +202,8 @@
     <string name="allread">Alles lezen</string>
     <string name="always_bcc_myself">Altijd mezelf bcc-en</string>
     <string name="app_name">E-mail</string>
+    <string name="app_uninstall_content">E-mail is een MIUI-systeemapplicatie. Na het deïnstalleren kunt u geen e-mailaccounts toevoegen, e-mails verzenden en ontvangen en e-mail schema\'s synchroniseren.</string>
+    <string name="app_uninstall_title">Verwijder \"email\"?</string>
     <string name="appraise_des">Vindt u onze app leuk?</string>
     <string name="appraise_good">Ja</string>
     <string name="appraise_ignore">"Weet ik nog niet"</string>
@@ -254,12 +265,15 @@
     <string name="bill_center_setting">Instellingen voor facturering</string>
     <string name="bill_center_setting_head">Informatie uit deze accounts importeren</string>
     <string name="bill_cycle_text">Factureringscyclus</string>
+    <string name="bill_list_card_num_fmt">**** **** ****%s</string>
     <string name="bill_remind">Betalingsherinnering</string>
     <string name="bill_remind_due">Er is een betaling verschuldigd op %s, tik om deze te bekijken</string>
     <string name="blank_feedback_toast">U moet feedback schrijven</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">E-mail opstellen</string>
     <string name="body_inline_pic_text">[Picture]</string>
+    <string name="bottom_bar_more_pdf">Exporteren naar PDF</string>
+    <string name="bottom_bar_more_pdf_exporting">Exporteren…</string>
     <string name="bottom_bar_more_quickreply">Snel antwoord</string>
     <string name="bottom_bar_more_share">Delen</string>
     <string name="bottom_bar_no_quickreply_toast">Geen snel antwoord</string>
@@ -291,6 +305,8 @@
     <string name="chat_item_msg_people_unit">mensen</string>
     <string name="chat_item_msg_user_etc">etc.</string>
     <string name="check_setup_data">"    Serverinstellingen valideren…"</string>
+    <string name="choose_an_office365_international">Internationale Editie</string>
+    <string name="choose_an_office365_provider">Kies een leverancier van office365 diensten</string>
     <string name="choosertitle_sharevia">Delen met behulp van</string>
     <string name="clear">Wissen</string>
     <string name="clear_display_images_whitelist_dialog_message">Stop met het weergeven van inline afbeeldingen van afzenders die u al eerder heeft goedgekeurd.</string>
@@ -333,6 +349,7 @@
     <string name="contact_list_title">Contactpersonen</string>
     <string name="contact_permission_error">"Toegang tot de contacten uit de telefoon beperkt"</string>
     <string name="contact_select">Contacten selecteren</string>
+    <string name="contain_view_all_body">Bekijk de volledige tekst van het bericht</string>
     <string name="content_description">%1$s over %2$s, %3$s op %4$s, %5$s</string>
     <string name="content_description_today">%1$s over %2$s, %3$s op %4$s, %5$s</string>
     <string name="contextmenu_add">Toevoegen aan contactpersonen</string>
@@ -367,6 +384,7 @@
     <string name="conversation_quick_button_disapprove">Annuleren</string>
     <string name="conversation_quick_button_received">Ontvangen</string>
     <string name="conversation_report_spam">Spam rapporteren</string>
+    <string name="conversation_report_un_spam">Geen spam</string>
     <string name="conversation_spam_dig_msg">Dit bericht als spam markeren? Het bericht wordt verplaatst naar de map \"Spam\" en de afzender wordt toegevoegd aan de blokkeerlijst.</string>
     <string name="conversation_spam_tips">Dit bericht als spam markeren?</string>
     <string name="copied">Gekopieerd</string>
@@ -433,6 +451,10 @@
     <string name="drawer_close">Navigatiemenu sluiten</string>
     <string name="drawer_contacts">Contacten</string>
     <string name="drawer_open">Navigatiemenu openen</string>
+    <string name="drive_card_button_tips">Kopieer de uitgepakte code en krijg de gedeelde inhoud</string>
+    <string name="drive_card_code">extractie code</string>
+    <string name="drive_card_tips">Delen gevonden van %s</string>
+    <string name="drive_card_title">Schijf link</string>
     <string name="dtend">Eindigt</string>
     <string name="dtstart">Begint</string>
     <string name="due">Verschuldigd</string>
@@ -441,6 +463,7 @@
     <string name="edit_signature">Handtekening bewerken</string>
     <string name="editor_max_length_limit_hint">Het bericht dat u hebt ingevoerd, is te lang</string>
     <string name="email_netease">NetEase Mail</string>
+    <string name="email_no_snippet">[Dit bericht heeft geen tekst in tekst]</string>
     <string name="email_qq">QQ Mail</string>
     <string name="email_sina">Sina Mail</string>
     <string name="email_sync_failed">"Kon e-mail niet synchroniseren"</string>
@@ -494,14 +517,40 @@
     <string name="filter_title_unread">%s [Ongelezen]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Tik op de knop om \"%s\" naar alle mensen in het gesprek te sturen</string>
+    <string name="folder_drafts_name_cn0">草稿</string>
+    <string name="folder_drafts_name_cn1">草稿箱</string>
+    <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
+    <string name="folder_drafts_name_en1">Kladversie</string>
+    <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
     <string name="folder_empty_to_fresh">"Mail is niet gesynchroniseerd. Veeg naar beneden om te synchroniseren."</string>
+    <string name="folder_junk_name_cn0">barometertels vejs</string>
+    <string name="folder_junk_name_cn1">垃圾箱</string>
+    <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
+    <string name="folder_junk_name_en1">Bulk e-mail</string>
+    <string name="folder_junk_name_en2">Ongewenste mail</string>
+    <string name="folder_junk_name_en3">Ongewenste E-Mail</string>
+    <string name="folder_junk_name_en4">Ongewenste</string>
     <string name="folder_list_display_all">Alle mappen weergeven</string>
     <string name="folder_list_display_only_import">Alleen belangrijke mappen weergeven</string>
     <string name="folder_no_mails">Geen e-mails in deze map.</string>
     <string name="folder_picker_title">Mappen kiezen</string>
     <string name="folder_removed">Verwijderd uit %1$s</string>
+    <string name="folder_sent_name_cn0">已发送</string>
+    <string name="folder_sent_name_cn1">已发邮件</string>
+    <string name="folder_sent_name_cn2">已发送邮件</string>
+    <string name="folder_sent_name_cn3">[Gmail]/已发邮件</string>
+    <string name="folder_sent_name_en1">Verzonden berichten</string>
+    <string name="folder_sent_name_en2">Bericht verzonden</string>
+    <string name="folder_sent_name_en3">Verzonden Items</string>
+    <string name="folder_sent_name_en4">[Gmail]/Verzonden e-mail</string>
     <string name="folder_shortcut_widget_label">E-mailmap</string>
     <string name="folder_synchronization_mail_settings">Synchronisatie-instellingen voor map</string>
+    <string name="folder_trash_name_cn0">已删除</string>
+    <string name="folder_trash_name_cn1">已删除邮件</string>
+    <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
+    <string name="folder_trash_name_en1">Verwijderde berichten</string>
+    <string name="folder_trash_name_en2">Verwijderd bericht</string>
+    <string name="folder_trash_name_en3">[Gmail]/Bin</string>
     <string name="font_bold_add">Vetgedrukt</string>
     <string name="font_bold_remove">Vetgedrukt verwijderen</string>
     <string name="font_color">Huidige tekstkleur: %s</string>
@@ -540,6 +589,8 @@
     <string name="general_preference_text_zoom_normal">Normaal</string>
     <string name="general_preference_text_zoom_small">Klein</string>
     <string name="general_preference_text_zoom_tiny">Zeer klein</string>
+    <string name="general_preference_trash_contact">Spam screening</string>
+    <string name="general_preference_trash_contact_sum">Het verwerken van brieven van afzenders die in grote aantallen zijn gerapporteerd</string>
     <string name="generic_attachment_problem">"Kan bestand niet bijvoegen."</string>
     <string name="get_database_exception">"Wis de gegevens van deze app in de instellingen &gt; systeem-apps en probeer het opnieuw."</string>
     <string name="get_oauth_code">Code krijgen</string>
@@ -552,10 +603,12 @@
     <string name="header_category_account">Accounts</string>
     <string name="header_label_general_preferences">Algemeen</string>
     <string name="help_and_info">Help</string>
+    <string name="help_email_title">MI Mail</string>
     <string name="help_me_get_qq_auth">Code krijgen</string>
     <string name="help_weixin_title">"Als u vragen heeft, kunt u een berichtje sturen naar ons officiële WeChat account: "</string>
     <string name="hide_elided">▼ Geciteerde tekst verbergen</string>
     <string name="hide_password">Wachtwoord verbergen</string>
+    <string name="hierarchical_folder_parent_top_ellip">%1$s+%1$s…½%2$s ³</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Wachtwoord voor de server voor inkomende e-mail is onjuist</string>
@@ -565,9 +618,18 @@
     <string name="info_item_hide">Verwijderen</string>
     <string name="inline_picture_deleted">De missende afbeelding aan het downloaden…</string>
     <string name="input_password_prompt">Voer uw wachtwoord in</string>
+    <string name="install_mime_encrypt_cert">Installeer S/MIME-coderingscertificaat</string>
+    <string name="install_mime_sign_cert">Installeer S/MIME-handtekeningscertificaat</string>
     <string name="interact_with_server_error">"Kon geen verbinding met de server maken"</string>
     <string name="invalid_recipient">Het adres %s is ongeldig.</string>
     <string name="invalid_recipient_title">Fout bij de ontvanger</string>
+    <string name="invoice_card_amount">bedrag</string>
+    <string name="invoice_card_buyer">koper</string>
+    <string name="invoice_card_date">datum</string>
+    <string name="invoice_card_open">open factuur</string>
+    <string name="invoice_card_save">factuur opslaan</string>
+    <string name="invoice_card_seller">verkoper</string>
+    <string name="invoice_card_title">e-factuur</string>
     <string name="kilobytes">%s KB</string>
     <string name="list_empty_to_fresh">Nog geen e-mails.</string>
     <string name="load_from_remote">Postvak op de server zoeken</string>
@@ -593,11 +655,14 @@
     <string name="login_des_yahoo">Log in bij Yahoo Mail</string>
     <string name="login_des_yangdex">Log in bij Yandex Mail</string>
     <string name="login_err_message">Gebruik geautoriseerde toegangscodes om in te loggen bij %1$s als u deze optie eerder heeft geselecteerd. Ga naar https://email.163.com/ om uw wachtwoord of toegangscode opnieuw in te stellen.</string>
+    <string name="login_err_outlook_msg">"%s
+Gelieve te bevestigen of het wachtwoord van de applicatie is ingeschakeld, Als deze is ingeschakeld, ga dan naar de Microsoft-website om het wachtwoord van de applicatie te resetten"</string>
     <string name="login_err_sina_message">Gebruik geautoriseerde toegangscodes om in te loggen bij %1$s als u deze optie eerder heeft geselecteerd. Ga naar https://mail.sina.com.cn/ om uw wachtwoord of toegangscode opnieuw in te stellen.</string>
     <string name="login_failed_ticker">Aanmelden bij %s mislukt.</string>
     <string name="login_failed_tip">"Neem contact met ons op in WeChat voor hulp: "</string>
     <string name="login_failed_title">"Kan niet aanmelden"</string>
     <string name="login_mail">Aanmelden</string>
+    <string name="login_manual">Handmatige instelling</string>
     <string name="login_qq_psw">Voer code handmatig in</string>
     <string name="long_press_to_select_tip">Raak aan en houd vast om één gesprek te selecteren; raak daarna anderen aan om er meer te selecteren.</string>
     <string name="mail">E-mail</string>
@@ -624,6 +689,8 @@
     <string name="mailbox_name_display_starred">Met ster</string>
     <string name="mailbox_name_display_trash">Prullenbak</string>
     <string name="mailbox_name_display_unread">Ongelezen</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Synchronisatie: uit</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Synchronisatie: Aan</string>
     <string name="mailbox_settings_activity_title">Synchroniseerinstellingen</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Synchroniseerinstellingen (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Synchroniseer e-mail van</string>
@@ -641,6 +708,16 @@
         Geaccepteerd:
         %s
     "</string>
+    <string name="meeting_allday">"
+        Wanneer:
+        %s
+        (hele dag)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Wanneer:
+        %s
+        (hele dag, herhalen)
+    "</string>
     <string name="meeting_canceled">"
         Geannuleerd:
         %s
@@ -649,6 +726,11 @@
         Geweigerd:
         %s
     "</string>
+    <string name="meeting_recurring">"
+        Wanneer:
+        %s
+        (herhalend)
+    "</string>
     <string name="meeting_responded_failed">Geen antwoord</string>
     <string name="meeting_tentative">"
         Voorlopig:
@@ -656,6 +738,14 @@
     "</string>
     <string name="meeting_updated">"
         Bijgewerkt:
+        %s
+    "</string>
+    <string name="meeting_when">"
+        Wanneer:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        Waar:
         %s
     "</string>
     <string name="megabytes">%s MB</string>
@@ -676,6 +766,7 @@
     <string name="menu_search">Zoeken</string>
     <string name="menu_settings">Instellingen</string>
     <string name="merged_mailbox_compose_select_account">Selecteer Account</string>
+    <string name="message_all_body">Volledige tekst</string>
     <string name="message_body_load_set_description">E-mails laden als er mobiele data wordt gebruikt</string>
     <string name="message_compose_insert_quick_response_list_title">Snel antwoord invoegen</string>
     <string name="message_decode_error">"Kan het bericht niet decoderen"</string>
@@ -713,6 +804,7 @@
     <string name="new_signature_has_saved">Succesvol opgeslagen</string>
     <string name="next_action">Volgende</string>
     <string name="no">Nee</string>
+    <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Er is geen app gevonden om deze bijlage te openen.</string>
     <string name="no_application_found_title">Deze bijlage openen.</string>
     <string name="no_bill_discribe">"Kon geen rekeningen vinden.
@@ -738,6 +830,7 @@ Probeer om naar een ander e-mailaccount om te schakelen."</string>
     <string name="notification_action_undo_archive">Gearchiveerd</string>
     <string name="notification_action_undo_delete">Verwijderd</string>
     <string name="notification_action_undo_remove_label">Label verwijderd</string>
+    <string name="notification_exchange_calendar_added">Wisselkalender toegevoegd</string>
     <string name="notify_channel_new_mail">Melding ontvangen over nieuwe berichten</string>
     <string name="notify_channel_no_disterb">Niet storen modus</string>
     <string name="notify_channel_permission_notice">Toestemmingen vereist</string>
@@ -769,6 +862,7 @@ Probeer om naar een ander e-mailaccount om te schakelen."</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Geef Mail toegang tot opslag, contacten en kalenderinformatie in Instellingen</string>
     <string name="open_external_storage_and_contacts_permission">Geef Mail toegang tot opslag en contacten in de instellingen</string>
     <string name="open_notification_kingagent">Burial point meldingen aanzetten</string>
+    <string name="open_pdf_error">Het PDF-bestand kon niet worden geopend. Download andere PDF-openingstools en probeer het later opnieuw.</string>
     <string name="optimization_suggestion">Suggesties voor optimalisatie</string>
     <string name="others_mail">Anders</string>
     <string name="others_mail_des">Andere particuliere of zakelijke e-mail services</string>
@@ -811,6 +905,24 @@ Probeer om naar een ander e-mailaccount om te schakelen."</string>
     <string name="password_expired_dialog_content_fmt">De gegevens voor %s worden van uw apparaat gewist. U kunt dit herstellen door de pincode of het wachtwoord voor uw vergrendelscherm te wijzigen. Wilt u dit nu doen?</string>
     <string name="password_expired_dialog_title">Wachtwoord voor vergrendelscherm is verlopen</string>
     <string name="password_expired_ticker">Uw pincode of wachtwoord voor het vergrendelscherm is verlopen.</string>
+    <string name="pdf_has_signature_prompt_cancel">Open het originele bestand</string>
+    <string name="pdf_has_signature_prompt_confirm">Open kopie</string>
+    <string name="pdf_has_signature_prompt_message">Een ondertekende kopie van deze bijlage is gedetecteerd. Open of niet?</string>
+    <string name="pdf_save_error">De body is te groot, het kan niet worden geëxporteerd als een PDF-bestand</string>
+    <string name="pdf_save_no_body">Wacht tot de tekst succesvol geladen is en probeer het opnieuw</string>
+    <string name="pdf_save_to">Opgeslagen in</string>
+    <string name="pdf_signature_create_title">Handtekening maken</string>
+    <string name="pdf_signature_manager_max_count">Maximum aantal handtekeningen, verwijder de bestaande handtekening en probeer het opnieuw</string>
+    <string name="pdf_signature_manager_title">Handtekening beheerder</string>
+    <string name="pdf_viewer_actionbar_more_other">Openen door andere app</string>
+    <string name="pdf_viewer_actionbar_more_wps">Openen door WPS</string>
+    <string name="pdf_viewer_file_damage_toast">Het PDF-bestand is beschadigd. Controleer het bestand en probeer het opnieuw</string>
+    <string name="pdf_viewer_new_email">Nieuw e-mailadres</string>
+    <string name="pdf_viewer_reply">Antwoord met dit bestand</string>
+    <string name="pdf_viewer_save_signature">Handtekening opslaan</string>
+    <string name="pdf_viewer_sign_file_damage_toast">Het bestand bestaat niet</string>
+    <string name="pdf_viewer_signature">PDF handtekening</string>
+    <string name="perference_change_auth_ok_tips">Autorisatiecode gewijzigd</string>
     <string name="perference_change_pw_notnull_tips">Voer uw wachtwoord in</string>
     <string name="perference_change_pw_ok_tips">Wachtwoord gewijzigd</string>
     <string name="perference_setup_pop_del">E-mail van de server verwijderen</string>
@@ -865,6 +977,7 @@ ontvang herinneringen over betalingen en reizen"</string>
     <string name="privacy_policy">Privacybeleid</string>
     <string name="privacy_setting_agree">Akkoord</string>
     <string name="prompt_title">Melding</string>
+    <string name="protocol_pop3">PP 3</string>
     <string name="protocol_setting_toast">Tik in de rechter bovenhoek om naar de instellingen te gaan nadat u akkoord gaat</string>
     <string name="pull_to_refresh">Trek omlaag om te vernieuwen</string>
     <string name="push_wps_better_confirm_download">Downloaden</string>
@@ -913,6 +1026,23 @@ ontvang herinneringen over betalingen en reizen"</string>
     <string name="quick_reply_dialog_title">Kies een antwoord</string>
     <string name="quick_reply_expend">Meer</string>
     <string name="quick_responses_empty_view">Geen snelle antwoorden</string>
+    <string name="quote_divider_1">-------- 原始邮件 --------</string>
+    <string name="quote_divider_11">----- 原文 -----</string>
+    <string name="quote_divider_12">原始邮件</string>
+    <string name="quote_divider_2">---原始邮件---</string>
+    <string name="quote_divider_3">-------- 原始消息 --------</string>
+    <string name="quote_divider_4">-----邮件原件-----</string>
+    <string name="quote_divider_5">-----------用于引用的分割线-------------</string>
+    <string name="quote_divider_6">---Original---</string>
+    <string name="quote_divider_7">Oorspronkelijk bericht</string>
+    <string name="quote_divider_apple">"
+&gt;"</string>
+    <string name="quote_divider_huawei_zh">来自华为手机</string>
+    <string name="quote_divider_iphone_en">Verzonden vanaf mijn iPhone</string>
+    <string name="quote_divider_iphone_fwd_en">Begin doorgestuurd bericht:</string>
+    <string name="quote_divider_iphone_fwd_zh">以下是转发的邮件：</string>
+    <string name="quote_divider_qq_en">------------------ Origineel ------------------</string>
+    <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
     <string name="quoted_text">Geciteerde tekst toevoegen</string>
     <string name="quoted_text_label">Tekst citeren</string>
     <string name="re_download_message_button">Tik om opnieuw te downloaden</string>
@@ -960,6 +1090,7 @@ Wacht tot hij volledig gesynchroniseerd is of bekijk het bericht op je computer.
     <string name="search_tabs_name_recipient">Ontvanger</string>
     <string name="search_tabs_name_sender">Afzender</string>
     <string name="search_tabs_name_subject">Onderwerp</string>
+    <string name="search_title">Gecombineerde e-mail</string>
     <string name="search_txt_size_limit_prompt">Zoektermen moeten langer dan 3 tekens zijn</string>
     <string name="security_needed_ticker_fmt">Account %s vereist dat u uw beveiligingsinstellingen bijwerkt.</string>
     <string name="security_notification_content_unsupported_title">"Beveiligingsvoorwaarden kunnen niet worden gehaald"</string>
@@ -1029,10 +1160,19 @@ Wacht tot hij volledig gesynchroniseerd is of bekijk het bericht op je computer.
 
 
 %s"</string>
+    <string name="signature_black_shark">Verzonden vanaf mijn Blackshark telefoon</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="sms_not_found_tip">Het is niet mogelijk om de systeem SMS-applicatie te starten, start handmatig de SMS-applicatie en stuur een verificatie-sms.</string>
     <string name="smtp_password_error">Wachtwoord voor de server voor uitgaande e-mail is onjuist</string>
     <string name="sort_attachment">Sorteren op</string>
+    <string name="special_text_1">写道:</string>
+    <string name="special_text_2">写道：</string>
+    <string name="special_text_3">寫道:</string>
+    <string name="special_text_4">寫道：</string>
+    <string name="special_text_5">schreef:</string>
+    <string name="special_text_sender_en">afzender</string>
+    <string name="special_text_sender_zh">发件人</string>
     <string name="storage">Opslag</string>
     <string name="str_select_all">Alles selecteren</string>
     <string name="str_select_none">Alles deselecteren</string>
@@ -1086,6 +1226,11 @@ Wacht tot hij volledig gesynchroniseerd is of bekijk het bericht op je computer.
     <string name="toolbar_part_symbol">Alineamarkering</string>
     <string name="topic_merge">Weergave instellingen</string>
     <string name="topic_merge_summary">Groeperen op onderwerp</string>
+    <string name="train_card_title">Train ticket met succes gekocht</string>
+    <string name="train_card_title_alternate">Wachten op treinticket succesvol</string>
+    <string name="train_card_title_change">Train ticket succesvol gewijzigd</string>
+    <string name="train_card_title_change_arrival">Train ticket succesvol gewijzigd</string>
+    <string name="train_card_title_refund">Vergoeding van het treinticket geslaagd</string>
     <string name="translation_loading">Een ogenblik geduld…</string>
     <string name="translation_no_result">Geen resultaten</string>
     <string name="translation_pronunciation_am">AmE</string>
@@ -1113,6 +1258,7 @@ Account verwijderen?"</string>
     <string name="unzip_file_failed">"Kon bestand niet uitpakken"</string>
     <string name="update_domain_summary">De lijst met beschikbare domeinen en configuraties bijwerken</string>
     <string name="update_domain_title">Domeininstellingen bijwerken</string>
+    <string name="update_to_wps_mail">Geniet van meer functies met WPS Mail</string>
     <string name="upload_log">Versturen</string>
     <string name="upload_log_failed">"Kon logbestanden niet verzenden"</string>
     <string name="upload_log_no">Annuleren</string>
@@ -1134,10 +1280,13 @@ Account verwijderen?"</string>
     <string name="wait_for_manual_sync_body">\"Dit account is niet ingesteld om automatisch te synchroniseren. 
 Tik op \"<b>Nu synchroniseren</b> om de e-mail eenmalig te synchroniseren of op <b>Synchronisatie-instellingen wijzigen</b> om automatisch synchroniseren voor dit account in te stellen.</string>
     <string name="wait_for_sync_title">Wachten op synchronisatie</string>
+    <string name="wait_help_context">wachten</string>
     <string name="wait_while_update_db">Database bijwerken…</string>
+    <string name="web_view_load_error_tip">Er zijn problemen opgetreden en de inhoud van deze e-mail kan niet correct worden weergegeven. Als u dit probleem tegenkomt, voeg dan QQ groep 952315061 toe om ons feedback te geven.</string>
     <string name="webview_logout">U kunt proberen om opnieuw aan te melden</string>
     <string name="webview_logout_cancel">Niet nu</string>
     <string name="webview_logout_sure">Opnieuw proberen</string>
+    <string name="webview_not_found">De pagina kan niet worden geopend omdat de WebView-component niet kan worden gevonden.</string>
     <string name="webview_sslerror_handle_cancel">Annuleren</string>
     <string name="webview_sslerror_handle_continue">Doorgaan</string>
     <string name="webview_sslerror_handle_hitmessage">Er is een certificaatfout opgetreden; toch verdergaan?</string>
@@ -1146,6 +1295,9 @@ Tik op \"<b>Nu synchroniseren</b> om de e-mail eenmalig te synchroniseren of op 
     <string name="widget_other_views">Overig</string>
     <string name="wipe_account_fail_description">Toestaan</string>
     <string name="wipe_account_fail_title">"Kon persoonlijke gegevens niet verwijderen"</string>
+    <string name="wps_card_button_tips">Open Kingsoft Document</string>
+    <string name="wps_card_tips">Delen gevonden van \"%s\"</string>
+    <string name="wps_card_title">Kingzacht document</string>
     <string name="wrong_password">Het ingevoerde wachtwoord is onjuist</string>
     <string name="xiaomi_email">E-mail</string>
     <string name="yes">Ja</string>
