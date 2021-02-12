@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="account_sync_frequency">
+    <item>Handleiding</item>
+    <item>Elke 15 minuten</item>
+    <item>Elk uur</item>
+    <item>Elke 4 uur</item>
+    <item>Elke 12 uur</item>
+  </string-array>
+  <string-array name="alphabet_table">
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>U</item>
+    <item>IK</item>
+    <item>jj</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>OO</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>vs</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>\#</item>
+  </string-array>
+  <string-array name="alphabet_table_with_starred">
+    <item>!</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>U</item>
+    <item>IK</item>
+    <item>jj</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>OO</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>vs</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>\#</item>
+  </string-array>
   <string-array name="aquarius_info">
     <item>waterman</item>
     <item>Waterman</item>
@@ -24,6 +90,10 @@
     <item>Alleen deze afspraak</item>
     <item>Alle afspraken in de reeks</item>
   </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Net voor deze tijd</item>
+    <item>Herinnering uitschakelen</item>
+  </string-array>
   <string-array name="date_calculate_spinner">
     <item>Vooruit</item>
     <item>Achteruit</item>
@@ -39,10 +109,30 @@
     <item>2 dagen van tevoren</item>
     <item>1 week van tevoren</item>
   </string-array>
+  <string-array name="default_reminder_later_time_labels">
+    <item>5 minuten</item>
+    <item>10 minuten</item>
+    <item>15 minuten</item>
+    <item>30 minuten</item>
+    <item>1 uur</item>
+  </string-array>
   <string-array name="delete_repeating_labels">
     <item>Alleen deze afspraak</item>
     <item>Deze en toekomstige afspraken</item>
     <item>Alle afspraken</item>
+  </string-array>
+  <string-array name="fortune_random_birthday">
+    <item>1992-01-01</item>
+    <item>2013-02-04</item>
+    <item>1995-04-05</item>
+    <item>1999-08-06</item>
+    <item>1996-06-21</item>
+    <item>2014-01-18</item>
+    <item>2006-01-23</item>
+    <item>2012-01-13</item>
+    <item>1993-01-17</item>
+    <item>1980-01-08</item>
+    <item>1982-01-10</item>
   </string-array>
   <string-array name="gemini_info">
     <item>tweeling</item>
@@ -59,10 +149,19 @@
     <item>Weegschaal</item>
     <item>23/9 - 23/10</item>
   </string-array>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Net voor deze tijd</item>
+    <item>Herhaalde herinnering instellen</item>
+  </string-array>
   <string-array name="pisces_info">
     <item>vissen</item>
     <item>Vissen</item>
     <item>19/2 - 20/3</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_popup_new">
+    <item>UIT</item>
+    <item>Voor alle evenementen</item>
+    <item>Voor tijdgevoelige gebeurtenissen</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Altijd</item>
@@ -159,11 +258,54 @@
     <item>maand</item>
     <item>jaar</item>
   </string-array>
+  <string-array name="repeat_monthly_on_day_count_values">
+    <item>eerste maandag</item>
+    <item>eerste dinsdag</item>
+    <item>eerste woensdag</item>
+    <item>eerste donderdag</item>
+    <item>eerste vrijdag</item>
+    <item>eerste zaterdag</item>
+    <item>eerste zondag</item>
+    <item>tweede maandag</item>
+    <item>tweede dinsdag</item>
+    <item>tweede woensdag</item>
+    <item>tweede donderdag</item>
+    <item>tweede vrijdag</item>
+    <item>tweede zaterdag</item>
+    <item>tweede zondag</item>
+    <item>derde maandag</item>
+    <item>derde dinsdag</item>
+    <item>derde woensdag</item>
+    <item>derde donderdag</item>
+    <item>derde vrijdag</item>
+    <item>derde zaterdag</item>
+    <item>derde zondag</item>
+    <item>vierde maandag</item>
+    <item>vierde dinsdag</item>
+    <item>vierde woensdag</item>
+    <item>vierde donderdag</item>
+    <item>vierde vrijdag</item>
+    <item>vierde zaterdag</item>
+    <item>Vierde zondag</item>
+    <item>Afgelopen maandag</item>
+    <item>Afgelopen dinsdag</item>
+    <item>Afgelopen woensdag</item>
+    <item>Afgelopen donderdag</item>
+    <item>afgelopen vrijdag</item>
+    <item>afgelopen zaterdag</item>
+    <item>laatste zondag</item>
+  </string-array>
   <string-array name="response_labels1">
     <item>Geen reactie</item>
     <item>Ja</item>
     <item>Misschien</item>
     <item>Nee</item>
+  </string-array>
+  <string-array name="response_labels2">
+    <item>"Niet reageren"</item>
+    <item>Accepteren</item>
+    <item>Beslis later</item>
+    <item>Afwijzen</item>
   </string-array>
   <string-array name="sagittarius_info">
     <item>boogschutter</item>
@@ -204,5 +346,14 @@
   <string-array name="widget_style_list">
     <item>Transparant</item>
     <item>Witte achtergrond</item>
+  </string-array>
+  <string-array name="year_view_week_header_name">
+    <item>S</item>
+    <item>M</item>
+    <item>T</item>
+    <item>W</item>
+    <item>T</item>
+    <item>F</item>
+    <item>S</item>
   </string-array>
 </resources>
