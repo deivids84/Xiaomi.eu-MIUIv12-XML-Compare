@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="acousticguitar">Akoestische gitaar</string>
+    <string name="africaanimals_preview">Savanne</string>
     <string name="alarmclock">Alarm</string>
+    <string name="amazonanimals_preview">Regenwoud</string>
     <string name="android_ringtone_default_with_actual">Standaard beltoon (%1$s)</string>
     <string name="android_ringtone_silent">Geen</string>
     <string name="android_ringtone_unknown">Onbekende beltoon</string>
     <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
     <string name="anti_aggression_day">反侵略日</string>
     <string name="arbor_day">植树节</string>
+    <string name="arcticanimals_preview">De Arctische</string>
     <string name="armed_forces_day">軍人節</string>
     <string name="asend">Stuur</string>
+    <string name="atlantis">Atlantis (stereo)</string>
+    <string name="australiaanimals_preview">Australië</string>
     <string name="autumn_begins">立秋</string>
     <string name="autumn_equinox">秋分</string>
     <string name="beep">Piep</string>
@@ -60,6 +65,7 @@
     <string name="device_poco_india">POCO PHONE</string>
     <string name="device_xiaomi">Mi telefoon</string>
     <string name="dewdrops">Dauwdruppels</string>
+    <string name="digitaluniverse">Digitaal universum (stereotype)</string>
     <string name="double_seventh_day">Tanabata</string>
     <string name="easter">Pasen</string>
     <string name="echo">Echo</string>
@@ -137,7 +143,23 @@
     <string name="mihouse">Mi Elektronisch</string>
     <string name="mijazz">Mi Jazz</string>
     <string name="miremix">Mi (Remix)</string>
+    <string name="miui_clock_city_name_local">lokaal</string>
+    <string name="miui_clock_city_name_second">Tweede klok</string>
     <string name="miui_device_name">Android</string>
+    <string name="miui_lock_screen_date">EEEE MM/dd</string>
+    <string name="miui_lock_screen_date_12">EEEE MM/dd</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+MM/dd"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+MM/dd"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+MM/dd"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+MM/dd"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="mix">MIX</string>
     <string name="moment">Moment</string>
     <string name="monet">Leliepond</string>
@@ -160,14 +182,17 @@
     <string name="radar">Radar</string>
     <string name="raindrops">Regendruppels</string>
     <string name="retrocession_day">Onafhankelijkheidsdag</string>
+    <string name="reveries">Omgekeerde (stereo)</string>
     <string name="robot">Robot</string>
     <string name="secretgarden">Geheime tuin</string>
     <string name="slight_cold">Osamu</string>
     <string name="slight_heat">Lichte Warmte</string>
     <string name="solar_calendar">Maankalender</string>
+    <string name="southwestmountain_preview">Bergen</string>
     <string name="spaceage">Gebruikte ruimte</string>
     <string name="spring">Spring</string>
     <string name="spring_begins">Begin van de lente</string>
+    <string name="stoneskimming_preview">Licht stappen</string>
     <string name="stopping_the_heat">Chushu</string>
     <string name="summer_begins">Begin van de zomer</string>
     <string name="summer_solstice">Zomerzonnewende</string>
@@ -195,6 +220,19 @@
     <string name="vip_login">Tik om aan te melden</string>
     <string name="vip_not_login">Niet aangemeld</string>
     <string name="vip_sign">Handtekening:</string>
+    <string name="wallpaper_group_black_white_title">Zwart en wit</string>
+    <string name="wallpaper_group_color_move_title">Vloeibare kleuren</string>
+    <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
+    <string name="wallpaper_group_dynamic_nebula_title">Dynamische nebula</string>
+    <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
+    <string name="wallpaper_group_geometric_title">Geometrie</string>
+    <string name="wallpaper_group_minimalist_scenery_title">Minimalisme</string>
+    <string name="wallpaper_group_more_system_wallpaper_title">Meer systeem achtergronden</string>
+    <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen en anderen</string>
+    <string name="wallpaper_group_natural_texture_title">Patronen van de natuur</string>
+    <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, de Universiteit van Arizona</string>
+    <string name="wallpaper_group_red_mars_title">Mars</string>
+    <string name="wallpaper_group_sgn_mountain_title">Mount Siguniang</string>
     <string name="waterdrop_preview">Natuur - Druppels</string>
     <string name="white_dews">Witte dauw</string>
     <string name="windchime">Briesjes</string>
