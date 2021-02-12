@@ -13,6 +13,65 @@
         <item>Weekdagen</item>
         <item>Aangepast</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+        <item>IK</item>
+        <item>jj</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>OO</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>vs</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Alle opnames</item>
         <item>Automatisch starten</item>
@@ -25,11 +84,27 @@
         <item>Pincode</item>
         <item>Wachtwoord</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>Mb</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Maandelijks plan</item>
+        <item>Onbeperkt</item>
+        <item>Dagelijks abonnement</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>Aangepast</item>
         <item>Mi Fan-kaart</item>
         <item>Xiao Tiansheng kaart</item>
         <item>Tencent King kaart</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Aangepaste</item>
+        <item>Mi mobiel</item>
+        <item>Mi Fan kaart</item>
+        <item>Tianshen kaart</item>
+        <item>Tencent kaart</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Gisteren (mobiele data) "</item>
@@ -68,6 +143,17 @@
         <item>Het installeren van apps op uw apparaat zonder uw uitdrukkelijke toestemming is toegestaan.</item>
         <item>"U kunt uw scherminhoud op afstand controleren en opnemen."</item>
         <item>Het is mogelijk om toegang te krijgen tot de gedetailleerde informatie over uw apparaat.</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>ja</item>
+        <item>Neen</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Laagste</item>
+        <item>laag</item>
+        <item>Normaal</item>
+        <item>hoog</item>
+        <item>Hoogste</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Wanneer het apparaat is vergrendeld</item>
