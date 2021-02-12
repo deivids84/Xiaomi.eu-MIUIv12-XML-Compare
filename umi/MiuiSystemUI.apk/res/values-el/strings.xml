@@ -82,7 +82,7 @@
     <string name="accessibility_control_change_unfavorite">αφαίρεση από αγαπημένα</string>
     <string name="accessibility_control_favorite">Αγαπημένα</string>
     <string name="accessibility_control_favorite_position">Αγαπημένα, θέση %d</string>
-    <string name="accessibility_control_move">Μετακίνηση σε θέση</string>
+    <string name="accessibility_control_move">Μετακίνηση στη θέση %d</string>
     <string name="accessibility_control_not_favorite">Άρση επισήμανσης ως αγαπημένη</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_data_one_bar">Δεδομένα μία μπάρα.</string>
@@ -326,8 +326,8 @@
     <string name="alarm_template_far">στις %1$s</string>
     <string name="allow_mock_location">Αποδοχή προσομειώσεων τοποθεσιών</string>
     <string name="allow_mock_location_summary">Αποδοχή προσομειώσεων τοποθεσιών</string>
-    <string name="always_use_accessory">Προεπιλογή για αυτό το αξεσουάρ USB</string>
-    <string name="always_use_device">Προεπιλογή για αυτή την συσκευή USB</string>
+    <string name="always_use_accessory">Ανοίξτε πάντα το %1$s όταν είναι συνδεδεμένο το %2$s</string>
+    <string name="always_use_device">Ανοίξτε πάντα το %1$s όταν είναι συνδεδεμένο το %2$s</string>
     <string name="animator_duration_scale_title">Κλίμακα διάρκειας κινούμενων σχεδίων</string>
     <string name="apn_settings_not_available">"Οι ρυθμίσεις Πρόσβασης Σημείου Ονόματος δεν είναι διαθέσιμες για αυτό τον χρήστη"</string>
     <string name="app_accessed_mic">%1$s απέκτησε πρόσβαση στην τοποθεσία σας</string>
@@ -1011,9 +1011,9 @@ Bluetooth"</string>
     <string name="keyguard_enter_your_password">Εισάγετε τον κωδικό σας</string>
     <string name="keyguard_enter_your_pattern">Εισαγάγετε μοτίβο εργασίας</string>
     <string name="keyguard_enter_your_pin">Εισαγάγετε το PIN σας</string>
-    <string name="keyguard_indication_charging_time">Φόρτιση (%s μέχρι πλήρες)</string>
-    <string name="keyguard_indication_charging_time_fast">Γρήγορη φόρτιση (%s μέχρι πλήρες)</string>
-    <string name="keyguard_indication_charging_time_slowly">Αργή φόρτιση (%s μέχρι πλήρες)</string>
+    <string name="keyguard_indication_charging_time">%2$s • Φόρτιση (%1$s έως πλήρης)</string>
+    <string name="keyguard_indication_charging_time_fast">%2$s • Γρήγορη φόρτιση (%1$s έως πλήρης)</string>
+    <string name="keyguard_indication_charging_time_slowly">%2$s • Αργή φόρτιση (%1$s μέχρι πλήρη φόρτιση)</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Ασύρματη φόρτιση (%1$s έως πλήρης)</string>
     <string name="keyguard_indication_trust_disabled">Η συσκευή θα παραμείνει κλειδωμένη μέχρι να την ξεκλειδώσετε</string>
     <string name="keyguard_indication_trust_unlocked">Ξεκλειδώθηκε από το TrustAgent</string>
@@ -1041,10 +1041,10 @@ Bluetooth"</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Η κάρτα SIM σας έχει απενεργοποιηθεί μόνιμα.
 Επικοινωνήστε με τον πάροχό σας για άλλη κάρτα SIM."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Κάρτα SIM χωρίς δυνατότητα χρήσης.</string>
-    <string name="keyguard_plugged_in">Φόρτιση</string>
-    <string name="keyguard_plugged_in_charging_fast">Γρήγορη φόρτιση</string>
-    <string name="keyguard_plugged_in_charging_slowly">Αργή φόρτιση</string>
-    <string name="keyguard_plugged_in_wireless">Ασύρματη φόρτιση</string>
+    <string name="keyguard_plugged_in">%s • Φόρτιση</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Γρήγορη φόρτιση</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Αργή φόρτιση</string>
+    <string name="keyguard_plugged_in_wireless">%s • Ασύρματη φόρτιση</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Γρήγορη φόρτιση. Πατήστε για προβολή λεπτομερειών.</string>
     <string name="keyguard_retry">Σύρετε προς τα πάνω για να δοκιμάσετε ξανά</string>
     <string name="keyguard_sim_error_message_short">Μη έγκυρη κάρτα.</string>
