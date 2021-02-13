@@ -7620,7 +7620,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="user_account_title">Cuenta para contenido</string>
     <string name="user_add_max_count">Puede añadir hasta %1$d usuarios</string>
     <string name="user_add_on_lockscreen_menu">Añadir usuarios desde la pantalla de bloqueo</string>
-    <string name="user_add_profile_item_summary">Desde tu cuenta, puedes restringir el acceso a las aplicaciones y al contenido</string>
+    <string name="user_add_profile_item_summary">Desde su cuenta, puede restringir el acceso a las aplicaciones y contenido</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
     <string name="user_add_user_item_summary">Los usuarios tienen contenido y aplicaciones propios</string>
     <string name="user_add_user_item_title">Usuario</string>
@@ -7964,7 +7964,7 @@ Durante una llamada de voz, no puede utilizar Internet y es posible que algunas 
     <string name="wechat">WeChat</string>
     <string name="weight_heavy">Negrita</string>
     <string name="weight_light">Delgado</string>
-    <string name="weight_setting_toast">Solo puedes cambiar el grosor de la fuente en la fuente del sistema por defecto</string>
+    <string name="weight_setting_toast">Solo se puede cambiar el grosor de la fuente del sistema que viene por defecto</string>
     <string name="welcome">Bienvenido</string>
     <string name="wellbing_title">Bienestar digital y control parental</string>
     <string name="wfc_disclaimer_agree_button_text">CONTINUAR</string>
@@ -8383,7 +8383,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
 
 Permitir esto para todas las aplicaciones que quieran escanear?"</string>
     <string name="wifi_scan_notify_remember_choice">No volver a mostrar</string>
-    <string name="wifi_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones del sistema pueden buscar redes Wi-Fi aunque esté desactivada la conexión Wi-Fi. Puedes cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
+    <string name="wifi_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones pueden buscar redes Wi-Fi aunque esté desactivada. Puede cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
     <string name="wifi_scan_notify_text_scanning_off">Para mejorar la precisión de la ubicación, active la búsqueda de Wi-Fi en LINK_BEGINscanning settingsLINK_END.</string>
     <string name="wifi_scan_throttling">Aceleración de escaneo de Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Reduce el uso de batería y mejora el rendimiento de la red</string>
@@ -8463,8 +8463,8 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_share_action_turn_on">Compartir Wi-Fi</string>
     <string name="wifi_share_action_turn_on_summary">Para compartir, inicia sesión en Cuenta Mi</string>
     <string name="wifi_share_add">Compartir mis redes Wi-Fi públicas</string>
-    <string name="wifi_share_add_summary">"Cuando compartas tus redes públicas,
- puedes utilizar también las redes de otros usuarios"</string>
+    <string name="wifi_share_add_summary">"Cuando comparta sus redes públicas,
+puede utilizar también las redes de otros usuarios."</string>
     <string name="wifi_share_connect">Conectar</string>
     <string name="wifi_share_connected_summary">"Estás conectado a una red Wi-Fi pública que ha sido compartida por otro usuario."</string>
     <string name="wifi_share_connected_title">Wi-Fi compartido MIUI</string>
@@ -8472,7 +8472,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_share_know">Aceptar</string>
     <string name="wifi_share_list_empty">No se han encontrado redes compartidas.</string>
     <string name="wifi_share_login">Compartir red Wi-Fi</string>
-    <string name="wifi_share_login_summary">Esta es una red pública, puedes compartirla con otros usuarios de MIUI.</string>
+    <string name="wifi_share_login_summary">Si se trata de una red pública, puede compartirla con otros usuarios de MIUI.</string>
     <string name="wifi_share_notification_summary">MIUI lo ha conectado a una red Wi-Fi pública.</string>
     <string name="wifi_share_other_network">Otras redes</string>
     <string name="wifi_share_qrcode_finish">Aceptar</string>
@@ -8480,7 +8480,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_share_qrcode_title">Compartir red Wi-Fi</string>
     <string name="wifi_share_show_network">Mostrar redes</string>
     <string name="wifi_share_summary1">Los usuarios de MIUI pueden compartir redes Wi-Fi públicas (cafés, restaurantes, hoteles, etc.) entre sí.</string>
-    <string name="wifi_share_summary2">Cuando otro usuario de MIUI comparte una red, puedes conectarte directamente a la red sin necesidad de utilizar una contraseña.</string>
+    <string name="wifi_share_summary2">Cuando otro usuario de MIUI comparta una red, puede conectarse directamente sin necesidad de contraseña.</string>
     <string name="wifi_share_summary3">También puede compartir sus redes Wi-Fi públicas con otros usuarios de MIUI.</string>
     <string name="wifi_share_turn_off">Desactivado</string>
     <string name="wifi_share_turn_on">Activado</string>
@@ -8628,7 +8628,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="work_ringtone_title">Tono de llamada del teléfono de trabajo</string>
     <string name="work_sim_title">SIM de trabajo</string>
     <string name="work_sound_permission_dialog_button_text_known">Lo tengo</string>
-    <string name="work_sound_permission_dialog_message">"No puedes usar Temas en el modo Enterprise. Póngase en contacto con su supervisor para obtener acceso."</string>
+    <string name="work_sound_permission_dialog_message">"No puede usar Temas en el modo empresa. Póngase en contacto con su supervisor para obtener acceso."</string>
     <string name="work_sound_permission_dialog_title">Restricciones de modo empresarial</string>
     <string name="work_sound_same_as_personal">Igual que el perfil personal</string>
     <string name="work_space_delete">Eliminar Espacio de trabajo</string>
