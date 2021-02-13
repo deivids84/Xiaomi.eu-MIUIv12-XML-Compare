@@ -6651,7 +6651,7 @@ Es posible que el PIN no sea correcto."</string>
 • Hacer llamadas
 Para hacer llamadas a sus contactos de emergencia
 • Monitorizar el estado del dispositivo
-Para reproducir la grabación SOS cuando sus contactos de emergencia recogen
+Para reproducir la grabación SOS a sus contactos de emergencia 
 Si no acepta otorgar estos permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede elegir desactivar esta función."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
     <string name="sos_phone_log_privacy_dialog_message">"Esta aplicación necesita permiso para acceder a su historial de llamadas para poder compartirlo con sus contactos de emergencia.
@@ -6805,13 +6805,13 @@ Para utilizar el dispositivo de almacenamiento (^1) con este dispositivo, debes 
     <string name="storage_games">Juegos</string>
     <string name="storage_internal_forget_confirm">Las aplicaciones, las fotos y los datos almacenados en este dispositivo de almacenamiento (^1) se perderán de forma permanente.</string>
     <string name="storage_internal_forget_confirm_title">¿Borrar ^1?</string>
-    <string name="storage_internal_forget_details">"Para utilizar las aplicaciones, fotos o datos incluidos en tu ^1, vuelve a insertarla. 
+    <string name="storage_internal_forget_details">"Para usar las aplicaciones, fotos o datos que contiene este ^ 1, vuelva a insertar. 
 
-También puedes olvidar el almacenamiento si el dispositivo no está disponible. 
+También puede optar por olvidar este almacenamiento si el dispositivo no está disponible. 
 
-Si lo haces, los datos del dispositivo se perderán para siempre. 
+Se perderán todos los datos del dispositivo para siempre si escoge esta opción. 
 
-Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus datos almacenados en este dispositivo."</string>
+Puede reinstalar las aplicaciones más tarde, pero los datos almacenados en este dispositivo se perderán."</string>
     <string name="storage_internal_format_details">"Después de formatear, puede usar este ^ 1 en otros dispositivos. 
 
 Se borrarán todos los datos de este ^ 1. Considere realizar copia de seguridad primero. 
@@ -6941,15 +6941,19 @@ La aplicación ^2 de este dispositivo no estará disponible hasta que finalice e
 
 Para mover fotos, archivos y datos de aplicaciones a este dispositivo, accede a Ajustes &gt; Almacenamiento."</string>
     <string name="storage_wizard_ready_title">^1 está listo</string>
-    <string name="storage_wizard_ready_v2_external_body">Puedes mover contenido a ^1</string>
+    <string name="storage_wizard_ready_v2_external_body">Puede mover contenido a ^1</string>
     <string name="storage_wizard_ready_v2_internal_body">Para mover contenido a ^1, vaya a &lt;b&gt; Configuración &amp; gt; Almacenamiento &lt;/b&gt;</string>
     <string name="storage_wizard_ready_v2_internal_moved_body">\"Su contenido se movió a ^1. Para administrar este ^2, vaya a\" &lt;b&gt; Configuración &amp; gt; Almacenamiento &lt;/b&gt;.</string>
     <string name="storage_wizard_slow_body">"Esta ^1 no parece ser muy rápida. 
 
-Puedes seguir, pero puede que las aplicaciones movidas a esta ubicación no funcionen de forma fluida y las transferencias de datos tarden bastante. 
+Puede seguir, pero puede que las aplicaciones movidas a esta ubicación no funcionen de forma fluida y las transferencias de datos tarden bastante. 
 
-Considera usar una ^1 para mejorar el rendimiento."</string>
-    <string name="storage_wizard_slow_v2_body">"Aún puedes usar este ^1, pero puede ser lento. Las aplicaciones almacenadas en este ^2 pueden no funcionar correctamente y las transferencias de contenido pueden llevar mucho tiempo. Intente usar un ^ 3 más rápido, o use este ^ 4 para el almacenamiento portátil."</string>
+Considere usar una ^1 para mejorar el rendimiento."</string>
+    <string name="storage_wizard_slow_v2_body">"Aún puede usar este ^ 1, pero puede que sea lento. 
+
+Las aplicaciones almacenadas en este ^ 2 pueden no funcionar correctamente y que la transferencia de contenido lleve mucho tiempo. 
+
+Intente usar un ^ 3 más rápido, o use este ^ 4 para el almacenamiento portátil."</string>
     <string name="storage_wizard_slow_v2_continue">Continuar</string>
     <string name="storage_wizard_slow_v2_start_over">Empezar de nuevo</string>
     <string name="storage_wizard_slow_v2_title">Lento ^1</string>
@@ -7614,7 +7618,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
     <string name="use_this_wlan">Permanecer conectado</string>
     <string name="user_account_title">Cuenta para contenido</string>
-    <string name="user_add_max_count">Puedes añadir hasta %1$d usuarios</string>
+    <string name="user_add_max_count">Puede añadir hasta %1$d usuarios</string>
     <string name="user_add_on_lockscreen_menu">Añadir usuarios desde la pantalla de bloqueo</string>
     <string name="user_add_profile_item_summary">Desde tu cuenta, puedes restringir el acceso a las aplicaciones y al contenido</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
