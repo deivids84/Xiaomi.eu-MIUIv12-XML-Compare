@@ -1135,7 +1135,7 @@ Navegador necesita conectarse a Internet para funcionar con normalidad. Debes ac
     <string name="srl_header_refreshing">Actualizando...</string>
     <string name="srl_header_release">Suelta para Actualizar</string>
     <string name="srl_header_secondary">Liberar al segundo piso</string>
-    <string name="srl_header_update">"'Última actualización' Md HH: mm"</string>
+    <string name="srl_header_update">"'Última actualización' d-M HH:mm"</string>
     <string name="ssl_bad_clock_date_settings">Establecer fecha</string>
     <string name="ssl_bad_clock_warning" formatted="false">"No se pudo establecer una conexión privada a %s1 porque la fecha y hora del dispositivo (%s2) son incorrectas."</string>
     <string name="ssl_certificate">Certificado de seguridad</string>
