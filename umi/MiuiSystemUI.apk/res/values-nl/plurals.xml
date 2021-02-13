@@ -84,6 +84,10 @@
         <item quantity="other">Foutieve SIM-pincode. U heeft %d resterende pogingen.</item>
         <item quantity="one">Foutieve SIM-pincode. U heeft %d resterende pogingen voordat u contact met uw provider op moet nemen, om uw apparaat te ontgrendelen.</item>
     </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Onjuiste pincode SIM%1$d, u heeft nog %2$d pogingen.</item>
+        <item quantity="one">Onjuiste pincode SIM%1$d, u heeft nog %2$d poging over voordat u contact moet opnemen met uw netwerkaanbieder om uw apparaat te ontgrendelen.</item>
+    </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Onjuiste SIM PUK-code, u heeft %d resterende pogingen voordat uw SIM permanent onbruikbaar is.</item>
         <item quantity="one">Onjuiste SIM PUK-code, u heeft %d resterende poging voordat uw SIM permanent onbruikbaar is.</item>
