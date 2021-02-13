@@ -86,6 +86,14 @@
         <item quantity="other">%1$s foto\'s van alle apparaten verwijderen?</item>
         <item quantity="one">%1$s foto van alle apparaten verwijderen?</item>
     </plurals>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data&gt;Vrijgemaakt &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (genoeg voor &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; nummers)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Vrijgemaakt &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (genoeg voor &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; lied)&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data&gt;Vrijgemaakt &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (genoeg voor &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; foto\'s)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Vrijgemaakt &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (genoeg voor &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; foto)&lt;/Data&gt;</item>
+    </plurals>
     <plurals name="global_wa_image">
         <item quantity="other">%1$d artikelen</item>
         <item quantity="one">%1$d artikel</item>
