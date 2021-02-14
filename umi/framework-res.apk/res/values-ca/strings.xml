@@ -1615,7 +1615,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
     <string name="ssl_certificate_is_valid">El certificat és vàlid.</string>
     <string name="status_bar_screen_record">registre de pantalla</string>
     <string name="status_communication_speaker_summary">Una trucada en mans lliures està en curs. Si es connecten els auriculars, es continuarà reproduint l\'àudio a través dels altaveus.</string>
-    <string name="status_communication_summary">Una trucada està en curs. Ara només podeu ajustar el volum de trucades.</string>
+    <string name="status_communication_summary">Hi ha una trucada en curs. Ara només podeu ajustar el volum de les trucades.</string>
     <string name="stk_cc_ss_to_dial">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
     <string name="stk_cc_ss_to_dial_video">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
     <string name="stk_cc_ss_to_ss">La sol·licitud SS s\'ha transformat en una sol·licitud SS nova.</string>
