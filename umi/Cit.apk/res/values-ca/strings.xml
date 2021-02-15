@@ -90,7 +90,7 @@ Final de la prova del carregador, endolleu el carregador"</string>
     <string name="cit_SAR_TEST_TOOL">INICI DE LA PROVA SAR</string>
     <string name="cit_abnormal_reboot_summary">Espereu... S\'està llegint les dades d\'estabilitat del dispositiu.</string>
     <string name="cit_abnormal_reboot_title">Dades d\'estabilitat del dispositiu</string>
-    <string name="cit_ac_charger_in">Càrrega per AC</string>
+    <string name="cit_ac_charger_in">Càrrega via (USB_DCP)</string>
     <string name="cit_ac_charger_out">Carregador CA desconnectat</string>
     <string name="cit_accdata_second_sensor_check_title">El Segon Acceleròmetre</string>
     <string name="cit_accdata_sensor_check_summary">Els valors per les coordenades X, Y, Z han de figurar a continuació</string>
@@ -712,7 +712,7 @@ prova fallada!"</string>
     <string name="cit_usb_OTG_plug_in_start_test">Connecteu el dispositiu USB_OTG i comenceu a provar-lo</string>
     <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG s\'ha desconnectat, s\'ha acabat la prova</string>
     <string name="cit_usb_OTG_plug_re_plugin">La prova USB_OTG s\'ha completat i no cal tornar a fer-la</string>
-    <string name="cit_usb_charger_in">Carregant per USB</string>
+    <string name="cit_usb_charger_in">Càrrega via (USB)</string>
     <string name="cit_usb_charger_out">Carregador USB desconnectat</string>
     <string name="cit_version_check_summary">A continuació es mostra la informació de la versió del SO. Confirmeu que la informació ressaltada en verd és la correcta.</string>
     <string name="cit_version_check_title">Comproveu la informació de la versió</string>
