@@ -34,6 +34,65 @@
         <item>Αφύπνιση σε %2$s και %3$s.</item>
         <item>Αφύπνιση σε %1$s%2$s και %3$s.</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>ΕΝΑ</item>
+        <item>σι</item>
+        <item>ντο</item>
+        <item>ρε</item>
+        <item>μι</item>
+        <item>φά</item>
+        <item>σολ</item>
+        <item>Η</item>
+        <item>Εγώ</item>
+        <item>Ι</item>
+        <item>κ</item>
+        <item>μεγάλο</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ερ</item>
+        <item>Ρ</item>
+        <item>μικρό</item>
+        <item>Τ</item>
+        <item>Ε</item>
+        <item>Β</item>
+        <item>Δ</item>
+        <item>Χ</item>
+        <item>Γ</item>
+        <item>Ζ</item>
+        <item>\ #</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ΕΝΑ</item>
+        <item>σι</item>
+        <item>ντο</item>
+        <item>ρε</item>
+        <item>μι</item>
+        <item>φά</item>
+        <item>σολ</item>
+        <item>Η</item>
+        <item>Εγώ</item>
+        <item>Ι</item>
+        <item>κ</item>
+        <item>μεγάλο</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ερ</item>
+        <item>Ρ</item>
+        <item>μικρό</item>
+        <item>Τ</item>
+        <item>Ε</item>
+        <item>Β</item>
+        <item>Δ</item>
+        <item>Χ</item>
+        <item>Γ</item>
+        <item>Ζ</item>
+        <item>\ #</item>
+    </string-array>
     <string-array name="aqi_value">
         <item>Καλός</item>
         <item>Ικανοποιητικός</item>
@@ -677,6 +736,34 @@
         <item>Σύνολο %1$s %3$s</item>
         <item>Σύνολο %2$s %3$s</item>
         <item>Σύνολο %1$s %2$s%3$s</item>
+    </string-array>
+    <string-array name="timezone_alphabet_table">
+        <item>ΕΝΑ</item>
+        <item>σι</item>
+        <item>ντο</item>
+        <item>ρε</item>
+        <item>μι</item>
+        <item>φά</item>
+        <item>σολ</item>
+        <item>Η</item>
+        <item>Εγώ</item>
+        <item>Ι</item>
+        <item>κ</item>
+        <item>μεγάλο</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ερ</item>
+        <item>Ρ</item>
+        <item>μικρό</item>
+        <item>Τ</item>
+        <item>Ε</item>
+        <item>Β</item>
+        <item>Δ</item>
+        <item>Χ</item>
+        <item>Γ</item>
+        <item>Ζ</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Καμία λειτουργία</item>
