@@ -430,7 +430,7 @@
     <string name="hints_list_item_keep">Mantenir</string>
     <string name="hints_list_item_lock">Mantenir</string>
     <string name="hints_list_item_unlock">Neteja</string>
-    <string name="hints_loading_text">S\'està carregant&#8230;</string>
+    <string name="hints_loading_text">S\'està carregant…</string>
     <string name="hints_memory_header_left">Memòria</string>
     <string name="hints_privacy_header_left">Privacitat: %d</string>
     <string name="hints_quick_cleanning">S\'està netejant&#8230;</string>
