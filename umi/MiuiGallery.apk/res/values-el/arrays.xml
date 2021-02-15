@@ -19,6 +19,65 @@
         <item>Αξιομνημόνευτη μέρα</item>
         <item>Ζωντανές στιγμές</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>ΕΝΑ</item>
+        <item>σι</item>
+        <item>ντο</item>
+        <item>ρε</item>
+        <item>μι</item>
+        <item>φά</item>
+        <item>σολ</item>
+        <item>Η</item>
+        <item>Εγώ</item>
+        <item>Ι</item>
+        <item>κ</item>
+        <item>μεγάλο</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ερ</item>
+        <item>Ρ</item>
+        <item>μικρό</item>
+        <item>Τ</item>
+        <item>Ε</item>
+        <item>Β</item>
+        <item>Δ</item>
+        <item>Χ</item>
+        <item>Γ</item>
+        <item>Ζ</item>
+        <item>\ #</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ΕΝΑ</item>
+        <item>σι</item>
+        <item>ντο</item>
+        <item>ρε</item>
+        <item>μι</item>
+        <item>φά</item>
+        <item>σολ</item>
+        <item>Η</item>
+        <item>Εγώ</item>
+        <item>Ι</item>
+        <item>κ</item>
+        <item>μεγάλο</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ερ</item>
+        <item>Ρ</item>
+        <item>μικρό</item>
+        <item>Τ</item>
+        <item>Ε</item>
+        <item>Β</item>
+        <item>Δ</item>
+        <item>Χ</item>
+        <item>Γ</item>
+        <item>Ζ</item>
+        <item>\ #</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Αγόρι</item>
         <item>Κορίτσι</item>
