@@ -1710,7 +1710,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="screen_pinning_can_open_other_apps">La aplicación anclada puede abrir otras aplicaciones.</string>
     <string name="screen_pinning_description">Esto la mantiene visible hasta que dejas de fijarla. Mantén presionados Atrás y Recientes para dejar de fijar.</string>
     <string name="screen_pinning_description_accessible">Esto la mantiene visible hasta que dejas de fijarla. Mantén pulsado Recientes para dejar de fijar.</string>
-    <string name="screen_pinning_description_gestural">Esto lo mantiene a la vista hasta que lo desanclas. Desliza el dedo hacia arriba &amp; para desanclar.</string>
+    <string name="screen_pinning_description_gestural">Esto lo mantiene a la vista hasta que lo desancle. Deslice el dedo hacia arriba &amp; para desanclar.</string>
     <string name="screen_pinning_description_recents_invisible">Esto lo mantiene a la vista hasta que lo desanclas. Toque &amp; mantenga pulsado Atrás e Inicio para desanclar.</string>
     <string name="screen_pinning_description_recents_invisible_accessible">Esto lo mantiene a la vista hasta que lo desanclas. Toque &amp; mantenga presionado Inicio para desanclar.</string>
     <string name="screen_pinning_exit">Aplicación no fijada</string>
