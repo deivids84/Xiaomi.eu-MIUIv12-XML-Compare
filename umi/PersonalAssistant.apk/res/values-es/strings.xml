@@ -410,7 +410,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_suggest_setting_title">Sugerencias inteligentes</string>
     <string name="app_surround_avg_price">￥%1$s por persona</string>
     <string name="app_surround_card_dislike_tip">Desliza hacia la izquierda para ignorar</string>
-    <string name="app_surround_card_favorite_tip">Desliza el dedo hacia la derecha para agregar a favoritos</string>
+    <string name="app_surround_card_favorite_tip">Deslice el dedo hacia la derecha para agregar a favoritos</string>
     <string name="app_surround_card_first_favorite_tip_content">La tarjeta volverá a aparecer cuando te acerques a este lugar.</string>
     <string name="app_surround_card_first_favorite_tip_title">Marcado como favorito</string>
     <string name="app_surround_card_nearby">Cercano</string>
@@ -1248,7 +1248,7 @@ Bóveda de aplicaciones</string>
     <string name="miot_device_edit_device">Reorganizar dispositivos</string>
     <string name="miot_device_empty_text">Añade purificadores de aire, cámaras, robots aspiradores y otros dispositivos inteligentes para controlarlos cuando quieras.</string>
     <string name="miot_device_install_mijia">Descargar</string>
-    <string name="miot_device_introduction">Desliza el dedo hacia abajo en la Bóveda de aplicaciones para ver los controles de hogar inteligente disponibles</string>
+    <string name="miot_device_introduction">Deslice el dedo hacia abajo en la Bóveda de aplicaciones para ver los controles de hogar inteligente disponibles</string>
     <string name="miot_device_loading">Cargando...</string>
     <string name="miot_device_login">Iniciar sesión</string>
     <string name="miot_device_mijia_logout_message">Antes de añadir o usar cualquier dispositivo, debes iniciar sesión en tu Cuenta Mi. ¿Quieres iniciar sesión ahora?</string>
