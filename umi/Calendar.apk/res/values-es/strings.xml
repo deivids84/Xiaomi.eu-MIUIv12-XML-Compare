@@ -39,7 +39,7 @@
     <string name="accessibility_repeats">Repetir</string>
     <string name="accessibility_sync_cal">Sincronizar calendario</string>
     <string name="accessibility_year_item_selected">Mes seleccionado: %d. Toque para abrir la vista de mes.</string>
-    <string name="accessibility_year_page_selected">Vista de año para %d. Desliza el dedo hacia la izquierda o la derecha para cambiar entre años, toca para seleccionar meses.</string>
+    <string name="accessibility_year_page_selected">Vista de año para %d. Deslice el dedo hacia la izquierda o la derecha para cambiar entre años, toque para seleccionar meses.</string>
     <string name="account_and_calendar">Cuentas</string>
     <string name="account_import_calendar">Importar calendario</string>
     <string name="account_manager_delete">Eliminar cuenta</string>
