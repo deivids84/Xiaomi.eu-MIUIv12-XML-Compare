@@ -293,6 +293,8 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_pa_setting_private_policy">Política de privadesa</string>
     <string name="app_pa_setting_service_commute">Viatge</string>
     <string name="app_pa_setting_service_commute_summary">Per construir rutes de navegació i proporcionar serveis de transport automòbil</string>
+    <string name="app_pa_setting_service_covid">Informació COVID-19</string>
+    <string name="app_pa_setting_service_covid_summry">Consulteu la informació més recent relacionada amb la COVID-19</string>
     <string name="app_pa_setting_service_forecast">Suggeriments intel·ligents</string>
     <string name="app_pa_setting_service_forecast_summary">"Rebeu suggeriments d'aplicacions i de funcions que són més probables que utilitzeu"</string>
     <string name="app_pa_setting_service_management">Gestiona els serveis</string>
