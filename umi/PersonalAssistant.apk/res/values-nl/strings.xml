@@ -295,6 +295,8 @@ U kunt ook de uitdrukkelijke levering bijhouden op de officiële websites van be
     <string name="app_pa_setting_private_policy">Privacy Beleid</string>
     <string name="app_pa_setting_service_commute">Versturen</string>
     <string name="app_pa_setting_service_commute_summary">Voor het bouwen van navigatieroutes en het aanbieden van autohailing services</string>
+    <string name="app_pa_setting_service_covid">COVID-19 info</string>
+    <string name="app_pa_setting_service_covid_summry">Bekijk de laatste informatie met betrekking tot COVID-19</string>
     <string name="app_pa_setting_service_forecast">Slimme suggesties</string>
     <string name="app_pa_setting_service_forecast_summary">"Suggesties ontvangen van apps en functies die u waarschijnlijk gebruikt"</string>
     <string name="app_pa_setting_service_management">Services beheren</string>
