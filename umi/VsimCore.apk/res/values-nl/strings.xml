@@ -28,5 +28,4 @@
     <string name="noti_key2_used">Gebruikt: %1$s</string>
     <string name="noti_key3">Details &gt;</string>
     <string name="search_menu_title">Zoeken</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
