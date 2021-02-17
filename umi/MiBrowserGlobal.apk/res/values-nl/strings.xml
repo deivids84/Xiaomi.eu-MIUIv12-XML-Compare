@@ -1711,7 +1711,6 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="reply_comment_title">Re: %s</string>
     <string name="request_camera_permission_message">Deze dienst moet je toestemming vragen, we zullen ons strikt houden aan relevante wetten om je persoonlijke informatie te beschermen: &lt;br&gt;&lt;br&gt;&lt;b&gt; Access Camera: real-time opname diensten ervaren voor het instellen van Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Als je niet akkoord gaat met het aanroepen van bovenstaande machtigingen deze functie werkt niet goed, maar heeft geen invloed op uw gebruik van de basisfuncties van deze toepassing. U kunt ervoor kiezen om bovenstaande toestemmingen uit te schakelen in de systeeminstellingen om uw toestemming op te nemen.</string>
     <string name="request_profile_error">"Kan accountinformatie niet ophalen"</string>
-    <string name="resAuthority">miuibrowser</string>
     <string name="resend_active_email">Opnieuw</string>
     <string name="resend_email_reach_limit_message">"Je hebt te veel verificatie-e-mails aangevraagd. Zorg ervoor dat de verificatie e-mail niet in de spam map van je inbox staat."</string>
     <string name="resend_email_reach_limit_title">Te veel pogingen</string>
