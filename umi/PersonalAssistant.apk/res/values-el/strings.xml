@@ -293,6 +293,8 @@
     <string name="app_pa_setting_private_policy">Πολιτική Απορρήτου</string>
     <string name="app_pa_setting_service_commute">Μετακίνηση</string>
     <string name="app_pa_setting_service_commute_summary">Για την κατασκευή διαδρομών πλοήγησης και την παροχή υπηρεσιών συγκράτησης αυτοκινήτων</string>
+    <string name="app_pa_setting_service_covid">Πληροφορίες COVID-19</string>
+    <string name="app_pa_setting_service_covid_summry">Δείτε τις τελευταίες πληροφορίες σχετικά με το COVID-19</string>
     <string name="app_pa_setting_service_forecast">Έξυπνες προτάσεις</string>
     <string name="app_pa_setting_service_forecast_summary">"Λάβετε προτάσεις εφαρμογών και χαρακτηριστικών που πιθανότατα χρησιμοποιείτε"</string>
     <string name="app_pa_setting_service_management">Διαχείριση υπηρεσιών</string>
@@ -468,7 +470,6 @@
     <string name="ball_dialog_title">Εγκατάσταση της εφαμρογής πρώτα.</string>
     <string name="ball_football_recent_ing">Σε εξέλιξη</string>
     <string name="ball_hupu">HuPu</string>
-    <string name="base_hour12_format_en">ωω:λλ</string>
     <string name="base_hour24_format_en">ΩΩ:λλ</string>
     <string name="base_search_empty">"Δεν βρέθηκαν αποτελέσματα"</string>
     <string name="base_time_just_now">Μόλις τώρα</string>
