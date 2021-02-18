@@ -1422,7 +1422,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="networks_title">Xarxes mòbils</string>
     <string name="newPin2Label">PIN2 nou</string>
     <string name="newPinLabel">PIN nou</string>
-    <string name="new_password_label">Nova contrasenya de 4 dígits</string>
+    <string name="new_password_label">Nova contrasenya de %d dígits</string>
     <string name="new_pin2_label">Nou PIN2</string>
     <string name="new_pin_label">Nou PIN</string>
     <string name="no_application">Cap</string>
@@ -1436,7 +1436,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="no_vm_number_msg">No hi ha número de correu de veu emmagatzemat en la targeta SIM.</string>
     <string name="no_voip">"La trucada SIP no és compatible"</string>
     <string name="no_wifi_available">Heu d’estar connectat a una xarxa Wi-Fi per a trucades SIP (utilitzeu la configuració de la xarxa i sense fils).</string>
-    <string name="not_a_valid_port">El número de port ha d\'estar entre 1000 i 65534.</string>
+    <string name="not_a_valid_port">El número de port ha d’estar entre %1$d i %2$d.</string>
     <string name="not_allowed">"La vostra targeta SIM no permet una connexió a aquesta xarxa."</string>
     <string name="not_set">Sense especificar</string>
     <string name="not_voice_capable">Trucada de veu no suportada</string>
@@ -1467,7 +1467,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="okay">D\'acord</string>
     <string name="oldPin2Label">PIN2 antic</string>
     <string name="oldPinLabel">PIN antic</string>
-    <string name="old_password_label">Contrasenya anterior de 4 dígits</string>
+    <string name="old_password_label">Contrasenya de %d dígits actual</string>
     <string name="old_pin2_label">PIN2</string>
     <string name="old_pin_label">PIN antic</string>
     <string name="onHold">En espera</string>
