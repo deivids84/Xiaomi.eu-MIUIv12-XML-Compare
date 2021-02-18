@@ -401,8 +401,8 @@
         <item quantity="one">S\'ha rebut %2$d %3$s fitxer (%4$s) de %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d %3$s fitxers (%4$s) de %1$s…</item>
-        <item quantity="one">%3$s rebut %2$d %3$s fitxer (%4$s) de %1$s…</item>
+        <item quantity="other">Rebent %2$d fitxers %3$s (%4$s) de %1$s…</item>
+        <item quantity="one">Rebent %2$d fitxer %3$s (%4$s) de %1$s…</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
         <item quantity="other">%2$d imatges de %1$s</item>
@@ -437,8 +437,8 @@
         <item quantity="one">S\'ha rebut %2$d fitxer de l\' %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d fitxers de %1$s…</item>
-        <item quantity="one">%1$srebut %2$d fitxer de %1$s…</item>
+        <item quantity="other">Rebent %2$d fitxers de %1$s…</item>
+        <item quantity="one">Rebent %2$d fitxer de %1$s…</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">"No s'ha pogut compartir. Encara s'està processant les foto %d…"</item>
@@ -453,8 +453,8 @@
         <item quantity="one">S\'ha rebut %2$d vídeo de l\' %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d vídeos de %1$s…</item>
-        <item quantity="one">%1$srebut %2$d vídeo de %1$s…</item>
+        <item quantity="other">Rebent %2$d vídeos de %1$s…</item>
+        <item quantity="one">Rebent %2$d vídeo de %1$s…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
         <item quantity="other">%2$d arxius (%3$s) de %1$s</item>
