@@ -4064,7 +4064,7 @@ Ha comprat %s de dades addicionals aquest mes. Això no es reflecteix en el lím
     <string name="traffic_config_alert_body_leisure">"
 La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seves dades d'hora vall aquest mes, això difereix dels %2$s que Vè. ha establert manualment."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-La comptabilitat del seu operador mostra que Vè. li queden %s de dades d'hora vall. Vè. no ha posat un límit per a les dades en hora vall."</string>
+El límit mensual d'ús de dades del vostre pla és de %1$s. No heu establert cap límit d’ús de dades."</string>
     <string name="traffic_config_alert_body_normal">"
 El màxim ús mensual del vostre pla de dades és de %1$s. No coincideix amb el que heu establert manualment de %2$s."</string>
     <string name="traffic_config_alert_package">"
