@@ -421,7 +421,7 @@ utilitzat %s"</string>
     <string name="data_usage_rapid_title">Ús de dades mòbils elevat</string>
     <string name="data_usage_restricted_body">Toqueu per eliminar la restricció.</string>
     <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
-    <string name="data_usage_warning_body">"Toqueu per veure l'ús i la configuració."</string>
+    <string name="data_usage_warning_body">"Heu utilitzat %s de dades"</string>
     <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
     <string name="data_usage_wifi_limit_snoozed_title">Límit de dades Wi-Fi superat</string>
     <string name="data_usage_wifi_limit_title">Límit de dades Wi-Fi assolit</string>
@@ -994,7 +994,7 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="network_switch_metered_toast">Canviat de %1$s a %2$s</string>
     <string name="network_switch_type_name_unknown">tipus de xarxa desconeguda</string>
     <string name="new_app_action">Inicia %1$s</string>
-    <string name="new_app_description">Atura l\'aplicació antiga sense desar.</string>
+    <string name="new_app_description">%1$s es tancarà sense desar</string>
     <string name="new_sms_notification_content">Obre l\'aplicació SMS per veure\'ls</string>
     <string name="new_sms_notification_title">Teniu missatges nous</string>
     <string name="next_button_label">Següent</string>
@@ -1804,7 +1804,7 @@ Voleu tancar-la?"</string>
     <string name="whichViewApplicationNamed">Obre amb %1$s</string>
     <string name="wifi_available_sign_in">Inicieu la sessió a la xarxa Wi-Fi</string>
     <string name="wifi_calling_off_summary">Desactivat</string>
-    <string name="wifi_no_internet">La Wi-Fi no té accés a Internet</string>
+    <string name="wifi_no_internet">%1$s no té accés a Internet</string>
     <string name="wifi_no_internet_detailed">Toqueu per veure opcions</string>
     <string name="wireless_display_route_description">Pantalla sense fils</string>
     <string name="work_mode_off_message">Permet que el perfil laboral funcioni, incloses les aplicacions, la sincronització en segon pla i les funcions relacionades.</string>
