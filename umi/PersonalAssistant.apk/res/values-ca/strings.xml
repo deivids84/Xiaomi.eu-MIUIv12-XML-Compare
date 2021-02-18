@@ -142,7 +142,7 @@
     <string name="app_commute_run_the_meter">Mesurat</string>
     <string name="app_commute_taking_code">Codi</string>
     <string name="app_commute_taxi_button">Truca a un taxi</string>
-    <string name="app_commute_time_taking">Arribeu a %3$s a ≈%1$s (viatge de%2$dminuts)</string>
+    <string name="app_commute_time_taking">Arribareu a %3$s amb ≈%1$s (viatge de %2$d minuts)</string>
     <string name="app_commute_transit_code_dialog_checkbox_text">Recorda l’elecció</string>
     <string name="app_commute_transit_code_dialog_item_alipay">Alipay</string>
     <string name="app_commute_transit_code_dialog_item_wechat">WeChat</string>
