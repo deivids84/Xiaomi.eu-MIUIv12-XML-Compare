@@ -261,7 +261,7 @@
         <item quantity="one">Sincronitzant %1$d foto…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">S\'està fent la còpia de seguretat de %1$d elements&#8230;</item>
+        <item quantity="other">Sincronitzant %1$d elements…</item>
         <item quantity="one">Sincronitzant %1$d element…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
