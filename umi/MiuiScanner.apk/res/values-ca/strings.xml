@@ -55,7 +55,7 @@
     <string name="back">Enrere</string>
     <string name="barcode_into_rectangle">Centreu el codi dins del marc</string>
     <string name="birthday">Aniversari:</string>
-    <string name="black_and_white">Blanc i negre</string>
+    <string name="black_and_white">B/N</string>
     <string name="blog">Weibo</string>
     <string name="business_card">Targeta comercial</string>
     <string name="business_card_title">Col·loqueu la vostra tarja comercial dins el marc</string>
@@ -258,7 +258,7 @@
     <string name="importFailed">"No s'ha pogut importar"</string>
     <string name="import_contact">Importar contacte</string>
     <string name="import_picture">Subscriu-me</string>
-    <string name="impunity_declaration_content">"Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
+    <string name="impunity_declaration_content">"L’Escàner ha d’utilitzar la càmera i processar les imatges que feu mentre utilitzeu l’aplicació. No utilitzeu l'Escàner per fer fotos dels objectes que contenen informació personal. Al tocar \"D'acord\", accepteu la nostra &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt; i permeteu a l'Escàner connectar-se a internet."</string>
     <string name="impunity_declaration_negative_text">Surt</string>
     <string name="impunity_declaration_title">Condicions del servei</string>
     <string name="intelligent_recognition">Reconeix</string>
