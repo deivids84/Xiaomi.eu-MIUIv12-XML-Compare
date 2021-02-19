@@ -107,7 +107,7 @@ Nota: Los datos de las aplicaciones que has instalado no se guardarán en Xiaomi
 *  Ajustes del sistema y de MIUI
 Nota: Los datos de las aplicaciones que ha instalado no se guardarán en Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programar copia de seguridad</string>
-    <string name="cloud_back_up_frequence_long">Cada 7 días</string>
+    <string name="cloud_back_up_frequence_long">Cada %d días</string>
     <string name="cloud_back_up_frequence_short">Todos los días</string>
     <string name="cloud_back_up_ok_btn">Aceptar</string>
     <string name="cloud_back_up_opening">Un momento…</string>
