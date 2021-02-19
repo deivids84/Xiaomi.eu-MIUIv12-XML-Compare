@@ -188,8 +188,6 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_12hour_minute">h: mm</string>
-    <string name="fmt_time_12hour_minute_pm">h: mm a</string>
-    <string name="fmt_time_12hour_minute_second">h: mm: ms</string>
     <string name="fmt_time_12hour_minute_second_pm">h: mm: ss a</string>
     <string name="fmt_time_12hour_pm">decir ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
