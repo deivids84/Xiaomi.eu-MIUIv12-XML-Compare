@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Завантаження файлів: %d</item>
+        <item quantity="one">Завантаження файлу</item>
+        <item quantity="few">Завантаження файлів: %d</item>
+        <item quantity="many">Завантаження файлів: %d</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Очікування завантаження: %d</item>
+        <item quantity="one">Очікування завантаження</item>
+        <item quantity="few">Очікування завантаження: %d</item>
+        <item quantity="many">Очікування завантаження: %d</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Неможливо завантажити %1$d файлів"</item>
+        <item quantity="one">"Неможливо завантажити %1$d файл"</item>
+        <item quantity="few">"Неможливо завантажити %1$d файли"</item>
+        <item quantity="many">"Неможливо завантажити %1$d файлів"</item>
+    </plurals>
+</resources>
