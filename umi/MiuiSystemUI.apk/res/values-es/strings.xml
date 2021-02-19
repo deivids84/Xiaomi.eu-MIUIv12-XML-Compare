@@ -1044,8 +1044,8 @@ Utilice solo el cargador proporcionado."</string>
  Contacta con tu proveedor de servicio para conseguir otra."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Tarjeta SIM inutilizable.</string>
     <string name="keyguard_plugged_in">Cargando</string>
-    <string name="keyguard_plugged_in_charging_fast">Carga rápida</string>
-    <string name="keyguard_plugged_in_charging_slowly">Carga lenta</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Carga rápida</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Carga lenta</string>
     <string name="keyguard_plugged_in_wireless">%s • Carga de forma inalámbrica</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Pulsa para ver detalles.</string>
     <string name="keyguard_retry">Desliza hacia arriba para volver a intentarlo</string>
