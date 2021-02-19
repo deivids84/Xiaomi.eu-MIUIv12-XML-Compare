@@ -682,7 +682,7 @@ La segunda línea muestra el nombre y el número de versión del MBN predetermin
     <string name="cit_tool_wifi_rx_chan">Rx: canal</string>
     <string name="cit_tool_wifi_rx_count_error">El valor de salida no es un número</string>
     <string name="cit_tool_wifi_rx_error">Se produjo un error al ejecutar el programa.</string>
-    <string name="cit_tool_wifi_rx_exit">Rx: salir</string>
+    <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
     <string name="cit_tool_wifi_rx_run">correr</string>
     <string name="cit_tool_wifi_rx_stop">Detener</string>
     <string name="cit_tool_wifi_rxbg_test_channel">canal:</string>
@@ -801,7 +801,7 @@ la posición especificada"</string>
     <string name="front_mic_check_record_tip">Grabando, dile algo a MIC en la parte frontal del teléfono</string>
     <string name="get_DSI_result">Resultado DSI</string>
     <string name="get_sensor_info">OBTENER INFORMACIÓN DEL SENSOR</string>
-    <string name="get_template_finger">Extraer imagen: obtener el dedo de la plantilla</string>
+    <string name="get_template_finger">Extraer imagen:obtener dedo de plantilla</string>
     <string name="gpu_maxfreq_title">Modo GPU Overfreq para Experimental</string>
     <string name="headset_key">Botón de auricular</string>
     <string name="headset_key_tip">Debe probar el botón del auricular antes de continuar con la siguiente prueba</string>
@@ -999,7 +999,7 @@ Después de calibrar correctamente, controle el dispositivo cerca y lejos del te
     <string name="status_text">Estado:</string>
     <string name="success_extract_sample">terminado de extraer datos de muestra</string>
     <string name="success_extract_template">terminado de extraer los datos de la plantilla</string>
-    <string name="success_get_finger_data">Extraer imagen: éxito para obtener datos de dedos</string>
+    <string name="success_get_finger_data">Extraer Imágen:éxito para obtener los datos de los dedos</string>
     <string name="success_to_test">ÉXITO DE LA PRUEBA</string>
     <string name="temperature">temperatura</string>
     <string name="template_data">datos de plantilla</string>
