@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>Ля</item>
+        <item>Сі</item>
+        <item>До</item>
+        <item>Ре</item>
+        <item>Мі</item>
+        <item>Фа</item>
+        <item>Соль</item>
+        <item>Н</item>
+        <item>Я</item>
+        <item>Джей</item>
+        <item>Кб</item>
+        <item>Лу</item>
+        <item>М-ль</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>Пн</item>
+        <item>Q</item>
+        <item>Р</item>
+        <item>Пд</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>V</item>
+        <item>Пт</item>
+        <item>Ікс</item>
+        <item>РР</item>
+        <item>Дзета</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>Сантиметр</item>
+        <item>Метри</item>
+        <item>Ноги</item>
+        <item>Дюйми</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Рівномірні щомісячні внески</item>
+        <item>Зменшення щомісячних внесків</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>ліва дужка</item>
+        <item>права дужка</item>
+        <item>факторіал</item>
+        <item>натуральний логарифм</item>
+        <item>логарифм</item>
+        <item>квадратний корінь</item>
+        <item>ділення</item>
+        <item>множення</item>
+        <item>плюс</item>
+        <item>мінус</item>
+        <item>крапка</item>
+        <item>ступінь</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>число пі</item>
+        <item>дорівнює</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>Долар</item>
+        <item>Євро</item>
+        <item>HKD</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>yr</item>
+        <item>тиждень</item>
+        <item>день</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Кілограм</item>
+        <item>Фунт</item>
+    </string-array>
+</resources>
