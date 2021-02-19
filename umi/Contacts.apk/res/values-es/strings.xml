@@ -1072,7 +1072,7 @@ Motivo: \"%s\""</string>
     <string name="smart_group_frequency_1">En el mes pasado</string>
     <string name="smart_group_frequency_2">De %1$d a %2$d meses</string>
     <string name="smart_group_frequency_3">De %1$d a %2$d meses</string>
-    <string name="smart_group_frequency_4">Hace más de 6 meses</string>
+    <string name="smart_group_frequency_4">Hace más de %d meses</string>
     <string name="smart_group_frequency_label">Recientes</string>
     <string name="smart_group_label">Grupos inteligentes</string>
     <string name="smart_group_location_label">Ubicaciones</string>
