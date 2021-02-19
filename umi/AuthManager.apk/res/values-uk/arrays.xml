@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>Ля</item>
+        <item>Сі</item>
+        <item>До</item>
+        <item>Ре</item>
+        <item>Мі</item>
+        <item>Фа</item>
+        <item>Соль</item>
+        <item>Н</item>
+        <item>Я</item>
+        <item>Джей</item>
+        <item>Кб</item>
+        <item>Лу</item>
+        <item>М-ль</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>Пн</item>
+        <item>Q</item>
+        <item>Р</item>
+        <item>Пд</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>V</item>
+        <item>Пт</item>
+        <item>Ікс</item>
+        <item>РР</item>
+        <item>Дзета</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Ля</item>
+        <item>Сі</item>
+        <item>До</item>
+        <item>Ре</item>
+        <item>Мі</item>
+        <item>Фа</item>
+        <item>Соль</item>
+        <item>Н</item>
+        <item>Я</item>
+        <item>Джей</item>
+        <item>Кб</item>
+        <item>Лу</item>
+        <item>М-ль</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>Пн</item>
+        <item>Q</item>
+        <item>Р</item>
+        <item>Пд</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>V</item>
+        <item>Пт</item>
+        <item>Ікс</item>
+        <item>РР</item>
+        <item>Дзета</item>
+        <item>\#</item>
+    </string-array>
+</resources>
