@@ -882,7 +882,6 @@
     <string name="wf_word_figure">Фінансові символи</string>
     <string name="withdraw_network_error">Ваш пристрій повинен під’єднатися до мережі для того, щоб мати можливість відкликати вилучення. Перевірте параметри мережі та повторіть спробу.</string>
     <string name="word_figure_guide_text">Натисніть та утримуйте, щоб змінити регістр.</string>
-    <string name="word_figure_zheng">整</string>
     <string name="xiaomi_connect_download_manager_fail">"Неможливо запустити програму \"Завантаження\""</string>
     <string name="xiaomi_external_storage_unavailable">"Пам'ять недоступна"</string>
     <string name="xiaomi_update_dialog_message">"Нова версія: %1$s
@@ -891,6 +890,4 @@
 Розмір оновлення: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Оновлення %1$s</string>
     <string name="yesterday">Вчора</string>
-    <string name="younger_brother">Молодший брат</string>
-    <string name="younger_sister">Молодша сестра</string>
 </resources>
