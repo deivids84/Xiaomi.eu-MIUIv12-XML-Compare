@@ -83,15 +83,13 @@
     <string name="warning_tip_content">"При завантажені файлів по мобільному інтернету може стягуватись додаткова плата оператором. Припинити завантаження?"</string>
     <string name="warning_tip_ok">ОК</string>
     <string name="warning_tip_title">Попередження про трафік</string>
-    <string name="wifi_recommended_body">"При завантаженні через мобільну мережу можливе надмірне споживання трафіку.
+    <string name="wifi_recommended_body">"Початок цього завантаження %1$s може призвести до надмірного використання мобільного з'єднання з інтернетом, що може призвести до стягнення вашого мобільного оператора в залежності від вашого тарифного плану даних.
 
-Щоб виконати завантаження пізніше по Wi-Fi натисніть \"Додати до черги\". 
-
-%s(%s)"</string>
+Торкніться %2$s, щоб почати завантаження під час наступного під'єднання до Wi-Fi-мережі."</string>
     <string name="wifi_recommended_title">Завантаження</string>
-    <string name="wifi_required_body">"Для завершення завантаження файлу розміром %s необхідне підключення до Wi-Fi мережі.
+    <string name="wifi_required_body">"Підключіться до Wi-Fi, щоб завершити це %1$s завантаження. 
 
-Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s"</string>
+Торкніться %2$s щоб розпочати це завантаження під час наступного підключення до мережі Wi-Fi."</string>
     <string name="wifi_required_title">Занадто великий файл для мережі оператора</string>
     <string name="xl_speedup_experience_notify_context">"Прискорення завантаження"</string>
     <string name="xl_speedup_experience_notify_title">Сервіс Xunlei</string>
