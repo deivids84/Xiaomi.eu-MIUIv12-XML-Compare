@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">OK</string>
+    <string name="app_name">Обліковий запис Mi</string>
+    <string name="error_device_id_message">"Неправильний ID пристрою: %s \пДля використання деяких сервісів Mi Cloud потрібні дійсний IMEI або MAC-адреса."</string>
+    <string name="error_device_id_title">"Неможливо отримати ID пристрою"</string>
+    <string name="explain_send_sms_permission_button">Перевірка</string>
+    <string name="explain_send_sms_permission_msg">Увімкніть %s, Xiaomi Service Framework надішле SMS для перевірки номера телефону.</string>
+    <string name="explain_send_sms_permission_title">Перевірка номера телефону</string>
+    <string name="pop_up_allow_notify_dialog">Дозволити</string>
+    <string name="pop_up_deny_notify_dialog">Заборонити</string>
+    <string name="sync_notification_title_format">Синхронізація: %1$s</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xmsf_activate_info">Інформація активації XMSF</string>
+</resources>
