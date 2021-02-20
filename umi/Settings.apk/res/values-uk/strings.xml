@@ -607,7 +607,7 @@
     <string name="app_permission_summary_allowed">Дозволено</string>
     <string name="app_permission_summary_not_allowed">Заборонено</string>
     <string name="app_permissions">Дозволи додатків</string>
-    <string name="app_permissions_summary">%d з %d програм дозволено додатковий доступ</string>
+    <string name="app_permissions_summary">Додатки, які використовують %1$s</string>
     <string name="app_permissions_summary_more">Додатки, які використовують %1$sі багато іншого</string>
     <string name="app_process_limit_title">Ліміт фонових процесів</string>
     <string name="app_restrictions_custom_label">Налаштувати обмеження</string>
