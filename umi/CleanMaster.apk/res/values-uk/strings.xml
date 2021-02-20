@@ -463,13 +463,6 @@
     <string name="installed">Встановлені</string>
     <string name="installing">Встановлення…</string>
     <string name="item_title_process_mode">Режим очищення</string>
-    <string name="junk_tag_RF_TaobaoLogFiles">Логи Taobao</string>
-    <string name="junk_tag_RF_TempFiles">Тимчасові файли</string>
-    <string name="junk_tag_RF_WechatDownload">Тимчасові файли WeChat</string>
-    <string name="junk_tag_big_file_from_name_album">Галерея</string>
-    <string name="junk_tag_big_file_from_name_baidu">Карти Baidu</string>
-    <string name="junk_tag_big_file_from_name_baofeng">BaoFeng</string>
-    <string name="junk_tag_big_file_from_name_bluetoothfiles">Bluetooth</string>
     <string name="junk_temporary_file">Тимчасові файли</string>
     <string name="just_now">Щойно</string>
     <string name="label_image_list_none">Порожньо</string>
