@@ -290,7 +290,7 @@
     <string name="dialog_ok_add_white_list_error">ОК</string>
     <string name="dialog_title_add_white_list_error">Попередження</string>
     <string name="dialog_title_backup_and_uninstall_apps">Бекап і видалення</string>
-    <string name="dialog_title_check_all">Вибрати всі файли програми?</string>
+    <string name="dialog_title_check_all">Вибрати все</string>
     <string name="dialog_title_delete_image">Видалити вибрані фото</string>
     <string name="dialog_title_esc_cleanmaster">Скасувати сканування?</string>
     <string name="dialog_title_load_cleanup_engine_error">Помилка очищення</string>
