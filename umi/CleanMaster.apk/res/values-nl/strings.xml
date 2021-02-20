@@ -171,6 +171,7 @@
     <string name="buy_a_new_phone">Krijg meer opslagruimte</string>
     <string name="buy_immediately">Kopen</string>
     <string name="buy_traffic_pack">Koop meer gegevens</string>
+    <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Lege map (%d)</string>
     <string name="cache_title_empty_folder2">Map leegmaken</string>
     <string name="cache_title_system_cache">Data cache</string>
@@ -326,12 +327,14 @@
     <string name="garbage_month">Opgeschoond %s deze maand</string>
     <string name="gb_global_icon_ad_card_btn">KRIJG</string>
     <string name="gb_global_icon_ad_card_title">Voorgesteld voor jou</string>
+    <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio">Geluid</string>
     <string name="global_wa_audio_item_title">Gesproken berichten</string>
     <string name="global_wa_backend_alert_dialog_content">Maak ruimte vrij door WhatsApp-items uit te wissen</string>
     <string name="global_wa_backend_alert_dialog_title">WhatsApp Opschoner</string>
     <string name="global_wa_clean_icon_text">WhatsApp Opschoner</string>
     <string name="global_wa_clean_now">Verwijderen</string>
+    <string name="global_wa_document">Documenten</string>
     <string name="global_wa_group_advice">Aanbevolen</string>
     <string name="global_wa_group_clean_earlier">Eerder</string>
     <string name="global_wa_group_clean_last_month">Vorige maand</string>
@@ -451,6 +454,7 @@
     <string name="hints_title_garbage">Prullenbak</string>
     <string name="hints_video_camera">Video\'s opgenomen</string>
     <string name="hints_video_download">Gedownloade video\'s</string>
+    <string name="hot">Populair</string>
     <string name="hot_today">Populair vandaag</string>
     <string name="information_setting">Aanbevelingen</string>
     <string name="install_sucess">%s succesvol geïnstalleerd</string>
@@ -480,6 +484,7 @@
     <string name="mainbtn_text_no_trash">Overslaan</string>
     <string name="mainbtn_text_quick_cleanup">Opschonen %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Opschonen</string>
+    <string name="megabyteShort">Mb</string>
     <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
     <string name="memory_clean_icon_text">Boost snelheid</string>
     <string name="memory_clean_no_trash_tip">Alles ziet er goed uit</string>
@@ -589,6 +594,7 @@
     <string name="permission_dialog_storage_btn2">annuleren</string>
     <string name="permission_dialog_storage_content">Cleaner heeft toestemming nodig om toegang te krijgen tot de interne opslag om normaal te kunnen werken. Tik op \"Instellingen\" om de opslagrechten te beheren.</string>
     <string name="permission_dialog_storage_title">Machtigingen vereist</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone_search">Google Zoeken</string>
     <string name="positive_confirm">Ok</string>
     <string name="powerful_acceleration">Defragmentation</string>
@@ -695,6 +701,7 @@
     <string name="summary_delete_large_file">Verwijder geselecteerde bestanden permanent?</string>
     <string name="summary_delete_video">Verwijder geselecteerde video\'s permanent?</string>
     <string name="summary_optimizer">"Cleaner moet de bestandsnamen van locatiegegevensbestanden uploaden naar Clean Master's servers om de cloud definities bij te werken. Akkoord ?"</string>
+    <string name="terabyteShort">TB</string>
     <string name="there_is_no">Alles ziet er goed uit, kom later terug</string>
     <string name="tips_low_storage_dialog_cancel">annuleren</string>
     <string name="tips_low_storage_dialog_msg_qq">QQ cache grootte is bereikt van 3GB. Dit kan je apparaat vertragen. QQ cache nu wissen?</string>
@@ -830,6 +837,7 @@
     <string name="whatsapp_function_summery">WhatsApp-bijlagen wissen</string>
     <string name="whatsapp_function_title">WhatsApp schoonmaakster</string>
     <string name="whatsapp_group_audio">Audio bestanden</string>
+    <string name="whatsapp_group_document">Documenten</string>
     <string name="whatsapp_group_image">Afbeeldingen</string>
     <string name="whatsapp_group_video">Video\'s</string>
     <string name="whatsapp_group_voice">Gesproken berichten</string>
