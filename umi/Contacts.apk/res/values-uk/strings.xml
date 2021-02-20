@@ -1028,7 +1028,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="search_results_searching">Пошук…</string>
     <string name="search_settings_description">Імена контактів</string>
     <string name="searching_vcard_message">Пошук даних vCard на накопичувачі …</string>
-    <string name="select_all"> Вибрати всі </string>
+    <string name="select_all">Вибрати всі</string>
     <string name="select_groups">Вибрати групи</string>
     <string name="select_vcard_title">Вибір файлу vСard</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Це поєднання клавіш вже існує</string>
