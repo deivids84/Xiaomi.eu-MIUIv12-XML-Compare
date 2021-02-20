@@ -1170,7 +1170,7 @@
     <string name="main_discard_confirm_message">Зберегти ефекти?</string>
     <string name="main_discard_negative_btn">Скасувати</string>
     <string name="main_discard_positive_btn">ОК</string>
-    <string name="main_save_cancel">Отмена</string>
+    <string name="main_save_cancel">Скасувати</string>
     <string name="main_save_compress">Стиснути і зберегти</string>
     <string name="main_save_error_msg">"Помилка збереження ефектів"</string>
     <string name="main_save_origin">Зберегти оригінал</string>
