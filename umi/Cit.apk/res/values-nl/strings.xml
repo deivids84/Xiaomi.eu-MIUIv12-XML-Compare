@@ -41,8 +41,12 @@
     <string name="action_example">Voorbeeld actie</string>
     <string name="action_nothing">wacht op test</string>
     <string name="add">Toevoegen</string>
+    <string name="afdcalibration_test">AFD KALIBRATIE TEST</string>
+    <string name="afdcalibrationrubberstamp_test">AFD KALIBRATIE RUBBER STAMP TEST</string>
+    <string name="afdrubberstamp_test">AFD RUBBER STAMP TEST</string>
     <string name="allow_gpu_maxfreq_summary">GPU overfreq experimentele modus kan energieproblemen of nog ernstigere problemen introduceren. Deze worden echter hersteld zodra je deze modus uitzet. Zet de GPU maxfreq modus aan?</string>
     <string name="ant_setting">ant</string>
+    <string name="audio_rule">Audio xml-parser</string>
     <string name="audio_spk_cal_wait">Kalibratie, alstublieft...</string>
     <string name="audio_spk_def">Kalibreer de sprekers, gelieve</string>
     <string name="back_mic_check_record_tip">Opnemen, zeg alsjeblieft iets tegen MIC op de achterkant van de telefoon</string>
@@ -54,6 +58,10 @@
     <string name="battery_plug_wirelee_title">Draadloze oplaadtest</string>
     <string name="battery_plugin_wirelee">Draadloos opladen is verbonden</string>
     <string name="battery_plugout_wirelee">Verbind met draadloos opladen</string>
+    <string name="battery_reverse_wireless_charge_success">Verlegd draadloze lading succes</string>
+    <string name="battery_reverse_wireless_charge_summary">Verlegde draadloze laadtest</string>
+    <string name="battery_reverse_wireless_charge_time_out">Verlegde draadloze laadtijd is verstreken</string>
+    <string name="battery_reverse_wireless_charge_title">Verlegd draadloze lading</string>
     <string name="battery_value">Elektriciteit</string>
     <string name="begin_to_save_finger_data">Begin met het opslaan van vingergegevens</string>
     <string name="bt_address">Adres:</string>
@@ -413,11 +421,13 @@ Zorg dat er tijdens het kalibreren niets is tussen de sensor en uw hand (bijv. b
     <string name="cit_reset_check_title">Herstart test</string>
     <string name="cit_reset_ese_summary">Reset eSE ,al je NFC bankkaarten en transcards worden verwijderd.</string>
     <string name="cit_reset_test">Test</string>
+    <string name="cit_reverse_charge_check_summary">OTG telefoon invoegen om te laden</string>
     <string name="cit_rgb_check_blue_light">RGB blue</string>
     <string name="cit_rgb_check_green_light">RGB groen</string>
     <string name="cit_rgb_check_red_light">RGB rood</string>
     <string name="cit_sar_get_status_title">KRIJG DSI VALUE</string>
     <string name="cit_sar_sensor_check_summary">De waarden voor sar sensor kanalen moeten hieronder verschijnen, wanneer de gegevens gewijzigd worden de functie is goed, let op dat u het apparaat niet vasthoudt en de telefoon onderaan schoonmaakt!</string>
+    <string name="cit_sar_sensor_check_title">SAR Sensor</string>
     <string name="cit_sar_setting_config_title">SAR TEST INSTELLINGEN</string>
     <string name="cit_sd_fail">Er is een fout opgetreden.</string>
     <string name="cit_sd_mount">SD-kaart koppelen</string>
@@ -451,8 +461,12 @@ Nadat je \"music.mp3\" in de SD kaart plaatst, tik je op het display om te spele
     <string name="cit_sim_state_unkown">onbekend</string>
     <string name="cit_slider_hall_miui_test_summary">Voer een volledige telefoon omhoog schuif uit en slide naar beneden.</string>
     <string name="cit_slider_hall_test_summary">Voer een volledige telefoon omhoog schuif uit en slide naar beneden.</string>
+    <string name="cit_soft_torch">front zachte flits led</string>
+    <string name="cit_soft_torch_on">Schakel zachte flits licht in</string>
+    <string name="cit_splash_check_summary">Zorg ervoor dat er meer dan 5 gevallen van zwart scherm zijn.</string>
     <string name="cit_start_calibration">Kalibreren</string>
     <string name="cit_stop_calibration">Kalibreren stoppen</string>
+    <string name="cit_tele_camera_check_title">Tele camera</string>
     <string name="cit_tfcard_no_support">TF-kaart wordt niet ondersteund op dit apparaat.</string>
     <string name="cit_tfcard_support">TF-kaart wordt ondersteund op dit apparaat.</string>
     <string name="cit_tfcard_support_summary">Controleer of TFCard wordt ondersteund op dit apparaat</string>
@@ -588,6 +602,8 @@ Nadat je \"music.mp3\" in de SD kaart plaatst, tik je op het display om te spele
     <string name="cit_tool_bluetooth_tx_burst_run">RENNEN</string>
     <string name="cit_tool_bluetooth_tx_chain">antenne:</string>
     <string name="cit_tool_bluetooth_tx_channel">kanaal:</string>
+    <string name="cit_tool_bluetooth_tx_h">Voer Bluetooth-provider 2.480GHz Freq Test Mode in</string>
+    <string name="cit_tool_bluetooth_tx_l">Voer Bluetooth-provider 2.402GHz Freq Test Mode in</string>
     <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
     <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_tx_rse_run">RENNEN</string>
@@ -711,6 +727,7 @@ De tweede regel toont de naam en het versienummer van Standaard MBN en Carrier M
 test mislukt!"</string>
     <string name="cit_usb_OTG_in">USB_OTG apparaat is aangesloten. Sluit het aan en draai de stekker terug</string>
     <string name="cit_usb_OTG_in_charge">OTG-apparaat gedetecteerd</string>
+    <string name="cit_usb_OTG_in_need_plugout">USB_OTG is aangesloten, sluit eerst aan</string>
     <string name="cit_usb_OTG_out">USB_OTG apparaat is aangesloten, schakel de stekker om</string>
     <string name="cit_usb_OTG_plug_in_start_test">Plug-in USB_OTG apparaat en begin met test</string>
     <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG is aangesloten, test voltooid</string>
@@ -756,8 +773,10 @@ test mislukt!"</string>
     <string name="copyright">Copyright © 2015 Goodix Alle rechten voorbehouden.</string>
     <string name="current_angle">Huidige Hoek:</string>
     <string name="delete">Verwijderen</string>
+    <string name="description_info">Informatie</string>
     <string name="display_test_finish">Schermtest voltooid</string>
     <string name="dsi_sar_on_off_tips">Dsi Sar Aan/Uit Switch</string>
+    <string name="enrol">Inschrijven</string>
     <string name="error">Foutmelding</string>
     <string name="error_app_internal">Interne fout applicatie</string>
     <string name="error_app_unsupported">Niet-ondersteunde indeling</string>
@@ -769,6 +788,9 @@ test mislukt!"</string>
     <string name="error_unknown_error">Onbekende fout</string>
     <string name="fail">Mislukt</string>
     <string name="failed_to_test">MISLUKT OM TE TEST</string>
+    <string name="far">FAR(False Rate\'s accepteren):</string>
+    <string name="far_count">FAC(False aantal accepteren):</string>
+    <string name="far_total_count">FATC(False Accepteer Totaal aantal):</string>
     <string name="fingerprint">Vingerafdruk:</string>
     <string name="fingerprint_input_title">vingerafdruk invoer test</string>
     <string name="firstplug_mic_check_record_tip">Stop Opname, nadat u de headset heeft aangesloten bevestigt het resultaat</string>
@@ -798,7 +820,13 @@ de opgegeven positie"</string>
     <string name="fpc_app_name">Sensor test tool</string>
     <string name="fpc_pn_calibration">PN afbeelding vastleggen en opslaan</string>
     <string name="front_mic_check_record_tip">Opnemen, zeg alstublieft iets tegen MIC aan de voorkant van de telefoon</string>
+    <string name="frr">FRR(False Afwijzen Rate):</string>
+    <string name="frr_count">Aantal afwijzen FRC(False Wissen):</string>
+    <string name="frr_total_count">Totaal aantal afwijzen FRTC(False Wissen):</string>
     <string name="get_DSI_result">DSI resultaat</string>
+    <string name="get_base_finger">Afvoer afbeelding:krijg basis vinger</string>
+    <string name="get_finger_data">Image:sampling vinger data uitpakken</string>
+    <string name="get_sample_finger">Afvoer afbeelding:krijg voorbeeldvinger</string>
     <string name="get_sensor_info">ONTVANG SENSOR INFO</string>
     <string name="get_template_finger">Image:krijg sjabloonvinger</string>
     <string name="gpu_maxfreq_title">Overfrequentie GPU voor Experimentele modus</string>
@@ -897,10 +925,12 @@ Klik op de knop Duw Camera om te zien of de camera binnenkomt"</string>
     <string name="radio_info_data_disconnected">Losgekoppeld</string>
     <string name="radio_info_data_network_type_label">Type gegevensnetwerk:</string>
     <string name="radio_info_data_suspended">Gestopt</string>
+    <string name="radio_info_display_dbm">dBm</string>
     <string name="radio_info_entry">Mobiel netwerk info</string>
     <string name="radio_info_gprs_service_label">Data Service:</string>
     <string name="radio_info_gsm_service_label">Spraakservice:</string>
     <string name="radio_info_neighboring_location_label">Buurman Cell Info:</string>
+    <string name="radio_info_phone_idle">Inactief</string>
     <string name="radio_info_phone_number_label">Telefoon nummer:</string>
     <string name="radio_info_phone_offhook">Actieve oproep</string>
     <string name="radio_info_phone_ringing">Bellen</string>
