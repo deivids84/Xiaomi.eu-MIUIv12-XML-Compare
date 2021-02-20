@@ -319,7 +319,7 @@
     <string name="burst_image_download_item_title" formatted="false">Завантажити оригінальний файл? (%s|%s)</string>
     <string name="burst_preview_title">Серійна зйомка</string>
     <string name="burst_save_all">Зберегти все</string>
-    <string name="burst_save_choice_title">Вибрано %d із %d</string>
+    <string name="burst_save_choice_title">Вибрано %1$d з %2$d</string>
     <string name="burst_save_dialog_title">Виберіть фото, щоб зберігати</string>
     <string name="burst_save_error_msg">"Неможливо зберегти"</string>
     <string name="burst_save_processing">Збереження…</string>
