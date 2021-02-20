@@ -277,6 +277,8 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="size_unknown">Onbekende grootte</string>
     <string name="start_backup_to_micloud">Apps back-uppen naar Xiaomi Cloud</string>
     <string name="start_recover">%s herstellen</string>
+    <string name="storage_unit_gb">%s GB</string>
+    <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Back-ups voor Startscherm apps ingeschakeld</string>
     <string name="title_alert_cancel_restore">Stop herstel</string>
     <string name="title_alert_restore_error">"Kon niet herstellen"</string>
