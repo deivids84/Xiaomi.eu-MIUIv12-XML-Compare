@@ -121,10 +121,10 @@
         <item quantity="other">Щойно</item>
     </plurals>
     <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">%d дн.</item>
-        <item quantity="few">%d дн.</item>
-        <item quantity="many">%d дн.</item>
+        <item quantity="other">%1$d днів</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d день</item>
+        <item quantity="many">%1$d день</item>
     </plurals>
     <plurals name="minute">
         <item quantity="other">%d хв.</item>
