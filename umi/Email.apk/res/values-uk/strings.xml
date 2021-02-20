@@ -64,7 +64,7 @@
     <string name="account_settings_edit_quick_responses_summary">Редагування швидких відповідей</string>
     <string name="account_settings_incoming_summary">Налаштування сервера вхідної пошти</string>
     <string name="account_settings_login_dialog_content_fmt">"Неправильне ім'я користувача або пароль акаунту %s. Оновити дані?"</string>
-    <string name="account_settings_login_dialog_reason_fmt">"Помилка авторизації в %s. Відповідь сервера: %s. Оновити логін і пароль?"</string>
+    <string name="account_settings_login_dialog_reason_fmt">"Не вдалося увійти до %1$s. Сервер сказав: %2$s. Оновити своє ім'я користувача чи пароль?"</string>
     <string name="account_settings_login_dialog_title">"Не вдалося увійти в акаунт"</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Вам необхідно оновити поту самостійно, щоб синхронізувати повідомлення</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"Якщо Ви активуєте ручний режим, Вам буде необхідно самостійно оновлювати повідомлення та дані календаря"</string>
@@ -264,9 +264,9 @@
     <string name="bill_remind">Нагадування про сплату</string>
     <string name="bill_remind_due">Сплата виконується до %s</string>
     <string name="blank_feedback_toast">Неможливо надіслати порожній звіт</string>
-    <string name="body_forward_email_text">[Переслати]</string>
+    <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Текст повідомлення</string>
-    <string name="body_inline_pic_text">[Зображення]</string>
+    <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">Експорт в PDF</string>
     <string name="bottom_bar_more_pdf_exporting">Експорт…</string>
     <string name="bottom_bar_more_quickreply">Швидкі відповіді</string>
@@ -1014,7 +1014,7 @@
     <string name="reply">Відповісти</string>
     <string name="reply_add_bodycontent">Додати текст швидкої відповіді до повідомлення?</string>
     <string name="reply_all">Відповісти всім</string>
-    <string name="reply_attribution">%s | Від: %s | Повідомлення:</string>
+    <string name="reply_attribution">%2$s написав(ла) на %1$s:</string>
     <string name="report_phishing">Повідомити про шахрайство</string>
     <string name="report_spam">Повідомити про спам</string>
     <string name="request_copy_db_to_disk">Email запитує копіювання Вашої бази даних до файлу</string>
@@ -1066,7 +1066,7 @@
     <string name="ser_resp_err_map_nouser">"Такого користувача немає"</string>
     <string name="ser_resp_err_map_or">%1$s або %2$s</string>
     <string name="ser_resp_err_map_pserr">Неправильне ім\'я користувача або пароль</string>
-    <string name="ser_resp_err_map_serclosed">Сервер закритий</string>
+    <string name="ser_resp_err_map_serclosed">Спочатку увімкніть %s у вебклієнт електронної пошти</string>
     <string name="ser_resp_err_map_serclosed_info">%s вимкнено</string>
     <string name="ser_resp_err_map_ssl">Спробуйте вибрати пункт \"SSL/TLS (приймати всі сертифікати)\" у параметрах безпеки</string>
     <string name="server_cet_button">Довіряти цьому сертифікату</string>
