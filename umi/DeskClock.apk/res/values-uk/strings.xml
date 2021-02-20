@@ -40,7 +40,7 @@
     <string name="add_timezone_title">Додати часовий пояс</string>
     <string name="afternoon">Після обіду</string>
     <string name="agree">Прийняти</string>
-    <string name="alarm_alert_alert_silenced">Будильник вимкнено %d хв. тому</string>
+    <string name="alarm_alert_alert_silenced">Будильник вимкнено через %1$s.</string>
     <string name="alarm_alert_disabled">Відключений</string>
     <string name="alarm_ascending_mode_summary">Наростання гучності сигналу до встановленої</string>
     <string name="alarm_ascending_mode_title">Наростання гучності</string>
@@ -569,7 +569,7 @@
     <string name="time_settings">Налаштування годинника</string>
     <string name="timer_alarm_cancel_pad">Натисніть на екран для вимкнення будильника</string>
     <string name="timer_alarm_dot_matrix_label">ТАЙМЕР</string>
-    <string name="timer_alert_alert_silenced">Таймер вимкнений %d хв. тому</string>
+    <string name="timer_alert_alert_silenced">Таймер вимкнувся через %1$s.</string>
     <string name="timer_alert_mute_off">Будильник лунатиме після зупинки таймеру</string>
     <string name="timer_alert_mute_on">"Будильник не буде лунати після зупинки таймеру"</string>
     <string name="timer_alert_mute_remind">Вимкнути будильник</string>
@@ -654,7 +654,7 @@
     <string name="worldcolock_timezone_current">Поточний: %1$s</string>
     <string name="worldcolock_timezone_current_date">ДД/ММ/РРРР</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
-    <string name="worldcolock_timezone_gap">г.</string>
+    <string name="worldcolock_timezone_gap">%s Н</string>
     <string name="worldcolock_timezone_local">Такий самий, як і місцевий час</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Оновити</string>
