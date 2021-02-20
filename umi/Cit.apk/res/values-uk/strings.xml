@@ -118,7 +118,6 @@
     <string name="cit_audio_cali_fast_test_title">Швидке тестування калібрування динаміка</string>
     <string name="cit_audio_cali_file_existed">Музичний файл не існує. Неможливо провести калібрування.</string>
     <string name="cit_audio_cali_playing">Натисніть на клавішу для калібрування</string>
-    <string name="cit_audio_cali_q">Q:</string>
     <string name="cit_audio_cali_summary">Калібрування динаміка</string>
     <string name="cit_audio_cali_test_summary">Перед відкалібрування гучномовця, переконайтеся, що динамік не відтворюється</string>
     <string name="cit_audio_cali_title">Динамік</string>
@@ -330,13 +329,10 @@
     <string name="cit_headset_pull_finish_test">Від\'єднані навушники, завершення тестування</string>
     <string name="cit_headset_pull_hint">Відключіть гарнітуру</string>
     <string name="cit_hide_menu">Сховати меню</string>
-    <string name="cit_kayboard_home_down">Кл: ДОДОМУ</string>
-    <string name="cit_kayboard_power_down">Кл: ЖИВЛЕННЯ</string>
     <string name="cit_kayboard_volume_down">Клавіша: VOLUME DOWN</string>
     <string name="cit_kayboard_volume_up">Клавіша: VOLUME UP</string>
     <string name="cit_keyboard_back">Клавіша: BACK</string>
     <string name="cit_keyboard_current">Ви натиснули: %s</string>
-    <string name="cit_keyboard_current_def">Поточна клавіатура:</string>
     <string name="cit_keyboard_menu">Клавіша MENU</string>
     <string name="cit_keyboard_test_summary">Перевірка натискань клавіш.
 Примітка: клавіша \"HOME\" згорне інженерне меню.</string>
@@ -345,7 +341,6 @@
     <string name="cit_lcdlight_brightness">Підсвічування</string>
     <string name="cit_lcdlight_brightness_max">Максимум</string>
     <string name="cit_lcdlight_brightness_min">Мінімум</string>
-    <string name="cit_led_check_backlight">Підсвічування</string>
     <string name="cit_led_check_charge_light">LED зарядка</string>
     <string name="cit_led_check_first_flash_light">Перший спалах LED</string>
     <string name="cit_led_check_second_flash_light">Другий спалах LED</string>
@@ -353,7 +348,6 @@
     <string name="cit_leds_check_title">Підсвічування</string>
     <string name="cit_light_sensor_check_summary">Датчик освітленості, рівень яскравості навколишнього простору</string>
     <string name="cit_light_sensor_check_title">Датчик освітленості</string>
-    <string name="cit_macro_camera_check_title">Перевірка макро</string>
     <string name="cit_magnetic_sensor_check_summary">Перевірка компасу</string>
     <string name="cit_magnetic_sensor_check_title">Компас</string>
     <string name="cit_main_camera_check_summary">"Основна камера 
@@ -408,10 +402,6 @@
     <string name="cit_reset_check_summary">Цей тест перезавантажте пристрій. Всі попередні результати будуть втрачені.</string>
     <string name="cit_reset_check_title">Скидання</string>
     <string name="cit_reset_ese_summary">Всі дані Ваших банківських карт будуть видалені</string>
-    <string name="cit_reset_ese_title">Скидання eSE</string>
-    <string name="cit_reset_se">Скидання eSE</string>
-    <string name="cit_reset_se_nfc_closed">Помилка: NFC потрібно увімкнути.</string>
-    <string name="cit_reset_se_start">Скидання eSE…</string>
     <string name="cit_reset_test">Скидання</string>
     <string name="cit_reverse_charge_check_summary">Підключіть OTG для зарядки</string>
     <string name="cit_rgb_check_blue_light">RGB blue</string>
@@ -486,7 +476,6 @@
     <string name="cit_tool_bluetooth_le_rx_4x_channel">Канал:</string>
     <string name="cit_tool_bluetooth_le_rx_50">RX: BLE 5.0</string>
     <string name="cit_tool_bluetooth_le_rx_50_channel">Канал:</string>
-    <string name="cit_tool_bluetooth_le_rx_50_phy">PHY:</string>
     <string name="cit_tool_bluetooth_le_rx_ch0">Тест Bluetooth LE 2.402 ГГц RX</string>
     <string name="cit_tool_bluetooth_le_rx_ch1">Тест Bluetooth LE 2.404 ГГц RX</string>
     <string name="cit_tool_bluetooth_le_rx_ch10">Тест Bluetooth LE 2.422 ГГц RX</string>
@@ -534,11 +523,9 @@
     <string name="cit_tool_bluetooth_le_tx_4x_antenna">антена:</string>
     <string name="cit_tool_bluetooth_le_tx_4x_channel">Канал:</string>
     <string name="cit_tool_bluetooth_le_tx_4x_payload">Навантаження:</string>
-    <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
     <string name="cit_tool_bluetooth_le_tx_50_antenna">антена:</string>
     <string name="cit_tool_bluetooth_le_tx_50_channel">Канал:</string>
     <string name="cit_tool_bluetooth_le_tx_50_payload">Навантаження:</string>
-    <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
     <string name="cit_tool_bluetooth_le_tx_antenna">антена:</string>
     <string name="cit_tool_bluetooth_le_tx_ch0">Тест Bluetooth LE 2.402 ГГц TX</string>
     <string name="cit_tool_bluetooth_le_tx_ch1">Тест Bluetooth LE 2.404 ГГц TX</string>
@@ -668,18 +655,15 @@
     <string name="cit_tool_modem_test_will_set">відкриє тестовий режим і перезавантаже dut</string>
     <string name="cit_tool_nfc">Інструменти NFC</string>
     <string name="cit_tool_nfc_st">Nfc ST:</string>
-    <string name="cit_tool_nfc_st_confreq">Частота:</string>
     <string name="cit_tool_nfc_st_run">Запуск</string>
     <string name="cit_tool_nfc_st_stop">Зупинити</string>
     <string name="cit_tool_no_repeat">Без повторень!</string>
     <string name="cit_tool_not_support">Не підтримується</string>
     <string name="cit_tool_opt_fail_info_notify">Не вдалося виконати операцію, необхідно перезавантажити телефон для мережевого режиму.</string>
-    <string name="cit_tool_prx_drx">PRx+DRx</string>
     <string name="cit_tool_prx_drx_select_mode">Оберіть режим:</string>
     <string name="cit_tool_prx_drx_select_rat">Оберіть RAT:</string>
     <string name="cit_tool_prx_drx_start_test">Почати тест</string>
     <string name="cit_tool_prx_drx_stop_test">Зупинити тест</string>
-    <string name="cit_tool_prx_only">PRX</string>
     <string name="cit_tool_rf_ant">Інструменти антени/RF</string>
     <string name="cit_tool_sar_test_tool_title">ТЕСТЬ ДЕРЕВ</string>
     <string name="cit_tool_select_all">Виділити все</string>
@@ -692,15 +676,12 @@
     <string name="cit_tool_to_fetching">отримати</string>
     <string name="cit_tool_wifi">Інструменти Wi-Fi</string>
     <string name="cit_tool_wifi_exit">Вихід</string>
-    <string name="cit_tool_wifi_rx_ap_name">Введіть ім\'я AP</string>
     <string name="cit_tool_wifi_rx_chan">Rx: канал</string>
     <string name="cit_tool_wifi_rx_count_error">Вихідне значення не є числом</string>
     <string name="cit_tool_wifi_rx_error">Помилка</string>
     <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
     <string name="cit_tool_wifi_rx_run">Запуск</string>
     <string name="cit_tool_wifi_rx_stop">Стоп</string>
-    <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
-    <string name="cit_tool_wifi_rxax_test">Rx: ax</string>
     <string name="cit_tool_wifi_rxbg_test_channel">канал:</string>
     <string name="cit_tool_wifi_rxn_test_bw">ширина каналу:</string>
     <string name="cit_tool_wifi_rxn_test_channel">канал:</string>
