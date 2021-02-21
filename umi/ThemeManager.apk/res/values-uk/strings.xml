@@ -751,7 +751,7 @@ M/dd"</string>
     <string name="resource_detail_update_log_title">Оновлення</string>
     <string name="resource_detail_window_title">Інформація (%1$s)</string>
     <string name="resource_download">Завантажити</string>
-    <string name="resource_download_notification_title_one">Завантаження теми завершене</string>
+    <string name="resource_download_notification_title_one">Завантажено %1$s успішно</string>
     <string name="resource_download_trial">Пробна версія</string>
     <string name="resource_downloaded_title">Завантажені</string>
     <string name="resource_downloading">Завантаження…</string>
