@@ -689,9 +689,9 @@
     <string name="todo_edit_btn_today">Сьогодні</string>
     <string name="todo_edit_btn_tomorrow">Завтра</string>
     <string name="todo_edit_text_hint">Введіть відомості про завдання</string>
-    <string name="todo_event_description_a_week_ago">Тиждень тому</string>
-    <string name="todo_event_description_a_week_later">Через тиждень</string>
-    <string name="todo_event_description_day_after_tomorrow">Через 2 дні</string>
+    <string name="todo_event_description_a_week_ago">%1$d тиждень тому</string>
+    <string name="todo_event_description_a_week_later">Через %1$d тиждень</string>
+    <string name="todo_event_description_day_after_tomorrow">Через %1$d дні</string>
     <string name="todo_event_description_day_before_yesterday">2 дні тому</string>
     <string name="todo_event_description_today">Сьогодні</string>
     <string name="todo_event_description_tomorrow">Завтра</string>
