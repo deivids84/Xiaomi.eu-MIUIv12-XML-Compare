@@ -1068,13 +1068,13 @@
     <string name="bluetooth_connected">Підключено</string>
     <string name="bluetooth_connected_battery_level">Підключено\u0020|\u0020Заряд батареї %1$s%2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Підключено до декількох пристроїв</string>
-    <string name="bluetooth_connected_no_a2dp">Підключено (крім медіа)</string>
+    <string name="bluetooth_connected_no_a2dp">Підключено (немає медіа) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Підключено (крім пристрою)</string>
+    <string name="bluetooth_connected_no_headset">Підключено (окрім телефону)%1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Підключено (крім пристрою або медіа)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Підключено (окрім телефону чи медіа) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">Підключено без доступу до повідомлень</string>
+    <string name="bluetooth_connected_no_map">Підключено (немає доступу до повідомлення) %1$s</string>
     <string name="bluetooth_connected_summary">Підключено до пристрою %1$s</string>
     <string name="bluetooth_connecting">Підключення…</string>
     <string name="bluetooth_connecting_error_message">Виникла несправність при підключенні до %1$s</string>
@@ -1216,7 +1216,7 @@
     <string name="bluetooth_pairing_pin_error_message">"Не вдалося підключитися до пристрою \"%1$s\", тому що введений неправильний PIN код або пароль"</string>
     <string name="bluetooth_pairing_pref_title">Додати пристрій</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s не дозволяє сполучення</string>
-    <string name="bluetooth_pairing_request">Запит сполучення Bluetooth</string>
+    <string name="bluetooth_pairing_request">Підключити товар %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Дозволити доступ до списку контактів та журналу викликів</string>
     <string name="bluetooth_pairing_toast_add_to_blackfile">Успішно заблоковано. Ви можете керувати заблокованими елементами в \"Додаткові налаштування\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">З\'єднання забезпечує доступ до Ваших контактів та журналу викликів (при наявності зв\'язку)</string>
@@ -1398,7 +1398,9 @@
     <string name="bootloader_status_unlocked">Розблоковано</string>
     <string name="bootloader_status_unlocked_info">Завантажувач розблоковано</string>
     <string name="bootloader_summary">Прошивка пристрою через USB</string>
-    <string name="bootloader_tips">"Після прив'язування Mi акаунта не виходьте з нього, не виконуйте скидання налаштувань або очищення даних системних програм. Якщо Ви виконали якусь дію із перерахованих, ще раз прив'яжіть акаунт з пристроєм, інакше Ви не зможете розблокувати завантажувач."</string>
+    <string name="bootloader_tips">"%s
+
+Якщо ви вже зробили будь-який з вищезазначених, додайте свій Mi аккаунт знову; в іншому випадку ви не зможете розблокувати ваш пристрій."</string>
     <string name="bootloader_tips_ok">Зрозуміло</string>
     <string name="bootloader_tips_warning">"Не вимикайте інтернет, не виходьте з Mi акаунта, не виконуйте загальне скидання налаштувань і не видаляйте системні дані"</string>
     <string name="bottom_function_settings">Функції додаткових кнопок</string>
@@ -2390,7 +2392,7 @@
     <string name="disable_overlays">Вимкнути накладання</string>
     <string name="disable_overlays_summary">Завжди використовувати GPU для растеризації екрану</string>
     <string name="disable_power_key_long_press_under_keyguard">Вимкнути меню живлення</string>
-    <string name="disable_service_message">Натисніть \"ОК\" для відключення %1$s.</string>
+    <string name="disable_service_message">Натискання %1$s зупинить %2$s.</string>
     <string name="disable_service_title">Зупинити службу %1$s?</string>
     <string name="disable_text">Вимкнути</string>
     <string name="disable_wifi_hotspot_title">Не використовувати точку доступу Wi&lt;unk&gt; Fi</string>
@@ -2582,8 +2584,8 @@
     <string name="dual_wifi_switching_prompt">Запит на перемикання Wi-Fi</string>
     <string name="dual_wifi_switching_summary">Для подвійних мереж Wi-Fi потрібні різні частоти, якщо ви зміните частоту основної мережі Wi-Fi, додаткова мережа буде відключена.</string>
     <string name="dump_log">Зібрати журнали проблем</string>
-    <string name="dump_log_summary">"Ця функція призначена для створення журналу 284 в Альфа і Бета версіях MIUI. Використовуйте її з обережністю.
-Ви можете переглянути створені журнали в Провіднику."</string>
+    <string name="dump_log_summary">"Ця функція призначена для генерації журналу %s в бета-версії MIUI. Будьте обережні в читанні.
+Ви можете переглянути згенеровані логи в файловому менеджері."</string>
     <string name="dump_log_title">Детальніше про цю функцію</string>
     <string name="easymode_hint">Торкніться, щоб вимкнути Lite режим</string>
     <string name="edge_mode_back">Повернення</string>
@@ -3043,7 +3045,7 @@
     <string name="forget_password_dialog_button_text">Назад</string>
     <string name="forget_password_dialog_content_four"> <Data>2. Оберіть пункт &lt;font color=#e6e6e6&gt;[Wipe data]&lt;/font&gt; і дочекайтеся перезавантаження.</Data> </string>
     <string name="forget_password_dialog_content_one"> <Data>Якщо Ви забули пароль, Ви не зможете відновити його. Щоб скинути пароль, потрібно виконати загальне скидання пристрою (всі фото, контакти та інші данні будуть очищені). Створіть бекап важливих даних</Data> </string>
-    <string name="forget_password_dialog_content_three">1. Вимкніть пристрій. Одночасно натисніть клавіші живлення і гучності вгору, поки Ви не побачите іконку</string>
+    <string name="forget_password_dialog_content_three">1. Вимкніть пристрій. Натисніть кнопку [Power] та кнопку [Volume+] одночасно, і утримуйте їх, поки не побачите піктограму *.</string>
     <string name="forget_password_dialog_content_two">Слідуйте інструкції, щоб виконати загальне скидання:</string>
     <string name="forget_password_dialog_title">Скидання паролю</string>
     <string name="forget_pattern"><u>Забули пароль?</u></string>
@@ -4351,9 +4353,9 @@ Xiaomi Cloud
     <string name="miui_sos_contacts_category">Екстрені контакти</string>
     <string name="miui_sos_emergency_contacts">Екстрені контакти</string>
     <string name="miui_sos_emergency_delete">Видалити</string>
-    <string name="miui_sos_emergency_delivered_sms">%1s (%2s) вже прийнято</string>
-    <string name="miui_sos_emergency_delivered_sms_noname">%1s вже прийнято</string>
-    <string name="miui_sos_emergency_failed_sms">"Помилка надсилання повідомлення SMS: %1s (%2s)"</string>
+    <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) отримали повідомлення</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">%1$s отримав повідомлення</string>
+    <string name="miui_sos_emergency_failed_sms">"Не вдалося відправити повідомлення до %1$s (%2$s)"</string>
     <string name="miui_sos_emergency_failed_sms_noname">"Помилка надсилання повідомлення SMS: %1s"</string>
     <string name="miui_sos_enable_switch_summary">Швидко натисніть кнопку живлення 5 разів, щоб надіслати текстове повідомлення SOS з вашим місцезнаходженням на екстрені контакти.</string>
     <string name="miui_sos_enable_switch_title">Екстренна допомога</string>
@@ -4925,7 +4927,7 @@ Xiaomi Cloud
     <string name="notification_suggestion_title">Керування сповіщеннями на заблокованому екрані</string>
     <string name="notification_summary_level">Рівень %d</string>
     <string name="notification_summary_none">Дозволено сповіщення від усіх програм</string>
-    <string name="notification_switch_label">Увімкнути повідомлення</string>
+    <string name="notification_switch_label">Всі \"%1$s\" сповіщення</string>
     <string name="notification_toggle_off">Вимк.</string>
     <string name="notification_toggle_on">Увімк.</string>
     <string name="notification_unknown_sound_title">Звук програми за замовчуванням</string>
@@ -5299,12 +5301,12 @@ OTG вимикається автоматично через 10 хвилин б�
     <string name="preferred_app_settings_reset">Скидання налаштувань</string>
     <string name="preferred_app_settings_reset_button">Скидання</string>
     <string name="preferred_app_settings_reset_message">Використовувати всі стандартні програми за замовчуванням?</string>
-    <string name="preferred_application_title">Замінити програму за замовчуванням?</string>
+    <string name="preferred_application_title">За замовчуванням %s</string>
     <string name="preferred_application_warning_message">Заміна стандартної програми \"%1$s\" може збільшити споживання енергії, знизити швидкість роботи пристрою й піддати систему ризику. 
 рекомендується використовувати стандартну програму \"%2$s\".</string>
     <string name="preferred_application_warning_replace">Замінити</string>
     <string name="preferred_application_warning_title">Заміна програми \"%s\"</string>
-    <string name="preferred_application_warning_use_system">Скасувати</string>
+    <string name="preferred_application_warning_use_system">Використовуйте %s</string>
     <string name="preferred_media_app_summary">Виберіть музичний плеєр</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Рекомендований режим мережі: CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Рекомендований режим мереж: CDMA / EvDo</string>
@@ -5511,7 +5513,7 @@ OTG вимикається автоматично через 10 хвилин б�
     <string name="process_stats_run_time">Час роботи</string>
     <string name="process_stats_summary">Відстеження статистики про запущені процеси</string>
     <string name="process_stats_summary_title">Статистика процесів</string>
-    <string name="process_stats_total_duration">%1$s з %2$s</string>
+    <string name="process_stats_total_duration">%1$s з %2$s використано за останні %3$s</string>
     <string name="process_stats_total_duration_percentage">Використано %1$s за %2$s</string>
     <string name="process_stats_type_background">Фон</string>
     <string name="process_stats_type_cached">Кешовано</string>
@@ -5616,7 +5618,7 @@ OTG вимикається автоматично через 10 хвилин б�
     <string name="remove_managed_profile_label">Видалити робочий профіль</string>
     <string name="repeat">Повторення</string>
     <string name="repeat_call">Повторне нагадування про виклик</string>
-    <string name="repeat_call_info">Сповіщення про другий виклик від того ж контакту протягом 15 хвилин не буде вимкнено</string>
+    <string name="repeat_call_info">Дзвінок або вібрація під час отримання другого виклику з того ж номеру телефону протягом %d хвилин</string>
     <string name="repeat_days_in_week">Повторити</string>
     <string name="repeat_never">Ніколи</string>
     <string name="repeat_title">Повторити</string>
@@ -6523,9 +6525,9 @@ OTG вимикається автоматично через 10 хвилин б�
     <string name="sim_cards_changed_message_summary">Натисніть, щоб встановити дії</string>
     <string name="sim_cellular_data_unavailable">Мобільні дані недоступні</string>
     <string name="sim_cellular_data_unavailable_summary">Натисніть, щоб обрати SIM-картку для інтернету</string>
-    <string name="sim_change_data_message">"Використовувати для мобільного інтернету SIM-карту: %1$s замість %2$s?"</string>
+    <string name="sim_change_data_message">"Ви використовуєте %2$s для мобільних даних. Якщо перемикається на %1$s, %2$s більше не буде використовуватися для мобільних даних."</string>
     <string name="sim_change_data_ok">Використовуйте %1$s</string>
-    <string name="sim_change_data_title">Змінити SIM-карту?</string>
+    <string name="sim_change_data_title">Використовувати %1$s для передачі даних?</string>
     <string name="sim_change_failed">"Неможливо змінити PIN.
 Можливо, код введений неправильно"</string>
     <string name="sim_change_failed_enable_sim_lock">"Увімкнути блокування SIM-карти"</string>
@@ -6591,7 +6593,7 @@ OTG вимикається автоматично через 10 хвилин б�
     <string name="skip_lock_screen_dialog_button_label">Пропустити</string>
     <string name="skip_step">Пропустити</string>
     <string name="slider_app_open">Відкрити програму</string>
-    <string name="slider_app_open_name">Відкрити %1$</string>
+    <string name="slider_app_open_name">Відкрити %1$s</string>
     <string name="slider_app_open_none">Немає дій</string>
     <string name="slider_button_title">Змінити</string>
     <string name="slider_choose_app">Виберіть програму</string>
@@ -7477,8 +7479,8 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="usage_state_hour_minute">%1$dгод %2$dхв</string>
     <string name="usage_state_less_one_minute">Менше 1 хвилини</string>
     <string name="usage_state_monday">Пн</string>
-    <string name="usage_state_mourth_day">\'Час екрану\' d MMM</string>
-    <string name="usage_state_noti_mourth_day">\'Сповіщення\' d MMM</string>
+    <string name="usage_state_mourth_day">Час Екран увімкнуто %s</string>
+    <string name="usage_state_noti_mourth_day">Сповіщення про %s</string>
     <string name="usage_state_notification">Керування сповіщеннями</string>
     <string name="usage_state_notification_manager">Керування сповіщеннями</string>
     <string name="usage_state_remind_summary">Отримувати повідомлення про час екрану.  Ви можете задати період часу для буднів і вихідних.</string>
@@ -7491,7 +7493,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="usage_state_today">Сьогодні</string>
     <string name="usage_state_today_total_text">Час екрану сьогодні</string>
     <string name="usage_state_tuesday">Вт</string>
-    <string name="usage_state_unlock_mourth_day">\'Розблокування\' d MMM</string>
+    <string name="usage_state_unlock_mourth_day">Розблоковано %s</string>
     <string name="usage_state_usage_time">Час екрану</string>
     <string name="usage_state_usage_time_remind">Сповіщення про час екрану</string>
     <string name="usage_state_use_time_remind_title">Сповіщення про час екрану</string>
@@ -8090,7 +8092,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="wifi_calling_mode_wifi_only_summary">Викликати через Wi&lt;unk&gt; Fi. Якщо WiFi втрачено, виклик закінчиться.</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">Якщо Wi&lt;unk&gt; Fi недоступно, скористайтеся мобільною мережею</string>
     <string name="wifi_calling_not_supported">%1$s не підтримує дзвінки по Wi-Fi</string>
-    <string name="wifi_calling_off_explanation">Коли функція \"Виклики по Wi-Fi\" увімкнено, для вихідних викликів може використовуватися як Wi-Fi, так і мобільний інтернет (в залежності від Ваших уподобань і рівня сигналу). Перш ніж увімкнути цю функцію, зв\'яжіться зі своїм оператором і уточніть деталі.</string>
+    <string name="wifi_calling_off_explanation">Якщо ввімкнено Wi-Fi, ваш телефон може спрямовувати дзвінки через Wi-Fi мережі або мережу вашого оператора, в залежності від вашого налаштування та того, який сигнал сильніший. Перед тим як увімкнути цю функцію, перевірте перевірте комісію щодо перевізника та інші деталі.%1$s</string>
     <string name="wifi_calling_pref_managed_by_carrier">Ці налаштування задаються оператором</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Налаштування роумінгу</string>
     <string name="wifi_calling_roaming_mode_title">Налаштування роумінгу</string>
