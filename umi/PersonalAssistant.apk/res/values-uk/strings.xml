@@ -786,7 +786,7 @@ ID:%s
     <string name="express_delete_order">Видалити</string>
     <string name="express_delivery">Доставлено</string>
     <string name="express_dest_city_label">Пункт призначення</string>
-    <string name="express_detail_order_number_prefix">Номер:% s</string>
+    <string name="express_detail_order_number_prefix">Кількість: %s</string>
     <string name="express_detailed_address">Адреса</string>
     <string name="express_field_empty">Порожньо</string>
     <string name="express_go_back">Відмінити</string>
