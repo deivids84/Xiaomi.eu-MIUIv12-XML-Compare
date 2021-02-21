@@ -313,7 +313,7 @@
     <string name="download_toast">Завантаження треків через мобільний інтернет</string>
     <string name="download_toast_with_beyond_data">Завантаження треків через мобільний інтернет. Межу перевищено на %s.</string>
     <string name="download_toast_with_data">ЗЗавантаження треків через мобільний інтернет. Лишилося: %s</string>
-    <string name="download_traffic_dialog_msg">При завантаженні музики через мобільний інтернет може стягуватися додаткова оплата оператором</string>
+    <string name="download_traffic_dialog_msg">У вас залишилося %s даних для завантаження пісень?</string>
     <string name="download_traffic_dialog_msg_beyond">"Мобільний трафік перевищено на %s. Продовжити завантаження через мобільний інтернет?"</string>
     <string name="download_traffic_dialog_msg_serious">Лишилося %s мобільного трафіку. Продовжити завантаження через мобільний інтернет?</string>
     <string name="download_traffic_dialog_msg_without_data">"Лишилося %s мобільного трафіку. Продовжити завантаження через мобільний інтернет?"</string>
