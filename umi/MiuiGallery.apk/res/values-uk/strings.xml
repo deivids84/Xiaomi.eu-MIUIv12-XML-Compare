@@ -2281,9 +2281,9 @@
     <string name="video_editor_smart_effect_radical">Оптимістичний</string>
     <string name="video_editor_smart_effect_rhythm">Пульс</string>
     <string name="video_editor_smart_effect_street">Метрополіс</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Ви можете застосовувати цей ефект до відео тривалістю до 40 секунд.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_6">Ви можете застосовувати цей ефект до відео тривалістю принаймні 6 секунд.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Ви можете застосовувати цей ефект до відео тривалістю до 60 секунд.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Цей ефект може бути застосований до відео не більше %d секунд. Адаптовано тривалість автоматично.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_6">Ви можете застосувати цей ефект до відео, довжина яких становить принаймні %d секунд.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Цей ефект може бути застосований до відео не більше %d секунд. Адаптовано тривалість автоматично.</string>
     <string name="video_editor_template_family">Сім\'я</string>
     <string name="video_editor_template_forbidden_tips">"Недоступно при використанні шаблону"</string>
     <string name="video_editor_template_oldfilm">Фільм</string>
