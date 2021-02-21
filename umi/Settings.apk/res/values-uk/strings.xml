@@ -175,7 +175,7 @@
     <string name="accessibility_service_action_perform_title">Переглянути та виконати дії</string>
     <string name="accessibility_service_default_description">Немає опису</string>
     <string name="accessibility_service_master_open_title">Відкрити %1$s</string>
-    <string name="accessibility_service_master_switch_title">Використовувати сервіс</string>
+    <string name="accessibility_service_master_switch_title">Використовуйте %1$s</string>
     <string name="accessibility_service_screen_control_description">Він може читати весь вміст на екрані та відображати вміст поверх інших програм.</string>
     <string name="accessibility_service_screen_control_title">Перегляд і управління екраном</string>
     <string name="accessibility_service_warning">%1$s запитує повний контроль над цим пристроєм. Сервіс може читати екран і діяти від імені користувачів з потребами доступності. Цей рівень керування недоступний для більшості програм.</string>
@@ -272,7 +272,7 @@
     <string name="accessibility_vibration_intensity_medium">Середня</string>
     <string name="accessibility_vibration_intensity_off">Вимкнути</string>
     <string name="accessibility_vibration_settings_title">Вібрація</string>
-    <string name="accessibility_vibration_summary">Дзвінок: %1$s; дотик: %2$s</string>
+    <string name="accessibility_vibration_summary">Сигнал %1$s, сповіщення %2$s, дотик %3$s</string>
     <string name="accessibility_vibration_summary_high">Увімкнено сильну вібрацію під час вхідних викликів і повідомленнях</string>
     <string name="accessibility_vibration_summary_low">Увімкнено слабку вібрацію під час вхідних викликів і повідомленнях</string>
     <string name="accessibility_vibration_summary_medium">Увімкнено середню вібрацію під час вхідних викликів і повідомленнях</string>
@@ -941,7 +941,7 @@
     <string name="battery_saver_sticky_description_new">Режим економії заряду акумулятора вимкнено, коли телефон знаходиться на %1$s</string>
     <string name="battery_saver_sticky_title_new">Вимкнути при заряджанні</string>
     <string name="battery_saver_turn_on_automatically_never">Ніколи</string>
-    <string name="battery_saver_turn_on_automatically_pct">На стан %1$d%% заряду</string>
+    <string name="battery_saver_turn_on_automatically_pct">заряд акумулятора – %1$s</string>
     <string name="battery_saver_turn_on_automatically_title">Вмикати автоматично</string>
     <string name="battery_saver_turn_on_summary">Подовжити час роботи акумулятора</string>
     <string name="battery_screen_usage">Використання екрану: ^1</string>
@@ -969,7 +969,7 @@
     <string name="battery_sugg_radio">Якщо мережа недоступна, увімкніть режим польоту для економії заряду.</string>
     <string name="battery_sugg_wifi">"Вимкнути Wi-Fi мережу, коли вона не використовується або мережа недоступна"</string>
     <string name="battery_suggestion_title">"Збільшіть час роботи від батареї"</string>
-    <string name="battery_summary">Використано з моменту останньої повної зарядки: %1$d%%</string>
+    <string name="battery_summary">%1$s використовується з моменту останнього повного заряджання</string>
     <string name="battery_tip_dialog_message">"Пристрій використовується довше, ніж зазвичай. Батарея скоро розрядиться.
 
 Топ-%1$d програм з високим споживанням заряду (з моменту останньої зарядки):"</string>
@@ -1043,16 +1043,16 @@
     <string name="bluetooth_ask_disablement_no_name">Програмі необхідно вимкнути Bluetooth</string>
     <string name="bluetooth_ask_discovery">Програмі \"%1$s\" потрібно, щоб Ваш пристрій було доступний для пошуку протягом %2$d сек. Увімкнути Bluetooth?</string>
     <string name="bluetooth_ask_discovery_no_name">Програмі необхідно, щоб Ваш телефон був доступний для пошуку через Bluetooth на інших пристроях протягом %1$d сек.</string>
-    <string name="bluetooth_ask_enablement">Дозвіл програмі увімкнути Bluetooth</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Програмі потрібно, щоб Ваш пристрій був доступний для пошуку протягом %1$d сек. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_enablement">%1$s хоче ввімкнути Bluetooth</string>
+    <string name="bluetooth_ask_enablement_and_discovery">%1$s хоче ввімкнути Bluetooth і зробити ваш телефон видимим для інших пристроїв у %2$d секунд.</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" просить підключення Bluetooth, щоб зробити Ваш телефон видимим для інших пристроїв протягом %1$d сек."</string>
     <string name="bluetooth_ask_enablement_and_discovery_no_name">Програмі необхідно увімкнути Bluetooth і зробити Ваш телефон доступним для пошуку на інших пристроях протягом %1$d сек.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Програмі потрібно, щоб Ваш пристрій був доступний для пошуку. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s хоче ввімкнути Bluetooth і зробити ваш телефон видимим для інших пристроїв. Цей параметр можна змінити згодом у налаштуваннях Bluetooth.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" намагається увімкнути Bluetooth і видимість для інших пристроїв. Ви можете змінити це пізніше в налаштуваннях Bluetooth."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Програмі необхідно увімкнути Bluetooth і зробити Ваш телефон доступним для пошуку на інших пристроях. Пізніше ці налаштування можна буде змінити.</string>
     <string name="bluetooth_ask_enablement_detected">" намагається увімкнути Bluetooth"</string>
     <string name="bluetooth_ask_enablement_no_name">Програмі необхідно увімкнути Bluetooth</string>
-    <string name="bluetooth_ask_lasting_discovery">Програмі потрібно, щоб Ваш пристрій був доступний для пошуку. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_lasting_discovery">%1$s хоче зробити ваш телефон видимим для інших пристроїв Bluetooth. Цей параметр можна змінити згодом у налаштуваннях Bluetooth.</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">Програмі необхідно зробити Ваш телефон доступним для пошуку через Bluetooth на інших пристроях. Пізніше ці налаштування можна буде змінити.</string>
     <string name="bluetooth_audio_share_feature_notice_summary">Поділитися звуком через інші підключені пристрої?</string>
     <string name="bluetooth_audio_share_feature_notice_title">Поділитися аудіо</string>
@@ -1065,7 +1065,7 @@
     <string name="bluetooth_connect_failed">"Помилка підключення. Повторіть спробу"</string>
     <string name="bluetooth_connect_settings">Параметри підключення Bluetooth</string>
     <string name="bluetooth_connect_specific_profiles_title">Підключити до…</string>
-    <string name="bluetooth_connected">Підключено</string>
+    <string name="bluetooth_connected">Під\'єднано %1$s</string>
     <string name="bluetooth_connected_battery_level">Підключено\u0020|\u0020Заряд батареї %1$s%2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Підключено до декількох пристроїв</string>
     <string name="bluetooth_connected_no_a2dp">Підключено (немає медіа) %1$s</string>
