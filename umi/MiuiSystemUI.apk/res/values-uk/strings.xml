@@ -429,11 +429,11 @@
     <string name="bluetooth_connected_battery_level">Підключено, батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Підключено (немає медіа) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Під\'єднано (без доступу до телефону)</string>
+    <string name="bluetooth_connected_no_headset">Підключено (окрім телефону)%1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Під\'єднано (без доступу до медіа або телефону)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Підключено (окрім телефону чи медіа) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">Під\'єднання (без доступу до повідомлень)</string>
+    <string name="bluetooth_connected_no_map">Підключено (немає доступу до повідомлення) %1$s</string>
     <string name="bluetooth_connecting">З\'єднання…</string>
     <string name="bluetooth_disable_absolute_volume">Вимкнути абсолютний рівень гучності</string>
     <string name="bluetooth_disable_absolute_volume_summary">Вимкнути абсолютний рівень гучності Bluetooth при виникненні проблем на віддалених пристроях, наприклад при занадто гучному звучанні або неможливості контролювати налаштування.</string>
@@ -1005,9 +1005,9 @@
     <string name="keyguard_enter_your_password">Введіть пароль</string>
     <string name="keyguard_enter_your_pattern">Введіть ключ</string>
     <string name="keyguard_enter_your_pin">Введіть PIN-код</string>
-    <string name="keyguard_indication_charging_time">Заряджання (до повного заряду %s)</string>
-    <string name="keyguard_indication_charging_time_fast">Швидка зарядка (до повного заряду %s)</string>
-    <string name="keyguard_indication_charging_time_slowly">Повільне заряджання (до повного заряду %s)</string>
+    <string name="keyguard_indication_charging_time">%2$s • Заряджання (%1$s до повного зарядження)</string>
+    <string name="keyguard_indication_charging_time_fast">%2$s • Швидке заряджання (%1$s до повного заряду)</string>
+    <string name="keyguard_indication_charging_time_slowly">%2$s • Повільне заряджання (%1$s до повного зарядження)</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Бездротова зарядка (%1$s до повного зарядження)</string>
     <string name="keyguard_indication_trust_disabled">Пристрій буде заблоковано, поки Ви не розблокуєте його вручну</string>
     <string name="keyguard_indication_trust_unlocked">Kept розблоковано TrustAgent</string>
@@ -1036,9 +1036,9 @@
     <string name="keyguard_permanent_disabled_sim_instructions">"Ваша SIM-картка остаточно заблокована.
  Щоб отримати нову SIM-картку, зверніться до оператора мобільного зв'язку."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">SIM-картка заблокована</string>
-    <string name="keyguard_plugged_in">Заряджається</string>
-    <string name="keyguard_plugged_in_charging_fast">Швидка зарядка</string>
-    <string name="keyguard_plugged_in_charging_slowly">Повільна зарядка</string>
+    <string name="keyguard_plugged_in">%s • Заряджання</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Швидке заряджання</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Повільне заряджання</string>
     <string name="keyguard_plugged_in_wireless">%s • Бездротова зарядка</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Швидка зарядка. Натисніть, щоб переглянути деталі</string>
     <string name="keyguard_retry">Проведіть вгору, щоб спробувати ще раз</string>
@@ -1944,8 +1944,8 @@ d MMMM"</string>
     <string name="unlockscreen_low_battery">Підключіть зарядний пристрій</string>
     <string name="unlockscreen_recharge_completed">Батарея заряджена</string>
     <string name="unlockscreen_recharging_message">Заряджається (%d%%)</string>
-    <string name="usb_accessory_confirm_prompt">Відкрити %1$s коли цей USB аксесуар підключено?</string>
-    <string name="usb_accessory_permission_prompt">Дозволити програмі %1$s доступ до USB-аксесуару?</string>
+    <string name="usb_accessory_confirm_prompt">Відкрийте %1$s, щоб обробляти %2$s?</string>
+    <string name="usb_accessory_permission_prompt">Дозволити %1$s доступ до %2$s?</string>
     <string name="usb_accessory_uri_prompt">Немає встановлених програм працюючих з цим USB аксесуаром. Дізнайтесь більше про цей пристрій на %1$s</string>
     <string name="usb_audio_disable_routing">Вимк. передачу аудіо (USB)</string>
     <string name="usb_audio_disable_routing_summary">Вимк. автом. маршрутизацію на зовн. USB-пристрої</string>
@@ -1959,10 +1959,10 @@ d MMMM"</string>
     <string name="usb_debugging_secondary_user_message">"У цьому акаунті неможливо вмикати налагодження по USB. Перейдіть в акаунт основного користувача"</string>
     <string name="usb_debugging_secondary_user_title">USB-налагодження заборонено</string>
     <string name="usb_debugging_title">Вимкнено налагодження по USB?</string>
-    <string name="usb_device_confirm_prompt">Відкрити %1$s коли цей USB пристрій підключено?</string>
+    <string name="usb_device_confirm_prompt">Відкрийте %1$s, щоб обробляти %2$s?</string>
     <string name="usb_device_confirm_prompt_warn">"Відкрийте %1$s , щоб обробляти %2$s?
 Цей додаток не було надано дозвіл на запис, але він може отримати звук через USB-пристрій."</string>
-    <string name="usb_device_permission_prompt">Дозволити програмі \"%1$s\" доступ до USB пристрою?</string>
+    <string name="usb_device_permission_prompt">Дозволити %1$s доступ до %2$s?</string>
     <string name="usb_device_permission_prompt_warn">"Дозволити додатку %1$s отримати доступ до %2$s?
 Цей додаток не було надано дозвіл на запис, але він може отримати звук через USB-пристрій."</string>
     <string name="usb_disable_contaminant_detection">Увімкнути USB</string>
