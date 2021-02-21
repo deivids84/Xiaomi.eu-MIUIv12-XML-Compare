@@ -199,7 +199,9 @@
     <string name="member_entrance_title_ultra_low_case_a">Renovació</string>
     <string name="member_entrance_title_ultra_low_case_b">Renovació</string>
     <string name="member_menu_vipname_free">Gratuïta</string>
+    <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Prèmium</string>
+    <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_feedback">Comentaris</string>
     <string name="menu_add_short_cut">Crea una drecera a la pantalla d\'inici</string>
     <string name="merge">Combina</string>
@@ -410,6 +412,8 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_storage_expires_soon_title">L’emmagatzematge de Xiaomi Cloud caducarà aviat</string>
     <string name="micloud_storage_expires_very_soon_title">L’emmagatzematge de Xiaomi Cloud caducarà aviat</string>
     <string name="micloud_storage_full">Emmagatzematge en el núvol complet</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
+    <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Sincronitza les teves fotos, contactes, notes, i més en tots els teus dispositius.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Sincronitzeu les fotos, contactes, notes i molt més en tots els vostres dispositius.</string>
     <string name="micloud_sync_alert_dialog_negative">Cancel·la</string>
