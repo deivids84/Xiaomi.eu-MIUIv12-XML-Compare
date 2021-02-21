@@ -326,8 +326,8 @@
     <string name="alarm_template_far">у %1$s</string>
     <string name="allow_mock_location">Фіктивні місцезнаходження</string>
     <string name="allow_mock_location_summary">Дозволити використання фіктивних місцезнаходжень</string>
-    <string name="always_use_accessory">Використовувати за замовчуванням для цього USB-аксесуар</string>
-    <string name="always_use_device">Використовувати за замовчуванням для цього USB-пристрою</string>
+    <string name="always_use_accessory">Завжди відкривати %1$s коли %2$s підключено</string>
+    <string name="always_use_device">Завжди відкривати %1$s коли %2$s підключено</string>
     <string name="animator_duration_scale_title">Швидкість анімації</string>
     <string name="apn_settings_not_available">"Цей користувач не може змінювати налаштування точки доступу"</string>
     <string name="app_accessed_mic">%1$s має доступ до вашого мікрофону</string>
@@ -369,7 +369,7 @@
     <string name="battery_info_status_full">Батарея заряджається</string>
     <string name="battery_info_status_not_charging">"Не заряджається"</string>
     <string name="battery_info_status_unknown">Невідомо</string>
-    <string name="battery_low_percent_format">Лишилося %d%%</string>
+    <string name="battery_low_percent_format">%s залишилось</string>
     <string name="battery_low_percent_format_hybrid">%1$s залишилось, приблизно %2$s залишилося на основі вашого використання</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s залишилось, приблизно %2$s залишилося</string>
     <string name="battery_low_percent_format_saver_started">Залишилося %s. Увімкнено режим енергозбереження</string>
@@ -425,9 +425,9 @@
     <string name="bluetooth_active_no_battery_level">Активний</string>
     <string name="bluetooth_battery_level">%1$s батареї</string>
     <string name="bluetooth_battery_level_untethered">Л: батарея %1$s; П: батарея %2$s.</string>
-    <string name="bluetooth_connected">Під\'єднано</string>
+    <string name="bluetooth_connected">Під\'єднано %1$s</string>
     <string name="bluetooth_connected_battery_level">Підключено, батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">Під\'єднано (без доступу до медіа)</string>
+    <string name="bluetooth_connected_no_a2dp">Підключено (немає медіа) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_headset">Під\'єднано (без доступу до телефону)</string>
     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
