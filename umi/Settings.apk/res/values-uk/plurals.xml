@@ -583,10 +583,10 @@
         <item quantity="many">"%d додатка не можуть показувати сповіщення"</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s програм зі сповіщеннями</item>
+        <item quantity="other">%d додатка можуть показувати сповіщення</item>
         <item quantity="one">%d додаток може показувати сповіщення</item>
         <item quantity="few">%d додаток може показувати сповіщення</item>
-        <item quantity="many">%s програм зі сповіщеннями</item>
+        <item quantity="many">%d додатка можуть показувати сповіщення</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d пропозицій</item>
@@ -799,14 +799,14 @@
         <item quantity="many">%d інших</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Зміна сигналу тільки протягом %1$d годин до %2$s</item>
-        <item quantity="one">Зміна сигналу тільки протягом %1$d години до %2$s</item>
-        <item quantity="few">Зміна сигналу тільки протягом %1$d годин до %2$s</item>
-        <item quantity="many">Зміна сигналу тільки протягом %1$d годин до %2$s</item>
+        <item quantity="other">Вибрати сигнали лише на %1$d годин до %2$s</item>
+        <item quantity="one">Змінити будильники лише на одну годину до %2$s</item>
+        <item quantity="few">Вибрати сигнали лише на %1$d годин до %2$s</item>
+        <item quantity="many">Вибрати сигнали лише на %1$d годин до %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
-        <item quantity="one">Зміна сигналу тільки протягом %1$d хвилини до %2$s</item>
+        <item quantity="one">Змінити будильники лише на одну хвилину до %2$s</item>
         <item quantity="few">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
         <item quantity="many">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
     </plurals>
