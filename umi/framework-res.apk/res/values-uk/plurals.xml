@@ -194,13 +194,13 @@
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary">
         <item quantity="other">На %1$s хвилин (до %2$s)</item>
-        <item quantity="one">На %1$s хвилину (до %2$s)</item>
-        <item quantity="few">На %1$s хвилини (до %2$s)</item>
+        <item quantity="one">На одну хвилину (до %2$s)</item>
+        <item quantity="few">На одну хвилину (до %2$s)</item>
         <item quantity="many">На %1$s хвилин (до %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary_short">
         <item quantity="other">За %1$d хвилин (до %2$s)</item>
-        <item quantity="one">За %1$d хвилину (до %2$s)</item>
+        <item quantity="one">Протягом 1 хв (до %2$s)</item>
         <item quantity="few">За %1$d хвилини (до %2$s)</item>
         <item quantity="many">За %1$d хвилин (до %2$s)</item>
     </plurals>
