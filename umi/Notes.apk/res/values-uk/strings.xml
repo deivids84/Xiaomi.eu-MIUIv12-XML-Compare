@@ -692,7 +692,7 @@
     <string name="todo_event_description_a_week_ago">%1$d тиждень тому</string>
     <string name="todo_event_description_a_week_later">Через %1$d тиждень</string>
     <string name="todo_event_description_day_after_tomorrow">Через %1$d дні</string>
-    <string name="todo_event_description_day_before_yesterday">2 дні тому</string>
+    <string name="todo_event_description_day_before_yesterday">%1$d днів тому</string>
     <string name="todo_event_description_today">Сьогодні</string>
     <string name="todo_event_description_tomorrow">Завтра</string>
     <string name="todo_event_description_yesterday">Вчора</string>
@@ -750,7 +750,7 @@
     <string name="toolbar_undo_description">Скасувати</string>
     <string name="toolbar_voice_description">Голос</string>
     <string name="trash_folder_name">Кошик</string>
-    <string name="trash_folder_reminder">Нотатки, видалені з пристрою, будуть також видалені з Mi Cloud через 30 днів.</string>
+    <string name="trash_folder_reminder">Видалені нотатки будуть видалені назавжди через %1$d дн.</string>
     <string name="trash_folder_reminder_new">Примітки зберігаються в смітнику протягом %d днів до видалення їх назавжди</string>
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>
