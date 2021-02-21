@@ -481,7 +481,7 @@
     <string name="power_discharging_duration_enhanced">Приблизно %1$s залишилося на основі вашого використання (%2$s)</string>
     <string name="power_remaining_charging_duration_only">До повного зарядження залишилося %1$s</string>
     <string name="power_remaining_duration_only">Залишилося приблизно %1$s</string>
-    <string name="power_remaining_duration_only_enhanced">Залишилося приблизно ^1 при поточному рівні використання</string>
+    <string name="power_remaining_duration_only_enhanced">Приблизно %1$s залишилося на основі вашого використання</string>
     <string name="power_remaining_duration_only_short">Залишилося: %1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Незабаром телефон закриє</string>
     <string name="power_remaining_duration_shutdown_imminent">Телефон може вимкнути невдовзі (%1$s)</string>
