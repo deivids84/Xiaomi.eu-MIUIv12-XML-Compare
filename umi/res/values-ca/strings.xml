@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ràdio FM</string>
+    <string name="frequency_mhz_fomart">%sMHz</string>
+    <string name="notification_rec_title">Toqueu per mostrar l\'enregistrament</string>
+    <string name="record_completed">S\'ha completat l\'enregistrament</string>
+    <string name="station_freq_format">%sMHz</string>
+</resources>
