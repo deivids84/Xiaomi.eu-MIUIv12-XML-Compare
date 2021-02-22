@@ -139,10 +139,6 @@ MM/dd"</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">ЛГ</string>
-    <string name="fmt_time_24hour_minute">ГГ:хх</string>
-    <string name="fmt_time_24hour_minute_second">ГГ:хм:с</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">Пд</string>
     <string name="fmt_time_minute">м</string>
     <string name="fmt_time_minute_second">м:с</string>
