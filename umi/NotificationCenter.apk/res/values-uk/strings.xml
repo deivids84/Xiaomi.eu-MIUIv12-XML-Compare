@@ -115,13 +115,6 @@
     <string name="fmt_weekday">Пт</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">ЄЕЕ</string>
-    <string name="fmt_weekday_short">Мі</string>
-    <string name="fmt_weekday_time">З-т</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
     <string name="fold_importance_default">Рекомендовані</string>
     <string name="fold_importance_important">Важливе</string>
     <string name="fold_importance_unimportant">Неважливе</string>
