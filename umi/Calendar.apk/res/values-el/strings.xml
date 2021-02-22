@@ -265,8 +265,6 @@
     <string name="flight_seat_no">Θέση %1$s</string>
     <string name="flight_state">Κατάσταση πτήσης</string>
     <string name="flight_time">Υπολογίστηκε %1$s</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">ηη</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
     <string name="fmt_date_long_year_month">ΜΜΜΜ εεεε</string>
