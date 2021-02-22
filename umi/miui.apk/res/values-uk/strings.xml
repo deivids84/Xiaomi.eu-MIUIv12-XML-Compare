@@ -75,14 +75,6 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_time_12hour">"h 'г'"</string>
     <string name="fmt_time_24hour">"H 'г'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">П</string>
