@@ -1,5 +1,5 @@
 files:
-  - source: /umi/**/values/*.xml
+  - source: /ginkgo/FM.apk/**/values/*.xml
     ignore:
       - /*_stable/
     translation: /umi/**/values-%two_letters_code%/%original_file_name%
