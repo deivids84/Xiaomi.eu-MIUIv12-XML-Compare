@@ -568,12 +568,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">ΜΜ</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMMM εεεε</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T z</string>
-    <string name="fmt_date_time_timezone">W, D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">εεεε</string>
     <string name="fmt_time">Π</string>
     <string name="fmt_time_12hour">ωω</string>
     <string name="fmt_time_12hour_minute">ωω:λλ</string>
