@@ -506,9 +506,6 @@
     <string name="stat_repeat_none">Sense repetició</string>
     <string name="stat_repeat_self_define">Personalitzat</string>
     <string name="stat_repeat_weekends">Cap de setmana</string>
-    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
-    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">Sense voltes</string>
     <string name="stopwatch_reset_notification">El cronòmetre s\'ha restablert</string>
     <string name="stopwatch_running_notification">Cronòmetre</string>
