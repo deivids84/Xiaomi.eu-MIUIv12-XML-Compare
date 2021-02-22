@@ -327,9 +327,6 @@ ID:%s
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">ЄЕЕ</string>
     <string name="fmt_weekday_short">Мі</string>
-    <string name="fmt_weekday_time">З-т</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
     <string name="for_diagnosis_usage_only">Логи використовуються тільки для діагностики.</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
