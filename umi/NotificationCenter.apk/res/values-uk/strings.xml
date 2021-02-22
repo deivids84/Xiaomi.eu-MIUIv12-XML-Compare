@@ -91,11 +91,6 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">рррр</string>
-    <string name="fmt_time_second_millis">.. Нд</string>
-    <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">Пт</string>
-    <string name="fmt_weekday_date">DW</string>
     <string name="fold_importance_default">Рекомендовані</string>
     <string name="fold_importance_important">Важливе</string>
     <string name="fold_importance_unimportant">Неважливе</string>
