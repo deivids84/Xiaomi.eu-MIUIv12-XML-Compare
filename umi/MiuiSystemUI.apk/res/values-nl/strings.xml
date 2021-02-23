@@ -459,6 +459,8 @@ Probeer het over %d seconden opnieuw."</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Rechter hoortoestel koppelen…</string>
     <string name="bluetooth_hid_profile_summary_connected">Verbonden met invoerapparaat</string>
     <string name="bluetooth_hid_profile_summary_use_for">Gebruikt voor invoer</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Verbonden met LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Gebruiken voor LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Verbonden met MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">Gebruikt voor MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Verbonden met server voor bestandsoverdracht</string>
@@ -484,6 +486,7 @@ Probeer het over %d seconden opnieuw."</string>
     <string name="bluetooth_profile_headset">Oproepen</string>
     <string name="bluetooth_profile_hearing_aid">Gehoorapparaat</string>
     <string name="bluetooth_profile_hid">Invoerapparaat</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Gebruikt voor toegang tot berichten</string>
     <string name="bluetooth_profile_opp">Bestandsoverdracht</string>
     <string name="bluetooth_profile_pan">Internettoegang</string>
@@ -1669,6 +1672,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="quick_settings_screenshot_label">Screenshot</string>
     <string name="quick_settings_secondary_label_until">Tot %s</string>
     <string name="quick_settings_settings_label">Instellingen</string>
+    <string name="quick_settings_sim_disabled">" (uitgeschakeld)"</string>
     <string name="quick_settings_sync_label">Synchroniseren</string>
     <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_time_label">Tijd</string>
