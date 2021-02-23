@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="config_Poland_Orange_IPV6_array">
-        <item>lavender</item>
-        <item>onc</item>
-        <item>pine</item>
-        <item>grus</item>
-        <item>courbet</item>
-        <item>gauguin</item>
-        <item>platina</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>joyeuse</item>
-        <item>dipper</item>
-        <item>polaris</item>
-        <item>beryllium</item>
-        <item>toco</item>
-        <item>umi</item>
-        <item>cmi</item>
-        <item>whyred</item>
-        <item>tulip</item>
-        <item>monet</item>
-        <item>angelican</item>
-        <item>apollo</item>
-        <item>cannong</item>
-        <item>venus</item>
-        <item>sweet</item>
-        <item>star</item>
-        <item>haydn</item>
-        <item>alioth</item>
-    </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Inténtalo de nuevo</item>
         <item></item>
