@@ -141,6 +141,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">S\'està vinculant l\'audiòfon dret…</string>
     <string name="bluetooth_hid_profile_summary_connected">Connectat a un dispositiu d\'entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">S\'utilitza com a dispositiu d\'entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Connectat a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilitzeu-lo per a LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Connectat al MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">S\'utilitza per al MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Connectat al servidor de transferència de fitxers</string>
@@ -169,6 +171,7 @@
     <string name="bluetooth_profile_headset">Trucades de telèfon</string>
     <string name="bluetooth_profile_hearing_aid">Audiòfon</string>
     <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">S\'utilitza per accedir a missatges</string>
     <string name="bluetooth_profile_opp">Transferència de fitxers</string>
     <string name="bluetooth_profile_pan">Accés a Internet</string>
