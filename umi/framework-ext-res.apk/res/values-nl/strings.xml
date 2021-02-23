@@ -6,8 +6,10 @@
     <string name="all_call_livetalk_remain_mins">Overblijvende minuten: %1$s nationaal of %2$s internationaal</string>
     <string name="always">Altijd</string>
     <string name="alwaysUsePrompt">Keuze herinneren</string>
+    <string name="application_cannot_open_alipay_health_code">"Kon Alipay gezondheidscode niet openen"</string>
     <string name="application_cannot_open_alipay_payment_code">"Kon Alipay-betalingscode niet openen"</string>
     <string name="application_cannot_open_alipay_scanner">"Kon Alipay scanner niet openen"</string>
+    <string name="application_cannot_open_weixin_health_code">"Kon WeChat gezondheidscode niet openen"</string>
     <string name="application_cannot_open_weixin_payment_code">"Kon WeChat-betalingscode niet openen"</string>
     <string name="application_cannot_open_weixin_scanner">"Kon WeChat scanner niet openen"</string>
     <string name="application_not_install_content">"Het lijkt erop dat de app die deze actie uitvoert, niet op uw apparaat is geïnstalleerd. U kunt deze app installeren of een andere actie aan dit gebaar toewijzen."</string>
