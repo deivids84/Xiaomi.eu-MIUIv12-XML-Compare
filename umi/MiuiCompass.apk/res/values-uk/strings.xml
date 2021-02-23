@@ -79,7 +79,7 @@
     <string name="expand_button_title">Додатково</string>
     <string name="first_using_dialog_message">"Дозволити програмі використовувати інтернет, камеру та пошук місцезнаходження для коректної роботи?"</string>
     <string name="first_using_dialog_title">Попередження</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
     <string name="fmt_date_numeric_month_day">М/д</string>
     <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
