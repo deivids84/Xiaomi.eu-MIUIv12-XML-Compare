@@ -6,8 +6,10 @@
     <string name="all_call_livetalk_remain_mins">Хвилин залишилось: %1$s місцевих | %2$s міжнародних</string>
     <string name="always">Завжди</string>
     <string name="alwaysUsePrompt">Запам\'ятати</string>
+    <string name="application_cannot_open_alipay_health_code">"Не вдалося відкрити код здоров'я Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Не вдалося відкрити код оплати Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Не вдалося відкрити сканер Alipay"</string>
+    <string name="application_cannot_open_weixin_health_code">"Не вдалося відкрити код здоров'я WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"Не вдалося відкрити код платежу WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Не вдалося відкрити сканер WeChat"</string>
     <string name="application_not_install_content">"Схоже, застосунок виконує цю дію на вашому пристрої не встановлено. Ви можете встановити цей додаток або внести іншу дію до цього жесту."</string>
