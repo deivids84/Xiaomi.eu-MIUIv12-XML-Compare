@@ -455,6 +455,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Сполучення правого навушника…</string>
     <string name="bluetooth_hid_profile_summary_connected">Під\'єднано як пристрій введення</string>
     <string name="bluetooth_hid_profile_summary_use_for">Використання як пристрій введення</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Підключено до LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Використовувати для LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Під\'єднано з доступом  до повідомлень</string>
     <string name="bluetooth_map_profile_summary_use_for">Використання доступу до повідомлень</string>
     <string name="bluetooth_opp_profile_summary_connected">Підключено з доступом до файлів</string>
@@ -480,6 +482,7 @@
     <string name="bluetooth_profile_headset">Аудіо телефону</string>
     <string name="bluetooth_profile_hearing_aid">Слуховий апарат</string>
     <string name="bluetooth_profile_hid">Пристрій вводу</string>
+    <string name="bluetooth_profile_le_audio">Дозволити</string>
     <string name="bluetooth_profile_map">Доступ до повідомлень</string>
     <string name="bluetooth_profile_opp">Доступ до файлів</string>
     <string name="bluetooth_profile_pan">Доступ до інтернету</string>
@@ -1641,6 +1644,7 @@ d MMMM"</string>
     <string name="quick_settings_screenshot_label">Скріншот</string>
     <string name="quick_settings_secondary_label_until">До %s</string>
     <string name="quick_settings_settings_label">Налаштування</string>
+    <string name="quick_settings_sim_disabled">" (Вимкнено)"</string>
     <string name="quick_settings_sync_label">Синхронізація</string>
     <string name="quick_settings_tethering_label">Режим модему</string>
     <string name="quick_settings_time_label">Час</string>
