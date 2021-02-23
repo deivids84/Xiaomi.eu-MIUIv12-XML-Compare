@@ -1171,6 +1171,8 @@
     <string name="bluetooth_is_discoverable">Час видимості для пристроїв Bluetooth: %1$s</string>
     <string name="bluetooth_is_discoverable_always">Пристрій доступний для пошуку в даний час</string>
     <string name="bluetooth_is_visible_message">Пристрої поруч можуть виявити %1$s, поки відкриті налаштування Bluetooth</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Підключено до LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Використовувати для LE_AUDIO</string>
     <string name="bluetooth_left_name">Ліворуч</string>
     <string name="bluetooth_lock_voice_dialing">Заблокувати голосовий набір</string>
     <string name="bluetooth_lock_voice_dialing_summary">Запобігти використанню Bluetooth, коли екран заблокований.</string>
@@ -1249,6 +1251,7 @@
     <string name="bluetooth_profile_headset">Профіль HSP/HFP</string>
     <string name="bluetooth_profile_hearing_aid">Слуховий апарат</string>
     <string name="bluetooth_profile_hid">Профіль HID</string>
+    <string name="bluetooth_profile_le_audio">Дозволити</string>
     <string name="bluetooth_profile_map">Доступ до повідомлень</string>
     <string name="bluetooth_profile_opp">Профіль OPP</string>
     <string name="bluetooth_profile_pan">Інтернет-доступ</string>
@@ -1389,7 +1392,7 @@
     <string name="bootloader_status_locked">Заблоковано</string>
     <string name="bootloader_status_locked_info">Завантажувач заблоковано</string>
     <string name="bootloader_status_locked_summary">Пристрій захищено</string>
-    <string name="bootloader_status_privacy_dialog_message">Для нормальної роботи Mi Unlock необхідний доступ до Вашого Мі акаунту, ID ЦП, IMEI, IMSI. Ми збираємо, обробляємо та використовуємо ваші дані у відповідності з нашою %s. Дозволити?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock потрібен доступ до вашого Mi аккаунта, ЦП ID, IMSI працювати нормально. Прочитайте і погодьтеся з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt;. Прийняти?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Скасувати</string>
     <string name="bootloader_status_privacy_dialog_title">Необхідні дозволи</string>
     <string name="bootloader_status_privacy_dialog_url_text">Політика конфіденційності</string>
@@ -1696,19 +1699,19 @@
     <string name="color_calibration_none">Натуральний</string>
     <string name="color_cyan">Блакитний</string>
     <string name="color_game_led_applications_title">Виберіть додатки</string>
-    <string name="color_game_led_applications_title_summary">Ви можете обмежити використання світлодіодних світлових програм</string>
+    <string name="color_game_led_applications_title_summary">Виберіть окремі додатки, які працюватимуть з світлодіодним кольором</string>
     <string name="color_game_led_battery_title">Продовжувати при зарядці</string>
-    <string name="color_game_led_charging_summary">Буде вимкнено при заряджанні батареї</string>
-    <string name="color_game_led_end_time">Час завершення</string>
+    <string name="color_game_led_charging_summary">LED-індикатор буде вимкнено при заряджанні батареї</string>
+    <string name="color_game_led_end_time">Кінець</string>
     <string name="color_game_led_game_mode_summary">Показувати ефекти для ігор, коли Turbo увімкнено</string>
     <string name="color_game_led_game_mode_title">Використовувати для Turbo в Грі</string>
     <string name="color_game_led_incall_pulse_title">Використовувати для вхідних дзвінків</string>
-    <string name="color_game_led_notification_pulse_title">Імпульс для сповіщень, коли екран вимкнено</string>
-    <string name="color_game_led_remind_title">Нагадування ефектів</string>
+    <string name="color_game_led_notification_pulse_title">Імпульс для сповіщень на дисплеї Завжди</string>
+    <string name="color_game_led_remind_title">Ефекти</string>
     <string name="color_game_led_special_scene_title">Спеціальні ефекти</string>
-    <string name="color_game_led_start_time">Час початку</string>
+    <string name="color_game_led_start_time">Старт</string>
     <string name="color_game_led_summary">"Не працює в режимі DND"</string>
-    <string name="color_game_led_time_title">Світлодіод увімкнено</string>
+    <string name="color_game_led_time_title">Запланувати час</string>
     <string name="color_game_led_title">Світлодіод</string>
     <string name="color_gray">Сірий</string>
     <string name="color_green">Зелений</string>
@@ -2345,9 +2348,9 @@
     <string name="dialog_backup_title">Спочатку резервні копії елементів?</string>
     <string name="dialog_check_button_negative">Спробуйте ще раз</string>
     <string name="dialog_check_button_positive">Підключитися до Wi-Fi</string>
-    <string name="dialog_check_context">"Зараз Ваш пристрій не може підключитись до інтернету.
-1. Натисніть \"Підключитися до Wi-Fi\", щоб вибрати одну з доступних мереж.
-2. Якщо ви хочете використовувати мобільні дані, натисніть \"Спробувати знову\" або видаліть і зіграйте свою SIM-карту."</string>
+    <string name="dialog_check_context">"Зараз Ваш пристрій не підключається до Інтернету.
+· Натисніть \"Підключитися до Wi-Fi\", щоб вибрати одну з доступних мереж.
+· Якщо ви хочете використовувати мобільні дані, натисніть \"Спробувати знову\" або видаліть та зіграйте SIM-карту."</string>
     <string name="dialog_check_title">"Не вдалося підключитися до Інтернету"</string>
     <string name="dialog_chose_item">Оберіть елемент для відображення</string>
     <string name="dialog_content_login">Увійти в Mi акаунт для оновлення?</string>
@@ -2547,7 +2550,7 @@
     <string name="dpp_cannot_connect_target">"Не вдалося підключитися до цільової мережі"</string>
     <string name="dpp_connect_success">Успішно підключено</string>
     <string name="dpp_not_support">"Неможливо поділитися цією мережею"</string>
-    <string name="dpp_qr_code_summary">Підключіться до Wi-Fi-мережі, просканувавши цей QR-код.</string>
+    <string name="dpp_qr_code_summary">Попросіть іншої людини відсканувати цей QR-код за допомогою сканера в налаштуваннях Wi-Fi</string>
     <string name="dpp_qrcode_generator_summary">Скануйте цей QR-код пристроєм, який підтримує легке підключення</string>
     <string name="dpp_scanner_summary">Розмістіть QR-код всередині кадру</string>
     <string name="dpp_shared_fail">"Не вдалося поділитись Wi-Fi"</string>
@@ -2776,6 +2779,7 @@
     <string name="expandable_under_keyguard_title">Доступ з екрана блокування</string>
     <string name="experimental_category_title">Експериментальна функція</string>
     <string name="experimental_preference">Це експериментальне налаштування</string>
+    <string name="expert_detail_content_description">Докладніше</string>
     <string name="extended_power_menu">Розширене меню живлення</string>
     <string name="exterior">Кольорова схема</string>
     <string name="external_code_size_label">Кеш на накопичувачі</string>
@@ -3662,6 +3666,8 @@ Xiaomi Cloud
     <string name="last_time_used_label">Останнє використання</string>
     <string name="lattice_smartcover_title">Сітчасте переднє покриття</string>
     <string name="launch_ai_shortcut">Ярлик Mi AI</string>
+    <string name="launch_alipay_health_code">Код здоров\'я Alipay</string>
+    <string name="launch_alipay_health_code_auto_close">Ярлик коду здоров\'я Alipay більше не доступний. Ви можете переключитись на інший ярлик.</string>
     <string name="launch_alipay_payment_code">Код оплати Alipay</string>
     <string name="launch_alipay_scanner">Alipay scanner</string>
     <string name="launch_by_default">Відкривати за замовчуванням</string>
@@ -3679,6 +3685,8 @@ Xiaomi Cloud
     <string name="launch_notification_center">Панель сповіщень</string>
     <string name="launch_recents">Запустити нещодавні програми</string>
     <string name="launch_voice_assistant">Запустити голосового помічника</string>
+    <string name="launch_wechat_health_code">Код здоров\'я WeChat</string>
+    <string name="launch_wechat_health_code_auto_close">Ярлик коду WeChat більше не доступний. Ви можете перейти на інший ярлик.</string>
     <string name="launch_wechat_payment_code">Код вашого акаунту WeChat</string>
     <string name="launch_wechat_scanner">WeChat сканер</string>
     <string name="launch_wifi_text">Детальніше</string>
@@ -4335,6 +4343,7 @@ Xiaomi Cloud
     <string name="miui_lab_install_drive_mode_title">Інсталяція режиму водія</string>
     <string name="miui_lab_settings">MIUI лабораторія</string>
     <string name="miui_lab_slogan">Навчайтеся. Досліджуйте. Відкривайте.</string>
+    <string name="miui_master_clear_prompt_battery_low">"Не вдається виконати скидання до заводських налаштувань, коли менше %1$s розряджено. Зарядіть пристрій, перш ніж продовжити."</string>
     <string name="miui_master_clear_summary">Видалення всіх даних з телефону</string>
     <string name="miui_more_special_feature">Інші функції</string>
     <string name="miui_optimization_disabled">Вимкнути оптимізацію MIUI</string>
