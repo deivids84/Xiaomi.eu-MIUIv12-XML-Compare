@@ -147,9 +147,6 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"ω 'o''clock'"</string>
     <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
-    <string name="fmt_time_24hour_minute">ΩΩ:λλ</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Π</string>
