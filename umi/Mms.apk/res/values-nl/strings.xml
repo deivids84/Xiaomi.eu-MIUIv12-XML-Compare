@@ -835,6 +835,7 @@ Een uitgaande sms-bericht is vereist om Mi Message te activeren. Uw provider bre
     <string name="rcs_chat_bot_subject">Eigenaar: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Je hebt een A2P-bericht ontvangen. Tik om details te bekijken.</string>
     <string name="rcs_chatbot_audio_message">Je hebt een audio bericht ontvangen. Tik om de details te bekijken.</string>
+    <string name="rcs_chatbot_blocked_tip">"Deze mini app is geblokkeerd. Kan het gesprek niet starten."</string>
     <string name="rcs_chatbot_card_message">U hebt een kaart ontvangen. Tik om de details te bekijken.</string>
     <string name="rcs_chatbot_file_message">Je hebt een bestand ontvangen. Tik om details te bekijken.</string>
     <string name="rcs_chatbot_geo_message">U heeft een bericht ontvangen met locatiegegevens. Tik om details te bekijken.</string>
