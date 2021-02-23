@@ -28,6 +28,8 @@
         <item>star</item>
         <item>haydn</item>
         <item>alioth</item>
+        <item>dandelion</item>
+        <item>tucana</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Opieuw proberen</item>
