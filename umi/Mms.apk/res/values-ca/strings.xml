@@ -827,6 +827,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="rcs_chat_bot_subject">Propietari: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Heu rebut un missatge A2P. Toqueu per veure els detalls.</string>
     <string name="rcs_chatbot_audio_message">Heu rebut un missatge d\'àudio. Toqueu per veure els detalls.</string>
+    <string name="rcs_chatbot_blocked_tip">"Aquesta mini aplicació s'ha bloquejat. No es pot iniciar la conversa."</string>
     <string name="rcs_chatbot_card_message">Heu rebut una targeta. Toqueu per veure els detalls.</string>
     <string name="rcs_chatbot_file_message">Heu rebut un fitxer. Toqueu per veure els detalls.</string>
     <string name="rcs_chatbot_geo_message">Heu rebut un missatge amb informació d\'ubicació. Toqueu per veure els detalls.</string>
