@@ -68,14 +68,6 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"ω 'o''clock'"</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_weekday_date_time">Δ, Δ Τ</string>
-    <string name="fmt_weekday_date_time_timezone">Δ, Δ Τ z</string>
-    <string name="fmt_weekday_date_timezone">Δ, Δ ω</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Π</string>
