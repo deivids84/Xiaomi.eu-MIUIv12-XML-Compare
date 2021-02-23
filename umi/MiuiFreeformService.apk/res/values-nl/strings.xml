@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">freeform</string>
+    <string name="app_name">Zwevende vensters</string>
     <string name="contentDescription">Het venster verplaatsen</string>
     <string name="freeform_demo_back">Vorige</string>
     <string name="freeform_demo_final_over">Voltooid</string>
