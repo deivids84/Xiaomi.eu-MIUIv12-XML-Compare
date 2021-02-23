@@ -1180,6 +1180,8 @@ Hier is mogelijk iets mis:
     <string name="bluetooth_is_discoverable">Zichtbaar voor alle Bluetooth-apparaten in de buurt (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Aan: Dit apparaat is zichtbaar voor alle Bluetooth-apparaten in de buurt</string>
     <string name="bluetooth_is_visible_message">%1$s is zichtbaar voor apparaten in de buurt wanneer het venster \'Bluetooth-instellingen\' is geopend.</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Verbonden met LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Gebruiken voor LE_AUDIO</string>
     <string name="bluetooth_left_name">Links</string>
     <string name="bluetooth_lock_voice_dialing">Spraakkeuze vergrendelen</string>
     <string name="bluetooth_lock_voice_dialing_summary">Gebruik van de Bluetooth-dialer voorkomen wanneer het scherm is vergrendeld</string>
@@ -1258,6 +1260,7 @@ Hier is mogelijk iets mis:
     <string name="bluetooth_profile_headset">Oproepen</string>
     <string name="bluetooth_profile_hearing_aid">Gehoorapparaat</string>
     <string name="bluetooth_profile_hid">Invoerapparaat</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Gebruikt voor toegang tot berichten</string>
     <string name="bluetooth_profile_opp">Bestandsoverdracht</string>
     <string name="bluetooth_profile_pan">Internettoegang</string>
@@ -1402,7 +1405,7 @@ Selectie"</string>
     <string name="bootloader_status_locked">Vergrendeld</string>
     <string name="bootloader_status_locked_info">Dit apparaat is vergrendeld</string>
     <string name="bootloader_status_locked_summary">De telefoon is beveiligd</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock heeft toegang nodig tot je Mi Account, CPU-ID, IMEI, IMSI om normaal te werken. Wij verzamelen, gebruiken en verwerken uw gegevens in overeenstemming met onze %s. Mee eens?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock heeft toegang nodig tot uw Mi Account, CPU ID, IMSI om normaal te werken. Lezen en ga akkoord met ons &lt;a href=\"%1$s\"&gt;Privacybeleid&lt;/a&gt;. Akkoord gaan?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Annuleren</string>
     <string name="bootloader_status_privacy_dialog_title">Toestemmingen vereist</string>
     <string name="bootloader_status_privacy_dialog_url_text">Privacybeleid</string>
@@ -1711,19 +1714,19 @@ Dit is van invloed op andere apps of gesprekken die als bubbel mogen worden weer
     <string name="color_calibration_srgb">sRGB</string>
     <string name="color_cyan">Cyaanblauw</string>
     <string name="color_game_led_applications_title">Selecteer apps</string>
-    <string name="color_game_led_applications_title_summary">U kunt het gebruik van LED-licht voor individuele apps beperken</string>
+    <string name="color_game_led_applications_title_summary">Selecteer individuele apps die met LED-licht werken</string>
     <string name="color_game_led_battery_title">Blijf aanhouden tijdens het opladen</string>
-    <string name="color_game_led_charging_summary">Zal uitgeschakeld worden wanneer de accu wordt opgeladen</string>
-    <string name="color_game_led_end_time">Einde tijd</string>
+    <string name="color_game_led_charging_summary">LED-verlichting wordt uitgeschakeld wanneer de batterij wordt opgeladen</string>
+    <string name="color_game_led_end_time">Beëindigen</string>
     <string name="color_game_led_game_mode_summary">Effecten weergeven voor spellen wanneer Game Turbo aan is</string>
     <string name="color_game_led_game_mode_title">Gebruik voor Game Turbo</string>
     <string name="color_game_led_incall_pulse_title">Gebruiken voor inkomende oproepen</string>
-    <string name="color_game_led_notification_pulse_title">Pulse voor meldingen wanneer het scherm uit is</string>
-    <string name="color_game_led_remind_title">Notificatie effecten</string>
+    <string name="color_game_led_notification_pulse_title">Pulse voor meldingen op Altijd-aan scherm</string>
+    <string name="color_game_led_remind_title">Effecten</string>
     <string name="color_game_led_special_scene_title">Speciale effecten</string>
-    <string name="color_game_led_start_time">Start Time</string>
+    <string name="color_game_led_start_time">Beginnen</string>
     <string name="color_game_led_summary">"Werkt niet in DND modus"</string>
-    <string name="color_game_led_time_title">LED-licht op tijd</string>
+    <string name="color_game_led_time_title">Schema op tijd</string>
     <string name="color_game_led_title">LED licht</string>
     <string name="color_gray">Grijs</string>
     <string name="color_green">Groen</string>
@@ -2368,9 +2371,9 @@ Als je dit probleem wilt verhelpen, kun je %1$s stoppen en voorkomen dat deze ap
     <string name="dialog_backup_title">Eerst een back-up maken van items?</string>
     <string name="dialog_check_button_negative">Opnieuw proberen</string>
     <string name="dialog_check_button_positive">Verbinden met Wi-Fi</string>
-    <string name="dialog_check_context">"Je apparaat kan nu geen verbinding maken met het internet.
-1. Tik op \"Verbinden met Wi-Fi\" om een van de beschikbare netwerken te selecteren.
-2. Als je mobiele data wilt gebruiken, tik dan op \"Opnieuw proberen\" of verwijder en plaats je simkaart opnieuw in."</string>
+    <string name="dialog_check_context">"Je apparaat kan nu geen verbinding met internet maken.
+· Tik op \"Verbinden met Wi-Fi\" om een van de beschikbare netwerken te selecteren.
+· Als je mobiele data wilt gebruiken, tik dan op \"Opnieuw proberen\" of verwijder en plaats je simkaart opnieuw in."</string>
     <string name="dialog_check_title">"Kan geen verbinding maken met het internet"</string>
     <string name="dialog_chose_item">Selecteer een item om weer te geven</string>
     <string name="dialog_content_login">Aanmelden op uw Mi Account om bij te werken?</string>
@@ -2574,7 +2577,7 @@ Als dit blijft gebeuren, moet je de app mogelijk verwijderen om de prestaties va
     <string name="dpp_cannot_connect_target">"Kan geen verbinding maken met het doel netwerk"</string>
     <string name="dpp_connect_success">Succesvol verbonden</string>
     <string name="dpp_not_support">"Kan dit netwerk niet delen"</string>
-    <string name="dpp_qr_code_summary">Maak verbinding met een wifi-netwerk door deze QR-code te scannen.</string>
+    <string name="dpp_qr_code_summary">Vraag de andere persoon om deze QR-code te scannen via de wifi-instellingen van de scanner</string>
     <string name="dpp_qrcode_generator_summary">Scan deze QR-code met een apparaat dat Easy Connect ondersteunt</string>
     <string name="dpp_scanner_summary">Plaats QR-code binnen het frame</string>
     <string name="dpp_shared_fail">"Kan wifi niet delen"</string>
@@ -2811,6 +2814,7 @@ Neem contact op met de beheerder van je organisatie voor meer informatie."</stri
     <string name="expandable_under_keyguard_title">Weergeven op Vergrendelscherm</string>
     <string name="experimental_category_title">Experimenteel</string>
     <string name="experimental_preference">(Experimenteel)</string>
+    <string name="expert_detail_content_description">Details bekijken</string>
     <string name="extended_power_menu">Uitgebreid afsluitmenu</string>
     <string name="exterior">Kleurenschema</string>
     <string name="external_code_size_label">USB-opslagapp</string>
@@ -3700,6 +3704,8 @@ Open Xiaomi Cloud en herstel items vanaf daar."</string>
     <string name="last_time_used_label">Laatst gebruikt</string>
     <string name="lattice_smartcover_title">Hoesje voorkant met motief</string>
     <string name="launch_ai_shortcut">Mi AI snelkoppeling</string>
+    <string name="launch_alipay_health_code">Alipay gezondheidscode</string>
+    <string name="launch_alipay_health_code_auto_close">Alipay gezondheidscode snelkoppeling is niet langer beschikbaar. Je kunt overschakelen naar een andere snelkoppeling.</string>
     <string name="launch_alipay_payment_code">Alipay betalingscode</string>
     <string name="launch_alipay_scanner">Alipay scanner</string>
     <string name="launch_by_default">Standaard openen</string>
@@ -3717,6 +3723,8 @@ Open Xiaomi Cloud en herstel items vanaf daar."</string>
     <string name="launch_notification_center">Notificatie schaduw</string>
     <string name="launch_recents">Recent openen</string>
     <string name="launch_voice_assistant">Spraakassistent opstarten</string>
+    <string name="launch_wechat_health_code">WeChat gezondheidscode</string>
+    <string name="launch_wechat_health_code_auto_close">WeChat gezondheidscode snelkoppeling is niet langer beschikbaar. U kunt overschakelen naar een andere snelkoppeling.</string>
     <string name="launch_wechat_payment_code">WeChat betalingscode</string>
     <string name="launch_wechat_scanner">WeChat scanner</string>
     <string name="launch_wifi_text">Details bekijken</string>
@@ -4386,6 +4394,7 @@ Verdergaan met openen van aanvullende instellingen."</string>
     <string name="miui_lab_install_drive_mode_title">Automodus installeren</string>
     <string name="miui_lab_settings">MIUI lab</string>
     <string name="miui_lab_slogan">Leren. Verkennen. Ontdekken.</string>
+    <string name="miui_master_clear_prompt_battery_low">"Kan niet terugzetten naar de fabrieksinstellingen wanneer minder dan %1$s de batterij leeg is. Laad uw apparaat voordat u verder gaat."</string>
     <string name="miui_master_clear_summary">Wist alle gegevens op dit apparaat</string>
     <string name="miui_more_special_feature">Nieuwe functies ontdekken</string>
     <string name="miui_optimization_disabled">MIUI-optimalisatie uitschakelen</string>
