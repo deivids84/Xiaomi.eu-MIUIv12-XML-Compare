@@ -69,8 +69,6 @@
     <string name="cancel_alarm_description">Alarm annuleren</string>
     <string name="check_in_todo_app">Bekijk taken</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
-    <string name="cloud_service_state_open_reminder">Schakel synchronisatie met de cloud in om notities te synchroniseren.</string>
-    <string name="cloud_service_state_open_reminder_note_and_todo">Schakel synchronisatie met de cloud in</string>
     <string name="cloud_trash_bin_title">Verwijderde notities in de cloud</string>
     <string name="confirm_cancel">"Niet akkoord"</string>
     <string name="confirm_ok">Akkoord</string>
@@ -589,6 +587,10 @@
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
     <string name="sync_all_terms">%1$s, %2$s en %3$s</string>
+    <string name="sync_desc_state_complete">Gesynchroniseerd met de cloud</string>
+    <string name="sync_desc_state_complete_china">Alle %1$s zijn gesynchroniseerd</string>
+    <string name="sync_desc_state_disable">Synchronisatie met de cloud inschakelen</string>
+    <string name="sync_desc_state_running">Synchroniseren met de cloud</string>
     <string name="sync_folder_todo">%1$s en %2$s</string>
     <string name="sync_note_folder">%1$s en %2$s</string>
     <string name="sync_note_todo">%1$s en %2$s</string>
