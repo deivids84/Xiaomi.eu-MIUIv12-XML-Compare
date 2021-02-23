@@ -480,8 +480,8 @@ ID:%s
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">ММ/дд</string>
-    <string name="fmt_date_short_year_month_day">ДД/ММ/РРРР</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="for_diagnosis_usage_only">Використайте цю інформацію лише для діагностики.</string>
     <string name="free_training">Вільний фристайл</string>
     <string name="freestyle">Фристайл</string>
