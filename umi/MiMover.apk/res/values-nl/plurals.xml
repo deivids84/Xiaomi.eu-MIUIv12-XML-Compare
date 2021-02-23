@@ -53,8 +53,8 @@
         <item quantity="other">Een half uur geleden</item>
     </plurals>
     <plurals name="hour">
-        <item quantity="other">&lt;g id=\"hour\"&gt;%1$d&lt;/g&gt; uur</item>
-        <item quantity="one">&lt;g id=\"hour\"&gt;%1$d&lt;/g&gt; uur</item>
+        <item quantity="other">%1$d uren</item>
+        <item quantity="one">%1$d uur</item>
     </plurals>
     <plurals name="icloud_importing_title_count_desc">
         <item quantity="other">%d items geïmporteerd</item>
@@ -76,17 +76,17 @@
         <item quantity="other">in %d minuten</item>
         <item quantity="one">over 1 minuut</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">%d items geselecteerd</item>
-        <item quantity="one">%d item geselecteerd</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Op dit moment</item>
         <item quantity="other">Op dit moment</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="other">&lt;g id=\"minute\"&gt;%1$d&lt;/g&gt; minuten</item>
-        <item quantity="one">&lt;g id=\"minute\"&gt;%1$d&lt;/g&gt; minuut</item>
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
