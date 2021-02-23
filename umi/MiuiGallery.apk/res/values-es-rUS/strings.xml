@@ -633,7 +633,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="enable_face_album_summary">Ordenar automáticamente las fotos por las personas que aparecen en ellas</string>
     <string name="enable_face_album_title">Ordenar por personas</string>
     <string name="enable_midrop">Activar</string>
-    <string name="enter_choice_mode">Has entrado al diálogo para compartir</string>
+    <string name="enter_choice_mode">Ingresó al cuadro de diálogo Compartir</string>
     <string name="enter_email_hint">Introduce dirección de correo electrónico</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
@@ -700,7 +700,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="error_unknown_tip">Ha ocurrido un error.</string>
     <string name="evening">Tarde</string>
     <string name="exit">Salir</string>
-    <string name="exit_choice_mode">Has salido del diálogo para compartir</string>
+    <string name="exit_choice_mode">Diálogo de uso compartido izquierdo</string>
     <string name="exit_share">Salir del álbum</string>
     <string name="exit_share_failed">"Fallo al salir %1$s"</string>
     <string name="exit_share_in_process">Saliendo del álbum \"%s\"…</string>
@@ -1203,7 +1203,7 @@ para personalizar la Galería"</string>
     <string name="merge_album">Combinar</string>
     <string name="merge_album_title">Combinar con una persona</string>
     <string name="messagelist_sender_self">Yo</string>
-    <string name="mi_drop">Mi Compartir</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="micloud_introduce">Respalda fotos y vídeos automáticamente (se necesitará Cuenta Mi)</string>
     <string name="midnight">Noche</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -1501,7 +1501,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_editor_common_download_sdk_without_wifi_title">Descargar complemento</string>
     <string name="photo_editor_compare_tip">Mantén pulsado para ver la imagen original</string>
     <string name="photo_editor_crop_and_rotate">Cortar</string>
-    <string name="photo_editor_crop_auto">Automático</string>
+    <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Recortada automáticamente</string>
     <string name="photo_editor_crop_reset">Restablecer</string>
     <string name="photo_editor_doodle">Garabato</string>
@@ -2127,7 +2127,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_not_download">No se encuentra en el dispositivo. Se descargará de Xiaomi Cloud mientras se reproduce.</string>
     <string name="tip_screenshot_package_info">Nombre de la aplicación:</string>
-    <string name="tips_prompt_enable_midrop">Mi Compartir</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="title_set_name">Introducir nombre</string>
     <string name="title_tip">Consejo</string>
     <string name="title_warn">Atención</string>
