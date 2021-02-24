@@ -4276,6 +4276,10 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
+    <string name="miheadset_ancBalance">Mitjà</string>
+    <string name="miheadset_ancClosed">Desactivat</string>
+    <string name="miheadset_ancDecrease">Baix</string>
+    <string name="miheadset_ancIncrease">Alt</string>
     <string name="miheadset_anc_indicate">Connecta i vincula els auriculars</string>
     <string name="miheadset_audio_mode">Qualitat d\'àudio</string>
     <string name="miheadset_audio_mode_high">Fort</string>
@@ -4352,8 +4356,10 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_rename_device">Canvia el nom</string>
     <string name="miheadset_soft">Suau</string>
     <string name="miheadset_transparent">Transparència</string>
+    <string name="miheadset_transparentMode">Transparència</string>
     <string name="miheadset_triple_click_key_mode">Triple toc</string>
     <string name="miheadset_unpair_device_text">%1$s es desvincularà de tots els dispositius associats a aquest compte Mi.</string>
+    <string name="miheadset_voiceIncrease">Millora la veu</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fitxers diversos</string>
     <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
