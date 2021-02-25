@@ -625,8 +625,8 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="one">Ho tinc (%d)</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
-        <item quantity="other">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
-        <item quantity="one">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
+        <item quantity="other">El dispositiu s\'apagarà d\'aquí a %d segons. Connecteu el carregador.</item>
+        <item quantity="one">El dispositiu s\'apagarà d\'aquí a %d segon. Connecteu el carregador.</item>
     </plurals>
     <plurals name="power_optimize_app_autostart_summary">
         <item quantity="other">%d aplicacions s\'inicien automàticament amb freqüència</item>
