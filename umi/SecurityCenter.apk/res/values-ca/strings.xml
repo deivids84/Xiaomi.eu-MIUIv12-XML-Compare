@@ -957,7 +957,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="deep_clean_never_memory_clean">Mai</string>
     <string name="deep_power_save_item_summary_auto_brightness">Ajusta la brillantor de pantalla automàticament per estalviar bateria</string>
     <string name="deep_power_save_item_summary_bluetooth">Desactiveu el Bluetooth per estalviar bateria</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Apaga la pantalla per estalviar bateria després de 30 segons d\'inactivitat</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Apaga la pantalla per estalviar bateria després de 15 segons d\'inactivitat</string>
     <string name="deep_power_save_item_title_auto_brightness">Activa la lluminositat automàtica</string>
     <string name="deep_power_save_item_title_bluetooth">Desactiva el Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Posa la pantalla a dormir</string>
@@ -1349,7 +1349,7 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="first_aid_card_consume_power_button1">Restringeix</string>
     <string name="first_aid_card_consume_power_button2">Desactiva</string>
     <string name="first_aid_card_consume_power_summary1">Més de 5 aplicacions s\'inicien elles soles. Limiteu-les per estalviar bateria.</string>
-    <string name="first_aid_card_consume_power_summary2">Apaga el punt d\'accés portàtil per estalviar bateria</string>
+    <string name="first_aid_card_consume_power_summary2">Desactiveu el punt d\'accés portàtil per estalviar bateria</string>
     <string name="first_aid_card_consume_power_title">Consum de bateria</string>
     <string name="first_aid_card_kadun_button1">Allibera espai</string>
     <string name="first_aid_card_kadun_button2">Restringeix</string>
@@ -2517,7 +2517,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permission_action_tag">Protecció de la privadesa</string>
     <string name="permission_action_virtual">Torneu els missatges en blanc</string>
     <string name="permission_close_permission_control_dialog_msg">"Quan l'administrador de permisos està desactivat, les aplicacions no li demanaran permís per llegir els seus contactes, veure el seu registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos."</string>
-    <string name="permission_close_permission_control_dialog_title">Apagar?</string>
+    <string name="permission_close_permission_control_dialog_title">Voleu desactivar-ho?</string>
     <string name="permission_exception_title">Veure permisos de xarxa</string>
     <string name="permission_instruction_access_notification">Aquest permís permet a les aplicacions llegir, cercar i esborrar totes les vostres notificacions. Recordeu que les notificacions poden incloure informació privada (per exemple, números de targeta bancària i contrasenyes).</string>
     <string name="permission_instruction_activity_recognition">Aquest permís permet a les aplicacions accedir a la informació recopilada pels sensors integrats que detecten la vostra activitat física (per exemple, el recompte de passos i els entrenaments). Recordeu que la informació sobre la vostra activitat física és personal.</string>
@@ -2606,7 +2606,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="pm_remember_choice">Recordar la meva selecció</string>
     <string name="pm_root_success_notification_infomation">Cal que conegueu els riscos relacionats amb l\'accés a l\'arrel</string>
     <string name="pm_root_success_notification_title">Accés root habilitat</string>
-    <string name="power_20s_shutdown">Dispositiu s\'apagarà en %d segons</string>
+    <string name="power_20s_shutdown">El dispositiu s\'apagarà d\'aquí a %d segons</string>
     <string name="power_ambient_display">Pantalla ambiental</string>
     <string name="power_analysis_consume_title">Ús de bateria</string>
     <string name="power_analysis_suggestion_need_optimize">Problemes d\'ús de la bateria detectats.</string>
@@ -2620,7 +2620,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_5g_save_summary_text">Feu que la connectivitat 5G consumeixi menys energia en certs escenaris</string>
     <string name="power_center_5g_save_title_text">Estalvi de bateria 5G</string>
     <string name="power_center_abnormal_consume_analysis">Anomalies en l’ús de l’energia</string>
-    <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
+    <string name="power_center_auto_shutdown">Programar l\'encesa i l\'apagat</string>
     <string name="power_center_back">Enrere</string>
     <string name="power_center_battery_all">Tots</string>
     <string name="power_center_battery_app_detail">Ús de la bateria de l\'aplicació</string>
@@ -2662,7 +2662,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_list_item_wake_notification_summary">Les notificacions entrants només es mostraran quan activeu la pantalla</string>
     <string name="power_center_one_key_save">Optimitza</string>
     <string name="power_center_ontime_boot">Hora d\'encesa</string>
-    <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
+    <string name="power_center_ontime_shutdown">Hora de l\'apagat</string>
     <string name="power_center_optimize_title">Suggeriments</string>
     <string name="power_center_power_save_summary_text">Augmenteu el temps restant fins a %1$dh %2$dmin</string>
     <string name="power_center_power_save_title_text">Estalvi de bateria</string>
@@ -2689,7 +2689,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_super_save_summary_text">Augmenteu el temps restant fins a %1$dh %2$dmin</string>
     <string name="power_center_super_save_title_text">Estalvi extrem de bateria</string>
     <string name="power_center_time_to_boot">Hora d\'encesa</string>
-    <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
+    <string name="power_center_time_to_shutdown">Hora de l\'apagat</string>
     <string name="power_center_title">Bateria</string>
     <string name="power_center_used_time_Introduction">Temps de bateria des que es va carregar per última vegada més de %s</string>
     <string name="power_consume_hardware_total_format">Maquinari: %s</string>
