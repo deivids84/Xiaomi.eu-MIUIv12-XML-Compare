@@ -154,6 +154,7 @@
     <string name="other_settings_user_experience">Programa d\'Experiència d\'Usuari</string>
     <string name="other_settings_user_experience_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d\'ús amb nosaltres. Mostra els detalls</string>
     <string name="other_settings_user_experience_summary_index">Mostra els detalls</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon us permet transferir dades del vostre dispositiu quan la pantalla està danyada.</string>
     <string name="permission_account">Accedir als comptes del vostre dispositiu:</string>
     <string name="permission_account_introduction">Per iniciar la sessió amb el Compte Mi</string>
     <string name="permission_application_package_introduction">Per accedir a l\'emmagatzematge per analitzar i escanejar els paquets d\'instal·lació</string>
@@ -186,6 +187,10 @@
     <string name="permission_picture_introduction">Per desar, editar i sincronitzar fotos i vídeos</string>
     <string name="permission_read_call_records">Editar l\'historial de trucades:</string>
     <string name="permission_read_call_records_introduction">Per afegir elements a l’historial de trucades i suprimir les trucades bloquejades</string>
+    <string name="permission_read_contacts">Accés als contactes</string>
+    <string name="permission_read_contacts_introduction">Per verificar la vostra identitat</string>
+    <string name="permission_read_message">Accés als missatges de text</string>
+    <string name="permission_read_message_introduction">Per verificar la propietat del dispositiu</string>
     <string name="permission_read_note_introduction">Per accedir a les notes i els fitxers adjunts</string>
     <string name="permission_read_write_file">Accedir i desar fitxers i fotos del dispositiu:</string>
     <string name="permission_read_write_file_introduction">Per accedir, desar i emmagatzemar en memòria cau el dispositiu</string>
@@ -223,6 +228,7 @@
     <string name="security_introduction">Podeu utilitzar aquesta aplicació per netejar la brossa del dispositiu, trobar i neutralitzar els virus, optimitzar el rendiment per a jocs, estalviar bateria, gestionar les aplicacions, permisos i molt més.</string>
     <string name="security_mobile_account_introduction">Per iniciar la sessió i gestionar els comptes del sistema</string>
     <string name="service_agreement">"He llegit i he acceptat els termes i condicions."</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galeria</string>
     <string name="service_name_application_package">Instal·lador de paquets</string>
     <string name="service_name_backup">Còpies de seguretat</string>
