@@ -231,7 +231,7 @@
     <string name="set_password_message">Estableix una contrasenya per utilitzar aquesta funció.</string>
     <string name="set_password_title">Estableix una contrasenya</string>
     <string name="shutdown_confirm_title">Voleu apagar el dispositiu ara?</string>
-    <string name="shutdown_progress">S\'està apagant&#8230;</string>
+    <string name="shutdown_progress">S\'està apagant…</string>
     <string name="silence_mode">Mode silenci</string>
     <string name="sim_added_reboot_confirm">Reinicia</string>
     <string name="sim_added_reboot_title">La targeta SIM s\'activarà després que es reiniciï el dispositiu.</string>
