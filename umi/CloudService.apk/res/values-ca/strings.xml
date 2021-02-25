@@ -244,7 +244,7 @@
     <string name="micloud_confusion_setting_notify_text">Desactiveu la sincronització amb altres dispositius associats al vostre compte.</string>
     <string name="micloud_confusion_setting_notify_title">Protegeix el teu compte</string>
     <string name="micloud_confusion_setting_password_error">La contrasenya que has introduït és incorrecta</string>
-    <string name="micloud_confusion_setting_question">Apagar la sincronització amb altres dispositius associats al teu compte.</string>
+    <string name="micloud_confusion_setting_question">Desactiveu la sincronització d\'altres dispositius associats al vostre compte.</string>
     <string name="micloud_confusion_setting_title">Massa dispositius</string>
     <string name="micloud_confusion_toast_confirm">Dispositiu verificat</string>
     <string name="micloud_confusion_toast_deny">Inicia sessió amb el vostre compte Mi</string>
@@ -692,7 +692,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="sync_item_title">S\'estan sincronitzant elements</string>
     <string name="sync_normal_summary">"No es poden sincronitzar alguns elements de la llista següent"</string>
     <string name="sync_normal_title">"No s'ha pogut acabar la sincronització"</string>
-    <string name="sync_off">Apagat</string>
+    <string name="sync_off">Desactivat</string>
     <string name="sync_off_confirm_content">"No podreu sincronitzar les contrasenyes noves després de desactivar el Gestor de contrasenyes."</string>
     <string name="sync_off_confirm_title">Atenció</string>
     <string name="sync_on">Activat</string>
