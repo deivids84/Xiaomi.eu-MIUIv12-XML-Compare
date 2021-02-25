@@ -2759,8 +2759,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_optimize_set_lockscreen_time_holder">Bloqueja el dispositiu després de %d segons d\'inactivitat</string>
     <string name="power_phone">Trucades de veu</string>
     <string name="power_save_mode">Estalvi de bateria</string>
-    <string name="power_save_mode_auto_exit_summary">Apaga quan la bateria estigui al 60% o totalment carregada</string>
-    <string name="power_save_mode_auto_exit_title">Apaga quan estigui carregada</string>
+    <string name="power_save_mode_auto_exit_summary">Es desactiva quan la bateria està al 60% o totalment carregada</string>
+    <string name="power_save_mode_auto_exit_title">Es desactiva quan està carregada</string>
     <string name="power_save_mode_close_aod_display_summary">Desactiveu la pantalla Sempre encesa quan estalvieu la bateria</string>
     <string name="power_save_mode_close_aod_display_title">Desactiveu la pantalla Sempre encesa</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funciona quan l\'estalvi de bateria està activat</string>
@@ -3339,7 +3339,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="settings_camera_subtitle_no">Sense metadades</string>
     <string name="settings_category_other">Altres paràmetres</string>
     <string name="settings_category_overheat">Sobreescalfament</string>
-    <string name="settings_choice_no_notification">Apagat</string>
+    <string name="settings_choice_no_notification">Desactivat</string>
     <string name="settings_image_camera_summary">Model de dispositiu, metadades, etc.</string>
     <string name="settings_location_subtitle_no">No hi ha informació d\'ubicació</string>
     <string name="settings_power_save_ontime_title">Horari</string>
@@ -3359,9 +3359,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="show_traffic_dialog_message">La seva informació d\'ús de dades es mostrarà en l\'àrea de notificacions. Podeu activar o desactivar aquesta funció en qualsevol moment a Ús de Dades &gt; Configuració</string>
     <string name="show_traffic_dialog_title">Mostra ús a l\'àrea de notificacions</string>
     <string name="showpattern">Mostra patró</string>
-    <string name="shutdown_cancel_reminder">"No es va apagar"</string>
-    <string name="shutdown_cancel_reminder_detail">"El dispositiu no es va apagar perquè estava enmig d'una trucada"</string>
-    <string name="shutdown_cancel_reminder_detail2">"Sembla que esteu jugant a un joc. S'ha cancel·lat l'apagada programada."</string>
+    <string name="shutdown_cancel_reminder">"No s'ha apagat"</string>
+    <string name="shutdown_cancel_reminder_detail">"El dispositiu no s'ha apagat perquè es trobava enmig d'una trucada"</string>
+    <string name="shutdown_cancel_reminder_detail2">"Sembla que esteu jugant a un joc. S'ha cancel·lat l'apagat programat."</string>
     <string name="signal_exception_4g_bad_rsrq">La recepció del senyal actual és pobra. La velocitat de connexió pot ser baixa.</string>
     <string name="signal_exception_none_4g_5g_network">"Esteu utilitzant xarxes mòbils 2G/3G. La velocitat de connexió pot ser baixa."</string>
     <string name="signal_exception_summary">"No es pot connectar a la xarxa en aquesta àrea."</string>
