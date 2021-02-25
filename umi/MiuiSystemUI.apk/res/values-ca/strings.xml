@@ -247,7 +247,7 @@
     <string name="accessibility_scanning_face">Escaneig de la cara</string>
     <string name="accessibility_search_light">Cerca</string>
     <string name="accessibility_send_smart_reply">Envia</string>
-    <string name="accessibility_sensors_off_active">Sensors apagats actius</string>
+    <string name="accessibility_sensors_off_active">Sensors desactivats actius</string>
     <string name="accessibility_settings">Configuració</string>
     <string name="accessibility_settings_button">Configuració del sistema.</string>
     <string name="accessibility_signal_full">Senyal complet.</string>
@@ -342,7 +342,7 @@
     <string name="appops_mic_overlay">Aquesta aplicació es mostra a la resta d’aplicacions de la pantalla i fa servir el micròfon.</string>
     <string name="appops_microphone">Aquesta aplicació utilitza el micròfon.</string>
     <string name="appops_overlay">Aquesta aplicació es mostra a la resta d’aplicacions de la pantalla.</string>
-    <string name="auto_brightness_off">La brillantor automàtica està apagada</string>
+    <string name="auto_brightness_off">La brillantor automàtica està desactivada</string>
     <string name="auto_brightness_on">La brillantor automàtica està activa</string>
     <string name="auto_connect_disable">La connexió automàtica està desactivada</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Els botons de navegació estan desactivats, toqueu dos cops qualsevol botó per tornar-los a activar.</string>
@@ -1426,7 +1426,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="phone_locked_foget_password_method_content"><Data>Has de &lt;font color=#a5220e&gt;esborrat totes les dades &lt;/font&gt;en el dispositiu, incloent fotos i contactes, i després configurar una contrasenya nova pantalla de bloqueig.</Data></string>
     <string name="phone_locked_foget_password_method_next">Següent</string>
     <string name="phone_locked_foget_password_ok">D\'acord</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apagar el dispositiu, manteniu premut el &lt;font color=#a5220e&gt;Botó d\'encesa&lt;/font&gt; i el &lt;font color=#a5220e&gt;botó Pujar volum&lt;/font&gt; simultàniament fins que aparegui el logotip de la meva.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apageu el dispositiu, manteniu premut el &lt;font color=#a5220e&gt;Botó d\'encesa&lt;/font&gt; i el &lt;font color=#a5220e&gt;botó d\'apujar el volum&lt;/font&gt; simultàniament fins que aparegui el logotip de Mi.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Seleccioneu &lt;font color=#a5220e&gt;\"Esborra &amp;amp; Restableix\"&lt;/font&gt; i espereu fins que el dispositiu es reiniciï.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
     <string name="phone_locked_string">Aquest dispositiu està bloquejat</string>
