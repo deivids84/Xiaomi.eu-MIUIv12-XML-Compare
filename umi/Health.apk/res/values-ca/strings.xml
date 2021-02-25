@@ -513,7 +513,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="gps">GPS</string>
     <string name="gps_no_signal_hint">"El senyal GPS actual no permet fer el seguiment de l’entrenament i registrar rutes. Aneu a una zona exterior plana i oberta."</string>
     <string name="gps_unauthorized">Es requereixen permisos GPS</string>
-    <string name="gps_unopened">El GPS està apagat</string>
+    <string name="gps_unopened">El GPS està desactivat</string>
     <string name="group">Cicles</string>
     <string name="guide_data_cloud_sync_tip">Podeu desactivar la sincronització a Configuració &gt; Serveis al núvol.</string>
     <string name="guide_exit">Surt de Xiaomi Health</string>
