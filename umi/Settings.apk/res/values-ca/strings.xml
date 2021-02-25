@@ -1698,7 +1698,7 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="color_game_led_applications_title">Seleccioneu les aplicacions</string>
     <string name="color_game_led_applications_title_summary">Seleccioneu individualment les aplicacions que funcionaran amb llum LED</string>
     <string name="color_game_led_battery_title">Manté encès mentre s\'està carregant</string>
-    <string name="color_game_led_charging_summary">La llum LED s’apagarà quan es carregui la bateria</string>
+    <string name="color_game_led_charging_summary">La llum LED s’apagarà quan la bateria estigui carregada</string>
     <string name="color_game_led_end_time">Fi</string>
     <string name="color_game_led_game_mode_summary">Mostra els efectes dels jocs quan Game Turbo estigui activat</string>
     <string name="color_game_led_game_mode_title">Ús per al Game Turbo</string>
@@ -2045,9 +2045,9 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
     <string name="dark_ui_summary_off_auto_mode_custom">S\'activa automàticament a %1$s</string>
     <string name="dark_ui_summary_off_auto_mode_never">Mai no s’activarà automàticament</string>
     <string name="dark_ui_summary_on">On / %1$s</string>
-    <string name="dark_ui_summary_on_auto_mode_auto">S’apagarà automàticament a l’alba</string>
-    <string name="dark_ui_summary_on_auto_mode_custom">S’apagarà automàticament a %1$s</string>
-    <string name="dark_ui_summary_on_auto_mode_never">Mai s’apagarà automàticament</string>
+    <string name="dark_ui_summary_on_auto_mode_auto">Es desactivarà automàticament a l\'alba</string>
+    <string name="dark_ui_summary_on_auto_mode_custom">Es desactivarà automàticament a les %1$s</string>
+    <string name="dark_ui_summary_on_auto_mode_never">Mai es desactivarà automàticament</string>
     <string name="dark_ui_text">El tema fosc utilitza un fons negre per ajudar a mantenir la bateria viva més temps en algunes pantalles. Les programacions de temes foscos esperen que s’activi fins que la pantalla no estigui desactivada.</string>
     <string name="dark_ui_title">Mode fosc</string>
     <string name="dark_wallpaper_mode">Ajusta el fons de pantalla al Mode fosc</string>
