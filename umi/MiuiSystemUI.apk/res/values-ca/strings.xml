@@ -1005,7 +1005,7 @@ total"</string>
     <string name="keyguard_carrier_default">Sense servei.</string>
     <string name="keyguard_charged">Carregat</string>
     <string name="keyguard_charging_back_to_lockscreen">Torna a la pantalla de blocatge</string>
-    <string name="keyguard_charging_info_last_charge_time">D/m H:mm</string>
+    <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Avui a les %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ahir a les %s</string>
     <string name="keyguard_charging_normal_and_level_tip">S\'està carregant %d%%</string>
