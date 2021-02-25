@@ -164,7 +164,7 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="throwing_print">Imprimeix</string>
     <string name="throwing_screen">Emet</string>
     <string name="tile_state_active">Encén</string>
-    <string name="tile_state_inactive">Apaga</string>
+    <string name="tile_state_inactive">Desactivat</string>
     <string name="tile_state_unavailable">No disponible</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Informa</string>
