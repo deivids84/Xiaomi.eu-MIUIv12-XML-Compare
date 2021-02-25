@@ -68,7 +68,7 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
     <string name="close_kid_space_success">S\'ha suprimit l\'espai pels nens</string>
     <string name="close_second_space">Segon espai suprimit</string>
     <string name="close_second_space_success">Segon espai esborrat</string>
-    <string name="closed">Apagat</string>
+    <string name="closed">Desactivat</string>
     <string name="complete_setting">Finalitza</string>
     <string name="complete_setting_sub_title">També podeu tornar després per fer canvis en la configuració.</string>
     <string name="complete_setting_title">"Tot a punt!"</string>
