@@ -156,6 +156,7 @@
     <string name="other_settings_user_experience">Gebruikerservaringprogramma</string>
     <string name="other_settings_user_experience_summary">Help ons bij het verbeteren van onze producten en diensten door uw gebruiksgegevens met ons te delen. Details bekijken</string>
     <string name="other_settings_user_experience_summary_index">Detail bekijken</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon stelt je in staat gegevens over te dragen van je apparaat wanneer het scherm beschadigd is.</string>
     <string name="permission_account">Toegang tot accounts op uw apparaat:</string>
     <string name="permission_account_introduction">Om in te loggen met Mi Account</string>
     <string name="permission_application_package_introduction">Voor toegang tot opslag om installatiepakketten te controleren en te scannen</string>
@@ -188,6 +189,10 @@
     <string name="permission_picture_introduction">Om foto\'s en video\'s op te slaan, te bewerken en te synchroniseren</string>
     <string name="permission_read_call_records">Bewerken belgeschiedenis:</string>
     <string name="permission_read_call_records_introduction">Om items aan de belgeschiedenis toe te voegen en om geblokkeerde oproepen te verwijderen</string>
+    <string name="permission_read_contacts">Contacten openen</string>
+    <string name="permission_read_contacts_introduction">Om je identiteit te verifiëren</string>
+    <string name="permission_read_message">Toegang tot tekstberichten</string>
+    <string name="permission_read_message_introduction">Voor het verifiëren van de eigendom van uw apparaat</string>
     <string name="permission_read_note_introduction">Voor toegang tot notities en bijlages</string>
     <string name="permission_read_write_file">Toegang tot en opslaan van bestanden en foto\'s op uw apparaat:</string>
     <string name="permission_read_write_file_introduction">Voor toegang tot en opslaan en cachen van items op uw apparaat</string>
@@ -225,6 +230,7 @@
     <string name="security_introduction">U kunt deze app gebruiken om uw apparaat op te schonen, virussen te vinden en te neutraliseren, gameprestaties te optimaliseren, energie te besparen, apps te beheren, toestemmingen en meer.</string>
     <string name="security_mobile_account_introduction">On in te loggen en systeemaccounts te beheren</string>
     <string name="service_agreement">"Ik heb de algemene voorwaarden gelezen en ga er akkoord mee."</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galerij</string>
     <string name="service_name_application_package">Pakketinstalleerder</string>
     <string name="service_name_backup">Back-ups</string>
