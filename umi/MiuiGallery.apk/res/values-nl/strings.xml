@@ -167,7 +167,7 @@
     <string name="album_share_subtitle_requesting">Albuminformatie ophalen…</string>
     <string name="album_share_title_new_album">Nieuw album delen</string>
     <string name="album_show_local_only">Alleen lokale albums weergeven</string>
-    <string name="album_show_local_only_summary">Inschakelen om foto\'s te bekijken of te verwijderen op uw apparaat</string>
+    <string name="album_show_local_only_summary">Een optie om alleen lokale albums te verwijderen wordt beschikbaar wanneer deze functie is ingeschakeld</string>
     <string name="album_sort_type">Sorteer volgorde</string>
     <string name="album_sort_type_create_time_asc">Van oud naar nieuw</string>
     <string name="album_sort_type_create_time_desc">Van nieuw naar oud</string>
@@ -221,7 +221,8 @@
     <string name="authorize_to_device_failed">"Kon geen toestemming geven"</string>
     <string name="authorize_watch_on_tv_failed">"Kon geen toestemming geven om te bekijken op TV"</string>
     <string name="auto_backup_introduce">Foto\'s en video\'s automatisch synchroniseren (Mi Account vereist)</string>
-    <string name="auto_download_media_title">Foto\'s van Xiaomi Cloud automatisch downloaden</string>
+    <string name="auto_download_media_title">Download automatisch</string>
+    <string name="auto_download_title">Selecteer beeldkwaliteit</string>
     <string name="auto_update_face">Foto\'s automatisch toevoegen</string>
     <string name="auto_update_face_summary">Automatisch foto\'s vergelijken en toevoegen aan het babyalbum</string>
     <string name="auto_update_off">Uit</string>
@@ -291,6 +292,8 @@
     <string name="backup_pause_dialog_title">Synchronisatie pauzeren</string>
     <string name="backup_pause_title">Synchronisatie is gepauzeerd</string>
     <string name="backup_pending">Er wordt automatisch een back-up gemaakt</string>
+    <string name="backup_settings">Synchroniseer met de cloud</string>
+    <string name="backup_settings_more">Extra instellingen</string>
     <string name="backup_stop">Backup stoppen</string>
     <string name="backup_sync_dialog_confirm">Aanzetten</string>
     <string name="backup_sync_dialog_tips">Schakel synchronisatie met de cloud in om de instellingen te wijzigen.</string>
@@ -443,13 +446,23 @@
     <string name="close_dialog_desc">Dialoogvenster sluiten</string>
     <string name="cloud_authorize_to_share_to_device">Toestaan items te bekijken op tv\'s die gekoppeld zijn aan uw Mi Account</string>
     <string name="cloud_authorizing_to_device">Autoriseren…</string>
+    <string name="cloud_backup_enable_title">Synchroniseren</string>
+    <string name="cloud_backup_open_button">Inschakelen</string>
+    <string name="cloud_backup_space">Cloud opslag</string>
+    <string name="cloud_backup_status_disable">UIT</string>
+    <string name="cloud_backup_status_eneble">op</string>
+    <string name="cloud_backup_title">Synchroniseer met de cloud</string>
+    <string name="cloud_bacup_disable_button">Synchronisatie uitschakelen</string>
+    <string name="cloud_bacup_disable_processing">Verwerken…</string>
     <string name="cloud_camera_display_name">Camerafoto\'s</string>
     <string name="cloud_cancel_authorizing_to_device">Autorisatie annuleren…</string>
     <string name="cloud_guide_auto_backup_title">Albums selecteren om te synchroniseren</string>
     <string name="cloud_guide_login_title">Foto\'s en video\'s automatisch back-uppen</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
-    <string name="cloud_privacy_with_ai_album">Privacy verklaren omtrent automatisch synchroniseren en afbeeldingsvewerking</string>
-    <string name="cloud_privacy_with_face">Privacy verklaren omtrent automatisch synchroniseren en gezichtsherkenning</string>
+    <string name="cloud_login_ok">Ik snap het</string>
+    <string name="cloud_login_settings_title">Synchroniseer instellingen</string>
+    <string name="cloud_privacy_with_ai_album">Functies en privacy</string>
+    <string name="cloud_privacy_with_face">Functies en privacy</string>
     <string name="cloud_screenshots_display_name">Screenshots</string>
     <string name="cloud_settings">Synchroniseren</string>
     <string name="cloud_storage_extend">Cloud opslagruimte uitbreiden</string>
@@ -1214,6 +1227,7 @@ om Galerij te personaliseren"</string>
     <string name="merge_album_title">Samenvoegen met een persoon</string>
     <string name="messagelist_sender_self">Ik</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mi_mover_working_desc">Mi Mover verplaatst items…</string>
     <string name="micloud_introduce">Foto\'s en video\'s automatisch synchroniseren (Mi Account vereist)</string>
     <string name="midnight">AM</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteer</string>
@@ -1628,6 +1642,7 @@ Transcoderen kan enige tijd duren als u deze functie voor de eerste keer gebruik
     <string name="photo_purge_dialog_message_image">"Het is niet mogelijk om items te herstellen als je ze verwijderd. Toch verwijderen?"</string>
     <string name="photo_purge_dialog_message_video">"Het is niet mogelijk om items te herstellen als je ze verwijderd. Toch verwijderen?"</string>
     <string name="photo_save_to_msg">Opgeslagen in %s</string>
+    <string name="photo_size_not_support">"Deze resolutie wordt niet ondersteund"</string>
     <string name="photo_vlog_module_finish">Video editor succesvol gedownload</string>
     <string name="photo_vlog_module_loading">Video-editor downloaden…</string>
     <string name="photodetail_failed_already_exist">Dit bestand bestaat al</string>
@@ -1871,6 +1886,7 @@ Transcoderen kan enige tijd duren als u deze functie voor de eerste keer gebruik
     <string name="security_share_subtitle_hide">Locatie info is verwijderd</string>
     <string name="security_share_subtitle_no_hide">Bevat locatie info</string>
     <string name="see_ignore_faces">"Toon genegeerde personen"</string>
+    <string name="see_more_settings">Extra instellingen</string>
     <string name="select_all">Alles selecteren</string>
     <string name="select_image_operation">Foto\'s aan het toevoegen</string>
     <string name="select_item_face">"Is dit '%s'?"</string>
@@ -1912,7 +1928,7 @@ Transcoderen kan enige tijd duren als u deze functie voor de eerste keer gebruik
     <string name="share_public_url_text">"Ik heb het album %1$s met u gedeeld. Bekijk het op %2$s"</string>
     <string name="share_with_family">Delen met familie</string>
     <string name="sharer_quota_fulfiled">"Je hebt dit album al gedeeld met het maximaal aantal personen.."</string>
-    <string name="show_cloud_albumlist_summary">Beheer de albums die u synchroniseert met de cloud</string>
+    <string name="show_cloud_albumlist_summary">"Nieuwe items van de geselecteerde albums zullen niet worden geüpload naar de cloud nadat u synchronisatie uitschakelt."</string>
     <string name="show_hidden_album_summary">Verborgen albums weergeven en beheren</string>
     <string name="show_hidden_album_title">Verborgen albums weergeven</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Succesvol verplaatst, ga naar Andere album om te bekijken</string>
@@ -2033,6 +2049,11 @@ Transcoderen kan enige tijd duren als u deze functie voor de eerste keer gebruik
     <string name="support_single_image">Selecteer één afbeelding</string>
     <string name="support_single_video">Selecteer een video</string>
     <string name="sync_album_in_proecess">Album sync. met server…</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Als u de synchronisatie nu uitschakelt, zullen de huidige downloads van de originele bestanden in de cloud worden onderbroken. Hoge kwaliteit afbeeldingen op dit apparaat zullen niet langer beschikbaar zijn. Toch uitschakelen?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Hoge kwaliteit afbeeldingen die op dit apparaat worden opgeslagen zullen niet langer beschikbaar zijn nadat je synchronisatie hebt uitgeschakeld. U kunt originele bestanden downloaden uit de cloud en daarna synchronisatie uitschakelen.</string>
+    <string name="sync_backup_disable_confirm_title">Synchronisatie uitschakelen</string>
+    <string name="sync_backup_enable_confirm_message">Wanneer synchronisatie met de cloud is ingeschakeld, zullen items van dit apparaat worden geüpload en samengevoegd met de items opgeslagen in de cloud.</string>
+    <string name="sync_backup_enable_confirm_title">Gesynchroniseerde items samenvoegen</string>
     <string name="sync_battery_low">Batterij laag</string>
     <string name="sync_cloud_space_full">Niet genoeg ruimte op Xiaomi Cloud</string>
     <string name="sync_diabled_toast">Synchronisatie is uitgeschakeld</string>
@@ -2437,6 +2458,8 @@ Transcoderen kan enige tijd duren als u deze functie voor de eerste keer gebruik
     <string name="vlog_filter_lanmei">Bosbes</string>
     <string name="vlog_filter_liulan">Meest</string>
     <string name="vlog_filter_luoma">Rome</string>
+    <string name="vlog_filter_master_close">Video effecten verwijderd</string>
+    <string name="vlog_filter_master_open">Toegepaste video effecten</string>
     <string name="vlog_filter_no_support_nums">"Overgeslagen video's die geen bewerking ondersteunen (%1$d)"</string>
     <string name="vlog_filter_nuanyang">Zonnestraal</string>
     <string name="vlog_filter_origin">geen</string>
