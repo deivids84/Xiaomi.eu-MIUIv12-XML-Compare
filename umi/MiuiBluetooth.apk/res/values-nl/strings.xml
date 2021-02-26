@@ -434,6 +434,10 @@ Sneller verbindingsprotocol."</string>
     <string name="mi_key_summary_open_camera">Dubbelklik op Mi Sleutel om Camera te openen</string>
     <string name="mi_key_summary_take_photo">Klik op Mi Sleutel om foto te nemen</string>
     <string name="mi_key_take_photo">Foto maken</string>
+    <string name="miheadset_notification_Box">Vierkant</string>
+    <string name="miheadset_notification_Disconnect">Verbreek</string>
+    <string name="miheadset_notification_LeftEar">L</string>
+    <string name="miheadset_notification_RightEar">R</string>
     <string name="mihome_app_download">Installeer nu</string>
     <string name="mihome_app_update">Update now</string>
     <string name="mihome_download_tips">Installeer de Xiaomi Home app, log in en houd uw telefoon dicht bij het apparaat.</string>
