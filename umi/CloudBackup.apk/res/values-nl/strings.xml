@@ -66,6 +66,7 @@ Probeer het opnieuw"</string>
     <string name="btn_continue">Doorgaan</string>
     <string name="btn_restore_abort">Annuleren</string>
     <string name="btn_restore_cancel">Annuleren</string>
+    <string name="btn_restore_cancel_app_app">"WeChat gegevens niet herstellen"</string>
     <string name="btn_restore_continue">Toch herstellen</string>
     <string name="btn_restore_resume">Hervatten</string>
     <string name="btn_restore_retry">Opnieuw proberen</string>
@@ -117,6 +118,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_back_up_task">Bezig met back-up…</string>
     <string name="cloud_backup">Cloud back-ups</string>
     <string name="cloud_backup_derail_size_summary">Grootte: %s</string>
+    <string name="cloud_backup_detail_app_data">WeChat gegevens back-uppen</string>
+    <string name="cloud_backup_detail_app_data_summary">Maak een reservekopie van chatgeschiedenis, bestanden en andere items</string>
     <string name="cloud_backup_detail_frequence">Backup planning</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Maak elke %d dagen een back-up</string>
     <string name="cloud_backup_detail_frequence_every_day">Back-up iedere dag</string>
@@ -137,6 +140,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_cancel_restore_positive">Doorgaan</string>
     <string name="confirm_cancel_restore_title">Herstellen annuleren?</string>
     <string name="confirm_restore">Herstellen</string>
+    <string name="confirm_restore_app_data">App-gegevens overschrijven</string>
+    <string name="confirm_restore_app_data_summary">WeChat gegevens herstellen zal de huidige versie van app gegevens op dit apparaat overschrijven. Toch herstellen?</string>
     <string name="confirm_restore_summary">Uw Startscherm zal opnieuw opgestart worden. Gebackupte apps zullen automatisch gedownload worden.</string>
     <string name="confirm_restore_title">Herstellen</string>
     <string name="copy">Kopiëren</string>
@@ -149,14 +154,17 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">Wachten…</string>
     <string name="desktop_waiting">Wachten</string>
     <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
+    <string name="dialog_backup_failed">"Kan geen back-up maken"</string>
     <string name="dialog_btn_cancel_backup">Annuleren</string>
     <string name="dialog_btn_next">Volgende</string>
     <string name="dialog_btn_overwrite_backup">Overschrijven</string>
     <string name="dialog_btn_restore_skip">Later herstellen</string>
+    <string name="dialog_buy_cloud_space">Upgraden</string>
     <string name="dialog_cancel_backup_cancel">Annuleren</string>
     <string name="dialog_cancel_backup_confirm">OК</string>
     <string name="dialog_cancel_backup_msg">Schakeling van de schakelaar zal lopende back-ups beëindigen.</string>
     <string name="dialog_cancel_backup_title">Lopende back-up annuleren?</string>
+    <string name="dialog_cloud_space_not_enough">Deze back-up vereist %1$s gratis cloud opslagruimte. Upgrade uw opslagplan om items te back-uppen.</string>
     <string name="dialog_msg_overwrite_backup">Lokale back-up is niet hetzelfde als die op Xiaomi Cloud. Als u verdergaat zal de huidige back-up de vorige overschrijven.</string>
     <string name="dialog_msg_restore_require_wlan">Herstellen van back-ups vereist verbinding met wifi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
@@ -176,7 +184,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="expand_button_title">Geavanceerd</string>
     <string name="get_device_id_error">"Apparaat-ID kan niet worden opgehaald"</string>
     <string name="help_and_feedback">Hulp en feedback</string>
-    <string name="hint_restore_cross_space">Startscherm lay-out kan wellicht onjuist weergegeven worden als u items van plek verwisselt.</string>
+    <string name="hint_restore_wechat_data">Opmerking: WeChat gegevens kunnen niet worden hersteld vanwege compatibiliteitsproblemen in sommige gevallen.</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Andere launcher</string>
     <string name="home_restore_error">"Startscherm kan niet hersteld worden"</string>
@@ -199,7 +207,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Dat is alles voor nu"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Gewoon een seconde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Kan items niet laden"</string>
-    <string name="msg_alert_cancel_restore">Items aan het herstellen. Toch stoppen?</string>
+    <string name="msg_alert_cancel_restore">Items worden teruggezet vanuit Xiaomi Cloud. Nu annuleren?</string>
     <string name="msg_alert_restore_error">"Kon items niet herstellen van Xiaomi Cloud. Probeer het opnieuw."</string>
     <string name="msg_restore_start_with_metered_network">"Uw Startscherm zal opnieuw opgestart worden. Gebackupte apps zullen automatisch gedownload worden. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s van de bestanden zullen gedownload worden.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Als u doorgaat met het herstellen van deze items, zal mobiele data gebruikt worden voor het downloaden.</string>
@@ -244,6 +252,8 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="restore_app_order_title">Prioriteer herstelde items</string>
     <string name="restore_cloud_backup_to_phone">Items van de cloud herstellen</string>
     <string name="restore_data_title">Herstel gegevens</string>
+    <string name="restore_detail_category_app_data">WeChat gegevens</string>
+    <string name="restore_detail_category_app_data_summary">Chat geschiedenis, bestanden en andere items (%s)</string>
     <string name="restore_detail_category_apps">Startscherm lay-out en apps</string>
     <string name="restore_detail_category_settings">Instellingen</string>
     <string name="restore_detail_more">Meer</string>
@@ -258,14 +268,15 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="restore_home_failed">"Startscherm kan niet hersteld worden."</string>
     <string name="restore_home_screen_apps">Herstellen van de cloud back-up</string>
     <string name="restore_init_description">Beginnen met herstellen</string>
-    <string name="restore_network_pause">%s (Tik om te hervatten)</string>
+    <string name="restore_network_pause">Onderbroken om mobiele data op te slaan. Tik om te hervatten.</string>
     <string name="restore_network_unconnect">%s (Wachten op verbinding)</string>
     <string name="restore_task_cancelling">Annuleren…</string>
     <string name="restore_task_in_process">Herstellen…</string>
     <string name="restore_task_unfinished">"Kon niet herstellen"</string>
     <string name="restore_unfinished">Herstellen, probeer het later opnieuw</string>
+    <string name="restoring_app_data_title_no_progress">WeChat gegevens herstellen…</string>
     <string name="restoring_data">Gegevens herstellen…</string>
-    <string name="restoring_file_title_no_progress">Bestanden herstellen…</string>
+    <string name="restoring_file_title_no_progress">Apps herstellen…</string>
     <string name="restoring_home_screen_apps">Herstellen vanuit Xiaomi Cloud…</string>
     <string name="restoring_settings">Instellingen Herstellen…</string>
     <string name="retry">Opnieuw proberen</string>
