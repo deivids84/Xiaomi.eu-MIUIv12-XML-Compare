@@ -90,6 +90,8 @@
     <string name="already_favorited">Al aan favorieten toegevoegd</string>
     <string name="always_use_metered">Altijd gebruik maken van mobiele data</string>
     <string name="am">VK</string>
+    <string name="app_description_content">"Muziek is een systeem app die een audiospeler bevat en waarmee je audiobestanden kunt beheren. Je kunt nog steeds audiobestanden afspelen nadat je de snelkoppeling op het startscherm verwijdert."</string>
+    <string name="app_description_title">\"Muziek\" uit startscherm verwijderen?</string>
     <string name="app_label">Downloads</string>
     <string name="app_permission_confirm">Begrepen</string>
     <string name="app_permission_optional">Optionele toestemmingen</string>
@@ -1105,6 +1107,7 @@ Wees blij"</string>
     <string name="talkback_back">Ga terug</string>
     <string name="talkback_batch_process">Meerdere items</string>
     <string name="talkback_clear">Wissen</string>
+    <string name="talkback_cut">Beltoon editor</string>
     <string name="talkback_device">Op andere apparaten afspelen</string>
     <string name="talkback_download">Downloaden</string>
     <string name="talkback_favorite">Ik vind dit nummer leuk</string>
