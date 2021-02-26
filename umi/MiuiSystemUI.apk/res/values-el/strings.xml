@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abbrev_wday_month_day_no_year">EEEEMMMMD</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEdMMMM</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
