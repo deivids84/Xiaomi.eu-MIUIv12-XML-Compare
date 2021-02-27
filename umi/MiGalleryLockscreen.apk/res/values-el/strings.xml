@@ -317,8 +317,8 @@ ID:%s
     <string name="llks_whole_cate">Όλες οι κατηγορίες</string>
     <string name="load_hdpicture_complete">Η αρχική εικόνα φορτώθηκε επιτυχώς</string>
     <string name="loading">Μια στιγμή…</string>
-    <string name="lock_screen_date">EEEE, d MMMM</string>
-    <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lock_screen_date">EEEE, MMMM d</string>
+    <string name="lock_screen_date_12">EEEE, MMMM d</string>
     <string name="lock_show_permission_exception">Προέκυψε ένα σφάλμα. Επιτρέψτε την εμφάνιση της ταπετσαρίας Carousel στην οθόνη κλειδώματος στην ασφάλεια.</string>
     <string name="lockscreen_h5_back_tv">Πίσω</string>
     <string name="lockscreen_h5_close_tv">Ανενεργό</string>
@@ -338,14 +338,11 @@ ID:%s
     <string name="minutes_5">Κάθε 5 λεπτά</string>
     <string name="miui_clock_city_name_local">Τοπικό</string>
     <string name="miui_clock_city_name_second">Δεύτερο ρολόι</string>
-    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
+    <string name="miui_lock_screen_date">EEEE, MMMM d</string>
+    <string name="miui_lock_screen_date_12">EEEE, MMMM d</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE, MMMM d"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE, MMMM d"</string>
+    <string name="miui_lock_screen_large_date">"EE, dd MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd/M"</string>
     <string name="miui_vertical_time_format_12">"hh
