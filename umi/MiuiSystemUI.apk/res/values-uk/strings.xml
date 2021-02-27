@@ -1108,7 +1108,7 @@
     <string name="kg_wrong_password">Неправильний пароль</string>
     <string name="kg_wrong_pattern">Неправильний графічний ключ</string>
     <string name="kg_wrong_pin">Неправильний PIN-код</string>
-    <string name="kilobyte_per_second">К/с</string>
+    <string name="kilobyte_per_second">КБ/с</string>
     <string name="label_view">Вигляд</string>
     <string name="launch_defaults_none">Стандартні налаштування не встановлено</string>
     <string name="launch_defaults_some">Встановлено деякі налаштування за замовчуванням</string>
@@ -1205,6 +1205,7 @@ d MMMM"</string>
     <string name="media_transfer_this_device_name">Цей пристрій</string>
     <string name="media_transfer_wired_device_name">Гарнітура для дзвінків</string>
     <string name="media_transfer_wired_usb_device_name">Гарнітура</string>
+    <string name="megabyte_per_second">МБ/с</string>
     <string name="memory_leak">Витік пам\'яті</string>
     <string name="menu_ime">Зміна клавіатури</string>
     <string name="mic_active">Увімкнено мікрофон</string>
