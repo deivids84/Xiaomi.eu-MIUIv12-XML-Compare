@@ -1212,6 +1212,7 @@ d MMMM"</string>
     <string name="media_transfer_this_device_name">Αυτή η συσκευή</string>
     <string name="media_transfer_wired_device_name">Ενσύρματη συσκευή ήχου</string>
     <string name="media_transfer_wired_usb_device_name">Ενσύρματα ακουστικά</string>
+    <string name="megabyte_per_second">MB/δ</string>
     <string name="memory_leak">Διαρροή μνήμης</string>
     <string name="menu_ime">Εναλλαγή πληκτρολογίου</string>
     <string name="mic_active">Ενεργό μικρόφωνο</string>
