@@ -1211,6 +1211,7 @@ d MMMM"</string>
     <string name="media_transfer_this_device_name">Aquest dispositiu</string>
     <string name="media_transfer_wired_device_name">Dispositiu d\'àudio per cable</string>
     <string name="media_transfer_wired_usb_device_name">Auriculars per cable</string>
+    <string name="megabyte_per_second">MB/s</string>
     <string name="memory_leak">Pèrdua de memòria</string>
     <string name="menu_ime">Commutador de teclat</string>
     <string name="mic_active">Micròfon actiu</string>
