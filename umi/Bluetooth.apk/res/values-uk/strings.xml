@@ -113,7 +113,7 @@
     <string name="permdesc_bluetoothShareManager">Дозволяє програмі отримувати доступ до менеджера BluetoothShare і використовувати його для передавання файлів.</string>
     <string name="permdesc_bluetoothWhitelist">Дозволяє програмі тимчасово додати пристрій Bluetooth у список дозволених пристроїв, що дасть йому змогу надсилати файли на цей пристрій без підтвердження від користувача.</string>
     <string name="permdesc_handoverStatus">Дозволяє отримувати інформацію статусу передачі Bluetooth</string>
-    <string name="permlab_bluetoothShareManager">Доступ до менедж. завантаж.</string>
+    <string name="permlab_bluetoothShareManager">Доступ до менедж завантаж.</string>
     <string name="permlab_bluetoothWhitelist">Доступ до дозволеного пристрою Bluetooth.</string>
     <string name="permlab_handoverStatus">Отримувати передачі BT мовлення</string>
     <string name="phonebook_advance_feature_support">Підтримувані функції в Додатку телефонну книгу</string>
