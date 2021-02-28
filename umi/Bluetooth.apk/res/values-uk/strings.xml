@@ -53,7 +53,7 @@
     <string name="defaultname">Автокомпл.</string>
     <string name="deleteAll_record">Видалити всі записи</string>
     <string name="delete_record">Видалити запис</string>
-    <string name="download_cancel">Зупин.</string>
+    <string name="download_cancel">Зупин</string>
     <string name="download_fail_line1">Файл не отримано</string>
     <string name="download_fail_line2">Файл: %1$s</string>
     <string name="download_fail_line3">Причина: %1$s</string>
@@ -61,13 +61,13 @@
     <string name="download_line1">Від: \"%1$s\"</string>
     <string name="download_line2">Файл: %1$s</string>
     <string name="download_line3">Розмір файлу: %1$s</string>
-    <string name="download_line5">Отримання файлу...</string>
+    <string name="download_line5">Отримання файлу…</string>
     <string name="download_ok">Сховати</string>
     <string name="download_succ_line5">Файл отримано</string>
     <string name="download_succ_ok">Відкрити</string>
     <string name="download_success">Завершено отримання %1$s.</string>
     <string name="download_title">Передача файлів</string>
-    <string name="enabling_progress_content">Увімкнення Bluetooth...</string>
+    <string name="enabling_progress_content">Увімкнення Bluetooth…</string>
     <string name="enabling_progress_title">Зачекайте…</string>
     <string name="inbound_history_title">Вхідні передавання</string>
     <string name="inbound_noti_title">Через Bluetooth: отримані файли</string>
@@ -99,7 +99,7 @@
     <string name="notification_sending">Через Bluetooth: надсилання %1$s</string>
     <string name="notification_sent">Через Bluetooth: надісл. %1$s</string>
     <string name="notification_sent_complete">100% виконано</string>
-    <string name="notification_sent_fail">Через Bluetooth: файл %1$s не надісл.</string>
+    <string name="notification_sent_fail">Через Bluetooth: файл %1$s не надісл</string>
     <string name="notify_server">Повідом. TCP сервер</string>
     <string name="ok_button">ОК</string>
     <string name="opp_notification_group">Обмін даними через Bluetooth</string>
