@@ -191,11 +191,11 @@
     <string name="grant_dialog_button_allow_always">Permet permanentment</string>
     <string name="grant_dialog_button_allow_background">Permet permanentment</string>
     <string name="grant_dialog_button_allow_foreground">Permet només mentre s\'utilitza l\'aplicació</string>
-    <string name="grant_dialog_button_allow_onetime">Un cop</string>
+    <string name="grant_dialog_button_allow_onetime">Una vegada</string>
     <string name="grant_dialog_button_deny">Denega</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Denega i no ho tornis a preguntar"</string>
     <string name="grant_dialog_button_deny_background">Només mentre s\'utilitza l\'aplicació</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Sempre, però només utilitzant l’aplicació</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Sempre, però només mentre s\'utilitza l\'aplicació</string>
     <string name="grant_dialog_storage_category_title">Aquesta aplicació requereix permisos per accedir a la galeria i als missatges de les aplicacions de xarxes socials</string>
     <string name="grant_dialog_storage_gallery_title">Galeria</string>
     <string name="grant_dialog_storage_sociality_title">Missatges en aplicacions de xarxes socials</string>
