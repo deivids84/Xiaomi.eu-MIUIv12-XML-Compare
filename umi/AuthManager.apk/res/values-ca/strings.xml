@@ -275,7 +275,7 @@
     <string name="ok">D\'acord</string>
     <string name="perm_action_allow">Permet</string>
     <string name="perm_action_deny">No ho permetis mai</string>
-    <string name="perm_manager_suggest_operation">Gestiona els permisos</string>
+    <string name="perm_manager_suggest_operation">Gestioneu els permisos</string>
     <string name="perm_manager_suggest_title">Voleu ajustar els permisos?</string>
     <string name="perm_modem_location">Accés a la vostra ubicació</string>
     <string name="perm_modem_location_desc">El vostre operador intenta accedir a la informació de la ubicació. Voleu compartir la informació de la ubicació amb l\'operador?</string>
