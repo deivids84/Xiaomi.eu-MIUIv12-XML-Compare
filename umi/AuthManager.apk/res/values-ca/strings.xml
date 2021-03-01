@@ -283,7 +283,7 @@
     <string name="permdesc_in_calls">Monitorar les trucades entrants</string>
     <string name="permdesc_location">Accedir a la informació d’ubicació</string>
     <string name="permdesc_location_background">Accedir a la ubicació en segon pla</string>
-    <string name="permdesc_microphone">Gravar trucades i àudio</string>
+    <string name="permdesc_microphone">Enregistrar trucades i àudio</string>
     <string name="permdesc_out_calls">Monitorar les trucades sortints</string>
     <string name="permdesc_read_calendar">Accedir als esdeveniments del calendari</string>
     <string name="permdesc_read_storage">Accedir a fotos i fitxers emmagatzemats al dispositiu</string>
