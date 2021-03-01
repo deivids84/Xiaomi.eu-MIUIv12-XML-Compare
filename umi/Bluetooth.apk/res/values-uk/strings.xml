@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ErrorTooManyRequests">Обробляється забагато запитів. Спробуйте пізніше.</string>
-    <string name="a2dp_sink_mbs_label">Bluetooth аудіо</string>
-    <string name="ack_record">Запис підтвердження</string>
+    <string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
+    <string name="ack_record">Запис TCP</string>
     <string name="airplane_error_msg">"Не можна викор. Bluetooth у режимі польоту."</string>
     <string name="airplane_error_title">Режим польоту</string>
     <string name="auth_notif_message">Введіть ключ сеансу для %1$s</string>
@@ -39,7 +39,7 @@
     <string name="bt_enable_line1">Щоб корист. послугами Bluetooth, спершу треба ввімкн. Bluetooth.</string>
     <string name="bt_enable_line2">Увімк. Bluetooth зараз?</string>
     <string name="bt_enable_ok">Увімкнути</string>
-    <string name="bt_error_btn_ok">ОК</string>
+    <string name="bt_error_btn_ok">OK</string>
     <string name="bt_sm_2_1_default">"На карті SD замало місця, щоб зберегти файл, який надсилає %1$s"</string>
     <string name="bt_sm_2_1_nosdcard">"На носії USB замало місця, щоб зберегти файл, який надсилає %1$s"</string>
     <string name="bt_sm_2_2">Потрібно місця: %1$s</string>
@@ -53,21 +53,21 @@
     <string name="defaultname">Автокомпл.</string>
     <string name="deleteAll_record">Видалити всі записи</string>
     <string name="delete_record">Видалити запис</string>
-    <string name="download_cancel">Зупин</string>
+    <string name="download_cancel">Зупин.</string>
     <string name="download_fail_line1">Файл не отримано</string>
     <string name="download_fail_line2">Файл: %1$s</string>
     <string name="download_fail_line3">Причина: %1$s</string>
-    <string name="download_fail_ok">ОК</string>
+    <string name="download_fail_ok">OK</string>
     <string name="download_line1">Від: \"%1$s\"</string>
     <string name="download_line2">Файл: %1$s</string>
     <string name="download_line3">Розмір файлу: %1$s</string>
-    <string name="download_line5">Отримання файлу…</string>
+    <string name="download_line5">Отримання файлу...</string>
     <string name="download_ok">Сховати</string>
     <string name="download_succ_line5">Файл отримано</string>
     <string name="download_succ_ok">Відкрити</string>
     <string name="download_success">Завершено отримання %1$s.</string>
     <string name="download_title">Передача файлів</string>
-    <string name="enabling_progress_content">Увімкнення Bluetooth…</string>
+    <string name="enabling_progress_content">Увімкнення Bluetooth...</string>
     <string name="enabling_progress_title">Зачекайте…</string>
     <string name="inbound_history_title">Вхідні передавання</string>
     <string name="inbound_noti_title">Через Bluetooth: отримані файли</string>
@@ -77,7 +77,7 @@
     <string name="incoming_file_confirm_content">Прийняти вхідний файл?</string>
     <string name="incoming_file_confirm_ok">Прийняти</string>
     <string name="incoming_file_confirm_timeout_content">Під час приймання вхідного файлу від \"%1$s\" виникла затримка</string>
-    <string name="incoming_file_confirm_timeout_ok">ОК</string>
+    <string name="incoming_file_confirm_timeout_ok">OK</string>
     <string name="incoming_file_confirm_title">Пересилка файлу</string>
     <string name="incoming_file_toast_msg">Вхідний файл з іншого пристрою. Підтвердіть, що хочете завантажити його.</string>
     <string name="incoming_line1">Від кого</string>
@@ -85,7 +85,7 @@
     <string name="incoming_line3">Розмір</string>
     <string name="insert_record">Вставити запис</string>
     <string name="localPhoneName">Моє ім\'я</string>
-    <string name="miui_transfer_history_title">Історія</string>
+    <string name="miui_transfer_history_title">Передачі по Bluetooth</string>
     <string name="miui_transfer_inbound_title">Вхідні</string>
     <string name="miui_transfer_outbound_title">Вихідні</string>
     <string name="no_transfers">Немає даних.</string>
@@ -99,9 +99,9 @@
     <string name="notification_sending">Через Bluetooth: надсилання %1$s</string>
     <string name="notification_sent">Через Bluetooth: надісл. %1$s</string>
     <string name="notification_sent_complete">100% виконано</string>
-    <string name="notification_sent_fail">Через Bluetooth: файл %1$s не надісл</string>
+    <string name="notification_sent_fail">Через Bluetooth: файл %1$s не надісл.</string>
     <string name="notify_server">Повідом. TCP сервер</string>
-    <string name="ok_button">ОК</string>
+    <string name="ok_button">OK</string>
     <string name="opp_notification_group">Обмін даними через Bluetooth</string>
     <string name="outbound_history_title">Вихідні передавання</string>
     <string name="outbound_noti_title">Через Bluetooth: надісл. файли</string>
@@ -113,7 +113,7 @@
     <string name="permdesc_bluetoothShareManager">Дозволяє програмі отримувати доступ до менеджера BluetoothShare і використовувати його для передавання файлів.</string>
     <string name="permdesc_bluetoothWhitelist">Дозволяє програмі тимчасово додати пристрій Bluetooth у список дозволених пристроїв, що дасть йому змогу надсилати файли на цей пристрій без підтвердження від користувача.</string>
     <string name="permdesc_handoverStatus">Дозволяє отримувати інформацію статусу передачі Bluetooth</string>
-    <string name="permlab_bluetoothShareManager">Доступ до менедж завантаж.</string>
+    <string name="permlab_bluetoothShareManager">Доступ до менедж. завантаж.</string>
     <string name="permlab_bluetoothWhitelist">Доступ до дозволеного пристрою Bluetooth.</string>
     <string name="permlab_handoverStatus">Отримувати передачі BT мовлення</string>
     <string name="phonebook_advance_feature_support">Підтримувані функції в Додатку телефонну книгу</string>
@@ -136,20 +136,20 @@
     <string name="status_running">Виконується передавання файлів.</string>
     <string name="status_success">Передавання файлів здійснено.</string>
     <string name="status_unknown_error">Невідома помилка.</string>
-    <string name="switch_audio_device_bt_a2dp">Bluetooth (аудіо медіа)</string>
-    <string name="switch_audio_device_bt_a2dp_summary">Відтворювати звук відео на під\'єднаному пристрої</string>
-    <string name="switch_audio_device_bt_hfp">Bluetooth (Дзвінки)</string>
-    <string name="switch_audio_device_bt_hfp_summary">Відтворити звук виклику на під\'єднаному пристрої. Ця функція повинна бути вимкнена вручну.</string>
-    <string name="switch_audio_device_default">Типово</string>
-    <string name="switch_audio_device_default_summary">Використаний пристрій</string>
-    <string name="switch_audio_device_hfp_hint">Перемикання назад на типовий вивід</string>
-    <string name="switch_audio_device_hfp_toast_hint">Виберіть типовий аудіовихід для відтворення аудіо на цьому пристрої знову.</string>
-    <string name="switch_audio_device_phone">Цей пристрій</string>
-    <string name="switch_audio_device_phone_summary">Відтворювати аудіо на цьому пристрої</string>
-    <string name="switch_audio_device_switch_hint">Ви можете вимкнути сповіщення про під\'єднані пристрої в Налаштуваннях &gt; Bluetooth &gt; додаткові налаштування.</string>
-    <string name="switch_audio_dialog_title">Виберіть аудіо вихід</string>
-    <string name="switch_audio_notification_content">"Поточний пристрій аудіовиходу: "</string>
-    <string name="switch_audio_notification_title">Підключення пристрою</string>
+    <string name="switch_audio_device_bt_a2dp">Bluetooth (мультимедіа)</string>
+    <string name="switch_audio_device_bt_a2dp_summary">Відтворювати звук мультимедіа на підключеному пристрої</string>
+    <string name="switch_audio_device_bt_hfp">Bluetooth (голосові виклики)</string>
+    <string name="switch_audio_device_bt_hfp_summary">Відтворювати звук голосових викликів на підключеному пристрої. Дану функцію необхідно відключати вручну.</string>
+    <string name="switch_audio_device_default">За замовчуванням</string>
+    <string name="switch_audio_device_default_summary">Поточний пристрій</string>
+    <string name="switch_audio_device_hfp_hint">Перемикання на джерело за замовчуванням</string>
+    <string name="switch_audio_device_hfp_toast_hint">Виберіть джерело виводу звуку за замовчуванням, щоб знову почати відтворення звуку на цьому пристрої.</string>
+    <string name="switch_audio_device_phone">На цьому пристрої</string>
+    <string name="switch_audio_device_phone_summary">Відтворювати звук на цьому пристрої</string>
+    <string name="switch_audio_device_switch_hint">Ви можете відключити сповіщення про підключення до пристрою у розділі Налаштування &gt; Bluetooth &gt; Додаткові налаштування.</string>
+    <string name="switch_audio_dialog_title">Виберіть джерело виводу звуку</string>
+    <string name="switch_audio_notification_content">"Поточний пристрій для виводу звуку: "</string>
+    <string name="switch_audio_notification_title">Підключення до пристроя</string>
     <string name="transfer_clear_dlg_msg">Зі списку буде видалено всі елементи.</string>
     <string name="transfer_clear_dlg_title">Очистити</string>
     <string name="transfer_menu_clear">Видалити зі списку</string>
@@ -169,6 +169,6 @@
     <string name="upload_line3">Тип файлу: %1$s (%2$s)</string>
     <string name="upload_line5">Надсил-ня файлу...</string>
     <string name="upload_succ_line5">Файл надіслано</string>
-    <string name="upload_succ_ok">ОК</string>
+    <string name="upload_succ_ok">OK</string>
     <string name="upload_success">Заверш. надсил. %1$s.</string>
 </resources>
