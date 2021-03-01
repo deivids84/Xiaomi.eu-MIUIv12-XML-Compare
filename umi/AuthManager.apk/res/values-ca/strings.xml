@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_ACTION_REJECT_CLEAR">Restringir i netejar el porta-retalls</string>
+    <string name="HIPS_ACTION_REJECT_CLEAR">Restringeix i neteja el porta- retalls</string>
     <string name="HIPS_Action_Accept">Permet</string>
     <string name="HIPS_Action_Accept_Once">Permet una vegada</string>
     <string name="HIPS_Action_Accept_This">Permet una vegada</string>
