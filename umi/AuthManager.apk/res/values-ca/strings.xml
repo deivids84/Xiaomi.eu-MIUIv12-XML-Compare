@@ -33,8 +33,8 @@
     <string name="HIPS_Perm_Intl_group_desc_call_log">Accés i edició de l\'historial de trucades</string>
     <string name="HIPS_Perm_Intl_group_desc_camera">Fer fotos i vídeos</string>
     <string name="HIPS_Perm_Intl_group_desc_contact">Edició i supressió de contactes</string>
-    <string name="HIPS_Perm_Intl_group_desc_location">Accedint a la ubicació precisa (GPS i basada en la xarxa)</string>
-    <string name="HIPS_Perm_Intl_group_desc_storage">"Afegint i suprimint fitxers de l'emmagatzematge intern del dispositiu"</string>
+    <string name="HIPS_Perm_Intl_group_desc_location">Accés a la ubicació precisa (GPS i basada en la xarxa)</string>
+    <string name="HIPS_Perm_Intl_group_desc_storage">"Addició i supressió de fitxers a l'emmagatzematge intern del dispositiu"</string>
     <string name="HIPS_Perm_Intl_group_name_audio_recorder">Micròfon</string>
     <string name="HIPS_Perm_Intl_group_name_auto_start">Inici automàtic</string>
     <string name="HIPS_Perm_Intl_group_name_calendar">Calendari</string>
@@ -44,7 +44,7 @@
     <string name="HIPS_Perm_Intl_group_name_location">Ubicació</string>
     <string name="HIPS_Perm_Intl_group_name_storage">Emmagatzematge</string>
     <string name="HIPS_Perm_Location">Obtenir informació de la ubicació</string>
-    <string name="HIPS_Perm_Location_Desc">obtenir la ubicació precisa (basada en el GPS i en la xarxa)</string>
+    <string name="HIPS_Perm_Location_Desc">obtenir la ubicació precisa (GPS i basada en la xarxa)</string>
     <string name="HIPS_Perm_PhoneID">Obtenir informació del dispositiu</string>
     <string name="HIPS_Perm_PhoneID_Desc">accedir al número de telèfon, al IMEI i al IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Accedir al número de telèfon i a l\'estat del dispositiu</string>
