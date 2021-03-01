@@ -2,10 +2,10 @@
 <resources>
     <string name="HIPS_ACTION_REJECT_CLEAR">Restringir i netejar el porta-retalls</string>
     <string name="HIPS_Action_Accept">Permet</string>
-    <string name="HIPS_Action_Accept_Once">Permet-ho un cop</string>
-    <string name="HIPS_Action_Accept_This">Permet-ho una vegada</string>
+    <string name="HIPS_Action_Accept_Once">Permet una vegada</string>
+    <string name="HIPS_Action_Accept_This">Permet una vegada</string>
     <string name="HIPS_Action_Reject">Denega</string>
-    <string name="HIPS_Action_Reject_Once">Denega-ho un cop</string>
+    <string name="HIPS_Action_Reject_Once">Denega una vegada</string>
     <string name="HIPS_Action_Reject_This">Restringeix una vegada</string>
     <string name="HIPS_Perm_Access_Gallery">Accés a la galeria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi a elements de la vostra galeria</string>
