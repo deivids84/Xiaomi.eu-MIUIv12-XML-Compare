@@ -776,6 +776,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="face_unlock_pin_and_fingerprint">Introduïu el PIN o utilitzeu l\'empremta digital per desbloquejar-lo</string>
     <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
     <string name="face_unlock_reveal_mouth">Feu visible els llavis</string>
+    <string name="face_unlock_success">Desbloquejat correctament</string>
     <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració per a %1$s"</string>
     <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremtes. Torneu a afegir l’empremta.</string>
     <string name="fingerprint_add_title">Afegeix empremta</string>
