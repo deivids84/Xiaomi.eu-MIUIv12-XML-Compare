@@ -80,6 +80,7 @@ per afegir targetes"</string>
     <string name="altitude_pressure_hint">*L\'altitud calculada en funció de la pressió atmosfèrica és aproximada</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">am</string>
+    <string name="app_name">MiaoCourse</string>
     <string name="app_setting">Aplicacions</string>
     <string name="audio_permission_dialog_desc">Per analitzar el vostre cicle de son i enregistrar converses i els roncs, Xiaomi Health necessita permís per enregistrar l\'àudio.</string>
     <string name="audio_permission_dialog_title">Permet l\'enregistrament d\'àudio</string>
@@ -263,6 +264,7 @@ Si decidiu suprimir les dades de salut després de triar conservar-les, podeu fe
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="date_week_index">"'W'ww yyyy"</string>
     <string name="day">Dia</string>
     <string name="deep_light_detection_open_prompt">El vostre cicle de son serà analitzat la pròxima vegada que us fiqueu al llit</string>
@@ -813,10 +815,13 @@ Torneu a començar."</string>
     <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
     <string name="miuix_appcompat_confirm_description">Confirmeu</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1082,6 +1087,7 @@ Torneu a començar."</string>
     <string name="select_recog_question">Seleccioneu l\'acció</string>
     <string name="select_swim_posture">Seleccioneu l\'estil</string>
     <string name="select_target">Seleccioneu l\'objectiu</string>
+    <string name="send">Envia</string>
     <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
     <string name="sending">S\'està enviant…</string>
     <string name="set_emergency_contact">Contacte d\'emergència</string>
