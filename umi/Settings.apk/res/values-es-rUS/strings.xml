@@ -1379,7 +1379,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
     <string name="bootloader_status_locked_summary">El teléfono es seguro</string>
-    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necesita acceso a su cuenta Mi, ID de CPU, IMSI para funcionar normalmente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Estar de acuerdo?</Data></string>
+    <string name="bootloader_status_privacy_dialog_message">Mi Unlock necesita acceso a Cuenta Mi, ID del CPU, IMEI e IMSI para funcional normalmente. Recolectamos, usamos y procesamos tus datos de acuerdo a nuestra %s. ¿De acuerdo?</string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos requeridos</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidad</string>
@@ -8067,11 +8067,11 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_ask_disable">%s quiere apagar el Wi-Fi</string>
     <string name="wifi_ask_enable">%s quiere activar el Wi-Fi</string>
     <string name="wifi_assist">Asistente de Wi-Fi</string>
-    <string name="wifi_assistant">Permanecer conectado</string>
+    <string name="wifi_assistant">Seleccionar las mejores redes automáticamente</string>
     <string name="wifi_assistant_auto_confirm_data_help">Puede desactivar esta función en Ajustes &gt; Wi-Fi &gt; Asistente Wi-Fi.</string>
     <string name="wifi_assistant_auto_confirm_data_message">"Utilice la red datos móviles cuando su dispositivo no pueda conectarse a Internet a través de Wi-Fi."</string>
-    <string name="wifi_assistant_confirm_always">"No preguntar de nuevo"</string>
-    <string name="wifi_assistant_confirm_connection_title">"No se puede conectar a Internet"</string>
+    <string name="wifi_assistant_confirm_always">"No más consejos la próxima vez"</string>
+    <string name="wifi_assistant_confirm_connection_title">"Confirmar conexión"</string>
     <string name="wifi_assistant_data_prompt">Mostrar alertas de uso de datos</string>
     <string name="wifi_assistant_data_prompt_summary">Mostrar alerta de uso de datos cuando el asistente Wi-Fi cambie a datos móviles</string>
     <string name="wifi_assistant_description">"Así funciona el asistente Wi-Fi:
@@ -8079,8 +8079,8 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
 2. Si todas las redes Wi-Fi disponibles son débiles y los datos móviles están activados, el asistente cambiará a datos móviles."</string>
     <string name="wifi_assistant_disconnect">Desconectar</string>
     <string name="wifi_assistant_explicitly_confirm_data_message">"No se pudo conectar a Internet mediante Wi-Fi. ¿Cambiar a datos móviles?"</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">¿Desconectarse de la red Wi-Fi?</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">Parece que hay otras redes disponibles. ¿Cambiar de red?</string>
+    <string name="wifi_assistant_explicitly_confirm_disconnect">La conexión Wi-Fi actual no puede acceder a internet, ¿quieres desconectarte?</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">La conexión Wi-Fi actual no puede acceder a internet, pero existen otras redes que se pueden conectar normalmente, ¿cambiar de red?</string>
     <string name="wifi_assistant_keep_connection">Permanecer conectado</string>
     <string name="wifi_assistant_keep_wifi_connection">No, gracias</string>
     <string name="wifi_assistant_off">Desactivado</string>
@@ -8091,7 +8091,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_assistant_prompt_checkbox">Solicitar permiso para usar datos móviles</string>
     <string name="wifi_assistant_prompt_summary">"Su dispositivo se conectará a otras redes Wi-Fi disponibles o utilizará datos móviles cuando su red Wi-Fi actual no pueda conectarse a Internet."</string>
     <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
-    <string name="wifi_assistant_summary">"Conéctese a otras redes Wi-Fi disponibles o use datos móviles cuando su red Wi-Fi actual no pueda conectarse a Internet"</string>
+    <string name="wifi_assistant_summary">"Seleccionar una red Wi-Fi o datos móviles de manera inteligente cuando la conexión Wi-Fi sea débil"</string>
     <string name="wifi_assistant_switch_data">Usar datos móviles</string>
     <string name="wifi_assistant_switch_wifi">Cambiar de red</string>
     <string name="wifi_auto_connect">Conectarse automáticamente</string>
@@ -8572,13 +8572,13 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_tether_stopping">Desactivando zona Wi-Fi…</string>
     <string name="wifi_time_remaining">Tiempo restante: %1$s</string>
     <string name="wifi_traffic_priority">Modo acelerador Wi-Fi</string>
-    <string name="wifi_traffic_priority_extreme">Conexión rápida</string>
-    <string name="wifi_traffic_priority_extreme_summary">"Dé prioridad a las aplicaciones que está utilizando mientras reduce la velocidad de descarga en segundo plano"</string>
+    <string name="wifi_traffic_priority_extreme">Modo extremo</string>
+    <string name="wifi_traffic_priority_extreme_summary">"La aplicación actual tiene prioridad sobre el uso de recursos de red y brindar una experiencia extrema, esto podría causar que las aplicaciones en segundo plano no puedan acceder a la red"</string>
     <string name="wifi_traffic_priority_off">Desactivado</string>
     <string name="wifi_traffic_priority_on">Activado</string>
-    <string name="wifi_traffic_priority_regular">Equilibrado</string>
-    <string name="wifi_traffic_priority_regular_summary">Asigne el mismo ancho de banda a las aplicaciones y descargas en segundo plano</string>
-    <string name="wifi_traffic_priority_summary">Asigne ancho de banda a aplicaciones y descargas en segundo plano</string>
+    <string name="wifi_traffic_priority_regular">Modo normal</string>
+    <string name="wifi_traffic_priority_regular_summary">La descarga en segundo plano comparte los recursos de red con la aplicación actual</string>
+    <string name="wifi_traffic_priority_summary">Ajustar las prioridades de tráfico de datos de la red actual de manera inteligente</string>
     <string name="wifi_turned_on_message">Red Wi‑Fi activada</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
     <string name="wifi_type_approval_title">Tipo de aprobación</string>
