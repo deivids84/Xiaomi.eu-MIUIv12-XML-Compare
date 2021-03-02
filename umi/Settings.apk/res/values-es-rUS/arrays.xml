@@ -12,8 +12,8 @@
         <item>Todas las redes</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
-        <item>Tendencia</item>
-        <item>Caliente</item>
+        <item>CALIENTE</item>
+        <item>TEMPLADO</item>
         <item>FRÍO</item>
     </string-array>
     <string-array name="ai_item_action_array">
@@ -483,13 +483,13 @@
         <item>Kampala</item>
         <item>Jartum</item>
         <item>Kigali</item>
-        <item>Kinsasa</item>
+        <item>Kinshasa</item>
         <item>Lagos</item>
         <item>Maseru</item>
         <item>Mogadiscio</item>
         <item>Nairobi</item>
         <item>Santo Tomé</item>
-        <item>Timbuktu</item>
+        <item>Tombuctú</item>
         <item>Trípoli</item>
         <item>Túnez</item>
         <item>Anchorage</item>
@@ -507,7 +507,7 @@
         <item>Costa Rica</item>
         <item>Curazao</item>
         <item>Dawson Creek</item>
-        <item>Dénver</item>
+        <item>Denver</item>
         <item>Detroit</item>
         <item>Dominica</item>
         <item>Edmonton</item>
@@ -548,9 +548,9 @@
         <item>Puerto Príncipe</item>
         <item>Puerto Rico</item>
         <item>Santo Domingo</item>
-        <item>Sao Paulo</item>
+        <item>São Paulo</item>
         <item>St. Johns</item>
-        <item>Isla de San Cristóbal</item>
+        <item>San Cristóbal</item>
         <item>Santa Lucía</item>
         <item>Santo Tomás</item>
         <item>Tijuana</item>
@@ -559,47 +559,47 @@
         <item>Winnipeg</item>
         <item>Polo Sur</item>
         <item>Longyearbyen</item>
-        <item>Almatý</item>
-        <item>Amán</item>
+        <item>Almaty</item>
+        <item>Amman</item>
         <item>Anádyr</item>
-        <item>Aqtau</item>
+        <item>Aktau</item>
         <item>Bagdad</item>
-        <item>Baréin</item>
+        <item>Bahréin</item>
         <item>Bakú</item>
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Calcuta</item>
         <item>Damasco</item>
-        <item>Dhaka</item>
-        <item>Dubái</item>
+        <item>Daca</item>
+        <item>Dubai</item>
         <item>Gaza</item>
         <item>Hebrón</item>
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
         <item>Yakarta</item>
         <item>Jerusalén</item>
-        <item>Kabúl</item>
+        <item>Kabul</item>
         <item>Karachi</item>
         <item>Katmandú</item>
         <item>Kuala Lumpur</item>
         <item>Kuwait</item>
         <item>Macao</item>
         <item>Manila</item>
-        <item>Mascat</item>
+        <item>Mascate</item>
         <item>Nom Pen</item>
         <item>Pyongyang</item>
-        <item>Catar</item>
+        <item>Qatar</item>
         <item>Rangún</item>
         <item>Riad</item>
         <item>Seúl</item>
         <item>Shanghái</item>
         <item>Singapur</item>
-        <item>Taipéi</item>
+        <item>Taipei</item>
         <item>Teherán</item>
         <item>Tel Aviv</item>
         <item>Tokio</item>
         <item>Ulán Bator</item>
-        <item>Bermuda</item>
+        <item>Bermudas</item>
         <item>Islas Canarias</item>
         <item>Cabo Verde</item>
         <item>Reikiavik</item>
@@ -613,7 +613,7 @@
         <item>Queensland</item>
         <item>Sídney</item>
         <item>Victoria</item>
-        <item>Isla de Terranova</item>
+        <item>Terranova</item>
         <item>Saskatchewan</item>
         <item>Isla de Pascua</item>
         <item>Ámsterdam</item>
@@ -627,7 +627,7 @@
         <item>Bucarest</item>
         <item>Budapest</item>
         <item>Chisináu</item>
-        <item>Copenague</item>
+        <item>Copenhague</item>
         <item>Dublín</item>
         <item>Gibraltar</item>
         <item>Helsinki</item>
@@ -710,8 +710,8 @@
         <item>Mountain View</item>
         <item>Reno</item>
         <item>Doha</item>
-        <item>Pekín</item>
-        <item>Bombay</item>
+        <item>Beijing</item>
+        <item>Mumbai</item>
         <item>Delhi</item>
         <item>Osaka</item>
         <item>Lahore</item>
@@ -720,7 +720,7 @@
         <item>Múnich</item>
         <item>Milán</item>
         <item>Fráncfort</item>
-        <item>Hanói</item>
+        <item>Hanoi</item>
         <item>Ankara</item>
         <item>Bangalore</item>
         <item>Brasilia</item>
