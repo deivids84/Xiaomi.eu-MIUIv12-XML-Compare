@@ -152,6 +152,8 @@
     <string name="aqi_quality_index_light_pollution">Легке забруднення</string>
     <string name="aqi_quality_index_moderate">Помірне</string>
     <string name="aqi_quality_index_unhealthy">Шкідливе</string>
+    <string name="assistant_edge_gesture_summary">Проведіть вгору від нижнього лівого або правого кута щоб розбудити Google Assistant</string>
+    <string name="assistant_edge_gesture_title">Проведіть пальцем угору від кута для Google Assistant</string>
     <string name="auto_add_app_shortcut">Додавати нові програми на робочий стіл</string>
     <string name="auto_delete_category_dialog_content">Поточні програми буде видалено з категорії і саму категорію також буде видалено. Видалити категорію?</string>
     <string name="auto_delete_category_dialog_title">Видалення категорії</string>
