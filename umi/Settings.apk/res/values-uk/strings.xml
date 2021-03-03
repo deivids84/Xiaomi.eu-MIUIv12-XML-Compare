@@ -7480,7 +7480,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="unlock_set_unlock_password_title">Пароль</string>
     <string name="unlock_set_unlock_pattern_summary">Придумайте графічний ключ для розблокування пристрою</string>
     <string name="unlock_set_unlock_pattern_title">Графічний ключ</string>
-    <string name="unlock_set_unlock_pin_summary">Введіть %d-%d цифри для розблокування</string>
+    <string name="unlock_set_unlock_pin_summary">Введіть %1$d-%2$d номерів, щоб розблокувати пристрій</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="unlock_set_unlock_summary">Встановіть пароль для увімкнення захисту</string>
     <string name="unlock_setup_wizard_fingerprint_details">Коли ви налаштуєте блокування екрана, можете додати цифровий відбиток у меню \"Налаштування\" &gt; \"Безпека\".</string>
@@ -7526,7 +7526,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="usage_state_app_usage_detail_title">Відомості про роботу</string>
     <string name="usage_state_app_usage_list_title">"Екранний час програм"</string>
     <string name="usage_state_app_usage_list_week_title">"Екранний час програм"</string>
-    <string name="usage_state_app_usage_tip_title">Час роботи з %d:00 до %d:00</string>
+    <string name="usage_state_app_usage_tip_title">Час екрану між %1$d:00 та %2$d:00</string>
     <string name="usage_state_app_use_time">Робота програми</string>
     <string name="usage_state_channel_mouth">Останні 30 днів</string>
     <string name="usage_state_channel_week">Останні 7 днів</string>
@@ -7535,7 +7535,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="usage_state_device_unlock_today_tip_title">Розблокований пристрій між %1$d:00 та %2$d:00</string>
     <string name="usage_state_friday">Пт</string>
     <string name="usage_state_go_more">Інші програми</string>
-    <string name="usage_state_hour_minute">%dгод %dхв</string>
+    <string name="usage_state_hour_minute">%1$dгод %2$dхв</string>
     <string name="usage_state_less_one_minute">Менше 1 хвилини</string>
     <string name="usage_state_monday">Пн</string>
     <string name="usage_state_mourth_day">Екранний час на %s</string>
@@ -7557,11 +7557,11 @@ OTG автоматично відключається через 10 хвилин
     <string name="usage_state_usage_time_remind">Ліміт часу роботи</string>
     <string name="usage_state_use_time_remind_title">Ліміт часу роботи</string>
     <string name="usage_state_wednesday">Ср</string>
-    <string name="usage_state_week_day_hour_minute">Вихідні: %d год %d хв</string>
+    <string name="usage_state_week_day_hour_minute">Вихідні: %1$dгод %2$dхв</string>
     <string name="usage_state_week_total_text">Час роботи (останні 7 днів)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Будні</string>
-    <string name="usage_state_work_day_hour_minute">Будні: %d год %d хв</string>
+    <string name="usage_state_work_day_hour_minute">Будників: %1$dгод %2$dхв</string>
     <string name="usage_stats_label">Статист. використ.</string>
     <string name="usage_stats_normal_day">Будні</string>
     <string name="usage_stats_week_day">Вихідні</string>
@@ -7599,9 +7599,9 @@ OTG автоматично відключається через 10 хвилин
     <string name="usagestats_app_category_miui_video_etc">Музика та відео</string>
     <string name="usagestats_device_notification_des">Добовий ліміт часу: %s</string>
     <string name="usagestats_device_notification_des_over">"Ви вже досягли добового ліміту часу роботи."</string>
-    <string name="usagestats_device_notification_des_reset">"Добовий ліміт: %s | Залишилося %s"</string>
+    <string name="usagestats_device_notification_des_reset">"Добовий ліміт: %1$s | Залишилося %2$s"</string>
     <string name="usagestats_device_notification_title">Ліміт часу роботи</string>
-    <string name="usagestats_device_timeout_des">"Ви використовуєте пристрій вже %dгод %dхв. Відпочиньте!"</string>
+    <string name="usagestats_device_timeout_des">"Ви використовуєте свій пристрій за %1$dг %2$dм сьогодні. Відпочиньте!"</string>
     <string name="usagestats_device_timeout_negative">Нагадати через годину</string>
     <string name="usagestats_device_timeout_positive">Зрозуміло</string>
     <string name="usagestats_device_timeout_title">Ліміт часу роботи</string>
