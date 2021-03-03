@@ -4263,6 +4263,10 @@ Xiaomi Cloud
     <string name="miheadset_LeftEar">Αριστερά</string>
     <string name="miheadset_RightEar">Δεξιά</string>
     <string name="miheadset_active">Ενεργητικός</string>
+    <string name="miheadset_ancClosed">Ανενεργό</string>
+    <string name="miheadset_ancHigh">Υψηλή</string>
+    <string name="miheadset_ancLow">Χαμηλή</string>
+    <string name="miheadset_ancMedium">Μεσαίο</string>
     <string name="miheadset_anc_indicate">Συνδέστε τα ακουστικά σας</string>
     <string name="miheadset_audio_mode">Ποιότητα ήχου</string>
     <string name="miheadset_audio_mode_high">Υψηλή</string>
@@ -4284,6 +4288,7 @@ Xiaomi Cloud
     <string name="miheadset_double_click_key_mode">Διπλό πάτημα</string>
     <string name="miheadset_double_click_left">Πατήστε δύο φορές το αριστερό ακουστικό</string>
     <string name="miheadset_double_click_right">Πατήστε δύο φορές το δεξί ακουστικό</string>
+    <string name="miheadset_enhanceVoice">Βελτίωση φωνής</string>
     <string name="miheadset_enhence_high">Βελτιωμένα πρίμα</string>
     <string name="miheadset_enhence_low">Βελτιωμένα μπάσα</string>
     <string name="miheadset_equalizer">Ισοσταθμιστής</string>
@@ -4314,8 +4319,8 @@ Xiaomi Cloud
     <string name="miheadset_key_config_close_summary">Απενεργοποίηση ακύρωσης θορύβου και διαφάνειας</string>
     <string name="miheadset_key_config_gesture_control">Χειρονομίες</string>
     <string name="miheadset_key_config_next_music">Επόμενο τραγούδι</string>
-    <string name="miheadset_key_config_noise_control">Ενεργός έλεγχος θορύβου</string>
-    <string name="miheadset_key_config_noise_control_summary">Πατήστε παρατεταμένα για εναλλαγή μεταξύ δύο επιλεγμένων λειτουργιών ελέγχου ενεργού θορύβου</string>
+    <string name="miheadset_key_config_noise_control">Έλεγχος θορύβου</string>
+    <string name="miheadset_key_config_noise_control_summary">Πατήστε παρατεταμένα για εναλλαγή μεταξύ δύο επιλεγμένων λειτουργιών ελέγχου θορύβου</string>
     <string name="miheadset_key_config_noise_summary">Μπλοκάρισμα εξωτερικών ήχων</string>
     <string name="miheadset_key_config_press_left">Πατήστε και κρατήστε πατημένο το αριστερό ακουστικό</string>
     <string name="miheadset_key_config_press_right">Πατήστε και κρατήστε πατημένο το δεξί ακουστικό</string>
@@ -4339,6 +4344,7 @@ Xiaomi Cloud
     <string name="miheadset_rename_device">Μετονομασία</string>
     <string name="miheadset_soft">Απαλό</string>
     <string name="miheadset_transparent">Διαφάνεια</string>
+    <string name="miheadset_transparentMode">Διαφάνεια</string>
     <string name="miheadset_triple_click_key_mode">Τριπλό πάτημα</string>
     <string name="miheadset_unpair_device_text">%1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν τον Mi Λογαριασμό.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -7276,6 +7282,7 @@ Xiaomi Cloud
     <string name="title_layout_current2_weight">Μέγεθος κειμένου και πάχος γραμματοσειράς</string>
     <string name="title_miui_music_mute_by_user">Αθόρυβη λειτουργία</string>
     <string name="title_of_auto_launch_manage">Αυτόματη Έναρξη</string>
+    <string name="title_special_features_health_global">Καρδιακός ρυθμός</string>
     <string name="to_close">Απενεργοποίηση</string>
     <string name="toast_apply_font_fail">"Αδυναμία ορισμού γραμματοσειράς"</string>
     <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>
