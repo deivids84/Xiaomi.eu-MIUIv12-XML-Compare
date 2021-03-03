@@ -369,7 +369,7 @@
     <string name="battery_info_status_full">Completo</string>
     <string name="battery_info_status_not_charging">"Enchufado, no se puede cargar ahora mismo"</string>
     <string name="battery_info_status_unknown">Desconocido</string>
-    <string name="battery_low_percent_format">%d%% restante</string>
+    <string name="battery_low_percent_format">%s restante</string>
     <string name="battery_low_percent_format_hybrid">%1$s restante, aproximadamente %2$s restante según su uso</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s restante, aproximadamente %2$s restante</string>
     <string name="battery_low_percent_format_saver_started">%s restante. Ahorro de batería activado.</string>
@@ -1049,7 +1049,7 @@ Utilice sólo el cargador proporcionado."</string>
  Contacta con tu proveedor de servicio para conseguir otra."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Tarjeta SIM inutilizable.</string>
     <string name="keyguard_plugged_in">Cargando</string>
-    <string name="keyguard_plugged_in_charging_fast">Cargando rápido</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Carga rápida</string>
     <string name="keyguard_plugged_in_charging_slowly">%s • Carga lenta</string>
     <string name="keyguard_plugged_in_wireless">%s • Carga de forma inalámbrica</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Pulsa para ver detalles.</string>
