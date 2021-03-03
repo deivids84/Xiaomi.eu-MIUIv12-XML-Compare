@@ -16,6 +16,8 @@
     <string name="apply_password_action">Встановити пароль</string>
     <string name="apply_password_confirm_dlg_msg">Використовувати пароль для %s​?</string>
     <string name="apply_password_confirm_dlg_title">Пароль для %s</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Клавіші навігації вимкнені. Натисніть 2 рази будь яку клавішу для увімкнення.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Клавіші навігації увімкнені</string>
     <string name="auto_disable_screenbuttons_float_text">Натисніть для увімкнення клавіш навігації</string>
@@ -117,6 +119,8 @@
     <string name="handy_mode_title">Керування однією рукою</string>
     <string name="help">"Не вдалося знайти пристрій?"</string>
     <string name="help_content">"Якщо ви не можете знайти потрібний вам пристрій, попросіть іншу людину увімкнути Mi Share."</string>
+    <string name="hisense">Гізенсе</string>
+    <string name="hisense_phone">Гізенсе</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Помістіть свій палець на клавішу \"Дім\"</string>
     <string name="internal_livetalk_enable">Використовуйте пакети поповнення для місцевих викликів</string>
     <string name="international_livetalk_enable">Використовуйте пакети поповнення для міжнародних викликів</string>
@@ -153,6 +157,8 @@
     <string name="miui_warning_tip_info">Помилка %1$s. Закрити програму?</string>
     <string name="nearby_share">Поділитись поблизу</string>
     <string name="notification_channel_hotspot">Сповіщення точки доступу</string>
+    <string name="nubia">Нубія</string>
+    <string name="nubia_phone">Нубія</string>
     <string name="onehour">30 хв.</string>
     <string name="open_close_tip_action">Зрозуміло</string>
     <string name="open_close_tip_content">Щоб закрити плаваюче вікно, натисніть та утримуйте панель дій і потім проведіть вгору</string>
@@ -204,6 +210,8 @@
     <string name="resolver_other_method">Інші параметри</string>
     <string name="resolver_recommend_options_tag">Рекомендовані варіанти</string>
     <string name="resource_select">Виберіть</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="scanning_device_tips">Пошук пристроїв поруч,… Переконайтеся, що інший пристрій знаходиться в видимому режимі.</string>
     <string name="screen_button_notification_text">Натисніть для увімкнення</string>
     <string name="screen_button_notification_title">Клавіші вимкнені</string>
@@ -245,6 +253,8 @@
     <string name="slavewifi_disconnect">Від\'єднатись</string>
     <string name="slavewifi_notification_title">Використання подвійного з\'єднання Wi-Fi</string>
     <string name="slavewifi_settings">Торкніться, щоб змінити налаштування</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">Під\'єднано: %d</string>
     <string name="softap_notifif_title">Точку доступу \"%s\" увімкнено</string>
     <string name="standard">Без звуку</string>
@@ -333,4 +343,6 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">Двоїста програма</string>
     <string name="xspace_resolver_activity_title">Оберіть програму</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>
