@@ -21,16 +21,16 @@
         <item quantity="one">%1$s segundo</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Demora prolongada (%1$d ms)</item>
-        <item quantity="one">Demora prolongada (%1$d ms)</item>
+        <item quantity="other">Largo (%1$s segundos)</item>
+        <item quantity="one">Largo (%1$s segundo)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
         <item quantity="other">Medio (%1$s segundos)</item>
         <item quantity="one">Medio (%1$s segundos)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Demora breve (%1$d ms)</item>
-        <item quantity="one">Demora breve (%1$d ms)</item>
+        <item quantity="other">Corto (%1$s segundos)</item>
+        <item quantity="one">Corto (%1$s segundo)</item>
     </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">La aplicación afirma manejar %d enlaces</item>
@@ -42,7 +42,7 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nunca desactivar para %d aplicaciones</item>
-        <item quantity="one">Nunca desactivar para 1 aplicación</item>
+        <item quantity="one">Nunca deshabilitar para %d aplicación</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Desactivar siempre para %d aplicaciones</item>
@@ -509,8 +509,8 @@ Comunícate con el administrador para obtener más información sobre la certifi
         <item quantity="one">El código PIN de la tarjeta SIM es incorrecto. Tienes %d intento más antes de que debas comunicarte con el proveedor para desbloquear el dispositivo.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Las notificaciones de %1$d apps pueden anular el modo No interrumpir</item>
-        <item quantity="one">Las notificaciones de 1 app pueden anular el modo No interrumpir</item>
+        <item quantity="other">%s pueden interrumpir</item>
+        <item quantity="one">%s puede interrumpir</item>
     </plurals>
     <plurals name="zen_mode_contacts_count">
         <item quantity="other">%d contactos</item>
