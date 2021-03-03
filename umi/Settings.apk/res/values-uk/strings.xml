@@ -1399,7 +1399,7 @@
     <string name="bootloader_status_locked">Заблокований</string>
     <string name="bootloader_status_locked_info">Пристрій заблокований</string>
     <string name="bootloader_status_locked_summary">Пристрій захищений</string>
-    <string name="bootloader_status_privacy_dialog_message">Для нормальної роботи Mi Unlock необхідний доступ до вашого Мі акаунту, ID ЦП, IMEI, IMSI. Ми збираємо, обробляємо та використовуємо ваші дані у відповідності з нашою %s. Дозволити?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock потрібен доступ до вашого Mi аккаунта, ЦП ID, IMSI працювати нормально. Прочитайте і погодьтеся з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt;. Прийняти?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Скасувати</string>
     <string name="bootloader_status_privacy_dialog_title">Необхідні дозволи</string>
     <string name="bootloader_status_privacy_dialog_url_text">Політика конфіденційності</string>
@@ -2282,6 +2282,7 @@
     <string name="development_settings_not_available">"Цьому користувачу недоступні можливості розробника"</string>
     <string name="development_settings_summary">Налаштування параметрів для розробників</string>
     <string name="development_settings_title">Для розробників</string>
+    <string name="device_activation_info">Активація пристрою</string>
     <string name="device_admin_add_title">Адміністратор пристрою</string>
     <string name="device_admin_settings_title">Налаштування адміністратора пристрою</string>
     <string name="device_admin_status">Цей додаток адміністратора активний і дозволяє додатку %1$s виконувати вказані нижче дії.</string>
@@ -3930,7 +3931,7 @@ Xiaomi Cloud
     <string name="lockpassword_choose_your_pin_header_second_space">"Встановіть PIN-код 
  для Другого простору"</string>
     <string name="lockpassword_choose_your_pin_message">З міркувань безпеки налаштуйте PIN-код</string>
-    <string name="lockpassword_choose_your_pin_title">Введіть %d-%d цифри</string>
+    <string name="lockpassword_choose_your_pin_title">Введіть %1$d-%2$d цифри</string>
     <string name="lockpassword_choose_your_screen_lock_header">Параметри блокування екрана</string>
     <string name="lockpassword_clear_label">Очистити</string>
     <string name="lockpassword_confirm_for_second_user">Підтвердіть пароль для Другого простору</string>
@@ -4417,6 +4418,9 @@ Xiaomi Cloud
     <string name="miui_sos_menu_add">Додати</string>
     <string name="miui_sos_menu_edit">Змінити</string>
     <string name="miui_sos_msg_call_log_prefix">"Мій журнал викликів за останню годину: "</string>
+    <string name="miui_sos_pa_title">Екстрене розташування</string>
+    <string name="miui_sos_pa_turn_off">Вимкнено</string>
+    <string name="miui_sos_pa_turn_on">Увімк</string>
     <string name="miui_sos_play_voice">Відтворити повідомлення SOS</string>
     <string name="miui_sos_remind_add">Додати</string>
     <string name="miui_sos_remind_close">Режим SOS увімкнено. Вимкнути його разом із усіма супутніми функціями?</string>
@@ -4746,9 +4750,9 @@ Xiaomi Cloud
     <string name="nfc_repair_btn_retry">Повторити спробу</string>
     <string name="nfc_repair_btn_yes">Так</string>
     <string name="nfc_repair_confirm_desc">"Чи виникали у вас наступні проблеми?
-%d. Ви не могли додати або поповнити карту NFC.
-%d. Ваша карта NFC не працює.
-%d. Інші фукнції NFC не працюють."</string>
+%1$d. Ви не могли додати або поповнити карту NFC.
+%2$d. Ваша карта NFC не працює.
+%3$d. Інші фукнції NFC не працюють."</string>
     <string name="nfc_repair_fail_desc">Сталдася помилка, через яку функціонал NFC не було відновлено. Повторіть спробу пізніше.</string>
     <string name="nfc_repair_fail_title">"Не вдалося відновити"</string>
     <string name="nfc_repair_ongoing">"Відновлення… Не закривайте сторінку"</string>
@@ -4974,7 +4978,7 @@ Xiaomi Cloud
     <string name="notification_suggestion_title">Керуйте інформацією на заблокованому екрані</string>
     <string name="notification_summary_level">Рівень %d</string>
     <string name="notification_summary_none">Увімкнено для всіх додатків</string>
-    <string name="notification_switch_label">Показувати сповіщення</string>
+    <string name="notification_switch_label">Всі \"%1$s\" сповіщення</string>
     <string name="notification_toggle_off">Вимкнено</string>
     <string name="notification_toggle_on">Увімкнено</string>
     <string name="notification_unknown_sound_title">Сигнал додатків</string>
@@ -5665,7 +5669,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="remove_managed_profile_label">Видалити службовий профіль</string>
     <string name="repeat">Повторювати</string>
     <string name="repeat_call">Сповіщати про повторні виклики</string>
-    <string name="repeat_call_info">Не відключати сигнал для повторних викликів протягом 15 хвилин у Режимі \"Без звуку\"</string>
+    <string name="repeat_call_info">Не відключати сигнал для повторних викликів протягом %d хвилин у Режимі \"Без звуку\"</string>
     <string name="repeat_days_in_week">Повторити</string>
     <string name="repeat_never">Ніколи</string>
     <string name="repeat_title">Повторити</string>
