@@ -2280,6 +2280,7 @@ Bluetooth"</string>
     <string name="development_settings_not_available">"Οι Επιλογές προγραμματιστών δεν είναι διαθέσιμες για αυτό τον χρήστη"</string>
     <string name="development_settings_summary">Ορισμός επιλογών για ανάπτυξη εφαρμογών</string>
     <string name="development_settings_title">Επιλογές προγραμματιστών</string>
+    <string name="device_activation_info">Ενεργοποίηση συσκευής</string>
     <string name="device_admin_add_title">Διαχειριστής συσκευής</string>
     <string name="device_admin_settings_title">Ρυθμίσεις διαχειριστή συσκευής</string>
     <string name="device_admin_status">Αυτή η εφαρμογή διαχειριστή είναι ενεργή και επιτρέπει στην εφαρμογή %1$s να εκτελεί τις παρακάτω λειτουργίες:</string>
@@ -4420,6 +4421,9 @@ Xiaomi Cloud
     <string name="miui_sos_menu_add">Προσθήκη</string>
     <string name="miui_sos_menu_edit">Επεξεργασία</string>
     <string name="miui_sos_msg_call_log_prefix">"Εδώ είναι το ιστορικό κλήσεών μου για την τελευταία ώρα:"</string>
+    <string name="miui_sos_pa_title">Θέση έκτακτης ανάγκης</string>
+    <string name="miui_sos_pa_turn_off">Ανενεργό</string>
+    <string name="miui_sos_pa_turn_on">Ενεργό</string>
     <string name="miui_sos_play_voice">Αναπαραγωγή μηνύματος Έκτακτης ανάγκης</string>
     <string name="miui_sos_remind_add">Προσθήκη</string>
     <string name="miui_sos_remind_close">Η Λειτουργία έκτακτης ανάγκης είναι ενεργή. Να απενεργοποιηθεί μαζί τις συσχετισμένες λειτουργίες;</string>
