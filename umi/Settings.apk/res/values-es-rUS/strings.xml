@@ -1395,7 +1395,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Dispositivo bloqueado</string>
     <string name="bootloader_status_locked_summary">Teléfono asegurado</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Desbloqueo necesita acceder a su Cuenta Mi, ID del CPU, IMEI e IMSI para funcionar correctamente. Recolectamos, usamos y procesamos sus datos de acuerdo a nuestra %s. ¿Aceptar?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necesita acceso a su cuenta Mi, ID de CPU, IMSI para funcionar normalmente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Esta de acuerdo?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Se necesitan permisos</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidad</string>
@@ -2588,8 +2588,8 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dual_wifi_switching_prompt">Cambiando entre redes</string>
     <string name="dual_wifi_switching_summary">El aumento de velocidad de Wi-Fi de doble banda debe usar dos bandas de Wi-Fi diferentes. Si se conecta a una red principal diferente, se perderá la conexión auxiliar.</string>
     <string name="dump_log">Obtener registros relacionados al problema</string>
-    <string name="dump_log_summary">"Esta función está diseñada para generar los 284 registros en versiones Alpha y Beta del MIUI. Úsela con cuidado.
-Puede ver los registros generados en el Administrador."</string>
+    <string name="dump_log_summary">"Esta función está diseñada para generar el %s en la versión Beta de MIUI. Úselo con precaución.
+Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="dump_log_title">Acerca de esta función</string>
     <string name="easymode_hint">Toque para desactivar el Modo lite</string>
     <string name="edge_mode_back">Atrás</string>
@@ -5667,7 +5667,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas en un lapso de 15 minutos en modo silencio</string>
+    <string name="repeat_call_info">Suena o vibra mientras recibe la segunda llamada del mismo número de teléfono en %d minutos</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Nunca</string>
     <string name="repeat_title">Repetir</string>
@@ -7478,7 +7478,7 @@ También se quitarán las huellas digitales guardadas de este perfil, por lo que
     <string name="unlock_set_unlock_password_title">Contraseña</string>
     <string name="unlock_set_unlock_pattern_summary">Dibuje un patrón simple con su dedo para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pattern_title">Patrón</string>
-    <string name="unlock_set_unlock_pin_summary">Ingrese de %d a %d números para desbloquear el dispositivo</string>
+    <string name="unlock_set_unlock_pin_summary">Introduce %1$d-%2$d números para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
     <string name="unlock_setup_wizard_fingerprint_details">Después de configurar el bloqueo de pantalla, también puedes establecer la huella digital en Configuración &gt; Seguridad.</string>
@@ -7524,16 +7524,16 @@ También se quitarán las huellas digitales guardadas de este perfil, por lo que
     <string name="usage_state_app_usage_detail_title">Detalles de uso de aplicación</string>
     <string name="usage_state_app_usage_list_title">"Tiempo de aplicación en pantalla"</string>
     <string name="usage_state_app_usage_list_week_title">"Tiempo de aplicación en pantalla"</string>
-    <string name="usage_state_app_usage_tip_title">Tiempo en pantalla entre %d:00 y %d:00</string>
+    <string name="usage_state_app_usage_tip_title">Tiempo de pantalla entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_app_use_time">Tiempo de aplicación en pantalla</string>
     <string name="usage_state_channel_mouth">Últimos 30 días</string>
     <string name="usage_state_channel_week">Últimos 7 días</string>
     <string name="usage_state_date">d \'de\' MMM.</string>
-    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %d:00 y %d:00</string>
-    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %d:00 y %d:00</string>
+    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %1$d:00 y %2$d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_friday">Vie.</string>
     <string name="usage_state_go_more">Más aplicaciones</string>
-    <string name="usage_state_hour_minute">%d h y %d min</string>
+    <string name="usage_state_hour_minute">%1$dh %2$dm</string>
     <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
     <string name="usage_state_monday">Lun.</string>
     <string name="usage_state_mourth_day">Tiempo en pantalla el %s</string>
@@ -7555,11 +7555,11 @@ También se quitarán las huellas digitales guardadas de este perfil, por lo que
     <string name="usage_state_usage_time_remind">Alerta de tiempo en pantalla</string>
     <string name="usage_state_use_time_remind_title">Alerta de tiempo en pantalla</string>
     <string name="usage_state_wednesday">Mié.</string>
-    <string name="usage_state_week_day_hour_minute">Fines de semana: %d h y %d min</string>
+    <string name="usage_state_week_day_hour_minute">Fines de semana: %1$dh %2$dm</string>
     <string name="usage_state_week_total_text">Tiempo en pantalla (últimos 7 días)</string>
     <string name="usage_state_which_mouth">MMM.</string>
     <string name="usage_state_work_day">Entre semana</string>
-    <string name="usage_state_work_day_hour_minute">Entre semana: %d h y %d min</string>
+    <string name="usage_state_work_day_hour_minute">Entre semana: %1$dh %2$dmin</string>
     <string name="usage_stats_label">Estadísticas de uso</string>
     <string name="usage_stats_normal_day">Entre semana</string>
     <string name="usage_stats_week_day">Fines de semana</string>
