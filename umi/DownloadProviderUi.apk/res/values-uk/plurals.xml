@@ -61,10 +61,10 @@
         <item quantity="many">Видалити %d завдань?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d завантажень було видалено</item>
-        <item quantity="one">%1$d завантаження було видалено</item>
-        <item quantity="few">%1$d завантаження було видалено</item>
-        <item quantity="many">%1$d завантажень було видалено</item>
+        <item quantity="other">%s завантажень було видалено</item>
+        <item quantity="one">%s завантаження було видалено</item>
+        <item quantity="few">%s завантаження було видалено</item>
+        <item quantity="many">%s завантажень було видалено</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d днів</item>
