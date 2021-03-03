@@ -326,8 +326,8 @@
     <string name="alarm_template_far">у %1$s</string>
     <string name="allow_mock_location">Дозволити використання фіктивних місць розташування</string>
     <string name="allow_mock_location_summary">Дозволити використання фіктивних місць розташування</string>
-    <string name="always_use_accessory">Використовувати цей аксесуар USB як аксесуар за замовчуванням</string>
-    <string name="always_use_device">Використовувати цей USB-пристрій як пристрій за замовчуванням</string>
+    <string name="always_use_accessory">Завжди відкривати %1$s коли %2$s підключено</string>
+    <string name="always_use_device">Завжди відкривати %1$s коли %2$s підключено</string>
     <string name="animator_duration_scale_title">Тривалість анімації</string>
     <string name="apn_settings_not_available">"Цей користувач не може змінювати налаштування точки доступу"</string>
     <string name="app_accessed_mic">%1$s має доступ до вашого мікрофону</string>
@@ -369,7 +369,7 @@
     <string name="battery_info_status_full">Заряджена</string>
     <string name="battery_info_status_not_charging">"Підключено, не заряджається"</string>
     <string name="battery_info_status_unknown">Невідомо</string>
-    <string name="battery_low_percent_format">Залишилося %d%%</string>
+    <string name="battery_low_percent_format">%s залишилось</string>
     <string name="battery_low_percent_format_hybrid">%1$s залишилось, приблизно %2$s залишилося на основі вашого використання</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s залишилось, приблизно %2$s залишилося</string>
     <string name="battery_low_percent_format_saver_started">Залишилося %s. Увімкнено режим енергозбереження.</string>
@@ -1017,7 +1017,7 @@
     <string name="keyguard_enter_your_pattern">Введіть ключ</string>
     <string name="keyguard_enter_your_pin">Введіть PIN-код</string>
     <string name="keyguard_indication_charging_time">%2$s • Заряджання (%1$s до повного зарядження)</string>
-    <string name="keyguard_indication_charging_time_fast">Швидке заряджання (до повного заряду %s)</string>
+    <string name="keyguard_indication_charging_time_fast">%2$s • Швидке заряджання (%1$s до повного заряду)</string>
     <string name="keyguard_indication_charging_time_slowly">%2$s • Повільне заряджання (%1$s до повного зарядження)</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Бездротова зарядка (%1$s до повного зарядження)</string>
     <string name="keyguard_indication_trust_disabled">Пристрій буде заблоковано, поки ви не розблокуєте його вручну</string>
@@ -1048,8 +1048,8 @@
  Щоб отримати нову SIM-карту, зверніться до оператора мобільного зв'язку."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">SIM-карта заблокована.</string>
     <string name="keyguard_plugged_in">%s • Заряджання</string>
-    <string name="keyguard_plugged_in_charging_fast">Швидке заряджання</string>
-    <string name="keyguard_plugged_in_charging_slowly">Повільне заряджання</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Швидке заряджання</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Повільне заряджання</string>
     <string name="keyguard_plugged_in_wireless">%s • Бездротова зарядка</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Швидке заряджання. Натисніть, щоб переглянути деталі.</string>
     <string name="keyguard_retry">Проведіть вгору, щоб спробувати ще раз</string>
@@ -1969,8 +1969,8 @@ d MMMM"</string>
     <string name="unlockscreen_low_battery">Підключіть зарядний пристрій</string>
     <string name="unlockscreen_recharge_completed">Батарея заряджена</string>
     <string name="unlockscreen_recharging_message">Заряджається (%d%%)</string>
-    <string name="usb_accessory_confirm_prompt">Відкрити %1$s, коли підключено цей аксесуар USB?</string>
-    <string name="usb_accessory_permission_prompt">Дозволити програмі %1$s доступ до аксесуару USB?</string>
+    <string name="usb_accessory_confirm_prompt">Відкрийте %1$s, щоб обробляти %2$s?</string>
+    <string name="usb_accessory_permission_prompt">Дозволити %1$s доступ до %2$s?</string>
     <string name="usb_accessory_uri_prompt">Встановлені програми не підтримують цей аксесуар USB. Дізнайтеся більше на %1$s</string>
     <string name="usb_audio_disable_routing">Вимкнути передачу аудіо через USB</string>
     <string name="usb_audio_disable_routing_summary">Відключити автоматичну передачу звуку на зовнішні USB-пристрої</string>
@@ -1985,10 +1985,10 @@ d MMMM"</string>
     <string name="usb_debugging_secondary_user_message">"У цьому акаунті неможливо вмикати налагодження по USB. Перейдіть в акаунт основного користувача."</string>
     <string name="usb_debugging_secondary_user_title">USB-налагодження заборонено</string>
     <string name="usb_debugging_title">Дозволити налагодження по USB?</string>
-    <string name="usb_device_confirm_prompt">Відкрити %1$s, коли підключено цей USB-пристрій?</string>
+    <string name="usb_device_confirm_prompt">Відкрийте %1$s, щоб обробляти %2$s?</string>
     <string name="usb_device_confirm_prompt_warn">"Відкрийте %1$s , щоб обробляти %2$s?
 Цей додаток не було надано дозвіл на запис, але він може отримати звук через USB-пристрій."</string>
-    <string name="usb_device_permission_prompt">Дозволити програмі %1$s доступ до пристрою USB?</string>
+    <string name="usb_device_permission_prompt">Дозволити %1$s доступ до %2$s?</string>
     <string name="usb_device_permission_prompt_warn">"Дозволити додатку %1$s отримати доступ до %2$s?
 Цей додаток не було надано дозвіл на запис, але він може отримати звук через USB-пристрій."</string>
     <string name="usb_disable_contaminant_detection">Увімкнути USB</string>
