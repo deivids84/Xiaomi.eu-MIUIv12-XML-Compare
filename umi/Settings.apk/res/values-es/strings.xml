@@ -1397,7 +1397,7 @@ Bluetooth"</string>
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
     <string name="bootloader_status_locked_summary">El teléfono es seguro</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock necesita acceso a Cuenta Mi, ID del CPU, IMEI e IMSI para funcional normalmente. Recolectamos, usamos y procesamos tus datos de acuerdo a nuestra %s. ¿De acuerdo?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necesita acceso a su cuenta Mi, ID de CPU, IMSI para funcionar normalmente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Estar de acuerdo?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos requeridos</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidad</string>
@@ -2279,6 +2279,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="development_settings_not_available">"Las opciones de desarrollador no están disponibles para este usuario"</string>
     <string name="development_settings_summary">Ajustar opciones de desarrollo de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
+    <string name="device_activation_info">Activación del dispositivo</string>
     <string name="device_admin_add_title">Administrador de dispositivos</string>
     <string name="device_admin_settings_title">Ajustes del administrador de dispositivos</string>
     <string name="device_admin_status">Esta aplicación de administrador está activa y permite que la aplicación %1$s realice las siguientes acciones:</string>
@@ -2586,8 +2587,8 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="dual_wifi_switching_prompt">Cambiando entre redes</string>
     <string name="dual_wifi_switching_summary">El aumento de velocidad Wi-Fi de doble banda debe usar dos bandas Wi-Fi diferentes. Si te conectas a una red principal diferente, se perderá la conexión auxiliar.</string>
     <string name="dump_log">Obtén registros relacionados con el problema</string>
-    <string name="dump_log_summary">"Esta función está diseñada para generar los 284 registros en versiones Alpha y Beta del MIUI. Úsala con cuidado.
-Puedes ver los registros generados en el Gestor de archivos."</string>
+    <string name="dump_log_summary">"Esta función está diseñada para generar el %s en la versión Beta de MIUI. Úselo con precaución.
+Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="dump_log_title">Acerca de esta función</string>
     <string name="easymode_hint">Pulsa para desactivar el Modo lite</string>
     <string name="edge_mode_back">Volver</string>
@@ -3057,7 +3058,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="forget_password_dialog_button_text">Atrás</string>
     <string name="forget_password_dialog_content_four">2. Selecciona [Wipe data] y espera hasta que tu dispositivo se reinicie.</string>
     <string name="forget_password_dialog_content_one"><Data>\"Si olvida su contraseña, no podrá restaurarla. Sin embargo, puede restablecer su contraseña después de &lt;font color=#ec2700&gt;borrar todos los datos de su dispositivo&lt;/font&gt; (incluidas fotos, contactos, etc.). Haga una copia de seguridad de todos los datos importantes antes.\"</Data></string>
-    <string name="forget_password_dialog_content_three">1. Apaga tu dispositivo. Pulsa los botones de [Encendido] y [Volumen+] de forma simultánea hasta que veas el icono *.</string>
+    <string name="forget_password_dialog_content_three">1. Apaga tu dispositivo. Presiona el botón [Power] y el botón [Volume+] a la vez, y mantenlos hasta que veas el siguiente * icono.</string>
     <string name="forget_password_dialog_content_two">Sigue estos pasos para eliminar datos:</string>
     <string name="forget_password_dialog_title">Limpiar datos</string>
     <string name="forget_pattern"><u>¿Olvidaste el patrón?</u></string>
@@ -3926,7 +3927,7 @@ como el PIN de tu Primer espacio."</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Establecer PIN del 
  Segundo Espacio"</string>
     <string name="lockpassword_choose_your_pin_message">Por seguridad, establece un PIN</string>
-    <string name="lockpassword_choose_your_pin_title">Introduce %d a %d dígitos</string>
+    <string name="lockpassword_choose_your_pin_title">Introduzca %1$d-%2$d dígitos</string>
     <string name="lockpassword_choose_your_screen_lock_header">Establecer el bloqueo de pantalla</string>
     <string name="lockpassword_clear_label">Borrar</string>
     <string name="lockpassword_confirm_for_second_user">Confirma la contraseña del Segundo espacio</string>
@@ -4413,6 +4414,9 @@ Continua para acceder a los ajustes adicionales."</string>
     <string name="miui_sos_menu_add">Añadir</string>
     <string name="miui_sos_menu_edit">Editar</string>
     <string name="miui_sos_msg_call_log_prefix">"Aquí está mi historial de llamadas de la última hora:"</string>
+    <string name="miui_sos_pa_title">Ubicación de emergencia</string>
+    <string name="miui_sos_pa_turn_off">Apagado</string>
+    <string name="miui_sos_pa_turn_on">Encendido</string>
     <string name="miui_sos_play_voice">Reproducir SOS de emergencia</string>
     <string name="miui_sos_remind_add">Añadir</string>
     <string name="miui_sos_remind_close">El Modo SOS de emergencia está activado. ¿Desactivarlo junto con todas las funcionalidades relacionadas?</string>
@@ -4743,9 +4747,9 @@ Seleccione su sistema operativo:"</string>
     <string name="nfc_repair_btn_retry">Vuelve a intentarlo</string>
     <string name="nfc_repair_btn_yes">Sí</string>
     <string name="nfc_repair_confirm_desc">"¿Has experimentado alguno de estos problemas?
-%d. No pudiste añadir o recargar una tarjeta NFC.
-%d.Tu tarjeta NFC no funcionó.
-%d. No se cargarán otras funciones NFC."</string>
+%1$d. No se pudo agregar o recargar una tarjeta NFC.
+%2$d. Tu tarjeta NFC no funcionó.
+%3$d. Otras características NFC no se cargan."</string>
     <string name="nfc_repair_fail_desc">Se produjo un error que impidió restaurar la funcionalidad NFC. Inténtalo de nuevo.</string>
     <string name="nfc_repair_fail_title">"No se pudo restaurar"</string>
     <string name="nfc_repair_ongoing">"Restaurando… No abandones esta página."</string>
@@ -5661,7 +5665,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en Modo silencio</string>
+    <string name="repeat_call_info">Suena o vibra mientras recibe la segunda llamada del mismo número de teléfono en %d minutos</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Nunca</string>
     <string name="repeat_title">Repetir</string>
@@ -7471,7 +7475,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="unlock_set_unlock_password_title">Contraseña</string>
     <string name="unlock_set_unlock_pattern_summary">Dibuja un patrón simple con el dedo para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pattern_title">Patrón</string>
-    <string name="unlock_set_unlock_pin_summary">Introduce %d a %d números para desbloquear el dispositivo</string>
+    <string name="unlock_set_unlock_pin_summary">Introduce %1$d-%2$d números para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
     <string name="unlock_setup_wizard_fingerprint_details">Una vez que haya configurado un bloqueo de pantalla, podrá configurar también la huella dactilar en Ajustes &gt; Seguridad.</string>
@@ -7517,16 +7521,16 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="usage_state_app_usage_detail_title">Detalles del uso de aplicaciones</string>
     <string name="usage_state_app_usage_list_title">"Horas de pantalla de aplicaciones"</string>
     <string name="usage_state_app_usage_list_week_title">"Horas de pantalla de aplicaciones"</string>
-    <string name="usage_state_app_usage_tip_title">Horas de pantalla entre %d:00 y %d:00</string>
+    <string name="usage_state_app_usage_tip_title">Tiempo de pantalla entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_app_use_time">Horas de pantalla de aplicaciones</string>
     <string name="usage_state_channel_mouth">Últimos 30 días</string>
     <string name="usage_state_channel_week">Últimos 7 días</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %d:00 y %d:00</string>
-    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %d:00 y %d:00</string>
+    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %1$d:00 y %2$d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_friday">Vie</string>
     <string name="usage_state_go_more">Más aplicaciones</string>
-    <string name="usage_state_hour_minute">%dh %dmin</string>
+    <string name="usage_state_hour_minute">%1$dh %2$dm</string>
     <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
     <string name="usage_state_monday">Lun</string>
     <string name="usage_state_mourth_day">Horas de pantalla el %s</string>
@@ -7548,11 +7552,11 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="usage_state_usage_time_remind">Alerta de horas de pantalla</string>
     <string name="usage_state_use_time_remind_title">Alerta de horas de pantalla</string>
     <string name="usage_state_wednesday">Mié</string>
-    <string name="usage_state_week_day_hour_minute">Fines de semana: %dh %dm</string>
+    <string name="usage_state_week_day_hour_minute">Fines de semana: %1$dh %2$dm</string>
     <string name="usage_state_week_total_text">Horas de pantalla (últimos 7 días)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Entre semana</string>
-    <string name="usage_state_work_day_hour_minute">Entre semana: %d h %d min</string>
+    <string name="usage_state_work_day_hour_minute">Entre semana: %1$dh %2$dmin</string>
     <string name="usage_stats_label">Estadísticas de uso</string>
     <string name="usage_stats_normal_day">Entre semana</string>
     <string name="usage_stats_week_day">Fines de semana</string>
@@ -7590,9 +7594,9 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="usagestats_app_category_miui_video_etc">Música y vídeo</string>
     <string name="usagestats_device_notification_des">Límite de horas de pantalla para hoy: %s</string>
     <string name="usagestats_device_notification_des_over">"Hoy has alcanzado tu límite de horas de pantalla."</string>
-    <string name="usagestats_device_notification_des_reset">"Límite de hoy: %s | %s restante"</string>
+    <string name="usagestats_device_notification_des_reset">"Límite de hoy: %1$s | %2$s restante"</string>
     <string name="usagestats_device_notification_title">Alerta de horas de pantalla</string>
-    <string name="usagestats_device_timeout_des">"Has estado usando tu dispositivo durante %dh %dmin hoy. ¡Descansa un poco!"</string>
+    <string name="usagestats_device_timeout_des">"Has estado usando tu dispositivo durante %1$dh %2$dm hoy. ¡Descansa un poco!"</string>
     <string name="usagestats_device_timeout_negative">Recordar en 1 hora</string>
     <string name="usagestats_device_timeout_positive">Entendido</string>
     <string name="usagestats_device_timeout_title">Alerta de horas de pantalla</string>
@@ -8429,7 +8433,7 @@ Configurar la red como oculta no cambiará la configuración del router."</strin
     <string name="wifi_password">Contraseña</string>
     <string name="wifi_poor_network_detection">Solo conexiones estables</string>
     <string name="wifi_poor_network_detection_summary">"No usar una red Wi-Fi a menos que tengas una buena conexión a internet"</string>
-    <string name="wifi_priority_changed">Valor antiguo %s | Nuevo valor %s</string>
+    <string name="wifi_priority_changed">Valor antiguo %1$s | Nuevo valor %2$s</string>
     <string name="wifi_priority_label">Prioridad</string>
     <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
     <string name="wifi_priority_settings_summary">Establecer prioridad de cada punto de acceso</string>
