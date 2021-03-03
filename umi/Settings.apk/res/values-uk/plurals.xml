@@ -767,10 +767,10 @@
         <item quantity="many">Неправильний PIN-код SIM-карти. У вас залишилося %d спроб.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Сповіщення з %1$d додатка можуть замінювати режим \"Не турбувати\"</item>
-        <item quantity="one">Сповіщення з %1$d додатка можуть замінювати режим \"Не турбувати\"</item>
-        <item quantity="few">Сповіщення з %1$d додатків можуть замінювати режим \"Не турбувати\"</item>
-        <item quantity="many">Сповіщення з %1$d додатків можуть замінювати режим \"Не турбувати\"</item>
+        <item quantity="other">%s може перервати</item>
+        <item quantity="one">%s може перервати</item>
+        <item quantity="few">%s може перервати</item>
+        <item quantity="many">%s може перервати</item>
     </plurals>
     <plurals name="zen_mode_contacts_count">
         <item quantity="other">%d контакти</item>
@@ -816,13 +816,13 @@
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Вибрати сигнали лише на %1$d години до %2$s</item>
-        <item quantity="one">Вибрати сигнали лише на %1$d годину до %2$s</item>
+        <item quantity="one">Змінити будильники лише на одну годину до %2$s</item>
         <item quantity="few">Вибрати сигнали лише на %1$d години до %2$s</item>
         <item quantity="many">Вибрати сигнали лише на %1$d годин до %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Вибрати сигнали лише на %1$d хвилини до %2$s</item>
-        <item quantity="one">Вибрати сигнали лише на %1$d хвилину до %2$s</item>
+        <item quantity="one">Змінити будильники лише на одну хвилину до %2$s</item>
         <item quantity="few">Вибрати сигнали лише на %1$d хвилини до %2$s</item>
         <item quantity="many">Вибрати сигнали лише на %1$d хвилин до %2$s</item>
     </plurals>
