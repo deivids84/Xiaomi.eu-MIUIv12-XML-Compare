@@ -1905,6 +1905,7 @@ Interfície UT: %5$s"</string>
     <string name="search_menu">Cerca a la configuració</string>
     <string name="search_menu_title">Cerca</string>
     <string name="selectContact">Selecciona contacte</string>
+    <string name="select_apn_list_title">Trieu el vostre APN predeterminat: per a la targeta %1$s</string>
     <string name="select_application">Seleccioneu l\'aplicació</string>
     <string name="select_automatically">Selecció automàtica</string>
     <string name="select_dds_dialog_title">Seleccioneu la SIM de dades mòbils per defecte</string>
