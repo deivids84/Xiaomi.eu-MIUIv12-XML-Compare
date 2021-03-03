@@ -1017,9 +1017,9 @@ Solo utilice el cargador proporcionado."</string>
     <string name="keyguard_enter_your_password">Introduce tu contraseña</string>
     <string name="keyguard_enter_your_pattern">Ingrese su patrón</string>
     <string name="keyguard_enter_your_pin">Introduce tu PIN</string>
-    <string name="keyguard_indication_charging_time">Cargando (%s hasta llenarse)</string>
-    <string name="keyguard_indication_charging_time_fast">Cargando rápidamente (%s hasta llenarse)</string>
-    <string name="keyguard_indication_charging_time_slowly">Cargando lentamente (%s hasta llenarse)</string>
+    <string name="keyguard_indication_charging_time">%2$s • Cargando (%1$s hasta llenarse)</string>
+    <string name="keyguard_indication_charging_time_fast">%2$s • Cargando rápidamente (%1$s hasta que esté lleno)</string>
+    <string name="keyguard_indication_charging_time_slowly">%2$s • Cargando lentamente (%1$s hasta que esté lleno)</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Carga inalámbrica (%1$s hasta que esté llena)</string>
     <string name="keyguard_indication_trust_disabled">El dispositivo permanecerá bloqueado hasta que lo desbloquee manualmente</string>
     <string name="keyguard_indication_trust_unlocked">Mantenido desbloqueado por TrustAgent</string>
