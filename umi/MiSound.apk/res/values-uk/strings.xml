@@ -40,6 +40,11 @@
     <string name="customization_continue">Продовжити</string>
     <string name="customization_pause_tip">Зупинити тест? Для продовження підключіть навушники.</string>
     <string name="customization_quit">Вийти</string>
+    <string name="dolby_dax_geq_select_title">Шаблони</string>
+    <string name="dolby_dax_geq_title">Графічний еквалайзер</string>
+    <string name="dolby_dax_profile_dynamic">Динамічний</string>
+    <string name="dolby_dax_setting">Ефекти Долбі</string>
+    <string name="dolby_dax_title">Об\'ємний звук</string>
     <string name="end_wireless_transmission">Зупинити</string>
     <string name="eq_auto">Власний</string>
     <string name="eq_blues">Блюз</string>
@@ -76,6 +81,7 @@
     <string name="input_hint_prefix">Введіть %1$s</string>
     <string name="keep_sound">Зберегти налаштування</string>
     <string name="low_pitch">Низький тон</string>
+    <string name="misound_effect_setting">Mi звук</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
