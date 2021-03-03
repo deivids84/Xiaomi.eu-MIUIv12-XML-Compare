@@ -1245,7 +1245,7 @@
     <string name="motion_photo_play">Play</string>
     <string name="move_to_other_albums_tip">Перемістити цей альбом до Інших альбомів?</string>
     <string name="move_to_rubbish_albums_tip">Перемістити вибрані альбоми до сміття?</string>
-    <string name="movie_add_disable">Ви можете вибрати до 20 фото</string>
+    <string name="movie_add_disable">Ви можете вибрати до %d фото</string>
     <string name="movie_audio_antiquity">Ретро</string>
     <string name="movie_audio_custom">На пристрої</string>
     <string name="movie_audio_dream">Фантазія</string>
@@ -1261,13 +1261,13 @@
     <string name="movie_audio_summertime">Літо</string>
     <string name="movie_audio_vitality">Енергія</string>
     <string name="movie_cancel_download">Скасувати</string>
-    <string name="movie_change_to_long_video">Ви вибрали більше 5 фото. Було змінено на режим довшого відео.</string>
+    <string name="movie_change_to_long_video">Ви вибрали більше %d фото. Було змінено на режим довшого відео.</string>
     <string name="movie_content_describe_add">Додати фото</string>
     <string name="movie_content_describe_delete">Видалити фото</string>
     <string name="movie_content_describe_pause">Пауза</string>
     <string name="movie_content_describe_play">Відтворення</string>
     <string name="movie_customer_unsupport_audio_file">Непідтримуваний аудіофайл</string>
-    <string name="movie_delete_disable">Вам необхідно принаймні 3 фото, щоб створити кліп.</string>
+    <string name="movie_delete_disable">Вам необхідно принаймні %d фото, щоб створити кліп.</string>
     <string name="movie_download">Завантажити</string>
     <string name="movie_download_failed">"Не вдалося завантажити"</string>
     <string name="movie_download_failed_for_notwork">"Не вдалося завантажити. Підключіться до мережі та повторіть спробу."</string>
