@@ -170,13 +170,13 @@
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
         <item quantity="other">%1$d години (до %2$s)</item>
-        <item quantity="one">%1$d годину (до %2$s)</item>
+        <item quantity="one">На 1 годину (до %2$s)</item>
         <item quantity="few">%1$d години (до %2$s)</item>
         <item quantity="many">%1$d годин (до %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
         <item quantity="other">Протягом %1$d год (до %2$s)</item>
-        <item quantity="one">Протягом %1$d год (до %2$s)</item>
+        <item quantity="one">Протягом 1 год (до %2$s)</item>
         <item quantity="few">Протягом %1$d год (до %2$s)</item>
         <item quantity="many">Протягом %1$d год (до %2$s)</item>
     </plurals>
@@ -194,13 +194,13 @@
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary">
         <item quantity="other">%1$d хвилини (до %2$s)</item>
-        <item quantity="one">%1$d хвилину (до %2$s)</item>
+        <item quantity="one">На одну хвилину (до %2$s)</item>
         <item quantity="few">%1$d хвилини (до %2$s)</item>
         <item quantity="many">%1$d хвилин (до %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary_short">
         <item quantity="other">Протягом %1$d хв (до %2$s)</item>
-        <item quantity="one">Протягом %1$d хв (до %2$s)</item>
+        <item quantity="one">Протягом 1 хв (до %2$s)</item>
         <item quantity="few">Протягом %1$d хв (до %2$s)</item>
         <item quantity="many">Протягом %1$d хв (до %2$s)</item>
     </plurals>
