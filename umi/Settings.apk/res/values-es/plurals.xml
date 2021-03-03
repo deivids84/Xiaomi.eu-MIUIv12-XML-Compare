@@ -21,16 +21,16 @@
         <item quantity="one">%1$s segundo</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Retraso largo (%1$d ms)</item>
-        <item quantity="one">Retraso largo (%1$d ms)</item>
+        <item quantity="other">Largo (%1$s segundos)</item>
+        <item quantity="one">Largo (%1$s segundo)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
         <item quantity="other">Medio (%1$s segundos)</item>
         <item quantity="one">Medio (%1$s segundos)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Retraso corto (%1$d ms)</item>
-        <item quantity="one">Retraso corto (%1$d ms)</item>
+        <item quantity="other">Corto (%1$s segundos)</item>
+        <item quantity="one">Corto (%1$s segundo)</item>
     </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">La aplicación afirma manejar %d enlaces</item>
@@ -509,8 +509,8 @@ Ponte en contacto con el administrador para obtener más información sobre este
         <item quantity="one">Código PIN de la tarjeta SIM incorrecto. Te queda %d intento para tener que ponerte en contacto con tu operador para desbloquear el dispositivo.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Las notificaciones de %1$d aplicaciones pueden anular el modo No molestar</item>
-        <item quantity="one">Las notificaciones de 1 aplicación pueden anular el modo No molestar</item>
+        <item quantity="other">%s puede interrumpir</item>
+        <item quantity="one">%s puede interrumpir</item>
     </plurals>
     <plurals name="zen_mode_contacts_count">
         <item quantity="other">%d contactos</item>
