@@ -348,7 +348,7 @@
     <string name="wireless_charging_saver_message">Увімкнена економія енергії. Відключити реверсивну бездротову зарядку?</string>
     <string name="wireless_charging_saver_ok">Не відключати</string>
     <string name="wireless_charging_tips_disable">"Більше не показувати"</string>
-    <string name="wireless_charging_tips_message">Прикладіть пристрій з підтримкою бездротової зарядки по протоколу Qi (смартфон, аксесуар і т.д.) до задньої панелі пристрою</string>
+    <string name="wireless_charging_tips_message">Розташуйте пристрій, який ви хочете бездротово (наприклад телефон, смарт-годинник, навушники) на задній частині цього телефону. Переконайтеся, що цей телефон має принаймні %d%% заряджений перед тим, як використовувати зворотну бездротову зарядку.</string>
     <string name="wireless_charging_tips_sub_message">Інший пристрій повинен підтримувати стандарт зарядки Qi дротів.</string>
     <string name="wireless_charging_tips_title">Реверсивна бездротова зарядка</string>
     <string name="yesterday">Вчора</string>
