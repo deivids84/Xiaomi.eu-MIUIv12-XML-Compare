@@ -2279,6 +2279,7 @@ Aquesta configuració afecta tots els usuaris d'aquest dispositiu."</string>
     <string name="development_settings_not_available">"Les opcions de desenvolupador no estan disponibles per a aquest usuari"</string>
     <string name="development_settings_summary">Defineix les opcions per al desenvolupament d\'aplicacions</string>
     <string name="development_settings_title">Opcions per a desenvolupadors</string>
+    <string name="device_activation_info">Activació del dispositiu</string>
     <string name="device_admin_add_title">Administrador del dispositiu</string>
     <string name="device_admin_settings_title">Configuració d\'administració de dispositius</string>
     <string name="device_admin_status">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
@@ -4276,6 +4277,10 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
+    <string name="miheadset_ancClosed">Desactivat</string>
+    <string name="miheadset_ancHigh">Alta</string>
+    <string name="miheadset_ancLow">Baixa</string>
+    <string name="miheadset_ancMedium">Mitjana</string>
     <string name="miheadset_anc_indicate">Connecta i vincula els auriculars</string>
     <string name="miheadset_audio_mode">Qualitat d\'àudio</string>
     <string name="miheadset_audio_mode_high">Fort</string>
@@ -4297,6 +4302,7 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_double_click_key_mode">Doble toc</string>
     <string name="miheadset_double_click_left">Feu doble toc a l\'auricular esquerre</string>
     <string name="miheadset_double_click_right">Feu doble toc a l\'auricular dret</string>
+    <string name="miheadset_enhanceVoice">Millora la veu</string>
     <string name="miheadset_enhence_high">Aguts millorats</string>
     <string name="miheadset_enhence_low">Baixos millorats</string>
     <string name="miheadset_equalizer">Equalitzador</string>
@@ -4327,8 +4333,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_key_config_close_summary">Desactiva la cancel·lació de soroll i la transparència</string>
     <string name="miheadset_key_config_gesture_control">Gestos</string>
     <string name="miheadset_key_config_next_music">Cançó següent</string>
-    <string name="miheadset_key_config_noise_control">Control de soroll actiu</string>
-    <string name="miheadset_key_config_noise_control_summary">Manteniu premut per canviar entre els dos modes de control de soroll actius seleccionats</string>
+    <string name="miheadset_key_config_noise_control">Control de soroll</string>
+    <string name="miheadset_key_config_noise_control_summary">Manteniu premut per canviar entre els dos modes de control de soroll seleccionats</string>
     <string name="miheadset_key_config_noise_summary">Bloqueja els sons externs</string>
     <string name="miheadset_key_config_press_left">Mantén premut l\'auricular esquerre</string>
     <string name="miheadset_key_config_press_right">Mantén premut l’auricular dret</string>
@@ -4352,6 +4358,7 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_rename_device">Canvia el nom</string>
     <string name="miheadset_soft">Suau</string>
     <string name="miheadset_transparent">Transparència</string>
+    <string name="miheadset_transparentMode">Transparència</string>
     <string name="miheadset_triple_click_key_mode">Triple toc</string>
     <string name="miheadset_unpair_device_text">%1$s es desvincularà de tots els dispositius associats a aquest compte Mi.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -4427,6 +4434,9 @@ Continueu per accedir a la configuració addicional."</string>
     <string name="miui_sos_menu_add">Afegeix</string>
     <string name="miui_sos_menu_edit">Edita</string>
     <string name="miui_sos_msg_call_log_prefix">"Aquest és el meu historial de trucades de la darrera hora:"</string>
+    <string name="miui_sos_pa_title">Ubicació d’emergència</string>
+    <string name="miui_sos_pa_turn_off">Desactivat</string>
+    <string name="miui_sos_pa_turn_on">Activat</string>
     <string name="miui_sos_play_voice">Reprodueix el missatge de SOS</string>
     <string name="miui_sos_remind_add">Afegeix</string>
     <string name="miui_sos_remind_close">El mode SOS d’emergència està activat. Ho voleu desactivar juntament amb totes les funcionalitats relacionades?</string>
@@ -7287,6 +7297,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_layout_current2_weight">Mida del text i pes de la lletra</string>
     <string name="title_miui_music_mute_by_user">Mode silenci</string>
     <string name="title_of_auto_launch_manage">Inici automàtic</string>
+    <string name="title_special_features_health_global">Freqüència cardíaca</string>
     <string name="to_close">Desactiva</string>
     <string name="toast_apply_font_fail">"No es pot definir el tipus de lletra"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
