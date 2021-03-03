@@ -562,8 +562,8 @@
     <string name="delete_from_all_devices_and_cloud">з усіх пристроїв та Xiaomi Cloud</string>
     <string name="delete_from_cloud">Видалити об\'єкти із Xiaomi Cloud</string>
     <string name="delete_from_this_album_and_cloud">з цього альбому та Xiaomi Cloud</string>
-    <string name="delete_in_album">Вибрані об\'єкти будуть видалені з хмари і зі всіх підключених пристроїв та будуть переміщені в корзину на 30 днів, якщо у вас є безкоштовний план підписки на хмарне сховище. Видалити?</string>
-    <string name="delete_in_home_page">Вибрані об\'єкти будуть видалені з хмари і зі всіх підключених пристроїв та будуть переміщені в корзину на 30 днів, якщо у вас є безкоштовний план підписки на хмарне сховище. Видалити?</string>
+    <string name="delete_in_album">Вибрані об\'єкти будуть видалені з хмари і зі всіх підключених пристроїв та будуть переміщені в корзину на %d днів, якщо у вас є безкоштовний план підписки на хмарне сховище. Видалити?</string>
+    <string name="delete_in_home_page">Вибрані об\'єкти будуть видалені з хмари і зі всіх підключених пристроїв та будуть переміщені в корзину на %d днів, якщо у вас є безкоштовний план підписки на хмарне сховище. Видалити?</string>
     <string name="delete_in_process">Видалення…</string>
     <string name="delete_origin">Видалити фото з оригінального альбому</string>
     <string name="delete_other_shared_images">"Неможливо видалити фотографії, які були відправлені іншими користувачами"</string>
@@ -581,11 +581,11 @@
     <string name="disable_auto_upload_tip">Вимкнути синхронізацію з Xiaomi Cloud для цього альбому?</string>
     <string name="disable_auto_upload_title">Вимкнути синхронізацію з Xiaomi Cloud</string>
     <string name="do_not_remind_me">"Більше не показувати"</string>
-    <string name="document_provider_guide_step_1">1. Натисніть кнопку \"Ще\".</string>
-    <string name="document_provider_guide_step_2">2. Натисніть \"Показати внутрішню пам\'ять\".</string>
-    <string name="document_provider_guide_step_3">3. Натисніть кнопку бокового меню.</string>
-    <string name="document_provider_guide_step_4">4. Виберіть \"SD-карта\".</string>
-    <string name="document_provider_guide_step_5">5. Натисніть \"Вибрати\".</string>
+    <string name="document_provider_guide_step_1">%d. Натисніть кнопку \"Ще\".</string>
+    <string name="document_provider_guide_step_2">%d. Натисніть \"Показати внутрішню пам\'ять\".</string>
+    <string name="document_provider_guide_step_3">%d. Натисніть кнопку бокового меню.</string>
+    <string name="document_provider_guide_step_4">%d. Виберіть \"SD-карта\".</string>
+    <string name="document_provider_guide_step_5">%d. Натисніть \"Вибрати\".</string>
     <string name="double_tap_for_hr_preview_108m">Натисніть двічі ще раз для перегляду в 108MP</string>
     <string name="double_tap_to_higher_definition">Знову натисніть двічі, щоб відкрити HD-перегляд</string>
     <string name="download_canceled">Завантаження скасовано</string>
