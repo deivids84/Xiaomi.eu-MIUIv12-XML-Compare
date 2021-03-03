@@ -647,9 +647,9 @@
     <string name="todo_edit_btn_today">Сьогодні</string>
     <string name="todo_edit_btn_tomorrow">Завтра</string>
     <string name="todo_edit_text_hint">Введіть опис</string>
-    <string name="todo_event_description_a_week_ago">1 тиждень тому</string>
+    <string name="todo_event_description_a_week_ago">%1$d тиждень тому</string>
     <string name="todo_event_description_a_week_later">Через %1$d тиждень</string>
-    <string name="todo_event_description_day_after_tomorrow">Післязавтра</string>
+    <string name="todo_event_description_day_after_tomorrow">Через %1$d дні</string>
     <string name="todo_event_description_day_before_yesterday">%1$d днів тому</string>
     <string name="todo_event_description_today">Сьогодні</string>
     <string name="todo_event_description_tomorrow">Завтра</string>
@@ -708,7 +708,7 @@
     <string name="toolbar_undo_description">Скасувати</string>
     <string name="toolbar_voice_description">Голос</string>
     <string name="trash_folder_name">Смітник</string>
-    <string name="trash_folder_reminder">Нотатки, які ви видаляєте, будуть безповоротно видалені через 30 днів.</string>
+    <string name="trash_folder_reminder">Нотатки, які ви видаляєте, будуть безповоротно видалені через %1$d днів.</string>
     <string name="trash_folder_reminder_new">Нотатки, які були у смітнику протягом %d днів будуть видалені назавжди</string>
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>
