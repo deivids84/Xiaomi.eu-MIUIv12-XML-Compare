@@ -348,7 +348,7 @@ La exposición prolongada a sonidos fuertes puede causar problemas de audición.
     <string name="wireless_charging_saver_message">Ahorro de batería activado. ¿Mantener carga inalámbrica inversa disponible?</string>
     <string name="wireless_charging_saver_ok">Mantener</string>
     <string name="wireless_charging_tips_disable">"No mostrar de nuevo"</string>
-    <string name="wireless_charging_tips_message">Coloca los dispositivos que soporten carga inalámbrica Qi (teléfono, accesorios, etc.) en la parte trasera de este dispositivo.</string>
+    <string name="wireless_charging_tips_message">Coloque el dispositivo que desea cargar de forma inalámbrica (por ejemplo, teléfono, reloj inteligente, auriculares) en la parte posterior de este teléfono. Asegúrese de que este teléfono tenga al menos %d%% carga antes de usar la carga inalámbrica inversa.</string>
     <string name="wireless_charging_tips_sub_message">El otro dispositivo debe ser compatible con el estándar de carga inalámbrica Qi.</string>
     <string name="wireless_charging_tips_title">Carga inalámbrica inversa</string>
     <string name="yesterday">Ayer</string>
