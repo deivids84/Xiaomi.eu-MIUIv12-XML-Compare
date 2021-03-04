@@ -1522,7 +1522,7 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="call_records_name_1">Susan Landaeta</string>
     <string name="call_records_name_2">Mauricio Bernal</string>
     <string name="call_records_name_3">Sergio Flores</string>
-    <string name="call_records_summary_1">%1$d:%2$d AM | %3$d segundos</string>
+    <string name="call_records_summary_1">9:35 AM | 26 segundos</string>
     <string name="call_records_summary_2">%1$d Agosto | %2$d min %3$d s</string>
     <string name="call_records_summary_3">%1$d Agosto | %2$d min %3$d s</string>
     <string name="call_settings_primary_user_only">Cambie los ajustes de llamadas en el espacio principal</string>
