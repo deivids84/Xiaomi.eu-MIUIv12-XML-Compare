@@ -1110,6 +1110,17 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="ivr_type_settings">Ajustes del plan de datos</string>
     <string name="ivr_type_settings_hint">Introduce tu código de plan de datos</string>
     <string name="jump_to_mobile_network_setting">Configuración de red móvil</string>
+    <string name="kddi_sim_lock_status_allowed">Permitido</string>
+    <string name="kddi_sim_lock_status_code">Código</string>
+    <string name="kddi_sim_lock_status_default_code">-</string>
+    <string name="kddi_sim_lock_status_no_sim">No hay tarjeta SIM</string>
+    <string name="kddi_sim_lock_status_not_allowed">No Permitido</string>
+    <string name="kddi_sim_lock_status_open_wifi_warning">Se necesita conexión Wi-Fi</string>
+    <string name="kddi_sim_lock_status_status">Estado</string>
+    <string name="kddi_sim_lock_status_title">Estado de la tarjeta SIM</string>
+    <string name="kddi_sim_lock_status_update">Actualización del estado de la SIM</string>
+    <string name="kddi_sim_lock_status_update_fail">Error de actualización</string>
+    <string name="kddi_sim_lock_status_update_success">Actualización correcta</string>
     <string name="keep_screen_on">Pantalla activa</string>
     <string name="keep_screen_on_summary">La pantalla nunca entra en modo de suspensión si el dispositivo se está cargando</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
