@@ -1341,7 +1341,7 @@ d MMMM"</string>
     <string name="not_default_data_content_description">Не встановлено для використання даних</string>
     <string name="not_set">Не налаштовано</string>
     <string name="notification_alert_title">Типово</string>
-    <string name="notification_app_settings">Налаштувати: %1$s</string>
+    <string name="notification_app_settings">Налаштувати</string>
     <string name="notification_appops_ok">Гаразд</string>
     <string name="notification_appops_settings">Налаштування</string>
     <string name="notification_bubble_title">Пузир</string>
