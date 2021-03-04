@@ -1720,7 +1720,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="go_to_send">Відправити</string>
     <string name="go_to_setting_fingerprint">Налаштування</string>
     <string name="google_base_app_fail">"Не вдалося завантажити. Перевірте, чи дозволено безпеці під’єднуватися до Інтернету."</string>
-    <string name="google_base_app_install_choice">\"%s\" запитує Google Service Framework для стабільної роботи. Завантажити та інсталювати?</string>
+    <string name="google_base_app_install_choice">Додаток вимагає Google Services Framework для нормально працювати, завантажити та встановити його?</string>
     <string name="google_base_app_installed">Успішно встановлено</string>
     <string name="google_base_app_installing">Встановлюю…</string>
     <string name="google_base_app_network_anomaly">"Не вдалося підключитися до мережі. Перевірте налаштування мережі та повторіть спробу."</string>
