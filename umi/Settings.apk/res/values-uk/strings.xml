@@ -1526,9 +1526,9 @@
     <string name="call_records_name_1">Ганна Коваленко</string>
     <string name="call_records_name_2">Іван Михайлюк</string>
     <string name="call_records_name_3">Сергій Нестеренко</string>
-    <string name="call_records_summary_1">%1$d: %2$d І %3$d сек</string>
-    <string name="call_records_summary_2">Серпень %1$d | %2$d хв %3$d сек</string>
-    <string name="call_records_summary_3">Серпень %1$d | %2$d хв %3$d сек</string>
+    <string name="call_records_summary_1">9:35 ранку | 26 секунд</string>
+    <string name="call_records_summary_2">16 серпня | 1 хв 16 с</string>
+    <string name="call_records_summary_3">16 серпня | 2 хв 24 с</string>
     <string name="call_settings_primary_user_only">Змініть налаштування викликів у Першому просторі</string>
     <string name="call_settings_summary">Налашт. гол.пошту, переадр.викл., парал.викл., ідент.абонента</string>
     <string name="call_settings_title">Виклики</string>
@@ -4665,7 +4665,7 @@ Xiaomi Cloud
     <string name="network_connection_errorstate_dialog_message">Щось трапилося. Додаток скасував запит на вибір пристрою.</string>
     <string name="network_connection_request_dialog_showall">Показати всі</string>
     <string name="network_connection_request_dialog_summary">%1$s хоче використати тимчасову мережу Wi-Fi, щоб підключитися до вашого пристрою</string>
-    <string name="network_connection_request_dialog_title">Пристрій для використання з додатком %1$s</string>
+    <string name="network_connection_request_dialog_title">Під\'єднатися до пристрою</string>
     <string name="network_connection_searching_message">Пошук пристрою…</string>
     <string name="network_connection_timeout_dialog_message">Немає пристроїв. Переконайтеся, що пристрої ввімкнені й готові до з’єднання.</string>
     <string name="network_connection_timeout_dialog_ok">Повторити спробу</string>
