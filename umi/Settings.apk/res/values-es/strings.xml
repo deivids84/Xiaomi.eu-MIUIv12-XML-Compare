@@ -3278,6 +3278,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="headset_remove_message">Desvincular dispositivo?</string>
     <string name="headset_remove_message_indicate">%1$s se desvinculará de todos los dispositivos asociados con esta Cuenta Mi.</string>
     <string name="headset_settings_title">Efectos de sonido</string>
+    <string name="headset_unsaved_device">Quitar el dispositivo</string>
     <string name="headset_unsaved_devices">Usado en otros dispositivos</string>
     <string name="hearing_aids_category">Herramientas de ayuda auditiva</string>
     <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo hace, puede perder parte de su trabajo.</string>
@@ -6575,6 +6576,7 @@ Nota: no puede usar su huella dactilar para desbloquear este dispositivo. Para o
     <string name="sim_call_back_title">Volver a llamar desde SIM predeterminada</string>
     <string name="sim_calls_always_use">Usar siempre esta para llamadas</string>
     <string name="sim_calls_ask_first_prefs_title">Preguntar siempre</string>
+    <string name="sim_card_lock">Estado de la tarjeta SIM</string>
     <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_card_select_title">Selecciona una tarjeta SIM</string>
     <string name="sim_cards_changed_message">Las tarjetas SIM se han cambiado</string>
