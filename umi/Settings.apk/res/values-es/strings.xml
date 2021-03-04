@@ -1523,8 +1523,8 @@ Puedes desactivar esta función en los Ajustes &gt; Bluetooth&gt; Dispositivos v
     <string name="call_records_name_1">María García</string>
     <string name="call_records_name_2">Juan López</string>
     <string name="call_records_name_3">Pedro Fernández</string>
-    <string name="call_records_summary_1">%1$d:%2$d AM | %3$d segundos</string>
-    <string name="call_records_summary_2">%1$d Agosto | %2$d min %3$d s</string>
+    <string name="call_records_summary_1">9:35 AM | 26 segundos</string>
+    <string name="call_records_summary_2">16 de agosto | 1 min 16 s</string>
     <string name="call_records_summary_3">%1$d Agosto | %2$d min %3$d s</string>
     <string name="call_settings_primary_user_only">Cambia los ajustes de llamada en el Primer espacio</string>
     <string name="call_settings_summary">Configurar buzón, llamada en espera, desvío e identificador</string>
