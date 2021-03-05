@@ -1588,6 +1588,7 @@ d MMMM"</string>
     <string name="quick_settings_cellular_detail_over_limit">Πάνω από το όριο</string>
     <string name="quick_settings_cellular_detail_remaining_data">Δεδομένα που απομένουν</string>
     <string name="quick_settings_cellular_detail_title">Δεδομένα κινητής τηλεφωνίας</string>
+    <string name="quick_settings_cellular_detail_unable_change">"Αδυναμία ορισμού κατά την κλήση"</string>
     <string name="quick_settings_color_space_label">Λειτουργία διόρθωσης χρώματος</string>
     <string name="quick_settings_connected">Έχει συνδεθεί</string>
     <string name="quick_settings_connected_battery_level">Σε σύνδεση, μπαταρία %1$s</string>
