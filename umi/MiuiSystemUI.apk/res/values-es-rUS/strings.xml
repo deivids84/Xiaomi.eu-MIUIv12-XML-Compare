@@ -1589,7 +1589,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="quick_settings_cellular_detail_over_limit">Sobre el límite</string>
     <string name="quick_settings_cellular_detail_remaining_data">Datos restantes</string>
     <string name="quick_settings_cellular_detail_title">Datos móviles</string>
-    <string name="quick_settings_cellular_detail_unable_change">"No se puede establecer durante una llamada"</string>
+    <string name="quick_settings_cellular_detail_unable_change">"No se puede configurar durante la llamada"</string>
     <string name="quick_settings_color_space_label">Modo de corrección de color</string>
     <string name="quick_settings_connected">Conectado</string>
     <string name="quick_settings_connected_battery_level">Conectado, batería %1$s</string>
