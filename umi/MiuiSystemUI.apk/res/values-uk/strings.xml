@@ -1588,6 +1588,7 @@ d MMMM"</string>
     <string name="quick_settings_cellular_detail_over_limit">Перевищення ліміту</string>
     <string name="quick_settings_cellular_detail_remaining_data">Залишок трафіку</string>
     <string name="quick_settings_cellular_detail_title">Мобільний інтернет</string>
+    <string name="quick_settings_cellular_detail_unable_change">"Неможливо встановити під час дзвінка"</string>
     <string name="quick_settings_color_space_label">Режим корекції кольору</string>
     <string name="quick_settings_connected">Підключено</string>
     <string name="quick_settings_connected_battery_level">Під’єднано, заряд акумулятора %1$s</string>
