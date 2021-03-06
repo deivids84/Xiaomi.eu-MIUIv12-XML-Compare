@@ -891,7 +891,7 @@ Torneu a començar."</string>
     <string name="mtrl_picker_date_header_title">Seleccioneu una data</string>
     <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
     <string name="mtrl_picker_range_header_title">Seleccioneu un interval de dates</string>
-    <string name="mtrl_picker_range_header_unselected">Data d\'inici - Data de finalització</string>
+    <string name="mtrl_picker_range_header_unselected">Data d\'inici – Data final</string>
     <string name="muscle_rate">Múscul</string>
     <string name="muscle_rate_descripe_content">"El percentatge de múscul es calcula en funció de la massa muscular, el pes corporal i l'alçada, etc. És útil per determinar com de sa i forts esteu. L’exercici regular és essencial per mantenir una quantitat sana de múscul al cos."</string>
     <string name="my_data_source">Fonts de dades</string>
