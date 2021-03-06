@@ -1391,7 +1391,7 @@
     <string name="bootloader_status_locked">Заблокований</string>
     <string name="bootloader_status_locked_info">Пристрій заблокований</string>
     <string name="bootloader_status_locked_summary">Пристрій захищений</string>
-    <string name="bootloader_status_privacy_dialog_message">Для нормальної роботи Mi Unlock необхідний доступ до вашого Мі акаунту, ID ЦП, IMEI, IMSI. Ми збираємо, обробляємо та використовуємо ваші дані у відповідності з нашою %s. Дозволити?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock потрібен доступ до вашого Mi аккаунта, ЦП ID, IMSI працювати нормально. Прочитайте і погодьтеся з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt;. Прийняти?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Скасувати</string>
     <string name="bootloader_status_privacy_dialog_title">Необхідні дозволи</string>
     <string name="bootloader_status_privacy_dialog_url_text">Політика конфіденційності</string>
@@ -2590,8 +2590,8 @@
     <string name="dual_wifi_switching_prompt">Перехід між мережами</string>
     <string name="dual_wifi_switching_summary">Дводіапазонне збільшення швидкості Wi-Fi повинне використовувати два різних діапазони Wi-Fi. Якщо ви підключитеся до іншої основної мережі, допоміжна мережа буде втрачена.</string>
     <string name="dump_log">Зібрати журнали проблем</string>
-    <string name="dump_log_summary">"Ця функція призначена для створення журналу 284 в бета-версіях MIUI. Використовуйте її з обережністю.
-Ви можете переглянути створені журнали в Провіднику."</string>
+    <string name="dump_log_summary">"Ця функція призначена для генерації журналу %s в бета-версії MIUI. Будьте обережні в читанні.
+Ви можете переглянути згенеровані логи в файловому менеджері."</string>
     <string name="dump_log_title">Детальніше про цю функцію</string>
     <string name="easymode_hint">Натисніть, щоб відключити Простий режим</string>
     <string name="edge_mode_back">Назад</string>
@@ -5673,7 +5673,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="remove_managed_profile_label">Видалити службовий профіль</string>
     <string name="repeat">Повторювати</string>
     <string name="repeat_call">Сповіщати про повторні виклики</string>
-    <string name="repeat_call_info">Не відключати сигнал для повторних викликів протягом 15 хвилин у режимі \"Без звуку\"</string>
+    <string name="repeat_call_info">Не відключати сигнал для повторних викликів протягом %d хвилин у Режимі \"Без звуку\"</string>
     <string name="repeat_days_in_week">Повторювати</string>
     <string name="repeat_never">Ніколи</string>
     <string name="repeat_title">Повторити</string>
@@ -5855,7 +5855,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="screen_dark_mode_smart_dark_title">Темний режим для всіх</string>
     <string name="screen_dark_mode_time_title">Темний режим за розкладом</string>
     <string name="screen_effect">Колірна схема</string>
-    <string name="screen_enhance_engine_ai_note">Для забезпечення більш природного відображення об\'єктів ця функція не буде застосовуватися до зображень, які складаються з основних кольорів або з додатковими налаштуваннями.</string>
+    <string name="screen_enhance_engine_ai_note">%d. Ця функція трохи збільшує енергоспоживання.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Лише зображення з додатку Галерея можуть бути розширені.</string>
     <string name="screen_enhance_engine_ai_note_3">"%d. Ця функція не працюватиме, якщо ви обрали вибір оригінальних кольорів або застосовані додаткові налаштування."</string>
     <string name="screen_enhance_engine_ai_open">Покращення зображень</string>
