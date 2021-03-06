@@ -98,13 +98,13 @@
     </plurals>
     <plurals name="battery_tip_restrict_handled_title">
         <item quantity="other">Нещодавно обмежено %2$d додатка</item>
-        <item quantity="one">Нещодавно обмежено %2$d додаток</item>
+        <item quantity="one">%1$s нещодавно обмежені</item>
         <item quantity="few">Нещодавно обмежено %2$d додатки</item>
         <item quantity="many">Нещодавно обмежено %2$d додатків</item>
     </plurals>
     <plurals name="battery_tip_restrict_summary">
         <item quantity="other">%2$d додатка інтенсивно споживають заряд акумулятора у фоновому режимі</item>
-        <item quantity="one">%2$d додаток інтенсивно споживає заряд акумулятора у фоновому режимі</item>
+        <item quantity="one">%1$s додаток інтенсивно споживає заряд акумулятора у фоновому режимі</item>
         <item quantity="few">%2$d додатки інтенсивно споживають заряд акумулятора у фоновому режимі</item>
         <item quantity="many">%2$d додатків інтенсивно споживають заряд акумулятора у фоновому режимі</item>
     </plurals>
@@ -349,9 +349,9 @@
         <item quantity="many">%d активних довірчих агентів</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">За ост. %2$s пам’ять використовувало %1$d додатка</item>
-        <item quantity="one">За ост. %2$s пам’ять використовував %1$d додаток</item>
-        <item quantity="few">За ост. %2$s пам’ять використовували %1$d додатки</item>
+        <item quantity="other">%1$d програм використовують пам\'ять (%2$s)</item>
+        <item quantity="one">1 додаток використав пам\'ять за останній %2$s</item>
+        <item quantity="few">%1$d програми використовують пам\'ять (%2$s)</item>
         <item quantity="many">За ост. %2$s пам’ять використовувало %1$d додатків</item>
     </plurals>
     <plurals name="minutes">
@@ -440,13 +440,13 @@
     </plurals>
     <plurals name="power_high_usage_summary">
         <item quantity="other">%2$d додатка працюють неправильно</item>
-        <item quantity="one">%2$d додаток працює неправильно</item>
+        <item quantity="one">%1$s поводиться ненормально</item>
         <item quantity="few">%2$d додатки працюють неправильно</item>
         <item quantity="many">%2$d додатків працюють неправильно</item>
     </plurals>
     <plurals name="power_high_usage_title">
         <item quantity="other">Додатки, які розряджають акумулятор</item>
-        <item quantity="one">Додатки, які розряджають акумулятор</item>
+        <item quantity="one">%1$s розрядження акумулятора</item>
         <item quantity="few">Додатки, які розряджають акумулятор</item>
         <item quantity="many">Додатки, які розряджають акумулятор</item>
     </plurals>
