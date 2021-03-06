@@ -277,7 +277,7 @@
     <string name="perm_action_deny">No ho permetis mai</string>
     <string name="perm_manager_suggest_operation">Gestioneu els permisos</string>
     <string name="perm_manager_suggest_title">Voleu ajustar els permisos?</string>
-    <string name="perm_modem_location">Accés a la vostra ubicació</string>
+    <string name="perm_modem_location">Accés a la teva ubicació</string>
     <string name="perm_modem_location_desc">El vostre operador intenta accedir a la informació de la ubicació. Voleu compartir la informació de la ubicació amb l\'operador?</string>
     <string name="permdesc_camera">Fer fotos i enregistrar vídeos</string>
     <string name="permdesc_in_calls">Monitorar les trucades entrants</string>
@@ -305,9 +305,9 @@
     <string name="permission_group_title_charges_related">Càrrecs</string>
     <string name="permission_group_title_media_related">Multimèdia</string>
     <string name="permission_group_title_privacy_related">Privadesa</string>
-    <string name="permission_group_title_sensitive_privacy_related">Permisos delicats</string>
+    <string name="permission_group_title_sensitive_privacy_related">Permisos sensibles</string>
     <string name="permission_group_title_settings_related">Configuració</string>
-    <string name="permission_list_include">"Incloent el següent:
+    <string name="permission_list_include">"Incloent els següents:
 "</string>
     <string name="permission_reminders">Recordatoris de permís</string>
     <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
@@ -405,12 +405,12 @@
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
-    <string name="virtual_reject_notice_content">S\'ha enviat una resposta en blanc a l\'aplicació per protegir les vostres dades personals</string>
-    <string name="virtual_reject_notice_title_calendar">Accés al calendari per %1$s</string>
-    <string name="virtual_reject_notice_title_calllog">Accés a l\'historial de trucades per %1$s</string>
-    <string name="virtual_reject_notice_title_contacts">Accés als contactes per %1$s</string>
-    <string name="virtual_reject_notice_title_phonestate">Accés a la informació del dispositiu per %1$s</string>
-    <string name="virtual_reject_notice_title_sms">Accés als missatges per %1$s</string>
+    <string name="virtual_reject_notice_content">S\'ha enviat una resposta en blanc a l\'aplicació per a protegir la teva informació personal</string>
+    <string name="virtual_reject_notice_title_calendar">Accés al calendari de %1$s</string>
+    <string name="virtual_reject_notice_title_calllog">Accés a l\'historial de trucades de %1$s</string>
+    <string name="virtual_reject_notice_title_contacts">Accés als contactes de %1$s</string>
+    <string name="virtual_reject_notice_title_phonestate">Accés a la informació del dispositiu de %1$s</string>
+    <string name="virtual_reject_notice_title_sms">Accés als missatges de %1$s</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
