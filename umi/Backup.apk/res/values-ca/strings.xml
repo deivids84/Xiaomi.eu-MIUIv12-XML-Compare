@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navega a l\'inici</string>
-    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
-    <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
-    <string name="abc_capital_off">DESACTIVAT</string>
-    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVA</string>
+    <string name="abc_capital_on">ACTIVA</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">suprimeix</string>
-    <string name="abc_menu_enter_shortcut_label">retorn</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
     <string name="abc_menu_function_shortcut_label">Funció+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Maj+</string>
-    <string name="abc_menu_space_shortcut_label">espai</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
-    <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="abort_backup_confirm">"La còpia de seguretat no ha acabat. Voleu aturar-la?"</string>
     <string name="abort_restore_confirm">"La restauració no ha acabat. Voleu aturar-la?"</string>
     <string name="account_contact_backup_info">Dades del Compte Google, Compte Mi i Contactes</string>
@@ -56,14 +56,14 @@
     <string name="auto_backup_progress">S\'està fent una còpia de seguretat…</string>
     <string name="auto_backup_select_user_apps">Trieu les aplicacions</string>
     <string name="auto_backup_selected_user_apps">Aplicacions seleccionades</string>
-    <string name="auto_backup_setting">Programa còpies de seguretat periòdiques</string>
+    <string name="auto_backup_setting">Planifica còpies de seguretat periòdiques</string>
     <string name="auto_backup_system_data">Sistema</string>
     <string name="auto_backup_time">Hora</string>
     <string name="auto_backup_user_data">Aplicacions</string>
     <string name="backup">Còpia de seguretat</string>
     <string name="backup_data">Trieu els elements de la còpia de seguretat</string>
     <string name="backup_delete">Elimineu:</string>
-    <string name="backup_empty">Sense còpies de seguretat.</string>
+    <string name="backup_empty">No hi ha còpies de seguretat.</string>
     <string name="backup_empty_info">" Còpia de seguretat de les dades, configuracions i aplicacions"</string>
     <string name="backup_empty_info_onpad">" Còpia de seguretat de les dades, configuracions i aplicacions"</string>
     <string name="backup_error">"No s'ha pogut fer la còpia de seguretat"</string>
@@ -71,7 +71,7 @@
     <string name="backup_file_error">"No s'ha pogut fer la còpia de seguretat"</string>
     <string name="backup_finished">S\'ha copiat amb èxit</string>
     <string name="backup_hint">Manteniu el dispositiu encès</string>
-    <string name="backup_hint_onpad">Manteniu el dispositiu activat</string>
+    <string name="backup_hint_onpad">Manteniu el dispositiu encès</string>
     <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
     <string name="backup_new">Noves:</string>
     <string name="backup_progress">S\'està fent una còpia de seguretat…</string>
@@ -96,7 +96,7 @@
     <string name="call_title">Historial de trucades</string>
     <string name="camera_summary">Configuració de la càmera (no inclou les fotos)</string>
     <string name="camera_summary_for_cta">Configuració de la càmera</string>
-    <string name="cancel">Cancel·la</string>
+    <string name="cancel">Cancel·leu</string>
     <string name="cancel_backup">Atura</string>
     <string name="cancel_moving_dialog_message">Esteu segur que voleu aturar la importació?</string>
     <string name="cancel_moving_dialog_title">Atura la importació</string>
@@ -131,8 +131,8 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="confirm_exit_link_msg">"Si sortiu de l'aplicació interrompreu la transferència en curs. Haureu d'establir una connexió entre els dos dispositius de nou. Voleu sortir de l'aplicació de totes maneres?"</string>
     <string name="confirm_exit_link_title">Interrupció de la transferència</string>
     <string name="connect_soft_ap_label">S\'està connectant a un dispositiu nou…</string>
-    <string name="connect_wifi">Connecteu-vos a la Wi-Fi</string>
-    <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos a la Wi-Fi per importar elements de l'iCloud."</string>
+    <string name="connect_wifi">Connecta a la Wi-Fi</string>
+    <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos al Wi-Fi per importar elements d'iCloud."</string>
     <string name="contact_title">Contactes</string>
     <string name="copy">Copia</string>
     <string name="current_account">Hola %s</string>
@@ -148,12 +148,12 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="delete_backup_title">Elimineu la còpia de seguretat</string>
     <string name="delete_failed_backup_confirm">Aquesta còpia de seguretat conté errors.</string>
     <string name="deselect_all">Desseleccioneu-ho tot</string>
-    <string name="dialog_app_upgrade_download">Actualitza</string>
+    <string name="dialog_app_upgrade_download">Actualizeu</string>
     <string name="dialog_app_upgrade_exit">Surt</string>
     <string name="dialog_app_upgrade_message">Hi ha disponible una nova versió del Mi Mover. Voleu actualitzar-lo ara?</string>
     <string name="dialog_backup_password_auto_backup_tips">"No es poden fer còpies de seguretat d'elements automàticament quan la contrasenya de còpia de seguretat estigui activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
     <string name="dialog_backup_password_backup_tips">"No es poden fer còpies de seguretat d'elements quan la contrasenya de còpia de seguretat estigui activada. Desactiveu la contrasenya de còpia de seguretat."</string>
-    <string name="dialog_backup_password_cancel">Cancel·la</string>
+    <string name="dialog_backup_password_cancel">Cancel·leu</string>
     <string name="dialog_backup_password_change_device_restore_tips">"No es pot utilitzar Mi Mover quan la contrasenya de còpia de seguretat està activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
     <string name="dialog_backup_password_change_machine_tips">"No podreu transferir còpies de seguretat protegides amb contrasenya. Desactiveu la contrasenya de còpia de seguretat abans d’utilitzar Mi Mover."</string>
     <string name="dialog_backup_password_restore_tips">"No es poden restaurar elements quan la contrasenya de la còpia de seguretat estigui activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
@@ -187,7 +187,7 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="error_permissions">"Aquesta aplicació no té els permisos necessaris perquè accedeixi al Calendari. Aneu a Configuració i comproveu els permisos per continuar."</string>
     <string name="every_day">Cada dia</string>
     <string name="exchange_account">Canvia de comptes</string>
-    <string name="expand_button_title">Avançat</string>
+    <string name="expand_button_title">Opcions avançades</string>
     <string name="fail">Ha fallat</string>
     <string name="failed_description">Ha fallat</string>
     <string name="feature_title_account">Compte Mi</string>
@@ -240,8 +240,8 @@ Assegureu-vos que l'USB té prou espai d'emmagatzematge abans d'iniciar."</strin
     <string name="icloud_login_title">Inicia la sessió a l\'iCloud</string>
     <string name="icloud_need_sync">"Per importar dades de iOS,r
 primer heu de crear una còpia de seguretat d'iCloud."</string>
-    <string name="icloud_need_wifi_message">"En aquest moment no esteu connectats a la Wi-Fi. Per importar dades des d'iCloud, connecteu-vos a la Wi-Fi."</string>
-    <string name="icloud_need_wifi_title">Connecteu-vos a la Wi-Fi</string>
+    <string name="icloud_need_wifi_message">"La Wi-Fi no està connectada actualment. Per importar dades d'iCloud, connecteu-vos a la Wi-Fi."</string>
+    <string name="icloud_need_wifi_title">Connecta a la Wi-Fi</string>
     <string name="import_again">Importa de nou</string>
     <string name="import_data_from_icloud">Importa les dades de l\'iCloud</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
@@ -262,15 +262,15 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
 3. On s'emmagatzemen les còpies de seguretat locals? %1$s"</string>
     <string name="local_backup_select_activity">Crea una còpia de seguretat</string>
     <string name="local_backup_window_title">Còpies de seguretat locals</string>
-    <string name="local_button_backup_data">Còpia de seguretat</string>
-    <string name="local_button_backup_now">Còpia de seguretat</string>
+    <string name="local_button_backup_data">Fer còpia</string>
+    <string name="local_button_backup_now">Fer còpia</string>
     <string name="local_button_restore_data">Restaurar en aquest dispositiu</string>
     <string name="local_button_restore_now">Restaurar</string>
-    <string name="local_click_to_jump">Toqueu per veure-ho</string>
+    <string name="local_click_to_jump">Prem per a veure</string>
     <string name="local_config_off">No</string>
     <string name="local_config_on">Sí</string>
     <string name="local_home_title">Còpia de seguretat local</string>
-    <string name="local_main_auto_backup_title">Fes una còpia de seguretat automàtica</string>
+    <string name="local_main_auto_backup_title">Còpies de seguretat automàtiques</string>
     <string name="local_main_backup">Còpies de seguretat locals</string>
     <string name="local_main_backup_and_restore">En aquest dispositiu</string>
     <string name="local_main_backup_detail_title">Ajustaments del sistema, comptes i dades de l\'aplicació</string>
@@ -280,11 +280,11 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="local_main_backup_time">Última còpia de seguretat: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Xifra els elements dels quals facis una còpia de seguretat amb el teu compte Mi</string>
-    <string name="local_main_encrypt_backup_title">Xifra les còpies de seguretat</string>
+    <string name="local_main_encrypt_backup_title">Xifrar còpies de seguretat</string>
     <string name="local_main_latest_backup_time_loading">Un moment…</string>
     <string name="local_no_backup">Sense còpies de seguretat.</string>
     <string name="local_no_backup_data">No hi ha còpies de seguretat, encara</string>
-    <string name="local_restore_select_activity">Gestiona les còpies de seguretat</string>
+    <string name="local_restore_select_activity">Gestionar còpies de seguretat</string>
     <string name="local_restore_select_data_activity">Restaurar des d\'una còpia</string>
     <string name="local_restore_window_title">Restauració local</string>
     <string name="local_select_account_contact">Comptes i contactes</string>
@@ -300,13 +300,13 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="logining">S\'està iniciant sessió…</string>
     <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Núvol Xiaomi, Temes MIUI i als serveis Mi, des d\'arreu.</string>
     <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixa anar per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un segon…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="mms_title">Missatgeria multimèdia</string>
     <string name="multi_select_title">%1$s seleccionats</string>
@@ -317,59 +317,59 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="never">Mai</string>
     <string name="new_backup">Còpia de seguretat</string>
     <string name="new_britem_audio">Àudio</string>
-    <string name="new_britem_doc">Fitxers</string>
+    <string name="new_britem_doc">Arxius</string>
     <string name="new_britem_other">Altres</string>
     <string name="new_britem_pic">Imatges</string>
     <string name="new_britem_video">Vídeos</string>
-    <string name="new_confirm_enable_encrypt_content">"MIUI associa les còpies de seguretat xifrades amb el vostre Compte Mi. Haureu d’iniciar la sessió al vostre Compte Mi per restaurar els elements d’aquestes còpies de seguretat."</string>
-    <string name="new_confirm_enable_encrypt_title">Xifra</string>
+    <string name="new_confirm_enable_encrypt_content">"MIUI associa les còpies de seguretat xifrades amb el teu compte de Mi Account. Hauràs d'iniciar sessió en Mi Account per a restaurar elements de dites còpies."</string>
+    <string name="new_confirm_enable_encrypt_title">Xifrar</string>
     <string name="new_local_button_backup">Còpia de seguretat</string>
-    <string name="new_local_button_restore">Restaura</string>
-    <string name="new_local_click_to_jump">Toqueu per veure les instruccions detallades</string>
+    <string name="new_local_button_restore">Restaurar</string>
+    <string name="new_local_click_to_jump">Prem per a veure instruccions detallades</string>
     <string name="new_local_detail_description">"Nota:
-%1$d. Copieu les còpies de seguretat al vostre ordinador per evitar la pèrdua de dades. %2$s.
-%3$d. Les còpies de seguretat es desaran a MIUI-Backup-AllBackup."</string>
-    <string name="new_local_tab_backup">Còpia de seguretat</string>
-    <string name="new_local_tab_restore">Restaura</string>
-    <string name="new_low_storage_title">No hi ha prou espai d’emmagatzematge</string>
-    <string name="new_more_settings_label">Configuració addicional</string>
-    <string name="new_pc_backup_content1">%1$d. Obre \"%2$s\".</string>
-    <string name="new_pc_backup_content2">%d. Espereu fins que es faci la còpia de seguretat de tots els elements.</string>
-    <string name="new_pc_backup_content3">%d. Trobareu la còpia de seguretat a MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_backup_content4">%d. Copieu el fitxer al vostre ordinador.</string>
+%1$d. Copia les còpies de seguretat en el teu ordinador per a evitar la pèrdua de dades. %2$s.
+%3$d. Les còpies de seguretat es desaran en MIUI-Backup-AllBackup."</string>
+    <string name="new_local_tab_backup">Fer còpia</string>
+    <string name="new_local_tab_restore">Restaurar</string>
+    <string name="new_low_storage_title">No hi ha prou espai d\'emmagatzematge</string>
+    <string name="new_more_settings_label">Configuracions addicionals</string>
+    <string name="new_pc_backup_content1">%1$d. Obrir \"%2$s\".</string>
+    <string name="new_pc_backup_content2">%d. Espera fins que tots els elements estiguin copiats.</string>
+    <string name="new_pc_backup_content3">%d. Troba la còpia de seguretat en MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content4">%d. Còpia l\'arxiu al teu ordinador.</string>
     <string name="new_pc_backup_restore_link">Dispositiu mòbil</string>
-    <string name="new_pc_backup_summary1">Seleccioneu els elements i toqueu \"Còpia de seguretat\".</string>
-    <string name="new_pc_backup_summary2">Connecteu el dispositiu mòbil a l’ordinador mitjançant un cable USB.</string>
-    <string name="new_pc_backup_summary4">Nota: També podeu copiar fotos i vídeos de DCIM.</string>
-    <string name="new_pc_restore_content1">%d. Connecteu el dispositiu mòbil a l’ordinador mitjançant un cable USB.</string>
-    <string name="new_pc_restore_content2">%d. Copieu la còpia de seguretat del vostre ordinador a MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_restore_content3">%1$d. Obriu \"%2$s\" i seleccioneu els elements a restaurar.</string>
-    <string name="new_pc_title">Copia les còpies de seguretat</string>
-    <string name="new_select_file">Àudio, vídeos i fitxers</string>
+    <string name="new_pc_backup_summary1">Selecciona elements i prem \"Còpia de seguretat\".</string>
+    <string name="new_pc_backup_summary2">Connecta el teu dispositiu mòbil a l\'ordinador a través del cable USB.</string>
+    <string name="new_pc_backup_summary4">Nota: també pots copiar fotos i vídeos de DCIM.</string>
+    <string name="new_pc_restore_content1">%d. Connecta el teu dispositiu mòbil a l\'ordinador a través del cable USB.</string>
+    <string name="new_pc_restore_content2">%d. Còpia la còpia de seguretat del teu ordinador a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content3">%1$d. Obre \"%2$s\" i selecciona elements que vulguis restaurar.</string>
+    <string name="new_pc_title">Copiar còpies de seguretat</string>
+    <string name="new_select_file">Àudio, vídeos i arxius</string>
     <string name="new_select_message">SMS, contactes i historial de trucades</string>
     <string name="new_select_pic">Imatges</string>
     <string name="new_select_system">Altres dades d\'aplicacions del sistema</string>
     <string name="new_select_tencent">QQ i WeChat</string>
-    <string name="new_select_third">Aplicacions i dades d\'aplicacions de tercers</string>
+    <string name="new_select_third">Dades d\'aplicacions i aplicacions de tercers</string>
     <string name="new_select_third_apk">Aplicacions de tercers</string>
-    <string name="new_select_third_data">Dades d’aplicacions de tercers</string>
-    <string name="new_tab_pc_backup">Còpia de seguretat</string>
-    <string name="new_tab_pc_restore">Restaura</string>
+    <string name="new_select_third_data">Dades d\'aplicacions de tercers</string>
+    <string name="new_tab_pc_backup">Fer còpia</string>
+    <string name="new_tab_pc_restore">Restaurar</string>
     <string name="new_task_finished">Fet</string>
     <string name="new_usb_detail_description">"Nota:
-%1$d. Aquest mètode permet fer una còpia de seguretat d’aplicacions i dades d’aplicacions de tercers.
-%2$d. Assegureu-vos que hi ha suficient espai d’emmagatzematge a la unitat USB per emmagatzemar les còpies de seguretat."</string>
-    <string name="new_usb_disconnect_dialog_message">Connecteu primer una unitat USB.</string>
-    <string name="new_usb_disconnect_dialog_title">"No s'ha pogut trobar la unitat USB"</string>
-    <string name="new_usb_select_data_no_space">Només %s d’emmagatzematge està disponible a la unitat USB. Allibereu espai d’emmagatzematge.</string>
-    <string name="new_usb_tab_backup">Còpia de seguretat</string>
-    <string name="new_usb_tab_restore">Restaura</string>
+%1$d. Aquest mètode permet fer còpies de seguretat de dades d'aplicacions i aplicacions de tercers.
+%2$d. Assegura't que hi ha suficient espai en el teu dispositiu USB per a emmagatzemar les còpies de seguretat."</string>
+    <string name="new_usb_disconnect_dialog_message">Connecta primer un dispositiu USB.</string>
+    <string name="new_usb_disconnect_dialog_title">"No s'ha pogut trobar el dispositiu USB"</string>
+    <string name="new_usb_select_data_no_space">Només hi ha disponible %s en el teu dispositiu USB. Allibera espai.</string>
+    <string name="new_usb_tab_backup">Fer còpia</string>
+    <string name="new_usb_tab_restore">Restaurar</string>
     <string name="no_encrypt_password">Sense contrasenya</string>
     <string name="no_network">"No es pot connectar a la xarxa"</string>
-    <string name="not_set">Sense especificar</string>
+    <string name="not_set">Sense definir</string>
     <string name="note_title">Notes</string>
     <string name="nothing_searched">Cap resultat.</string>
-    <string name="notif_backup_complete_title">S\'ha copiat correctament</string>
+    <string name="notif_backup_complete_title">S\'ha copiat amb èxit</string>
     <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
     <string name="notif_backup_title">Còpia de seguretat de les dades</string>
     <string name="notif_calculating_app">S\'eastà calculant %1$s (%2$s)…</string>
@@ -381,7 +381,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="notif_icloud_loaded_summary">S\'està esperant…</string>
     <string name="notif_icloud_loading_summary">S\'estan carregant les dades…</string>
     <string name="notif_icloud_logining">S\'està iniciant sessió a l\'iCloud de l\'antic dispositiu iOS…</string>
-    <string name="notif_icloud_need_wifi_summary">S\'està esperant la Wi-Fi</string>
+    <string name="notif_icloud_need_wifi_summary">S\'està esperant una Wi-Fi</string>
     <string name="notif_icloud_saved_summary">S\'ha importat amb èxit</string>
     <string name="notif_icloud_saving_summary">S\'estan restaurant les dades…</string>
     <string name="notif_miasist_try_to_connect">Mi PC Suite intenta connectar-se al vostre dispositiu</string>
@@ -406,7 +406,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="pause">Pausa</string>
     <string name="perm_camera">Càmera</string>
     <string name="perm_location">Ubicació</string>
-    <string name="perm_read_call_log">Llegir l\'historial de trucades</string>
+    <string name="perm_read_call_log">Llegeix l\'historial de trucades</string>
     <string name="perm_read_contacts">Llegeix contactes</string>
     <string name="perm_read_phone_state">"Llegeix l'estat del telèfon"</string>
     <string name="perm_read_sms">Llegeix SMS</string>
@@ -416,7 +416,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="platform_chooser_item_android_others">Altres marques</string>
     <string name="platform_chooser_item_ios">Importa des d\'un dispositiu iOS</string>
     <string name="platform_chooser_title">Trieu un dispositiu antic</string>
-    <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="progress_backup_hint">S\'està fent una còpia de seguretat…</string>
     <string name="progress_restore_hint">S\'està restaurant…</string>
     <string name="prompt_reading">S\'està llegint…</string>
@@ -435,18 +435,18 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="restore_counts">Restaura:</string>
     <string name="restore_data">Trieu els elements a restaurar</string>
     <string name="restore_failed">"No s'ha pogut restaurar"</string>
-    <string name="restore_finished">S\'ha restaurat correctament</string>
+    <string name="restore_finished">S\'ha restaurat amb èxit</string>
     <string name="restore_is_running">S\'està restaurant el dispositiu</string>
     <string name="restore_launcher_layout_hit">Restaura la configuració del llançador</string>
     <string name="restore_progress">S\'està restaurant…</string>
     <string name="restore_report">Detalls de la restauració</string>
     <string name="restore_telephony_hit">La restauració reiniciarà l\'aplicació Telèfon.</string>
-    <string name="retry">Torneu-ho a provar</string>
+    <string name="retry">Proveu de nou</string>
     <string name="reverse_all">Esborra-ho tot</string>
     <string name="router_backup_hint">Manteniu el dispositiu encès</string>
     <string name="save_finish_with_failing_items">"S'ha interromput la transferència.r
 Les dades que no s'han importat s'han de tornar a importar."</string>
-    <string name="saving_data">"S'estan important dades des de l’iCloud…r
+    <string name="saving_data">"S'estan important les dades d'iCloud…r
 No desactiveu la Wi-Fi"</string>
     <string name="saving_data_no_time">S\'estan restaurant les dades…</string>
     <string name="saving_data_space_low">"No hi ha prou espai d'emmagatzematge.r
@@ -506,7 +506,7 @@ Allibereu %s com a mínim."</string>
     <string name="task_backup_cancel_progress">S\'està aturant…</string>
     <string name="task_backup_finished_local">"S'ha fet la còpia de seguretat "</string>
     <string name="task_canceled">S\'ha cancel·lat la còpia de seguretat</string>
-    <string name="task_canceled_all_local">Cancel·lada</string>
+    <string name="task_canceled_all_local">S\'ha cancel·lat</string>
     <string name="task_canceled_local">Còpia de seguretat incompleta (%s)</string>
     <string name="task_cloud_backup_cancel_dialog">"La còpia de seguretat no s'ha acabat. Voleu aturar-la?"</string>
     <string name="task_failed">"No s'ha pogut fer la còpia de seguretat"</string>
@@ -532,7 +532,7 @@ Allibereu %s com a mínim."</string>
     <string name="task_stopped_exception">S\'ha cancel·lat la restauració</string>
     <string name="trans_backingup">S\'està fent una còpia de seguretat…</string>
     <string name="trans_backingup_no_items">S\'està sincronitzant…</string>
-    <string name="trans_button_cancel">Cancel·la</string>
+    <string name="trans_button_cancel">Cancel·leu</string>
     <string name="trans_button_exit">Surt</string>
     <string name="trans_button_stay">Roman</string>
     <string name="trans_calculating">S\'està calculant…</string>
@@ -595,11 +595,11 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_install_guide_step1_title">Pas 1</string>
     <string name="trans_install_guide_step2_content">Un cop s\'hagi completat la instal·lació, premeu \"Inicia\" a la part inferior.</string>
     <string name="trans_install_guide_step2_title">Pas 2</string>
-    <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la Wi-Fi i toqueu \"Soc el destinatari\". Seleccioneu el dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
+    <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa Wlan i toqueu \"Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
     <string name="trans_intro_desc_10">Toqueu «Connecta mitjançant un codi QR» en el nou dispositiu i escanegeu el codi QR per establir la connexió.</string>
     <string name="trans_intro_desc_3">Cancel·leu la transferència, sortiu de Mi Mover i començareu de nou. Els fitxers duplicats es sobreescriuran durant la nova transferència.</string>
-    <string name="trans_intro_desc_4">"Mi Mover utilitza la Wi-Fi per transferir fitxers. És per això que no podeu connectar-vos a Internet mitjançant la Wi-Fi en cap dels dos dispositius durant una transferència, però podeu utilitzar les dades mòbils. Tot i això, alguns dispositius més nous (per exemple, Mi 6) poden connectar-se a Internet mitjançant la Wi-Fi durant les transferències."</string>
-    <string name="trans_intro_desc_4_market">"Mi Mover utilitza la Wi-Fi per transferir fitxers. És per això que no podeu connectar-vos a Internet mitjançant la Wi-Fi en cap dels dos dispositius durant una transferència, però podeu utilitzar les dades mòbils."</string>
+    <string name="trans_intro_desc_4">"El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu seguir utilitzant les dades mòbils. Tanmateix, alguns dispositius més nous (per exemple el Mi 6) poden connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
+    <string name="trans_intro_desc_4_market">"Mi Mover utilitza Wi-Fi per transferir fitxers. Aquesta és la raó per la que no podeu connectar-vos a internet utilitzant Wi-Fi en cap dispositiu mentres realitzeu una transferència. Tot i així encara podeu utilitzar les dades mòbils."</string>
     <string name="trans_intro_desc_5">L\'espai d\'emmagatzematge en dispositius antics s\'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb - 1 Gb d\'emmagatzematge disponible al vostre telèfon antic abans d\'iniciar una transferència.</string>
     <string name="trans_intro_desc_6">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
     <string name="trans_intro_desc_7">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu a instal·lar l\'aplicació en un dispositiu nou.</string>
@@ -646,7 +646,7 @@ Allibereu espai o només transferiu elements importants."</string>
     <string name="trans_open_camera_failed_message">Reninicieu el vostre dispositiu i comproveu si Mi Mover us permet utilitzar &lt;b&gt;Càmera&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"No s'ha pogut accedir a la càmera"</string>
     <string name="trans_open_location_button">Activa</string>
-    <string name="trans_open_location_message">Activeu els serveis d\'ubicació per obtenir la llista de xarxes Wi-Fi disponibles.</string>
+    <string name="trans_open_location_message">Activa els serveis d\'ubicació per obtenir el llistat de xarxes Wi-Fi disponibles.</string>
     <string name="trans_open_location_title">Activa els serveis d\'ubicació</string>
     <string name="trans_operate_func_one">Mètode A</string>
     <string name="trans_operate_func_two">Mètode B</string>
@@ -675,13 +675,13 @@ A continuació, toqueu \"Torna a connectar\" per escanejar el codi QR."</string>
     <string name="trans_progress_subdescript_transingsddata_sender">S\'estan enviant %1$s fitxers de la targeta SD, %2$s completat</string>
     <string name="trans_progress_subdescript_waiting">S\'està esperant a rebre %s</string>
     <string name="trans_receiver">"Sóc un receptor"</string>
-    <string name="trans_receiver_time_remained">"Queden %s.
+    <string name="trans_receiver_time_remained">"%s restant.
 No desactiveu el punt d'accés Wi-Fi.
-Mantingueu els dispositius a prop l'un de l'altre."</string>
+Mantingueu els dispositius propers l'un de l'altre."</string>
     <string name="trans_receiving_completed">S\'ha rebut amb èxit</string>
     <string name="trans_restoring">S\'està restaurant…</string>
-    <string name="trans_restoring_no_items">S\'està obtenint informació…</string>
-    <string name="trans_retry">Torna-ho a provar</string>
+    <string name="trans_restoring_no_items">S\'està obtenint la informació…</string>
+    <string name="trans_retry">Proveu de nou</string>
     <string name="trans_scan_invalid_qrcode">El codi QR no és vàlid</string>
     <string name="trans_scan_qr_code_tips">Escanegeu el codi QR amb el dispositiu nou</string>
     <string name="trans_security_tips_message">"Algunes aplicacions no són compatibles amb Mi Mover."</string>
@@ -696,16 +696,16 @@ Es sobreescriuran els elements similars en el nou dispositiu.
 Seleccioneu només elements importants per fer la transferència més ràpida."</string>
     <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre les dades.</string>
     <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
-    <string name="trans_select_notification_message">Toqueu per veure-ho</string>
+    <string name="trans_select_notification_message">Toqueu per mostrar-ho</string>
     <string name="trans_select_notification_title">Mi Mover està treballant…</string>
     <string name="trans_sender">"Sóc un emissor"</string>
     <string name="trans_sender_connectting">Confirma-ho en el dispositiu nou</string>
     <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
     <string name="trans_sender_searching_ensurance">"Assegureu-vos que el dispositiu antic està activat
 S'està esperant que el dispositiu antic es connecti…"</string>
-    <string name="trans_sender_time_remained">"Queden %s.
-No desactiveu la Wi-Fi.
-Mantingueu els dispositius a prop l'un de l'altre."</string>
+    <string name="trans_sender_time_remained">"%s restant.
+No desactiveu el Wi-Fi.
+Mantingueu els dispositius propers l'un de l'altre."</string>
     <string name="trans_sending_completed">S\'ha enviat amb èxit</string>
     <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
     <string name="trans_show_qr_code_tips">Escaneja el codi QR utilitzant el dispositiu antic</string>
@@ -719,14 +719,14 @@ Mantingueu els dispositius a prop l'un de l'altre."</string>
 Us ha agradat Mi Mover?"</string>
     <string name="trans_success_dialog_survey_title">Agraïm els vostres comentaris</string>
     <string name="trans_success_survey_hint">Ompliu primer tots els camps.</string>
-    <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
+    <string name="trans_switching_5g">S\'està canviant a Wi-Fi de 5 Ghz…</string>
     <string name="trans_time_format_second">Menys d\'un minut</string>
     <string name="trans_time_spent">Temps emprat: %s</string>
     <string name="trans_wait_trans_data">"S'ha connectat al dispositiu antic.
 S'està esperant la transferència…"</string>
     <string name="trans_waiting_ensurance">"\"Assegureu-vos que el dispositiu antic està activat i s'ha activat Mi Mover\""</string>
     <string name="trans_waiting_for_sender">S\'està esperant que el dispositiu antic es connecti…</string>
-    <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir les dades."</string>
+    <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir dades."</string>
     <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
     <string name="unit_byte">B</string>
     <string name="unknown_hint">Desconeguda</string>
