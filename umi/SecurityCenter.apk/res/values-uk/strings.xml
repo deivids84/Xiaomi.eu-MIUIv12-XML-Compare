@@ -3818,8 +3818,8 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="superpower_notification_hint_enter">Увімкнути</string>
     <string name="superpower_notification_new_title">Залишилося менше %d%% заряду батареї</string>
     <string name="superpower_notification_summary">Увімкніть Ультраекономію</string>
-    <string name="superpower_notification_time_12">EEEE, d MMMM</string>
-    <string name="superpower_notification_time_24">EEEE, d MMMM</string>
+    <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
+    <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
     <string name="superpower_notification_title_new">Залишилося менше %s заряду акумулятора</string>
     <string name="superpower_progress_content">Увімкнення Ультраекономії…</string>
     <string name="superpower_progress_left_time">%1$d год %2$d хв</string>
