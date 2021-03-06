@@ -25,12 +25,12 @@
         <item quantity="one">%1$s còpia de seguretat (%2$s)</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"S'ha creat la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d elements."</item>
-        <item quantity="one">"S'ha creat la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d element."</item>
+        <item quantity="other">"Copiat correctament. No s'han pogut copiar %d elements."</item>
+        <item quantity="one">"Copiat correctament. No s'ha pogut copiar %d element."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">"S'ha restaurat correctament. No s'han pogut restaurar %d elements."</item>
-        <item quantity="one">"S'ha restaurat correctament. No s'ha pogut restaurar %d element."</item>
+        <item quantity="other">"Restaurat correctament. No s'han pogut restaurar %d elements."</item>
+        <item quantity="one">"Restaurat correctament. No s'ha pogut restaurar %d element."</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"S'han importat %d elements. "</item>
