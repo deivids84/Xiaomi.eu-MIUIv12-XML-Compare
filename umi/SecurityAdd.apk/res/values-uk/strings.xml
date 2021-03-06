@@ -319,7 +319,7 @@
     <string name="superpower_app_mms">Повідомлення</string>
     <string name="superpower_app_phone">Телефон</string>
     <string name="superpower_battery_dangerous">Підключіть адаптер як можна скоріше</string>
-    <string name="superpower_date">EEEE, d MMMM</string>
+    <string name="superpower_date">EEEE, dd MMMM</string>
     <string name="superpower_dialog_app_select_content">Сторонні програми можуть споживати більше енергії, ніж системні програми. Додати все одно?</string>
     <string name="superpower_dialog_app_select_title">Увага</string>
     <string name="superpower_exit_hint">Вимкнення Ультраекономії…</string>
