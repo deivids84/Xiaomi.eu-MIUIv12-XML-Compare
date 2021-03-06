@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-les totes</string>
     <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
@@ -19,8 +19,8 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Cerca consulta</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Tramet la consulta</string>
     <string name="abc_searchview_description_voice">Cerca de veu</string>
@@ -112,7 +112,7 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">Connectat (sense telèfon ni multimèdia)%1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connectat (sense telèfon ni multimèdia), bateria %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">Connectat (sense accés a missatges)%1$s</string>
-    <string name="bluetooth_connecting">S\'està connectant…</string>
+    <string name="bluetooth_connecting">S\'està connectant&#8230;</string>
     <string name="bluetooth_disable_absolute_volume">Desactiva el volum absolut</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desactiveu la funció de volum absolut del Bluetooth en cas de problemes de volum amb els dispositius remots, com ara un volum inacceptablement alt o la falta de control.</string>
     <string name="bluetooth_disconnected">Desconnectat</string>
@@ -136,7 +136,7 @@
     <string name="bluetooth_opp_profile_summary_connected">S\'ha connectat al servidor de transferència de fitxers</string>
     <string name="bluetooth_opp_profile_summary_not_connected">No està connectat al servidor de transferència de fitxers</string>
     <string name="bluetooth_opp_profile_summary_use_for">Utilitza per a la transferència de fitxers</string>
-    <string name="bluetooth_pairing">S\'està vinculant…</string>
+    <string name="bluetooth_pairing">S\'està vinculant&#8230;</string>
     <string name="bluetooth_pairing_accept">Vincula</string>
     <string name="bluetooth_pairing_accept_all_caps">VINCULA</string>
     <string name="bluetooth_pairing_decline">Cancel·la</string>
@@ -446,7 +446,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="power_remaining_only_more_than_subtext">Falten més de %1$s</string>
     <string name="power_suggestion_battery_run_out">La bateria es pot esgotar per %1$s</string>
     <string name="pref_key_tags">actual_tags_5</string>
-    <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="preference_copied">S\'ha copiat \"%1$s\" al porta-retalls.</string>
     <string name="private_dns_broken">No es pot accedir al servidor DNS privat</string>
     <string name="private_dns_mode_off">Desactivat</string>
     <string name="private_dns_mode_opportunistic">Automàtic</string>
