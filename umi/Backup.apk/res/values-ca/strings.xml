@@ -301,7 +301,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Núvol Xiaomi, Temes MIUI i als serveis Mi, des d\'arreu.</string>
     <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixa anar per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
@@ -753,7 +753,7 @@ Allibereu espai o transferiu només els elements importants."</string>
 premeu \"Sóc un remitent\" i seleccioneu un punt d'accés públic per connectar-vos.
 No tanqueu la pàgina abans que s'estableixi la connexió."</string>
     <string name="waiting">Un moment…</string>
-    <string name="wifi_title">Configuració de la Wi-Fi</string>
+    <string name="wifi_title">Configuració de Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
     <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
