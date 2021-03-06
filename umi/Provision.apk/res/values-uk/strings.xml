@@ -219,7 +219,7 @@
     <string name="privacy_provision_title">Конфіденційність</string>
     <string name="protect_persoanl_info_statement">Ми будемо захищати вашу особисту інформацію відповідно до законів, правил і політики конфіденційності.</string>
     <string name="provision_back">Відмінити</string>
-    <string name="provision_inputmethod_policy_description">Переглянути політику конфіденційності обраного методу введення.</string>
+    <string name="provision_inputmethod_policy_description"><Data>Перегляньте &lt;a href=%1$s&gt;Політику конфіденційності&lt;/a &gt; обраної вами клавіатури.</Data></string>
     <string name="provision_inputmethod_policy_description1">Політика конфіденційності</string>
     <string name="provision_next">Уперед</string>
     <string name="provision_skip_underline">Пропустити</string>
