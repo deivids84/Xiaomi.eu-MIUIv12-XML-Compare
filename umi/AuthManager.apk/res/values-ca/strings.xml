@@ -83,7 +83,7 @@
     <string name="HIPS_Perm_get_accounts">Accedir als comptes del dispositiu</string>
     <string name="HIPS_Perm_get_accounts_Desc">accés a tots els comptes emmagatzemats al dispositiu</string>
     <string name="HIPS_Perm_get_installed_apps">Obtenir informació sobre les aplicacions instal·lades</string>
-    <string name="HIPS_Perm_get_installed_apps_Desc">obtenir informació sobre les aplicacions instal·lades en aquest dispositiu</string>
+    <string name="HIPS_Perm_get_installed_apps_Desc">obtenir informació de les aplicacions instal·lades en aquest dispositiu</string>
     <string name="HIPS_Perm_get_tasks">Obtenir tasques</string>
     <string name="HIPS_Perm_get_tasks_Desc">obtenir tasques</string>
     <string name="HIPS_Perm_install_shortcut">Dreceres de la pantalla d\'inici</string>
@@ -202,7 +202,7 @@
     <string name="keep_blur_location">No</string>
     <string name="keep_notice_me">Segueix notificant</string>
     <string name="location_settings">Configuració d\'ubicació</string>
-    <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació d\'aquest dispositiu. L’accés a la ubicació es pot modificar des de la configuració d’ubicació.</string>
+    <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació per a aquest dispositiu. L\'accés a la ubicació es pot modificar a la configuració d\'ubicació.</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
@@ -267,7 +267,7 @@
     <string name="month_september_shortest">set.</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
-    <string name="never_ask_again">"No ho tornis a preguntar després de restringir-ho"</string>
+    <string name="never_ask_again">"No tornis a preguntar després de restringir"</string>
     <string name="night">Vespre</string>
     <string name="no">No</string>
     <string name="noon">Migdia</string>
@@ -301,7 +301,7 @@
     <string name="permgroupdesc_recognition">Accedir a les dades de salut i d’activitat</string>
     <string name="permgroupdesc_sensors">Accedir a les dades del sensor corporal</string>
     <string name="permgroupdesc_sms">Llegir o enviar SMS</string>
-    <string name="permgroupdesc_storage">Accedir a fotos i fitxers al dispositiu</string>
+    <string name="permgroupdesc_storage">Accedir a fotos i arxius del dispositiu</string>
     <string name="permission_group_title_charges_related">Càrrecs</string>
     <string name="permission_group_title_media_related">Multimèdia</string>
     <string name="permission_group_title_privacy_related">Privadesa</string>
@@ -309,8 +309,8 @@
     <string name="permission_group_title_settings_related">Configuració</string>
     <string name="permission_list_include">"Incloent el següent:
 "</string>
-    <string name="permission_reminders">Recordatoris de permisos</string>
-    <string name="permission_warning_template">Voleu permetre %1$s a %2$s?</string>
+    <string name="permission_reminders">Recordatoris de permís</string>
+    <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">Voleu permetre a %1$s els següents permisos?</string>
     <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
     <string name="pm">pm</string>
@@ -321,7 +321,7 @@
     <string name="saturday_shortest">ds.</string>
     <string name="screen_overlay_button">Obre la configuració</string>
     <string name="screen_overlay_message">Per canviar aquest permís, heu de desactivar la superposició de la pantalla a Configuració &gt; Aplicacions.</string>
-    <string name="screen_overlay_title">S\'ha detectat una superposició de pantalla</string>
+    <string name="screen_overlay_title">S\'ha detectat la superposició de pantalla</string>
     <string name="search_menu_title">Cerca</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
