@@ -21,8 +21,8 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
@@ -40,7 +40,7 @@
     <string name="abc_slice_show_more">Mostra més</string>
     <string name="abc_slice_updated">Actualitzat %1$s</string>
     <string name="abc_slices_permission_request">%1$s vol mostrar %2$s llesques</string>
-    <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="accessibility_accessibility_button">Accessibilitat</string>
     <string name="accessibility_action_divider_bottom_full">Pantalla inferior completa</string>
     <string name="accessibility_action_divider_left_30">Esquerra 30%</string>
@@ -1588,6 +1588,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_cellular_detail_over_limit">Per sobre del límit</string>
     <string name="quick_settings_cellular_detail_remaining_data">Dades disponibles</string>
     <string name="quick_settings_cellular_detail_title">Dades mòbils</string>
+    <string name="quick_settings_cellular_detail_unable_change">"No es pot configurar durant la trucada"</string>
     <string name="quick_settings_color_space_label">Mode de correcció del color</string>
     <string name="quick_settings_connected">Connectat</string>
     <string name="quick_settings_connected_battery_level">Connectat, bateria %1$s</string>
