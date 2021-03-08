@@ -16,6 +16,8 @@
     <string name="apply_password_action">D\'acord</string>
     <string name="apply_password_confirm_dlg_msg">Utilitzeu la contrasenya actual de la pantalla de bloqueig per accedir a la configuració de %s.</string>
     <string name="apply_password_confirm_dlg_title">%s contrasenya</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Els botons de navegació estan desactivats, toqueu dos cops qualsevol botó per tornar-los a activar</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">S\'han activat els botons de navegació</string>
     <string name="auto_disable_screenbuttons_float_text">Toqueu per desactivar els botons de navegació</string>
@@ -115,6 +117,8 @@
     <string name="handy_mode_title">Operació amb una mà</string>
     <string name="help">"No podeu trobar els dispositius?"</string>
     <string name="help_content">"Si no trobeu el dispositiu que necessiteu, demaneu a l’altra persona que activi el Mi Share."</string>
+    <string name="hisense">Hisense</string>
+    <string name="hisense_phone">Hisense</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Col·loqueu el dit en el botó Inici</string>
     <string name="internal_livetalk_enable">S\'estan utilitzant paquets de recàrrega per a trucades nacionals</string>
     <string name="international_livetalk_enable">S\'estan utilitzant paquets de recàrrega per a trucades internacionals</string>
@@ -150,6 +154,8 @@
     <string name="miui_warning_tip_info">S\'ha produït un error a %1$s. Voleu tancar aquesta aplicació?</string>
     <string name="nearby_share">Nearby Share</string>
     <string name="notification_channel_hotspot">Notificació de punt d\'accés</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 minuts</string>
     <string name="open_close_tip_action">Entesos</string>
     <string name="open_close_tip_content">Per tancar la finestra flotant, mantingueu premuda la barra d\'acció i llisqueu cap amunt</string>
@@ -201,6 +207,8 @@
     <string name="resolver_other_method">Altres opcions</string>
     <string name="resolver_recommend_options_tag">Opcions recomanades</string>
     <string name="resource_select">Selecciona</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="scanning_device_tips">S\'estan cercant dispositius propers… Assegureu-vos que l’altre dispositiu estigui en mode descobert.</string>
     <string name="screen_button_notification_text">Per activar-los premeu Inici i el botó d\'encesa simultàniament.</string>
     <string name="screen_button_notification_title">Els botons de navegació estan desactivats</string>
@@ -242,6 +250,8 @@
     <string name="slavewifi_disconnect">Desconnecta</string>
     <string name="slavewifi_notification_title">Utilitzant la Wi-Fi de doble banda</string>
     <string name="slavewifi_settings">Toqueu per canviar la configuració</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d connectat</string>
     <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
     <string name="standard">Silenci</string>
@@ -330,4 +340,6 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">Aplicació dual</string>
     <string name="xspace_resolver_activity_title">Seleccioneu les aplicacions</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>
