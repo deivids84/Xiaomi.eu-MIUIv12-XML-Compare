@@ -408,6 +408,10 @@ Comunícate con el administrador para obtener más información sobre la certifi
         <item quantity="other">%1$d sugerencias</item>
         <item quantity="one">1 sugerencia</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Reciba una alerta cada vez que uno de sus auriculares esté lejos de su oído o del estuche de carga durante más de %d minutos</item>
+        <item quantity="one">Reciba una alerta cada vez que uno de sus auriculares esté alejado de su oído o del estuche de carga durante más de %d minutos</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d elementos</item>
         <item quantity="one">1 elemento</item>
