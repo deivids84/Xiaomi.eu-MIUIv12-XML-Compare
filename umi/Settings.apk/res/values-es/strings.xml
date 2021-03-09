@@ -1437,6 +1437,9 @@ Puedes desactivar esta función en los Ajustes &gt; Bluetooth&gt; Dispositivos v
     <string name="bt_ldac_open_dialog_summary">LDAC ofrece una experiencia de audio de alta calidad pero también tiene un mayor consumo de energía. Pueden producirse errores durante la reproducción debido a las limitaciones del hardware del Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">¿Activar LDAC?</string>
     <string name="bt_ldac_property">Propiedades</string>
+    <string name="bt_leaudio_open_dialog_summary">"No podrá conectar varios dispositivos a sus auriculares cuando LC3 esté encendido. Otros dispositivos conectados se desconectarán si activa esta función. ¿Encender LC3 de todos modos?"</string>
+    <string name="bt_leaudio_open_dialog_title">Atención</string>
+    <string name="bt_leaudio_summary">Proporciona una experiencia de audio de alta calidad</string>
     <string name="bt_lhdc_declaration">Cuando el dispositivo Bluetooth soporte LHDC, será conectado por defecto. LHDC permite reproducir audio de gran calidad y reduce la latencia al jugar pero incrementa el consumo de energía. Pueden producirse errores durante la reproducción debido a las limitaciones del hardware del Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">LHDC permite reproducir audio de gran calidad y reduce la latencia al jugar pero incrementa el consumo de energía. Esta función puede ser desactivada en Ajustes.</string>
     <string name="bt_lhdc_dialog_title">El dispositivo actual soporta LHDC, que se ha conectado por defecto:</string>
@@ -7130,7 +7133,6 @@ Intente usar un ^ 3 más rápido, o use este ^ 4 para el almacenamiento portáti
     <string name="switch_access_service_on">Cambiar acceso</string>
     <string name="switch_bootup_sound">Sonido de arranque</string>
     <string name="switch_headset_anti_lost">Alerta de perdida de auricular</string>
-    <string name="switch_headset_anti_lost_summary">Reciba una alerta cada vez que uno de sus auriculares esté lejos de su oído o del estuche de carga durante más de un minuto</string>
     <string name="switch_headset_anti_lost_title">Alerta de perdida de auricular</string>
     <string name="switch_off_text">Desactivado</string>
     <string name="switch_on_text">Activado</string>
