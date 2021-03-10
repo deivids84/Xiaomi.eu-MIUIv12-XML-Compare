@@ -88,6 +88,7 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="gradienter_title">Nivell</string>
     <string name="guide_toast">Per calibrar, moveu el dispositiu com es mostra a continuació.</string>
     <string name="keywords_search_compass">Brúixola; Calibra la brúixola;Pressió;Altitud; Latitud;Longitud;Comprova la longitud;Comprova la latitud;Brúixola MIUI; Aplicació de brúixola; Aplicació de brúixola MIUI;On és la brúixola;Baixa la brúixola; Pressió atmosfèrica;Comprova l\'altitud; Quina és l\'altura</string>
     <string name="latitude">LAT</string>
