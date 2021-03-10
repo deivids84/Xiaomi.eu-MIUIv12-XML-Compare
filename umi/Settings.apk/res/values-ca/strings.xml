@@ -470,6 +470,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="allow_sound_title">Permet reproduir so</string>
     <string name="allow_vibrate_title">Permet vibrar</string>
     <string name="alpha_build"> | Alfa</string>
+    <string name="already_delete_system_app">Aplicacions del sistema desinstal·lades</string>
     <string name="always">Sempre</string>
     <string name="always_allow_bind_appwidgets_text">Heu triat de permetre que l\'aplicació creï ginys i accedeixi a les dades.</string>
     <string name="always_running">Executa sempre (%s)</string>
@@ -1438,6 +1439,9 @@ Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius
     <string name="bt_ldac_open_dialog_summary">LDAC proporciona una experiència d’àudio d’alta qualitat, però també augmenta el consum d’energia. Es poden produir problemes durant la reproducció a causa de les limitacions del maquinari Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Voleu activar LDAC?</string>
     <string name="bt_ldac_property">Propietats</string>
+    <string name="bt_leaudio_open_dialog_summary">"No podreu connectar diversos dispositius als auriculars quan LC3 estigui activat. La resta de dispositius connectats es desconnectaran si activeu aquesta funció. Voleu activar LC3 de totes maneres?"</string>
+    <string name="bt_leaudio_open_dialog_title">Atenció</string>
+    <string name="bt_leaudio_summary">Experiència d\'àudio d\'alta qualitat</string>
     <string name="bt_lhdc_dialog_summary">LHDC permet reproduir àudio d\'alta qualitat i redueix la latència durant els jocs, però també augmenta el consum d\'energia. Aquesta funció es pot desactivar a la Configuració.</string>
     <string name="bt_lhdc_dialog_title">El dispositiu actual admet LHDC, que s\'ha connectat de manera per defecte:</string>
     <string name="bt_lhdc_open_dialog_summary">LHDC permet reproduir àudio d\'alta qualitat i redueix la latència durant els jocs, però també augmenta el consum d\'energia. Es poden produir problemes durant la reproducció a causa de les limitacions del maquinari Bluetooth.</string>
@@ -1691,6 +1695,7 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="cmcc_hardware_version">Versió del maquinari</string>
     <string name="codec_low_latency_summary">Minimitza la latència durant la sincronització d’àudio i vídeo del joc</string>
     <string name="codec_low_latency_title">Latència baixa</string>
+    <string name="codec_low_latency_video_summary">Proporciona una experiència d\'àudio de baixa latència per a jocs i vídeos, cosa que fa que la sincronització de so i imatge sigui més natural.</string>
     <string name="color_black">Negre</string>
     <string name="color_blue">Blau</string>
     <string name="color_calibration_none">Aquest dispositiu</string>
@@ -2809,6 +2814,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_data_input_ok_title">S\'ha afegit correctament</string>
     <string name="face_data_input_structure_title">Dades de la cara 3D</string>
     <string name="face_data_input_title">Afegiu dades de cara</string>
+    <string name="face_data_introduction_add">Inicia</string>
     <string name="face_data_introduction_msg">Les dades de la cara es poden utilitzar per desbloquejar el dispositiu o verificar la seva identitat. Afegeix la contrasenya de la pantalla de bloqueig abans d’afegir les dades de la cara.</string>
     <string name="face_data_introduction_next">Pròxim</string>
     <string name="face_data_introduction_title">Reconeixement facial</string>
@@ -2821,7 +2827,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_data_manage_unlock_title">Desbloqueja amb dades facials</string>
     <string name="face_data_siggesstion_next">Pròxim</string>
     <string name="face_data_siggesstion_next_time">Següent (%ds)</string>
-    <string name="face_data_suggesstion_first">Problemes de seguretat: el desbloqueig facial és menys segur que un PIN, una contrasenya o un patró. És possible que el vostre dispositiu es pugui desbloquejar amb la vostra foto, així com per persones o objectes que semblin similars.</string>
+    <string name="face_data_suggesstion_first">El desbloqueig facial és menys segur que un PIN, una contrasenya o un patró. És possible que el dispositiu es desbloquegi amb una foto, així com amb persones o objectes amb un aspecte similar.</string>
     <string name="face_data_suggesstion_second">"Assegureu-vos que totes les parts de la vostra cara no estiguin cobertes per objectes i que siguin clarament visibles. La teva cara també ha d’estar ben il·luminada."</string>
     <string name="face_intro_error_max">Heu afegit el nombre màxim de cares</string>
     <string name="face_intro_error_unknown">No es poden afegir més cares</string>
@@ -3134,7 +3140,6 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
 
 Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de les aplicacions es desen periòdicament de forma remota. Les dades de l'aplicació poden ser qualsevol dada que una aplicació hagi desat (segons la configuració del desenvolupador), incloses les dades potencialment sensibles, com ara contactes, missatges i fotos."</string>
     <string name="fullbackup_erase_dialog_message">Voleu deixar de fer una còpia de seguretat de les dades del dispositiu (com ara contrasenyes Wi-Fi i historial de trucades) i de les dades de les aplicacions (com ara la configuració i els fitxers emmagatzemats per les aplicacions), a més d\'esborrar totes les còpies dels servidors remots?</string>
-    <string name="function_description">Sobre aquesta funció</string>
     <string name="gadget_picker_title">Trieu un giny</string>
     <string name="gadget_toggle_wifi">S\'està actualitzant la configuració de la Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -3293,6 +3298,8 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="header_category_wireless_networks">Xarxa</string>
     <string name="header_data_and_synchronization">Dades i sincronització</string>
     <string name="headset_connectiong">S\'està connectant…</string>
+    <string name="headset_notification_switch_summary">Mostra l’estat al giny de l\'àrea de notificacions quan els auriculars estan connectats</string>
+    <string name="headset_notification_switch_title">Giny de l\'àrea de notificacions</string>
     <string name="headset_remove_message">Voleu desvincular el dispositiu?</string>
     <string name="headset_remove_message_indicate">%1$s es desvincularà de tots els dispositius associats a aquest compte Mi.</string>
     <string name="headset_settings_title">Efectes de so</string>
@@ -3560,6 +3567,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="keyboard_settings_title">Teclat Android</string>
     <string name="keyboard_shortcuts_helper">Dreceres de teclat</string>
     <string name="keyboard_shortcuts_helper_summary">Mostra les dreceres disponibles</string>
+    <string name="keyboard_skin_follow_system_enable">Canvia al mode fosc juntament amb el sistema</string>
     <string name="keyguard_advance_setting_title">Configuració avançada</string>
     <string name="keyguard_security_setting_others">Altres</string>
     <string name="keyguard_security_setting_privacy_policy">Política de privadesa</string>
@@ -4374,6 +4382,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miui_allow_vibrate">Vibració</string>
     <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
     <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Cancel·la</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Atenció</string>
     <string name="miui_face_enroll_success">"Ja podeu desbloquejar aquest dispositiu mitjançant les vostres dades facials.
 Continueu per accedir a la configuració addicional."</string>
     <string name="miui_input_method_settings">Configuració del mètode d\'entrada</string>
@@ -4910,11 +4920,6 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">No té so ni vibració i apareix més baix a la secció de conversa</string>
     <string name="notification_display_settings">Àrea de notificacions</string>
-    <string name="notification_fold_description1">La carpeta de notificacions es va introduir a MIUI 9. Aquesta característica filtra les notificacions sense importància i les col·loca en una carpeta independent.</string>
-    <string name="notification_fold_description2">MIUI recordarà quines notificacions toqueu i aleshores utilitzarà diversos criteris per determinar si són importants.</string>
-    <string name="notification_fold_description3">"Si les notificacions que considereu importants encara entren a la carpeta Notificacions, assegureu-vos que ens informeu d'aquests problemes. Agrairem els vostres comentaris."</string>
-    <string name="notification_fold_footer_icon_summary">Mostra les icones de l\'aplicació quan s\'agrupen les notificacions sense importància</string>
-    <string name="notification_fold_footer_icon_title">Mostra les icones de l\'aplicació</string>
     <string name="notification_fold_summary">Totes les notificacions poc importants apareixeran en una carpeta independent</string>
     <string name="notification_fold_title">Carpeta de notificacions</string>
     <string name="notification_group_title">Grup de categories de notificacions</string>
@@ -7146,7 +7151,6 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="switch_access_service_on">Canvia l’accés</string>
     <string name="switch_bootup_sound">Àudio d\'arrencada</string>
     <string name="switch_headset_anti_lost">Alerta de pèrdua d\'auricular</string>
-    <string name="switch_headset_anti_lost_summary">Rebeu una alerta sempre que un dels auriculars estigui allunyat de l\'orella o de l\'estoig de càrrega durant més d\'un minut</string>
     <string name="switch_headset_anti_lost_title">Alerta de pèrdua d\'auricular</string>
     <string name="switch_off_text">Apagat</string>
     <string name="switch_on_text">Activat</string>
