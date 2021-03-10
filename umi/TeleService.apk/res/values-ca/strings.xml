@@ -1251,6 +1251,9 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="message_decode_error">Hi ha hagut un error en descodificar el missatge.</string>
     <string name="mhh_disable">Metge, salut i hospitals desactivat</string>
     <string name="mhh_enable">Metge, salut i hospitals activat</string>
+    <string name="mi_mobile_sim_activate_message">Activeu la SIM %d per poder utilitzar Mi Mobile. Això pot trigar fins a 5 minuts.</string>
+    <string name="mi_mobile_sim_activate_ok">Activa</string>
+    <string name="mi_mobile_sim_activate_title">Us donem la benvinguda a Mi Mobile!</string>
     <string name="mi_sim_settings_summary">Utilització de dades mòbils sense targeta SIM</string>
     <string name="mi_sim_settings_title">SIM Mi</string>
     <string name="mismatchPin">"Els PIN que heu introduït no coincideixen. Torneu-ho a provar."</string>
@@ -2392,6 +2395,7 @@ Les trucades d'emergència només són possibles a les zones amb cobertura cel·
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
     <string name="wifi_call_accept">Omet</string>
     <string name="wifi_call_available_message">"Ara podeu fer trucades mitjançant la Wi-Fi. Si esteu connectats a una xarxa Wi-Fi, podreu parlar fins i tot quan us trobeu a les zones sense cobertura de la xarxa mòbil."</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Esteu a punt de connectar-vos a una xarxa Wi-Fi. La qualitat de les trucades pot variar en funció de la xarxa.</string>
     <string name="wifi_call_available_title">Activació de les trucades per Wi-Fi</string>
     <string name="wifi_call_cancel">Més informació</string>
     <string name="wifi_call_help">Ajuda</string>
