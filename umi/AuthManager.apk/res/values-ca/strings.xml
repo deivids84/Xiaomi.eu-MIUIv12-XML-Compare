@@ -138,7 +138,7 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
@@ -309,8 +309,8 @@
     <string name="permission_group_title_settings_related">Configuració</string>
     <string name="permission_list_include">"Incloent els següents:
 "</string>
-    <string name="permission_reminders">Recordatoris de permís</string>
-    <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
+    <string name="permission_reminders">Recordatoris de permisos</string>
+    <string name="permission_warning_template">Voleu permetre %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">Voleu permetre a %1$s els següents permisos?</string>
     <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
     <string name="pm">pm</string>
