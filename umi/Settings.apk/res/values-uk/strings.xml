@@ -470,6 +470,7 @@
     <string name="allow_sound_title">Дозволити звук</string>
     <string name="allow_vibrate_title">Дозволити вібрацію</string>
     <string name="alpha_build">Alpha-версія</string>
+    <string name="already_delete_system_app">Видалені системні програми</string>
     <string name="always">Завжди</string>
     <string name="always_allow_bind_appwidgets_text">Ви вирішили дозволити цій програмі створювати віджети й отримувати доступ до їх даних.</string>
     <string name="always_running">Завжди працює (%s)</string>
@@ -1695,6 +1696,7 @@
     <string name="cmcc_hardware_version">Версія прошивки</string>
     <string name="codec_low_latency_summary">Мінімізувати затримку під час відтворення аудіо у іграх та синхронізації відео</string>
     <string name="codec_low_latency_title">Низька затримка</string>
+    <string name="codec_low_latency_video_summary">Забезпечте досвід аудіо з низькою затримкою для ігор та відео, роблячи звукові та синхронізацію зображення більш реалістичними.</string>
     <string name="color_black">Чорний</string>
     <string name="color_blue">Синій</string>
     <string name="color_calibration_none">Цей пристрій</string>
@@ -2813,6 +2815,7 @@
     <string name="face_data_input_ok_title">Додано успішно</string>
     <string name="face_data_input_structure_title">3D-дані обличчя</string>
     <string name="face_data_input_title">Додати дані про обличчя</string>
+    <string name="face_data_introduction_add">Старт</string>
     <string name="face_data_introduction_msg">Розпізнавання обличчя може використовуватися для розблокування пристрою або перевірки вашої особистості. Спочатку необхідно додати пароль блокування екрана.</string>
     <string name="face_data_introduction_next">Далі</string>
     <string name="face_data_introduction_title">Розпізнавання обличчя</string>
@@ -2825,7 +2828,7 @@
     <string name="face_data_manage_unlock_title">Розблокування даними обличчя</string>
     <string name="face_data_siggesstion_next">Далі</string>
     <string name="face_data_siggesstion_next_time">Далі (%d сек)</string>
-    <string name="face_data_suggesstion_first">Увага: розблокування за допомогою розпізнавання обличчя є менш безпечним, ніж використання PIN-коду, пароля або графічного ключа. Ваш пристрій може бути розблоковано фотографією, а також людьми або об\'єктами зі схожою зовнішністю.</string>
+    <string name="face_data_suggesstion_first">Розблокування обличчя менш захищене, ніж PIN-код, пароль чи ключ. Ваш пристрій може бути розблоковано вашою фотографією, а також людьми або об\'єктами з схожого вигляду.</string>
     <string name="face_data_suggesstion_second">"Переконайтеся, що всі частини вашого обличчя нічим не закриті та чітко видимі. Ваше обличчя повинно бути добре освітлено."</string>
     <string name="face_intro_error_max">Ви додали максимальну кількість облич</string>
     <string name="face_intro_error_unknown">Неможливо додати більше облич</string>
@@ -3122,7 +3125,6 @@
 
 Коли ви вмикаєте автозавантаження, дані з пристроїв і додатків віддалено зберігаються через певні проміжки часу. Дані додатків – це будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення та фотографії."</string>
     <string name="fullbackup_erase_dialog_message">Не створювати резервні копії даних пристроїв (як-от паролів Wi-Fi та історії дзвінків) і додатків (як-от налаштувань і збережених файлів) та стерти всі копії на віддалених серверах?</string>
-    <string name="function_description">Детальніше про цю функцію</string>
     <string name="gadget_picker_title">Вибрати віджет</string>
     <string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -3281,6 +3283,8 @@
     <string name="header_category_wireless_networks">Бездротові мережі</string>
     <string name="header_data_and_synchronization">Дані та синхронізація</string>
     <string name="headset_connectiong">З\'єднання…</string>
+    <string name="headset_notification_switch_summary">Показувати статус віджета штору сповіщень коли телефон підключено до навушників</string>
+    <string name="headset_notification_switch_title">Віджет тіні сповіщень</string>
     <string name="headset_remove_message">Відв\'язати пристрій?</string>
     <string name="headset_remove_message_indicate">%1$s буде знято з усіх пристроїв, пов\'язаних з цим Mi аккаунтом.</string>
     <string name="headset_settings_title">Звукові ефекти</string>
@@ -3548,6 +3552,7 @@ Xiaomi Cloud
     <string name="keyboard_settings_title">Клавіатура Android</string>
     <string name="keyboard_shortcuts_helper">Комбінації клавіш</string>
     <string name="keyboard_shortcuts_helper_summary">Показати доступні комбінації клавіш</string>
+    <string name="keyboard_skin_follow_system_enable">Перемкнути в темний режим разом з системою</string>
     <string name="keyguard_advance_setting_title">Розширені налаштування</string>
     <string name="keyguard_security_setting_others">Інші</string>
     <string name="keyguard_security_setting_privacy_policy">Політика конфіденційності</string>
@@ -4362,6 +4367,8 @@ Xiaomi Cloud
     <string name="miui_allow_vibrate">Вібрація</string>
     <string name="miui_data_usage_menu_metered">Мобільні точки доступу</string>
     <string name="miui_experience_optimization">Увімкнути оптимізацію MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Скасувати</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Увага</string>
     <string name="miui_face_enroll_success">"Тепер ви можете розблоковувати телефон за допомогою обличчя.
 Продовжіть, щоб отримати доступ до додаткових налаштувань."</string>
     <string name="miui_input_method_settings">Налаштування методу введення</string>
@@ -4898,11 +4905,6 @@ Xiaomi Cloud
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">Без звуку чи вібрації, з\'являється нижче в розділі розмов</string>
     <string name="notification_display_settings">Панель сповіщень</string>
-    <string name="notification_fold_description1">Фільтр сповіщень був представлений у версії MIUI 9. Ця функція фільтрує неважливі повідомлення та переміщує їх в окрему папку.</string>
-    <string name="notification_fold_description2">MIUI запам\'ятає, які сповіщення ви відзначили, а потім використовує декілька критеріїв для визначення їх важливості.</string>
-    <string name="notification_fold_description3">"Якщо сповіщення, які ви вважаєте важливими, як і раніше потрапляють до папки \"Сповіщення\", повідомте нам про цю проблему. Ми будемо вдячні вам за відгуки."</string>
-    <string name="notification_fold_footer_icon_summary">Показувати іконки програм під час групування неважливих сповіщень</string>
-    <string name="notification_fold_footer_icon_title">Показувати іконки програми</string>
     <string name="notification_fold_summary">Всі неважливі сповіщення будуть з\'являтися в окремій папці</string>
     <string name="notification_fold_title">Фільтр сповіщень</string>
     <string name="notification_group_title">Група категорій сповіщень</string>
