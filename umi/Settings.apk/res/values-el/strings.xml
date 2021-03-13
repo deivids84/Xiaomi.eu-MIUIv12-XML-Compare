@@ -1392,7 +1392,7 @@ Bluetooth"</string>
     <string name="bootloader_status_locked">Κλειδωμένο</string>
     <string name="bootloader_status_locked_info">Η συσκευή είναι κλειδωμένη</string>
     <string name="bootloader_status_locked_summary">Το τηλέφωνο είναι ασφαλές</string>
-    <string name="bootloader_status_privacy_dialog_message">Το Mi Ξεκλείδωμα απαιτεί πρόσβαση στο Mi Λογαριασμό σας, CPU ID, IMEI, IMSI για να λειτουργήσει κανονικά. Συλλέγουμε, χρησιμοποιούμε, και επεξεργαζόμαστε τα δεδομένα σας με βάση την %s μας. Συμφωνείτε;</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Το ξεκλείδωμα Mi χρειάζεται πρόσβαση στον Mi Λογαριασμό σας, ID CPU, IMSI για να λειτουργήσει κανονικά. Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;. Συμφωνώ?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Ακύρωση</string>
     <string name="bootloader_status_privacy_dialog_title">Απαιτούνται άδειες</string>
     <string name="bootloader_status_privacy_dialog_url_text">Πολιτική Απορρήτου</string>
@@ -2595,8 +2595,8 @@ Bluetooth"</string>
     <string name="dual_wifi_switching_prompt">Εναλλαγή μεταξύ δικτύων</string>
     <string name="dual_wifi_switching_summary">Η ενίσχυση ταχύτητας του Wi-Fi διπλής ζώνης πρέπει να χρησιμοποιήσει διαφορετικές ζώνες Wi-Fi. Εάν συνδεθείτε στο κύριο δίκτυο, η βοηθητική σύνδεση θα χαθεί.</string>
     <string name="dump_log">Λήψη αρχείων καταγραφής που σχετίζονται με ζητήματα</string>
-    <string name="dump_log_summary">"Αυτή η λειτουργία έχει σχεδιαστεί για τη δημιουργία του αρχείου καταγραφής 284 σε εκδόσεις Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
-Μπορείτε να δείτε καταγεγραμμένα αρχεία καταγραφής στον Διαχειριστή Αρχείων."</string>
+    <string name="dump_log_summary">"Αυτή η δυνατότητα έχει σχεδιαστεί για τη δημιουργία του %s log στην έκδοση Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
+Μπορείτε να δείτε τα δημιουργημένα αρχεία καταγραφής στη Διαχείριση αρχείων."</string>
     <string name="dump_log_title">Σχετικά με αυτή τη λειτουργία</string>
     <string name="easymode_hint">Πατήστε για απενεργοποίηση Απλής λειτουργίας</string>
     <string name="edge_mode_back">Πίσω</string>
