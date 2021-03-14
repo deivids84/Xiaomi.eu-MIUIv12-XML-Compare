@@ -326,8 +326,8 @@
     <string name="alarm_template_far">a las %1$s</string>
     <string name="allow_mock_location">Permitir localizaciones ficticias</string>
     <string name="allow_mock_location_summary">Permitir localizaciones ficticias</string>
-    <string name="always_use_accessory">Usar de manera predeterminada para este accesorio USB</string>
-    <string name="always_use_device">Usar de manera predeterminada para este dispositivo USB</string>
+    <string name="always_use_accessory">Abrir siempre %1$s cuando %2$s esté conectado</string>
+    <string name="always_use_device">Abrir siempre %1$s cuando %2$s esté conectado</string>
     <string name="animator_duration_scale_title">Nivel de duración de las animaciones</string>
     <string name="apn_settings_not_available">"Los ajustes de Nombres de Puntos de Acceso no están disponibles para este usuario"</string>
     <string name="app_accessed_mic">%1$s accedió a su micrófono</string>
@@ -1018,7 +1018,7 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="keyguard_enter_your_password">Introduce tu contraseña</string>
     <string name="keyguard_enter_your_pattern">Ingrese su patrón</string>
     <string name="keyguard_enter_your_pin">Introduce tu PIN</string>
-    <string name="keyguard_indication_charging_time">Cargando (%s hasta llenarse)</string>
+    <string name="keyguard_indication_charging_time">%2$s • Cargando (%1$s hasta completar)</string>
     <string name="keyguard_indication_charging_time_fast">Cargando rápidamente (%s hasta llenarse)</string>
     <string name="keyguard_indication_charging_time_slowly">Cargando lentamente (%s hasta llenarse)</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Carga inalámbrica (%1$s hasta que esté llena)</string>
