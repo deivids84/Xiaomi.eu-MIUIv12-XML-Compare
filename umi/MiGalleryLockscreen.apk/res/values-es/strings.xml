@@ -817,7 +817,7 @@ mm"</string>
     <string name="subscribe_update_time_setting">Establecer un intervalo diferente</string>
     <string name="summary">"Acepta nuestra &lt;a href='%s'&gt;Politica de Privacidad&lt;/a&gt; para acceder a contenido online. Si no estás de acuerdo, los fondos de pantalla locales seguirán estando disponibles."</string>
     <string name="summary2">"Al utilizar esta función, acepta nuestro &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Acuerdo de usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. Esta función debe conectarse a Internet para funcionar con normalidad."</string>
-    <string name="summary_international">"Al utilizar esta función, aceptas nuestro  &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacidad&lt;/a&gt;.Esta función necesita conectarse a Internet para funcionar con normalidad."</string>
+    <string name="summary_international">"Al utilizar esta función, acepta nuestro &lt;a href ='%1$s'&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href='%2$s'&gt;Política de privacidad&lt;/a&gt;. Esta función debe conectarse a Internet para funcionar con normalidad"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
