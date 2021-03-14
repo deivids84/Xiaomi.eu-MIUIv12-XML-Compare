@@ -1590,7 +1590,7 @@ Bóveda de aplicaciones</string>
     <string name="shopping_setting_notification">Notificar sobre nuevos artículos</string>
     <string name="shopping_setting_pinduoduo">Pinduoduo</string>
     <string name="shopping_setting_remove">Después de revocar la autorización, Bóveda de aplicaciones dejará de recopilar la información sobre tus compras y se eliminará la tarjeta de compra. ¿revocar de todos modos?</string>
-    <string name="shopping_source">De</string>
+    <string name="shopping_source">Desde %s</string>
     <string name="shopping_support">Aplicaciones soportadas</string>
     <string name="shortcut">Atajos</string>
     <string name="shortcuts_download_dialog_text_install">Instalar</string>
