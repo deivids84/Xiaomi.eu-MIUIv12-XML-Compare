@@ -1097,11 +1097,11 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="invalidPin">Introduce un PIN que contenga de 4 a 8 dígitos.</string>
     <string name="invalidPin2">Introduce un PIN2 que contenga de 4 a 8 dígitos.</string>
     <string name="invalidPuk2">Introduce un PUK2 que contenga 8 dígitos.</string>
-    <string name="invalid_password">Introduzca una contraseña de 4 números</string>
-    <string name="invalid_pin">Introduce un PIN que contenga de 4 a 8 números.</string>
-    <string name="invalid_pin2">Introduce un PIN2 que contenga de 4 a 8 números.</string>
-    <string name="invalid_puk">Introduce un PUK que contenga de 4 a 8 números.</string>
-    <string name="invalid_puk2">Introduce un PUK2 de 8 números.</string>
+    <string name="invalid_password">Introduzca una contraseña que tenga %d números</string>
+    <string name="invalid_pin">Introduce un PIN que contenga de %1$d a %2$d números.</string>
+    <string name="invalid_pin2">Introduce un PIN2 que contenga de %1$d a %2$d números.</string>
+    <string name="invalid_puk">Introduce un PUK que contenga de %1$d a %2$d números.</string>
+    <string name="invalid_puk2">Introduce un PUK2 de %d números.</string>
     <string name="ivr_mo_area_code_settings">Código de área actual</string>
     <string name="ivr_mo_area_code_settings_hint">Introduce tu código de área actual</string>
     <string name="ivr_parameter_settings">Parámetros de configuración IVR</string>
@@ -1266,7 +1266,7 @@ Las llamadas de emergencia solo son posibles en áreas con cobertura celular \"<
     <string name="missed_call_notify_once">%d vez</string>
     <string name="missed_call_notify_ten_times">%d veces</string>
     <string name="missed_call_notify_thrice">%d veces</string>
-    <string name="missed_call_notify_times_summary">los recordatorios están separados en invervalos de 5 minutos</string>
+    <string name="missed_call_notify_times_summary">Los recordatorios están separados por intervalos de %d minutos</string>
     <string name="missed_call_notify_times_title">Recordatorios de llamadas perdidas</string>
     <string name="missed_call_notify_twice">%d veces</string>
     <string name="miui_network_selection_reset_text">Restablecer</string>
@@ -1436,7 +1436,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="networks_title">Redes móviles</string>
     <string name="newPin2Label">Nuevo PIN2</string>
     <string name="newPinLabel">Nuevo PIN</string>
-    <string name="new_password_label">Nueva contraseña de 4 dígitos</string>
+    <string name="new_password_label">Nueva contraseña de %d dígitos</string>
     <string name="new_pin2_label">Nuevo PIN2</string>
     <string name="new_pin_label">Nuevo PIN</string>
     <string name="no_application">Ninguna</string>
@@ -1450,7 +1450,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="no_vm_number_msg">No hay ningún número de buzón de voz guardado en su tarjeta SIM.</string>
     <string name="no_voip">"Llamada SIP no admitida"</string>
     <string name="no_wifi_available">Necesita estar conectado a una red Wi-Fi para llamadas SIP (use la configuración de Red Inalámbrica &amp;).</string>
-    <string name="not_a_valid_port">El número de puerto debe estar comprendido entre 1.000 y 65.534.</string>
+    <string name="not_a_valid_port">El número de puerto debe estar comprendido entre %1$d y %2$d.</string>
     <string name="not_allowed">"La tarjeta SIM no permite establecer conexión con esta red."</string>
     <string name="not_set">Sin definir</string>
     <string name="not_voice_capable">Llamadas de voz no soportadas</string>
@@ -1481,7 +1481,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="okay">Aceptar</string>
     <string name="oldPin2Label">PIN2 antiguo</string>
     <string name="oldPinLabel">PIN antiguo</string>
-    <string name="old_password_label">Contraseña actual de 4 dígitos</string>
+    <string name="old_password_label">Contraseña actual de %d dígitos</string>
     <string name="old_pin2_label">PIN2</string>
     <string name="old_pin_label">PIN antiguo</string>
     <string name="onHold">En espera</string>
@@ -1639,8 +1639,8 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="power_discharge_by_only_short">Hasta: %1$s</string>
     <string name="power_discharging_duration">Tiempo restante aproximado: %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Tiempo restante aproximado según tu uso: %1$s (%2$s)</string>
-    <string name="power_remaining_charging_duration_only">Tiempo restante hasta carga completa: ^1</string>
-    <string name="power_remaining_duration_only">Tiempo restante aproximado: ^1</string>
+    <string name="power_remaining_charging_duration_only">%1$s restante hasta la carga completa</string>
+    <string name="power_remaining_duration_only">Quedan aproximadamente %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Tiempo restante aproximado según tu uso: ^1</string>
     <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Es posible que el teléfono se apague pronto</string>
