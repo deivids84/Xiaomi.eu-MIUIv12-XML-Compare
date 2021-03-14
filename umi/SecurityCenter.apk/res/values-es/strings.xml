@@ -1767,7 +1767,7 @@ de sus sesiones de juego"</string>
     <string name="gtb_exit_game_to_gtb">Abrir caja de juegos</string>
     <string name="gtb_exit_game_to_home">Volver a la Pantalla de inicio</string>
     <string name="gtb_setting_item_summary_smart_5g">Siempre que Game Turbo detecta una red 5G, puede conectar su dispositivo a la mejor red disponible para reducir el retraso de la red.</string>
-    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente la velocidad de conexión en un 10% -20% cuando esté conectado a enrutadores Mi / Redmi</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente la velocidad de conexión en un 10%-20% cuando esté conectado a enrutadores Mi / Redmi</string>
     <string name="gtb_setting_item_title_smart_5g">Optimización de la red 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Aumento de velocidad de Mi WiFi</string>
     <string name="gtb_spring_festival_back_game">Volver al juego</string>
@@ -2945,7 +2945,7 @@ Intente usar otro cable Ethernet para conectarse. Si sospecha que hay un problem
     <string name="pref_key_tethering_setting">Límite de datos de una sola vez</string>
     <string name="pref_key_tethering_title">Límite de datos de una sola vez</string>
     <string name="pref_manual_adjust">Establecer manualmente las estadísticas de uso de datos</string>
-    <string name="pref_mi_sim_settings">Ajustes Mi SIM</string>
+    <string name="pref_mi_sim_settings">%s configuración del paquete</string>
     <string name="pref_more_settings">Ajustes adicionales</string>
     <string name="pref_new_installed_preconfig_title">"Ajustes por defecto para nuevas aplicaciones"</string>
     <string name="pref_normal_traffic_limit">Cuando el plan de datos se agote</string>
@@ -3245,7 +3245,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="renew_now">Renovar</string>
     <string name="repair">Reparar</string>
     <string name="repair_loading_text">Un momento…</string>
-    <string name="repeated_marked_number_summary">"No bloquear una segunda llamada del mismo número denunciado en menos de 3 minutos"</string>
+    <string name="repeated_marked_number_summary">"No bloquear una segunda llamada del mismo número reportado en un plazo de %d minutos"</string>
     <string name="repeated_marked_number_title">"No bloquear llamadas repetidas de números denunciados"</string>
     <string name="replace_dns">Reemplazar DNS automáticamente</string>
     <string name="report">Denunciar</string>
@@ -3616,7 +3616,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="st_msg_settings">Lista negra de SMS</string>
     <string name="st_msg_stranger_group">Bloquear SMS de desconocidos</string>
     <string name="st_settings_name">Ajustes de la lista negra</string>
-    <string name="st_share_settings">Usar ajustes de SIM 1</string>
+    <string name="st_share_settings">Usar configuración de la SIM %d</string>
     <string name="st_sub_title_customize_mode_name">Nombre</string>
     <string name="st_sub_title_whiteblack_list_group">Lista negra</string>
     <string name="st_sum_call_wait">Su mensaje automático también será usado como señal de ocupado para las llamadas entrantes.</string>
