@@ -1392,7 +1392,7 @@ Selección"</string>
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
     <string name="bootloader_status_locked_summary">El teléfono es seguro</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock necesita acceso a Cuenta Mi, ID del CPU, IMEI e IMSI para funcional normalmente. Recolectamos, usamos y procesamos tus datos de acuerdo a nuestra %s. ¿De acuerdo?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necesita acceso a su cuenta Mi, ID de CPU, IMSI para funcionar normalmente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Estar de acuerdo?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos requeridos</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidad</string>
@@ -5675,7 +5675,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en Modo silencio</string>
+    <string name="repeat_call_info">Suena o vibra mientras recibe la segunda llamada del mismo número de teléfono en %d minutos</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Nunca</string>
     <string name="repeat_title">Repetir</string>
