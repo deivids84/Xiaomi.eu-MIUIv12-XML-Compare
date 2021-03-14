@@ -982,7 +982,7 @@ Frecuencia de muestreo"</string>
     <string name="fdn_enabled">Números de marcación fija activados</string>
     <string name="fdn_failed">Falló la operación FDN.</string>
     <string name="fdn_full">"FDN no se ha actualizado debido a que la lista está llena."</string>
-    <string name="fdn_invalid_number">"No se actualizó el listado FDN porque el número está vacío o supera los 20 dígitos."</string>
+    <string name="fdn_invalid_number">"FDN no se actualizó porque el número supera los %d dígitos."</string>
     <string name="fdn_list_with_label">Lista FDN (%s)</string>
     <string name="fdn_summary">Restringir llamadas salientes listadas en FDN o a números con ciertos prefijos</string>
     <string name="fdn_with_label">Números de marcación fija (%s)</string>
@@ -1641,7 +1641,7 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="power_discharging_duration_enhanced">Tiempo restante aproximado según tu uso: %1$s (%2$s)</string>
     <string name="power_remaining_charging_duration_only">%1$s restante hasta la carga completa</string>
     <string name="power_remaining_duration_only">Quedan aproximadamente %1$s</string>
-    <string name="power_remaining_duration_only_enhanced">Tiempo restante aproximado según tu uso: ^1</string>
+    <string name="power_remaining_duration_only_enhanced">Quedan aproximadamente %1$s según su uso</string>
     <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Es posible que el teléfono se apague pronto</string>
     <string name="power_remaining_duration_shutdown_imminent">Es posible que el teléfono se apague pronto (%1$s)</string>
