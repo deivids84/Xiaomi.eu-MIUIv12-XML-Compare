@@ -465,7 +465,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="authorize_button">Permitir</string>
     <string name="baidu_map">Mapas de Baidu</string>
     <string name="ball_dialog_confirm">Instalar</string>
-    <string name="ball_dialog_content">Instala HuPu Sports para utilizar esta función. ¿Instalar ahora?</string>
+    <string name="ball_dialog_content">Instale %s para utilizar esta función. ¿Instalar ahora?</string>
     <string name="ball_dialog_tip">"No mostrar de nuevo"</string>
     <string name="ball_dialog_title">Instala la aplicación primero.</string>
     <string name="ball_football_recent_ing">En curso</string>
