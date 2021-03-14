@@ -473,8 +473,8 @@
     <string name="base_hour24_format_en">ГГ:хх</string>
     <string name="base_search_empty">"Немає результатів"</string>
     <string name="base_time_just_now">Щойно</string>
-    <string name="base_time_month">ММ/дд</string>
-    <string name="base_time_year">ДД/ММ/РРРР</string>
+    <string name="base_time_month">dd/MM</string>
+    <string name="base_time_year">dd/MM/yyyy</string>
     <string name="base_year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
     <string name="base_yesterday">Вчора</string>
     <string name="battery_history">Батарея</string>
