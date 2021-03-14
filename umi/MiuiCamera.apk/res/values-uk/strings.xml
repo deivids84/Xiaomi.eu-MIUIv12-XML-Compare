@@ -1485,7 +1485,7 @@
     <string name="timbre_normal">Початковий</string>
     <string name="timbre_robot">Робот</string>
     <string name="time_lapse_error">"Неможливо зняти прискорене відео в цій роздільній якості"</string>
-    <string name="time_stamp_date_format">ДД/ММ/РРРР</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timefreeze_guide_tip2">Ви можете заморозити та розблокувати фон в будь-який час до або під час стрільби.</string>
     <string name="timefreeze_guide_tip3">Попросіть об\'єкт залишитися у центрі кадру.</string>
     <string name="timefreeze_guide_tip4">Зупиняти дорожній рух.</string>
