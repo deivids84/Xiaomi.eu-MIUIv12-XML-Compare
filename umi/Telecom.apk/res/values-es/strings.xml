@@ -130,7 +130,7 @@
     <string name="bluetooth_active_no_battery_level">Activo</string>
     <string name="bluetooth_battery_level">%1$s de batería</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s de batería R: %2$s de batería</string>
-    <string name="bluetooth_connected">Conectado</string>
+    <string name="bluetooth_connected">Conectado%1$s</string>
     <string name="bluetooth_connected_battery_level">Conectado (%1$s de batería)</string>
     <string name="bluetooth_connected_no_a2dp">Conectado (sin audio multimedia)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Conectado sin audio multimedia (%1$s de batería)</string>
