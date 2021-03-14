@@ -184,7 +184,7 @@
     <string name="antivirus_privacy_dialog_cloudscan">Transferir nombres y detalles de aplicaciones</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">"Transferir y analizar nombres y detalles de aplicaciones usando definiciones de virus online."</string>
     <string name="antivirus_privacy_dialog_ok">Aceptar</string>
-    <string name="antivirus_privacy_dialog_summary">Esta función está impulsada por un motor antivirus de terceros. Para aprender más, lee el Acuerdo de Licencia proporcionado por el servicio de terceros.</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Esta función funciona con un motor antivirus de terceros. Para obtener más información, lea el&lt;/a&gt; &lt;a href=\"%1$s\"&gt;Acuerdo de licencia proporcionado por el tercero.</Data></string>
     <string name="antivirus_privacy_dialog_summary_kddi"><Data>\"Cuando se está realizando un análisis de seguridad, su modelo de dispositivo y resultados del análisis se subirán a los servidores de %1$s y serán usados de acuerdo con los correspondientes &lt;a href=\"%2$s\"&gt;términos y condiciones&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Lea y acepte 
 %3$s términos y condiciones antes de realizar análisis de seguridad.&lt;br/&gt;&lt;br/&gt;Si no acepta subir los datos en los servidores de %4$s, podrá seguir usando definiciones de virus almacenadas en su dispositivo.\"</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Política de Privacidad</string>
@@ -1686,7 +1686,7 @@ Cambia entre diferentes personajes y efectos especiales."</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Prueba gratis</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Recibir una prueba gratuita…</string>
     <string name="gb_voice_changer_user_status_expired">Subscripcion vencida</string>
-    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"¡Obtenga una prueba gratuita de %ddías
+    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"¡Obtenga una prueba gratuita de %d días
 y explore nuestro cambiador de voz!"</string>
     <string name="gb_voice_changer_user_status_no_login">Iniciar sesión en Cuenta Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">Fecha de caducidad: %s</string>
@@ -2129,7 +2129,7 @@ Su dispositivo es %d%% más rápido ahora."</string>
     <string name="mixed_password_confirmed_header_confirm">Establecido con éxito. Toca para confirmar.</string>
     <string name="mixed_password_confirmed_header_continue">Establecido con éxito. Toca \"Siguiente\".</string>
     <string name="mixed_pattern_entered_header">Contraseña establecida con éxito</string>
-    <string name="mixed_recording_intro_header">Ingrese al menos 4 caracteres</string>
+    <string name="mixed_recording_intro_header">Introduzca %1$s-%2$s caracteres</string>
     <string name="mixed_retry_button_text">Cancelar</string>
     <string name="mixed_settings_help_how_to_record">Cómo establecer la contraseña</string>
     <string name="modify_cellular_type">Toque para seleccionar su plan</string>
