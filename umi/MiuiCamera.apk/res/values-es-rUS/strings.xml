@@ -143,6 +143,7 @@
     <string name="accessibility_preview_effect_button">Efecto de vista previa</string>
     <string name="accessibility_preview_expand">Acercarse</string>
     <string name="accessibility_preview_front">Previsualización de la cámara frontal</string>
+    <string name="accessibility_preview_remote">Vista previa de grabación de teléfono dual</string>
     <string name="accessibility_preview_select_tip">Posición %1$d</string>
     <string name="accessibility_preview_selected">Seleccionado</string>
     <string name="accessibility_preview_shrink">Disminuir el zoom</string>
@@ -310,6 +311,7 @@ y ajusta las preferencias automáticamente"</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Usa un trípode</string>
     <string name="ambilight_tips_for_using_tripod">Usa un trípode</string>
     <string name="audio_focus_exit_button_text">Desactivar enfoque por voz</string>
+    <string name="audio_map_summary_tip">Controle el volumen de los canales izquierdo y derecho en tiempo real y ajústelo con el control deslizante</string>
     <string name="auto_hibernation_enter_tip">A punto de apagar la pantalla…</string>
     <string name="autozoom_click_hint">"Toca un objeto para mantenerlo enfocado mientras se mueve. Manténgase al menos a 3 metros de distancia para obtener el mejor efecto."</string>
     <string name="autozoom_disabled_hint">Se detuvo el seguimiento del objeto en movimiento</string>
@@ -517,6 +519,15 @@ y ajusta las preferencias automáticamente"</string>
     <string name="custom_watermark_words">Marca de agua personalizada</string>
     <string name="custom_watermark_words_input_hint">Introducir texto</string>
     <string name="custom_watermark_words_save_success">Guardado exitosamente</string>
+    <string name="dialog_button_accept">Aceptar</string>
+    <string name="dialog_button_back">Atrás</string>
+    <string name="dialog_button_cancel">Cancelar</string>
+    <string name="dialog_button_connect">Conectar</string>
+    <string name="dialog_button_disconnect">Salir</string>
+    <string name="dialog_button_exit">Apagar</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_reject">Rechazar</string>
+    <string name="dialog_button_scan">Buscar dispositivos</string>
     <string name="dialog_google_lens_option_0">Google Lens (recomendado)</string>
     <string name="dialog_ok">Aceptar</string>
     <string name="dialog_ok_time">Aceptar (%ds)</string>
@@ -656,6 +667,7 @@ y creará una en la que todos se vean mejor."</string>
     <string name="hint_slow_motion">El video grabado se reproducirá más lento.</string>
     <string name="hint_subtitle">"Dicte subtítulos mientras graba videos"</string>
     <string name="hint_subtitle_prompt">Puede dictar subtítulos ahora</string>
+    <string name="histogram_summary_tip">Mostrar comentarios de exposición en tiempo real</string>
     <string name="hunt_dual_water_mark">La marca de agua dual se añadirá automáticamente.</string>
     <string name="id_card_mode_hint_back">Escanee el reverso de su identificación</string>
     <string name="id_card_mode_hint_front">Escanee el anverso de su identificación</string>
@@ -823,6 +835,7 @@ parezcan más grandes en las fotos"</string>
     <string name="mimoji_eyebrow_shape">Forma de la ceja</string>
     <string name="mimoji_eyeglass">Lentes</string>
     <string name="mimoji_eyelash">Pestañas</string>
+    <string name="mimoji_eyelid">Párpados</string>
     <string name="mimoji_featured_face">Cara</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_freckle">Pecas</string>
@@ -909,6 +922,12 @@ parezcan más grandes en las fotos"</string>
     <string name="network_access_user_notice_message_sticker">&lt;Data&gt;La Cámara necesita conectarse a Internet para proporcionar stickers para esta característica.&lt;br/&gt;&lt;br/&gt;Al pulsar Aceptar estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a Internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;La Cámara necesita conectarse a Internet para proporcionar la función de salida voz a texto.&lt;br/&gt;&lt;br/&gt;Al pulsar Aceptar estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a Internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Conectarse a Internet</string>
+    <string name="network_connection_failed">"No se pudo conectar"</string>
+    <string name="network_connection_ongoing">Conectando…</string>
+    <string name="network_connection_prerequisites">Active Bluetooth y Wi-Fi para poder usar la grabación de teléfono dual.</string>
+    <string name="network_connection_prerequisites_china">Active Bluetooth y Wi-Fi para poder usar la grabación de teléfono dual.</string>
+    <string name="network_connection_rejected">Rechazado</string>
+    <string name="network_connection_timed_out">Tiempo de conexión agotado</string>
     <string name="no_storage">Inserta una tarjeta SD antes de usar la cámara</string>
     <string name="not_enough_space">La tarjeta SD está llena</string>
     <string name="not_set">Sin definir</string>
@@ -1282,6 +1301,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_custom_feature_layout_title">Distribución de funciones</string>
     <string name="pref_custom_shutter_sound_title">Sonido</string>
     <string name="pref_custom_tint_title">Colores</string>
+    <string name="pref_customization_style">Estilo personalizado</string>
     <string name="pref_customization_title">Personalizar</string>
     <string name="pref_document_mode">Documentos</string>
     <string name="pref_dual_camera_video">Vídeo dual</string>
@@ -1315,6 +1335,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_module_settings">Modos</string>
     <string name="pref_more_mode_style_title">Modos de cámara</string>
     <string name="pref_multi_camera_dual_video_front">Cámara frontal</string>
+    <string name="pref_multi_camera_dual_video_remote">Grabación de teléfono dual</string>
     <string name="pref_n_s_a">Ajustes de audio</string>
     <string name="pref_n_s_o_l">Activar</string>
     <string name="pref_n_s_o_m">Desactivar</string>
@@ -1347,6 +1368,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_super_night_se_title">Modo nocturno automático</string>
     <string name="pref_userdefine_watermark_title">Marca de agua personalizada</string>
     <string name="pref_video_captrue_ability_title">Capturar imagen mientras se graba</string>
+    <string name="pref_video_cast_setting_summary">Actívelo para poder grabar un video con múltiples dispositivos</string>
+    <string name="pref_video_cast_setting_title">Grabación de teléfono dual</string>
     <string name="pref_video_denoise_off">Desactivado</string>
     <string name="pref_video_denoise_on">Activado</string>
     <string name="pref_video_denoise_title">Filtro de ruido</string>
@@ -1402,6 +1425,19 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="recommend_soft_light_tip">Activar flash</string>
     <string name="recommend_super_night">Prueba el modo nocturno</string>
     <string name="record_back_pressed_hint">Toca de nuevo para detener la grabación</string>
+    <string name="remote_online_connecting">Seleccionar dispositivo para conectar</string>
+    <string name="remote_online_disconnect_confirmation">¿Cancelar la conexión a %1$s?</string>
+    <string name="remote_online_exit_confirmation">¿Desactivar la grabación de teléfono dual ahora?</string>
+    <string name="remote_online_exit_connecting">¿Desconectar y salir de la grabación de teléfono dual ahora?</string>
+    <string name="remote_online_guide">Active la grabación de teléfono dual en el otro dispositivo con el interruptor del centro de control.</string>
+    <string name="remote_online_interrupted">Desconectado. Conéctate de nuevo para continuar.</string>
+    <string name="remote_online_introduction_i">"La grabación de teléfono dual permite combinar las fuentes de dos dispositivos diferentes en un solo video. Podrá obtener una vista previa de ambos feeds y el video final en este dispositivo. Tenga en cuenta que solo este dispositivo grabará audio."</string>
+    <string name="remote_online_introduction_ii">Para que esta función funcione, el otro dispositivo Mi o Redmi debe admitir la grabación de teléfono dual. Se puede encender usando el conmutador del Centro de control.</string>
+    <string name="remote_online_searching">Buscando dispositivos…</string>
+    <string name="remote_online_service_name">Grabación de teléfono dual</string>
+    <string name="remote_online_unavailable">"No se pudieron encontrar dispositivos cercanos"</string>
+    <string name="remote_online_waiting">Esperando a que el otro dispositivo se conecte…</string>
+    <string name="remote_online_whats">¿Cómo funciona la grabación de teléfono dual?</string>
     <string name="reset_manual_picture_style_toast">Parámetros restablecidos con éxito</string>
     <string name="reset_manually_parameter_confirmed">Aceptar</string>
     <string name="reset_manually_parameter_hint">Reiniciar</string>
@@ -1496,6 +1532,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="timer_burst_manu_param_interval">Intervalo sin exposición</string>
     <string name="timer_burst_param_interval">Intervalo</string>
     <string name="timer_burst_param_total_count">Número de Fotos</string>
+    <string name="timerburst_pressed_hint">Toca de nuevo para detener</string>
     <string name="title_snap_double_confirm">Confirmar de nuevo</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No se puede usar el modo ráfaga en el modo disparador por voz"</string>
     <string name="toast_saving">Guardando fotos…</string>
@@ -1548,6 +1585,16 @@ con mayor detalle"</string>
     <string name="video_bokeh_zoom_in">Acercarse</string>
     <string name="video_bokeh_zoom_out">Disminuir el zoom</string>
     <string name="video_camera_label">Cámara de vídeo</string>
+    <string name="video_cast_connecting">Conectando…</string>
+    <string name="video_cast_exit_confirmation">¿Salir ahora?</string>
+    <string name="video_cast_exit_warning">"Tu feed no estará disponible para el otro dispositivo."</string>
+    <string name="video_cast_inviting">%1$s quiere usar la grabación de teléfono dual con este dispositivo.</string>
+    <string name="video_cast_notification_content">Toca para detener</string>
+    <string name="video_cast_notification_title">Usar varias cámaras en segundo plano…</string>
+    <string name="video_cast_service_error">"No se pudo activar la grabación de teléfono dual en segundo plano"</string>
+    <string name="video_cast_service_name">Teléfono dual</string>
+    <string name="video_cast_state_exited">Salió de la grabación de teléfono dual</string>
+    <string name="video_cast_state_paused">Pausado</string>
     <string name="video_effect_entry_blackwhite">B/N</string>
     <string name="video_effect_entry_bygone">Pasado</string>
     <string name="video_effect_entry_central">Central</string>
@@ -1574,7 +1621,7 @@ con mayor detalle"</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">ver Política de Privacidad</string>
     <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
-    <string name="vv_hint">Solo puede grabar vlogs en el modo paisaje</string>
+    <string name="vv_hint">Solo puedes grabar vlogs en modo paisaje</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Mantén tu dispositivo estable</string>
     <string name="vv_start">Grabar vlog</string>
