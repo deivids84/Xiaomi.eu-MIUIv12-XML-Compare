@@ -201,7 +201,7 @@
     <string name="bluetooth_select_avrcp_version_dialog_title">Seleccionar versión Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versión Bluetooth AVRCP</string>
     <string name="bluetooth_select_map_version_dialog_title">Seleccione la versión de Bluetooth MAP</string>
-    <string name="bluetooth_select_map_version_string">Versión MAP de Bluetooth</string>
+    <string name="bluetooth_select_map_version_string">Versión Bluetooth MAP</string>
     <string name="bluetooth_show_devices_without_names">Mostrar dispositivos Bluetooth sin nombre</string>
     <string name="bluetooth_show_devices_without_names_summary">Mostrar dispositivos Bluetooth sin nombre (solo direcciones MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
@@ -318,7 +318,7 @@ Verifique los Ajustes para obtener más detalles."</string>
     <string name="fast_connect_device_connect_success">Listo</string>
     <string name="fast_connect_device_headset_l">Izquierda</string>
     <string name="fast_connect_device_headset_r">Derecha</string>
-    <string name="fast_connect_device_headset_reset">Mantén pulsado el botón el la caja</string>
+    <string name="fast_connect_device_headset_reset">Mantenga presionado el botón en la caja</string>
     <string name="fast_connect_device_title_connect_fail">"No se pudo conectar %1$s"</string>
     <string name="fast_connect_device_title_connecting">Conectando…</string>
     <string name="fast_connect_device_title_find_headset">Encontrar auriculares %1$s</string>
