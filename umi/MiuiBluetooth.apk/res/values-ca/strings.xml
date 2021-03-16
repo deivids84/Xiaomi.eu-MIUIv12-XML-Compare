@@ -201,8 +201,8 @@ Selecció"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Una sortida de grisos significa que no és compatible amb el telèfon o els auriculars</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Seleccioneu la versió del Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versió Bluetooth AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">Seleccioneu la versió de MAPA Bluetooth</string>
-    <string name="bluetooth_select_map_version_string">Versió de MAPA Bluetooth</string>
+    <string name="bluetooth_select_map_version_dialog_title">Seleccioneu la versió de Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_string">Versió MAP Bluetooth</string>
     <string name="bluetooth_show_devices_without_names">Mostra els dispositius Bluetooth sense nom</string>
     <string name="bluetooth_show_devices_without_names_summary">Es mostraran els dispositius Bluetooth sense el nom (només les adreces MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
@@ -319,7 +319,7 @@ Consulteu a la Configuració per obtenir més informació."</string>
     <string name="fast_connect_device_connect_success">Fet</string>
     <string name="fast_connect_device_headset_l">Esquerra</string>
     <string name="fast_connect_device_headset_r">Dreta</string>
-    <string name="fast_connect_device_headset_reset">Manteniu premut el botó de la capsa</string>
+    <string name="fast_connect_device_headset_reset">Manteniu premut el botó de l\'estoig</string>
     <string name="fast_connect_device_title_connect_fail">"No s'ha pogut connectar %1$s"</string>
     <string name="fast_connect_device_title_connecting">S\'està connectant…</string>
     <string name="fast_connect_device_title_find_headset">Troba %1$s</string>
