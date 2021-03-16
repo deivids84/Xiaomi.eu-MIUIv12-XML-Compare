@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Mantén pulsado el botén en la caja durante %1$d segundos</item>
-        <item quantity="one">Mantén pulsado el botén en la caja durante %1$d segundo</item>
+        <item quantity="other">Mantenga presionado el botón en la caja durante %1$d segundos</item>
+        <item quantity="one">Mantenga presionado el botón en la caja durante %1$d segundos</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">Mantenga presionada cualquier área sensible al tacto en los auriculares durante %1$d segundos</item>
