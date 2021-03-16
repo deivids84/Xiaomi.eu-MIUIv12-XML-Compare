@@ -511,7 +511,7 @@ Selección"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">En gris significa que no es compatible con el teléfono o audífonos</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Seleccionar versión Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versión Bluetooth AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">Seleccionar versión Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_dialog_title">Seleccione la versión de Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Versión Bluetooth MAP</string>
     <string name="bluetooth_show_devices_without_names">Mostrar dispositivos Bluetooth sin nombre</string>
     <string name="bluetooth_show_devices_without_names_summary">Se mostrarán dispositivos Bluetooth sin nombre (solo direcciones MAC)</string>
