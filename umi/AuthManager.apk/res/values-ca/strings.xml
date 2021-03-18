@@ -93,12 +93,12 @@
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">accés al maquinari de comunicació de camp proper (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accedir a l\'aplicació Telèfon</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorar trucades entrants</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorar les trucades entrants</string>
     <string name="HIPS_Perm_read_clipboard">Accedir als elements del porta-retalls</string>
     <string name="HIPS_Perm_read_clipboard_Desc">Permet que les aplicacions accedeixin als elements del porta-retalls</string>
     <string name="HIPS_Perm_read_notification_sms">SMS de servei</string>
-    <string name="HIPS_Perm_read_notification_sms_Desc">llegir SMS de servei</string>
-    <string name="HIPS_Perm_recognition">Accés a la informació d\'activitat</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">llegeix SMS de servei</string>
+    <string name="HIPS_Perm_recognition">Accedir a la informació d\'activitat</string>
     <string name="HIPS_Perm_recognition_Desc">Permet que l\'aplicació accedeixi a la informació de la vostra activitat</string>
     <string name="HIPS_Perm_service_foreground">Serveis en primer pla</string>
     <string name="HIPS_Perm_service_foreground_Desc">serveis en primer pla</string>
