@@ -389,10 +389,10 @@
     <string name="the_sixth_day">Sisè dia de l\'Any Nou Xinès</string>
     <string name="the_spirit_festival">Festa dels fantasmes</string>
     <string name="the_spring_festival">Any Nou Xinès</string>
-    <string name="the_teachers_day">"Dia del Mestre"</string>
+    <string name="the_teachers_day">"Dia del Professorat"</string>
     <string name="the_third_day">Tercer dia de l\'Any Nou Xinès</string>
     <string name="the_tw_childrens_day">"Dia de la Infància"</string>
-    <string name="the_tw_youth_day">Dia de la joventut</string>
+    <string name="the_tw_youth_day">Dia de la Joventut</string>
     <string name="the_united_nations_day">Dia de les Nacions Unides</string>
     <string name="the_valentines_day">"Dia de Sant Valentí"</string>
     <string name="the_water_lantern_festival">Festa dels fanalets d\'aigua</string>
@@ -405,7 +405,7 @@
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
-    <string name="virtual_reject_notice_content">S\'ha enviat una resposta en blanc a l\'aplicació per a protegir la teva informació personal</string>
+    <string name="virtual_reject_notice_content">S\'ha enviat una resposta en blanc a l\'aplicació per protegir la vostra informació personal</string>
     <string name="virtual_reject_notice_title_calendar">Accés al calendari de %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Accés a l\'historial de trucades de %1$s</string>
     <string name="virtual_reject_notice_title_contacts">Accés als contactes de %1$s</string>
