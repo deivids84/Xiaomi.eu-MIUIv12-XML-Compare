@@ -62,9 +62,9 @@
     <string name="HIPS_Perm_SendMMS_Desc">envia directament missatges multimèdia</string>
     <string name="HIPS_Perm_SendSMS">Enviar missatges SMS</string>
     <string name="HIPS_Perm_SendSMS_Desc">envia directament missatges SMS</string>
-    <string name="HIPS_Perm_Settings">Modifica la configuració del sistema</string>
+    <string name="HIPS_Perm_Settings">Modificar la configuració del sistema</string>
     <string name="HIPS_Perm_Settings_Desc">modifica la configuració del sistema</string>
-    <string name="HIPS_Perm_SystemAlert">Mostra finestres emergents</string>
+    <string name="HIPS_Perm_SystemAlert">Mostrar finestres emergents</string>
     <string name="HIPS_Perm_SystemAlert_Desc">mostra finestres emergents</string>
     <string name="HIPS_Perm_UDevice_ID">Compartiu parts de la informació del dispositiu amb els desenvolupadors de jocs per ajudar-los a millorar la vostra experiència de joc. Esteu d\'acord?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">compartiu parts de la informació del dispositiu amb els desenvolupadors de jocs per ajudar-los a millorar la vostra experiència de joc. Esteu d\'acord?</string>
