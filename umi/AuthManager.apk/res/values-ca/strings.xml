@@ -60,7 +60,7 @@
     <string name="HIPS_Perm_Read_SMS_Desc">llegeix els vostres missatges SMS</string>
     <string name="HIPS_Perm_SendMMS">Enviar missatges MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">envia directament missatges multimèdia</string>
-    <string name="HIPS_Perm_SendSMS">Envia missatges SMS</string>
+    <string name="HIPS_Perm_SendSMS">Enviar missatges SMS</string>
     <string name="HIPS_Perm_SendSMS_Desc">envia directament missatges SMS</string>
     <string name="HIPS_Perm_Settings">Modifica la configuració del sistema</string>
     <string name="HIPS_Perm_Settings_Desc">modifica la configuració del sistema</string>
@@ -114,7 +114,7 @@
     <string name="HIPS_SecurityPrompt_Reject">Denega (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restringeix i esborra el porta-retalls (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Never">"Denega i no tornar a preguntar (%d)"</string>
-    <string name="HIPS_SecurityPrompt_Reject_Once">Denega-ho una vegada (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Once">Denega una vegada (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Restringeix una vegada (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s està intentant de %2$s</string>
     <string name="Su_Package_Forbidden2">"no té accés d'administrador."</string>
