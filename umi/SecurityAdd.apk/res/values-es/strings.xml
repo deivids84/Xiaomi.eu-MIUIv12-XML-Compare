@@ -173,6 +173,7 @@
     <string name="gb_gpu_tips_graph">Optimice los gráficos para mejorar el rendimiento de la GPU y ahorrar energía. Esta función es compatible con juegos seleccionados.</string>
     <string name="gb_gpu_tips_resolution">"La resolución predeterminada está definida por el juego específico. Algunos juegos no permiten ajustar la resolución."</string>
     <string name="gb_gpu_tips_texture">Priorice el rendimiento o la calidad de imagen</string>
+    <string name="gb_not_support_on_device">"Esta aplicación no se puede utilizar en la pantalla externa"</string>
     <string name="gb_pannel_control_mode_balance">Equilibrado</string>
     <string name="gb_pannel_control_mode_custom">Personalizar</string>
     <string name="gb_pannel_control_mode_high_quality">Alta calidad</string>
