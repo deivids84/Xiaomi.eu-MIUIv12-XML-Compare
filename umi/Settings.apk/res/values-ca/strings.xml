@@ -1696,6 +1696,8 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="codec_low_latency_summary">Minimitza la latència durant la sincronització d’àudio i vídeo del joc</string>
     <string name="codec_low_latency_title">Latència baixa</string>
     <string name="codec_low_latency_video_summary">Proporciona una experiència d\'àudio de baixa latència per a jocs i vídeos, cosa que fa que la sincronització de so i imatge sigui més natural.</string>
+    <string name="codec_low_latency_zmi_summary">Redueix el retard de l’àudio i millora els efectes de so dels jocs automàticament</string>
+    <string name="codec_low_latency_zmi_title">Baixa la latència per als jocs</string>
     <string name="color_black">Negre</string>
     <string name="color_blue">Blau</string>
     <string name="color_calibration_none">Aquest dispositiu</string>
