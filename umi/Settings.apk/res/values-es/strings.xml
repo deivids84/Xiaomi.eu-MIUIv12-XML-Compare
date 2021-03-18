@@ -1696,6 +1696,8 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="codec_low_latency_summary">Minimizar latencia durante la sincronización de audio y vídeo de juegos</string>
     <string name="codec_low_latency_title">Latencia baja</string>
     <string name="codec_low_latency_video_summary">Proporciona una experiencia de audio de baja latencia para juegos y videos, lo que hace que la sincronización de sonido e imagen sea más natural.</string>
+    <string name="codec_low_latency_zmi_summary">Reduce el retraso de audio y mejora los efectos de sonido de los juegos automáticamente</string>
+    <string name="codec_low_latency_zmi_title">Baja latencia para juegos</string>
     <string name="color_black">Negro</string>
     <string name="color_blue">Azul</string>
     <string name="color_calibration_none">Este dispositivo</string>
