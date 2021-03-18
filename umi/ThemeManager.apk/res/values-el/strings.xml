@@ -139,7 +139,7 @@
     <string name="close">Κλείσιμο</string>
     <string name="common_applying">Εφαρμογή…</string>
     <string name="common_downloading">Λήψη…</string>
-    <string name="common_format_date_no_year">ΜΜ/ηη</string>
+    <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Παράλειψη</string>
     <string name="community_community_message_trigger_summary">Λάβετε ειδοποιήσεις σχετικά με τις απαντήσεις, likes και ενημερώσεις για την κατάσταση της Κοινότητας Mi χρησιμοποιώντας το αναγνωριστικό λογαριασμού Mi</string>
     <string name="community_community_message_trigger_title">Ειδοποίηση για δραστηριότητα</string>
