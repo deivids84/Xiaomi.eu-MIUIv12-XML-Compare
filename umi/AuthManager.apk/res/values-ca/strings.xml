@@ -104,10 +104,10 @@
     <string name="HIPS_Perm_service_foreground_Desc">serveis en primer pla</string>
     <string name="HIPS_Perm_show_when_locked">Mostrar a la pantalla de bloqueig</string>
     <string name="HIPS_Perm_show_when_locked_Desc">mostrar-se a la pantalla de bloqueig</string>
-    <string name="HIPS_Perm_tencentControl">Accés als missatges de les aplicacions de xarxes socials</string>
+    <string name="HIPS_Perm_tencentControl">Accedir als missatges de les aplicacions de xarxes socials</string>
     <string name="HIPS_Perm_tencentControl_Desc">Permet que aquesta aplicació accedeixi als vostres missatges de WeChat i QQ</string>
     <string name="HIPS_Perm_use_sip">Serveis de vídeo</string>
-    <string name="HIPS_Perm_use_sip_Desc">utilitzar SIP per a la transmissió de vídeo</string>
+    <string name="HIPS_Perm_use_sip_Desc">utilitza el protocol d’iniciació de sessió per transmetre vídeo</string>
     <string name="HIPS_Perm_write_clipboard">Desar els elements al porta-retalls</string>
     <string name="HIPS_Perm_write_clipboard_Desc">Permet que les aplicacions desin elements al porta-retalls</string>
     <string name="HIPS_SecurityPrompt_Caption">Avís de seguretat</string>
@@ -147,9 +147,9 @@
     <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
-    <string name="am">am</string>
+    <string name="am">AM</string>
     <string name="app_name">Permisos</string>
-    <string name="background_location_access_reminder_notification_content">Aquesta aplicació sempre pot accedir a la vostra ubicació. Toqueu per canviar.</string>
+    <string name="background_location_access_reminder_notification_content">Aquesta aplicació sempre pot accedir a la vostra ubicació. Toqueu per canviar-ho.</string>
     <string name="background_location_access_reminder_notification_title">%s ha estat utilitzant la vostra ubicació</string>
     <string name="blur_location_is_on_tip">%1$s utilitza la vostra ubicació aproximada. Voleu continuar utilitzant-la en lloc d\'una ubicació precisa?</string>
     <string name="blur_location_now_tip">La ubicació aproximada està activada</string>
