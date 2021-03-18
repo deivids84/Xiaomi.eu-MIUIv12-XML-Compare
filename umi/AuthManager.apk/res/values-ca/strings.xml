@@ -66,7 +66,7 @@
     <string name="HIPS_Perm_Settings_Desc">modifica la configuració del sistema</string>
     <string name="HIPS_Perm_SystemAlert">Mostrar finestres emergents</string>
     <string name="HIPS_Perm_SystemAlert_Desc">mostra finestres emergents</string>
-    <string name="HIPS_Perm_UDevice_ID">Comparteix parts de la informació del dispositiu amb els desenvolupadors de jocs per ajudar-los a millorar la vostra experiència de joc. Esteu d\'acord?</string>
+    <string name="HIPS_Perm_UDevice_ID">Comparteix parts de la informació del dispositiu amb els desenvolupadors de jocs per ajudar-los a millorar la vostra experiència de joc. Hi esteu d\'acord?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">comparteix parts de la informació del dispositiu amb els desenvolupadors de jocs per ajudar-los a millorar la vostra experiència de joc. Hi esteu d\'acord?</string>
     <string name="HIPS_Perm_VideoRecorder">Accedir a la càmera</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">accés a la càmera per fer fotos o enregistrar vídeo</string>
