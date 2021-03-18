@@ -13,12 +13,12 @@
     <string name="HIPS_Perm_AudioRecorder_Desc">enregistra àudio i trucades telefòniques</string>
     <string name="HIPS_Perm_AutoStart">Inici automàtic</string>
     <string name="HIPS_Perm_AutoStart_Desc">inici automàtic</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity">Canvia la connectivitat Bluetooth</string>
+    <string name="HIPS_Perm_Bluetooth_Connectivity">Canviar la connectivitat Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">activa o desactiva el Bluetooth</string>
     <string name="HIPS_Perm_Body_Sensors">Sensors corporals</string>
-    <string name="HIPS_Perm_Body_Sensors_Desc">sensors corporals (p. ex., sensor de ritme cardíac)</string>
+    <string name="HIPS_Perm_Body_Sensors_Desc">sensors corporals (per exemple, sensor de freqüència cardíaca)</string>
     <string name="HIPS_Perm_Calendar">Llegir esdeveniments del calendari</string>
-    <string name="HIPS_Perm_Calendar_Desc">llegir els esdeveniments del calendari</string>
+    <string name="HIPS_Perm_Calendar_Desc">llegeix els vostres esdeveniments del calendari</string>
     <string name="HIPS_Perm_Call">Fer trucades telefòniques</string>
     <string name="HIPS_Perm_CallLog">Escriu i suprimeix l\'historial de trucades</string>
     <string name="HIPS_Perm_CallLog_Desc">editant historial de trucada</string>
