@@ -167,7 +167,7 @@
     <string name="clipboard_read_deny_dialog_title">Accés restringit al porta-retalls per a %1$s</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
-    <string name="default_permission_description">realitzar accions desconegudes</string>
+    <string name="default_permission_description">realitza accions desconegudes</string>
     <string name="early_morning">Matí</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
@@ -190,11 +190,11 @@
     <string name="grant_dialog_button_allow">Permet</string>
     <string name="grant_dialog_button_allow_always">Permet sempre</string>
     <string name="grant_dialog_button_allow_background">Permet sempre</string>
-    <string name="grant_dialog_button_allow_foreground">Permet només l\'ús de l\'aplicació</string>
-    <string name="grant_dialog_button_allow_onetime">Un cop</string>
+    <string name="grant_dialog_button_allow_foreground">Permet només durant l\'ús de l\'aplicació</string>
+    <string name="grant_dialog_button_allow_onetime">Una vegada</string>
     <string name="grant_dialog_button_deny">Denega</string>
-    <string name="grant_dialog_button_deny_and_dont_ask_again">"Rebutja i no ho tornis a preguntar"</string>
-    <string name="grant_dialog_button_deny_background">Només mentre facis servir l\'aplicació</string>
+    <string name="grant_dialog_button_deny_and_dont_ask_again">"Denega i no ho tornis a preguntar"</string>
+    <string name="grant_dialog_button_deny_background">Només durant l\'ús de l\'aplicació</string>
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Sempre, però només mentre es faci servir l\'aplicació</string>
     <string name="grant_dialog_storage_category_title">Aquesta aplicació requereix permisos per accedir a la galeria i als missatges de les aplicacions de xarxes socials</string>
     <string name="grant_dialog_storage_gallery_title">Galeria</string>
