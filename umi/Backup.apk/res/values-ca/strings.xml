@@ -83,7 +83,7 @@
     <string name="btn_got_it">Entesos</string>
     <string name="button_backup">Còpia de seguretat</string>
     <string name="button_cancel">Cancel·la</string>
-    <string name="button_clean_garbage">Allibereu espai</string>
+    <string name="button_clean_garbage">Allibera espai</string>
     <string name="button_continue">Continua</string>
     <string name="button_finish">Finalitza</string>
     <string name="button_got_it">D\'acord</string>
@@ -96,9 +96,9 @@
     <string name="call_title">Historial de trucades</string>
     <string name="camera_summary">Configuració de la càmera (no inclou les fotos)</string>
     <string name="camera_summary_for_cta">Configuració de la càmera</string>
-    <string name="cancel">Cancel·leu</string>
+    <string name="cancel">Cancel·la</string>
     <string name="cancel_backup">Atura</string>
-    <string name="cancel_moving_dialog_message">Esteu segur que voleu aturar la importació?</string>
+    <string name="cancel_moving_dialog_message">Voleu aturar la importació?</string>
     <string name="cancel_moving_dialog_title">Atura la importació</string>
     <string name="cancel_restore">Atura</string>
     <string name="click_soft_ap_to_link">Seleccioneu un punt d\'accés per connectar-vos</string>
