@@ -201,7 +201,7 @@
     <string name="grant_dialog_storage_sociality_title">Missatges en aplicacions de xarxes socials</string>
     <string name="keep_blur_location">No</string>
     <string name="keep_notice_me">Segueix notificant</string>
-    <string name="location_settings">Configuració d\'ubicació</string>
+    <string name="location_settings">Configuració de la ubicació</string>
     <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació per a aquest dispositiu. L\'accés a la ubicació es pot modificar a la configuració d\'ubicació.</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
@@ -218,13 +218,13 @@
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Només un segon…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un segon…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="monday">Dilluns</string>
     <string name="monday_short">Dl.</string>
@@ -362,7 +362,7 @@
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
-    <string name="the_chinese_youth_day">Dia de la joventut</string>
+    <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
     <string name="the_double_ninth_festival">Festival del Doble Nou</string>
     <string name="the_dragon_boat_festival">Festa del Vaixell del Drac</string>
