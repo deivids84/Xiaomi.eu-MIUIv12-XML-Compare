@@ -195,7 +195,7 @@
     <string name="grant_dialog_button_deny">Denega</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Denega i no ho tornis a preguntar"</string>
     <string name="grant_dialog_button_deny_background">Només durant l\'ús de l\'aplicació</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Sempre, però només mentre es faci servir l\'aplicació</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Sempre, però només durant l\'ús de l\'aplicació</string>
     <string name="grant_dialog_storage_category_title">Aquesta aplicació requereix permisos per accedir a la galeria i als missatges de les aplicacions de xarxes socials</string>
     <string name="grant_dialog_storage_gallery_title">Galeria</string>
     <string name="grant_dialog_storage_sociality_title">Missatges en aplicacions de xarxes socials</string>
@@ -267,7 +267,7 @@
     <string name="month_september_shortest">set.</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
-    <string name="never_ask_again">"No tornis a preguntar després de restringir"</string>
+    <string name="never_ask_again">"No ho tornis a preguntar després de restringir-ho"</string>
     <string name="night">Vespre</string>
     <string name="no">No</string>
     <string name="noon">Migdia</string>
@@ -277,7 +277,7 @@
     <string name="perm_action_deny">No ho permetis mai</string>
     <string name="perm_manager_suggest_operation">Gestioneu els permisos</string>
     <string name="perm_manager_suggest_title">Voleu ajustar els permisos?</string>
-    <string name="perm_modem_location">Accés a la teva ubicació</string>
+    <string name="perm_modem_location">Accés a la vostra ubicació</string>
     <string name="perm_modem_location_desc">El teu operador està provant d\'accedir a la informació de la teva ubicació. Vols compartir la informació de la ubicació amb l\'operador?</string>
     <string name="permdesc_camera">Fer fotos i gravar vídeos</string>
     <string name="permdesc_in_calls">Monitorar trucades entrants</string>
