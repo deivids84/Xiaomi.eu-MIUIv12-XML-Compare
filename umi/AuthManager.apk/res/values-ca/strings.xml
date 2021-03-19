@@ -309,19 +309,19 @@
     <string name="permission_group_title_settings_related">Configuració</string>
     <string name="permission_list_include">"Incloent els següents:
 "</string>
-    <string name="permission_reminders">Recordatoris de permís</string>
-    <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
+    <string name="permission_reminders">Recordatoris de permisos</string>
+    <string name="permission_warning_template">Voleu permetre %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">Voleu permetre a %1$s els següents permisos?</string>
     <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
-    <string name="pm">pm</string>
+    <string name="pm">PM</string>
     <string name="real_location_off">La ubicació aproximada està activada</string>
     <string name="real_location_on">La ubicació aproximada està desactivada</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="screen_overlay_button">Obre la configuració</string>
-    <string name="screen_overlay_message">Per canviar aquest permís, heu de desactivar la superposició de la pantalla a Configuració &gt; Aplicacions.</string>
-    <string name="screen_overlay_title">S\'ha detectat la superposició de pantalla</string>
+    <string name="screen_overlay_message">Per canviar aquest permís, heu de desactivar la superposició de pantalla a Configuració &gt; Aplicacions.</string>
+    <string name="screen_overlay_title">S\'ha detectat una superposició de pantalla</string>
     <string name="search_menu_title">Cerca</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
@@ -330,7 +330,7 @@
     <string name="solar_term_grain_buds">Criatures plenes</string>
     <string name="solar_term_grain_in_ear">Sembra de mill</string>
     <string name="solar_term_grain_rain">Pluja de blat</string>
-    <string name="solar_term_great_cold">Fred sever</string>
+    <string name="solar_term_great_cold">Fred intens</string>
     <string name="solar_term_great_heat">Gran calor</string>
     <string name="solar_term_heavy_snow">Nevada intensa</string>
     <string name="solar_term_hoar_frost_falls">Glaçada</string>
@@ -364,7 +364,7 @@
     <string name="the_childrens_day">"Dia de la Infància"</string>
     <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
-    <string name="the_double_ninth_festival">Festival del Doble Nou</string>
+    <string name="the_double_ninth_festival">Festa del Doble Nou</string>
     <string name="the_dragon_boat_festival">Festa del Vaixell del Drac</string>
     <string name="the_easter_day">Pasqua</string>
     <string name="the_eve_of_the_spring_festival">Nit de Cap d\'Any Xinès</string>
