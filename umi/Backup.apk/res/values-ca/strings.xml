@@ -69,7 +69,7 @@
     <string name="backup_error">"No s'ha pogut fer la còpia de seguretat"</string>
     <string name="backup_failed">"No s'ha pogut fer la còpia de seguretat"</string>
     <string name="backup_file_error">"No s'ha pogut fer la còpia de seguretat"</string>
-    <string name="backup_finished">S\'ha copiat amb èxit</string>
+    <string name="backup_finished">S\'ha copiat correctament</string>
     <string name="backup_hint">Manteniu el dispositiu encès</string>
     <string name="backup_hint_onpad">Manteniu el dispositiu encès</string>
     <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
@@ -78,11 +78,11 @@
     <string name="backup_report">Mostra els detalls</string>
     <string name="backup_security_tips_message">És possible que d\'algunes aplicacions no es puguin fer còpies de seguretat o restaurar-les.</string>
     <string name="backup_security_tips_title">Pot ser que les còpies de seguretat no funcionin</string>
-    <string name="backup_update">Actualizeu</string>
-    <string name="batch_delete_backup_confirm">Voleu eliminar les còpies de seguretat seleccionades?</string>
+    <string name="backup_update">Actualiza</string>
+    <string name="batch_delete_backup_confirm">Voleu suprimir les còpies de seguretat seleccionades?</string>
     <string name="btn_got_it">Entesos</string>
     <string name="button_backup">Còpia de seguretat</string>
-    <string name="button_cancel">Cancel·leu</string>
+    <string name="button_cancel">Cancel·la</string>
     <string name="button_clean_garbage">Allibereu espai</string>
     <string name="button_continue">Continua</string>
     <string name="button_finish">Finalitza</string>
@@ -117,7 +117,6 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
     <string name="cloud_backup_login">Inicieu la sessió al Compte Mi</string>
     <string name="cloud_backup_window_title">Còpies de seguretat del Núvol Xiaomi</string>
-    <string name="cloud_home_title">Núvol Xiaomi</string>
     <string name="cloud_item_info_summary">" (Local: %1$s| Núvol Xiaomi: %2$s)"</string>
     <string name="cloud_last_backup">"Última còpia de seguretat "</string>
     <string name="cloud_no_backup">Sense còpies de seguretat</string>
@@ -125,7 +124,6 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="cloud_restore_title">Restaura les dades de la còpia de seguretat</string>
     <string name="cloud_restore_window_title">Restaura des de Núvol Xiaomi</string>
     <string name="cloud_search">S\'està cercant…</string>
-    <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat…</string>
     <string name="compute_delete_contact_info">S\'està obtenint la informació…</string>
     <string name="confirm_exit_link">Surt</string>
@@ -143,24 +141,23 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="current_sim">Targeta SIM actual</string>
     <string name="data_detail_description">Detalls</string>
     <string name="data_item_desc">Dades</string>
-    <string name="data_no_enough_space_message">"No hi ha prou espai d'emmagatzematge al vostre dispositiu."</string>
+    <string name="data_no_enough_space_message">"No hi ha prou espai d'emmagatzematge al dispositiu."</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="delete">Elimineu</string>
-    <string name="delete_backup_process">S\'està eliminant…</string>
-    <string name="delete_backup_title">Elimineu la còpia de seguretat</string>
+    <string name="delete">Suprimeix</string>
+    <string name="delete_backup_process">S\'està suprimint…</string>
+    <string name="delete_backup_title">Suprimeix la còpia de seguretat</string>
     <string name="delete_failed_backup_confirm">Aquesta còpia de seguretat conté errors.</string>
-    <string name="deselect_all">Desseleccioneu-ho tot</string>
-    <string name="dialog_app_upgrade_download">Actualizeu</string>
+    <string name="deselect_all">Desselecciona-ho tot</string>
+    <string name="dialog_app_upgrade_download">Actualitza</string>
     <string name="dialog_app_upgrade_exit">Surt</string>
-    <string name="dialog_app_upgrade_message">Hi ha disponible una nova versió del Mi Mover. Voleu actualitzar-lo ara?</string>
-    <string name="dialog_backup_password_auto_backup_tips">"No es poden fer còpies de seguretat d'elements automàticament quan la contrasenya de còpia de seguretat estigui activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
-    <string name="dialog_backup_password_backup_tips">"No es poden fer còpies de seguretat d'elements quan la contrasenya de còpia de seguretat estigui activada. Desactiveu la contrasenya de còpia de seguretat."</string>
-    <string name="dialog_backup_password_cancel">Cancel·leu</string>
-    <string name="dialog_backup_password_change_device_restore_tips">"No es pot utilitzar Mi Mover quan la contrasenya de còpia de seguretat està activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
+    <string name="dialog_app_upgrade_message">Hi ha una nova versió de Mi Mover. Voleu actualitzar-la ara?</string>
+    <string name="dialog_backup_password_auto_backup_tips">"No es pot fer una còpia de seguretat dels elements automàticament quan la contrasenya de la còpia de seguretat està activada. Desactiveu primer la contrasenya de la còpia de seguretat."</string>
+    <string name="dialog_backup_password_backup_tips">"No es pot fer una còpia de seguretat dels elements quan la contrasenya de la còpia de seguretat està activada. Desactiveu la contrasenya de la còpia de seguretat."</string>
+    <string name="dialog_backup_password_cancel">Cancel·la</string>
+    <string name="dialog_backup_password_change_device_restore_tips">"No es pot utilitzar Mi Mover quan la contrasenya de la còpia de seguretat està activada. Desactiveu primer la contrasenya de la còpia de seguretat."</string>
     <string name="dialog_backup_password_change_machine_tips">"No podreu transferir còpies de seguretat protegides amb contrasenya. Desactiveu la contrasenya de còpia de seguretat abans d’utilitzar Mi Mover."</string>
     <string name="dialog_backup_password_restore_tips">"No es poden restaurar elements quan la contrasenya de la còpia de seguretat estigui activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
     <string name="dialog_backup_password_to_settings">Configuració</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Sense encriptar</string>
     <string name="disable_encrypt_title">Desactiva l\'encriptatge</string>
@@ -197,7 +194,6 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="feature_title_antispam">Llista de bloqueig</string>
     <string name="feature_title_call_log">Historial de trucades</string>
     <string name="feature_title_contacts">Contactes</string>
-    <string name="feature_title_mms">MMS</string>
     <string name="feature_title_mms_setting">Configuració de Missatgeria</string>
     <string name="feature_title_sms">Missatges</string>
     <string name="file_uploading">S\'està pujant…</string>
@@ -254,7 +250,6 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
     <string name="lack_perm_msg">Mi Mover necessita els següents permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permisos requerits</string>
@@ -279,7 +274,6 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="local_main_backup">Còpies de seguretat locals</string>
     <string name="local_main_backup_and_restore">En aquest dispositiu</string>
     <string name="local_main_backup_detail_title">Ajustaments del sistema, comptes i dades de l\'aplicació</string>
-    <string name="local_main_backup_manage_null">%s</string>
     <string name="local_main_backup_manager">Gestionar còpies de seguretat locals</string>
     <string name="local_main_backup_manager_title">Gestionar còpies de seguretat</string>
     <string name="local_main_backup_settings">Ajustaments de còpies de seguretat locals</string>
@@ -499,12 +493,10 @@ Allibereu %s com a mínim."</string>
     <string name="start_restore">Restaura</string>
     <string name="state_mounting">S\'està accedint a l\'emmagatzematge de l\'encaminador…</string>
     <string name="state_waiting">Un moment…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_sd_card">Targeta SD</string>
     <string name="storage_usb">Unitat USB</string>
     <string name="succ_description">Amb èxit</string>
     <string name="succeed">Completada</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_err_backup_encrypting">Inicia la sessió al Compte Mi.</string>
     <string name="summary_err_backup_no_network">"No s'ha pogut connectar a la xarxa"</string>
     <string name="summary_err_restore_encrypting">"No s'ha pogut restaurar. Assegureu-vos que aquesta còpia de seguretat es va fer amb el Compte Mi."</string>
@@ -538,7 +530,6 @@ Allibereu %s com a mínim."</string>
     <string name="task_running_restore_hint">Aquesta tasca ja s\'està executant en segon pla</string>
     <string name="task_service_not_launched">"La tasca encara no s'ha iniciat"</string>
     <string name="task_stopped_exception">S\'ha cancel·lat la restauració</string>
-    <string name="total_size">, %s</string>
     <string name="trans_backingup">S\'està fent una còpia de seguretat…</string>
     <string name="trans_backingup_no_items">S\'està sincronitzant…</string>
     <string name="trans_button_cancel">Cancel·leu</string>
@@ -760,10 +751,10 @@ Allibereu espai o transferiu només els elements importants."</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="view_password_description">Mostra la contrasenya</string>
     <string name="wait_link">"Obriu Mi Mover al dispositiu antic,
-premeu \"Sóc un remitent\" i seleccioneu un punt d'accés públic per connectar-vos.
-No tanqueu la pàgina abans que s'estableixi la connexió."</string>
+toqueu \"Soc el remitent\" i seleccioneu un punt d'accés per connectar-vos.
+No tanqueu la pàgina fins que s'hagi establert la connexió."</string>
     <string name="waiting">Un moment…</string>
-    <string name="wifi_title">Configuració de Wi-Fi</string>
+    <string name="wifi_title">Configuració de la Wi-Fi</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
     <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
@@ -771,9 +762,9 @@ No tanqueu la pàgina abans que s'estableixi la connexió."</string>
     <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
-    <string name="xiaomi_update_dialog_message">"Presentant la versió %1$s
-Mida:%2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"Presentant la versió %1$s
+    <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
+Mida: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Presentació de la versió %1$s
 Mida de l'actualització Delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Actualització disponible</string>
 </resources>
