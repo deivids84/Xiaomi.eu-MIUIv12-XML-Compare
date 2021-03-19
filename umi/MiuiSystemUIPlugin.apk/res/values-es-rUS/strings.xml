@@ -165,8 +165,8 @@
     <string name="miui_ringer_count_down">Cuenta regresiva</string>
     <string name="miui_ringer_standard">Silencio</string>
     <string name="miui_ringer_standard_description">Silenciar los tonos de llamadas entrantes y notificaciones</string>
-    <string name="miui_ringer_status_close">Desactivado</string>
-    <string name="miui_ringer_status_open">Activado</string>
+    <string name="miui_ringer_status_close">No Activo</string>
+    <string name="miui_ringer_status_open">Activo</string>
     <string name="miui_ringer_total">No molestar</string>
     <string name="miui_ringer_total_description">Silenciar los sonidos y desactivar la vibración para todos los elementos excepto la alarma</string>
     <string name="miui_toast_zen_dnd_to_off">"Las llamadas y notificaciones ya no se silenciarán"</string>
