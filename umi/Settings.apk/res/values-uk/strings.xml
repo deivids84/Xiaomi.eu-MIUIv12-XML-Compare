@@ -1697,6 +1697,8 @@
     <string name="codec_low_latency_summary">Мінімізувати затримку під час відтворення аудіо у іграх та синхронізації відео</string>
     <string name="codec_low_latency_title">Низька затримка</string>
     <string name="codec_low_latency_video_summary">Забезпечте досвід аудіо з низькою затримкою для ігор та відео, роблячи звукові та синхронізацію зображення більш реалістичними.</string>
+    <string name="codec_low_latency_zmi_summary">Зменшити затримки звуку та покращити звукові ефекти для ігор автоматично</string>
+    <string name="codec_low_latency_zmi_title">Низька затримка для ігор</string>
     <string name="color_black">Чорний</string>
     <string name="color_blue">Синій</string>
     <string name="color_calibration_none">Цей пристрій</string>
