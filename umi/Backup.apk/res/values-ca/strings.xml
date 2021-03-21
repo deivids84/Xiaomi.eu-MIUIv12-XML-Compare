@@ -242,51 +242,51 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
     <string name="icloud_need_sync">"Per importar dades de iOS,r
 primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="icloud_need_wifi_message">"La Wi-Fi no està connectada actualment. Per importar dades d'iCloud, connecteu-vos a la Wi-Fi."</string>
-    <string name="icloud_need_wifi_title">Connecta a la Wi-Fi</string>
+    <string name="icloud_need_wifi_title">Connecteu-vos a la Wi-Fi</string>
     <string name="import_again">Importa de nou</string>
     <string name="import_data_from_icloud">Importa les dades de l\'iCloud</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
 \u0009http://www.miliao.com
 
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
-    <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
-    <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
-    <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
+    <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, toqueu Següent.</string>
+    <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer una còpia de seguretat dels contactes en diversos dispositius.</string>
+    <string name="import_tip_summary">A causa de problemes de compatibilitat, només podeu transferir dades parcials des de dispositius iOS. Assegureu-vos de crear una còpia de seguretat d\'iCloud abans d’iniciar la transferència.</string>
     <string name="lack_perm_msg">Mi Mover necessita els següents permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
-    <string name="lack_perm_title">Permisos requerits</string>
+    <string name="lack_perm_title">Permisos necessaris</string>
     <string name="list_footer_tip_title">Consells:</string>
     <string name="loading_data">S\'estan carregant les dades</string>
     <string name="local_app_name">Còpia de seguretat</string>
     <string name="local_back_up_detail_description">"Nota:
-1. Per a evitar la pèrdua de dades, fes una còpia de les còpies de seguretat locals al teu ordinador.
-2. Copia sempre les còpies de seguretat locals al teu ordinador abans de realitzar un restabliment de fàbrica; si no, les còpies de seguretat locals es perdran.
-3. On s'emmagatzemen les còpies de seguretat locals? %1$s"</string>
+1. Per evitar la pèrdua de dades, copieu les còpies locals al vostre ordinador.
+2. Copieu sempre les còpies locals al vostre ordinador abans de realitzar un restabliment de fàbrica; en cas contrari, es perdran les còpies de seguretat locals.
+3. On s’emmagatzemen les còpies de seguretat locals? %1$s"</string>
     <string name="local_backup_select_activity">Crea una còpia de seguretat</string>
     <string name="local_backup_window_title">Còpies de seguretat locals</string>
-    <string name="local_button_backup_data">Fer còpia</string>
-    <string name="local_button_backup_now">Fer còpia</string>
-    <string name="local_button_restore_data">Restaurar en aquest dispositiu</string>
-    <string name="local_button_restore_now">Restaurar</string>
-    <string name="local_click_to_jump">Prem per a veure</string>
-    <string name="local_config_off">No</string>
-    <string name="local_config_on">Sí</string>
+    <string name="local_button_backup_data">Còpia de seguretat</string>
+    <string name="local_button_backup_now">Còpia de seguretat</string>
+    <string name="local_button_restore_data">Restaura en aquest dispositiu</string>
+    <string name="local_button_restore_now">Restaura</string>
+    <string name="local_click_to_jump">Toqueu per veure-ho</string>
+    <string name="local_config_off">Desactivat</string>
+    <string name="local_config_on">Activat</string>
     <string name="local_home_title">Còpia de seguretat local</string>
-    <string name="local_main_auto_backup_title">Còpies de seguretat automàtiques</string>
+    <string name="local_main_auto_backup_title">Còpia de seguretat automàtica</string>
     <string name="local_main_backup">Còpies de seguretat locals</string>
     <string name="local_main_backup_and_restore">En aquest dispositiu</string>
-    <string name="local_main_backup_detail_title">Ajustaments del sistema, comptes i dades de l\'aplicació</string>
-    <string name="local_main_backup_manager">Gestionar còpies de seguretat locals</string>
-    <string name="local_main_backup_manager_title">Gestionar còpies de seguretat</string>
-    <string name="local_main_backup_settings">Ajustaments de còpies de seguretat locals</string>
+    <string name="local_main_backup_detail_title">Configuració del sistema, comptes i dades d\'aplicacions</string>
+    <string name="local_main_backup_manager">Gestiona les còpies de seguretat locals</string>
+    <string name="local_main_backup_manager_title">Gestiona les còpies de seguretat</string>
+    <string name="local_main_backup_settings">Configuració de còpia de seguretat local</string>
     <string name="local_main_backup_time">Última còpia de seguretat: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
-    <string name="local_main_encrypt_backup_summary">Xifra els elements dels quals facis una còpia de seguretat amb el teu compte Mi</string>
-    <string name="local_main_encrypt_backup_title">Xifrar còpies de seguretat</string>
+    <string name="local_main_encrypt_backup_summary">Xifra els elements de la còpia de seguretat mitjançant el Compte Mi</string>
+    <string name="local_main_encrypt_backup_title">Xifra les còpies de seguretat</string>
     <string name="local_main_latest_backup_time_loading">Un moment…</string>
     <string name="local_no_backup">Sense còpies de seguretat.</string>
-    <string name="local_no_backup_data">No hi ha còpies de seguretat, encara</string>
-    <string name="local_restore_select_activity">Gestionar còpies de seguretat</string>
-    <string name="local_restore_select_data_activity">Restaurar des d\'una còpia</string>
+    <string name="local_no_backup_data">Encara no hi ha còpies de seguretat</string>
+    <string name="local_restore_select_activity">Gestiona les còpies de seguretat</string>
+    <string name="local_restore_select_data_activity">Restaura des d\'una còpia de seguretat</string>
     <string name="local_restore_window_title">Restauració local</string>
     <string name="local_select_account_contact">Comptes i contactes</string>
     <string name="local_select_audio">Fitxers d\'àudio</string>
