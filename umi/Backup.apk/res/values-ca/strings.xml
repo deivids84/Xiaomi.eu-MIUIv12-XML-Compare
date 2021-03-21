@@ -206,12 +206,13 @@ Assegureu-vos que la unitat USB tingui prou espai d’emmagatzematge abans de co
     <string name="flash_drive_backup_restore">Còpies de seguretat USB</string>
     <string name="flash_drive_connection_failed">Unitat USB desconnectada</string>
     <string name="flash_drive_restore_btn">Restaura des de la unitat USB</string>
-    <string name="flash_drive_search_backup_files">"S'està cercant l'USB.…No canvieu o reanomeneu els fitxers a copiar."</string>
-    <string name="gallery_summary">Configuració de la Galeria (no inclou les fotos)</string>
+    <string name="flash_drive_search_backup_files">"S'està cercant la còpia de seguretat USB…
+No canvieu el nom dels fitxers de còpia de seguretat."</string>
+    <string name="gallery_summary">Configuració de la Galeria (sense incloure les fotos)</string>
     <string name="guarded_mode_dialog_backup_message">"Les còpies de seguretat no estan permeses al mode de Convidat."</string>
-    <string name="guarded_mode_dialog_title">"Estàs al mode de Convidat"</string>
+    <string name="guarded_mode_dialog_title">"Esteu en mode de Convidat"</string>
     <string name="guarded_mode_dialog_transfer_message">"No es pot utilitzar Mi Mover al mode de Convidat."</string>
-    <string name="hide_password_description">Oculta la contrasenya</string>
+    <string name="hide_password_description">Amaga la contrasenya</string>
     <string name="hsa_code_null">"El codi de verificació no pot estar buit"</string>
     <string name="hsa_input_hint">Introduïu el codi de verificació</string>
     <string name="hsa_input_tip">El vostre ID d\'Apple utilitza l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
