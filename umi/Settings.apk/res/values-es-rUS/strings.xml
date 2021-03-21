@@ -2594,7 +2594,7 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dual_wifi_switching_prompt">Cambiando entre redes</string>
     <string name="dual_wifi_switching_summary">El aumento de velocidad de Wi-Fi de doble banda debe usar dos bandas de Wi-Fi diferentes. Si se conecta a una red principal diferente, se perderá la conexión auxiliar.</string>
     <string name="dump_log">Obtener registros relacionados al problema</string>
-    <string name="dump_log_summary">"Esta función está diseñada para generar el registro 284 en la versión Beta de MIUI. Úselo con precaución. 
+    <string name="dump_log_summary">"Esta función está diseñada para generar el %s en la versión Beta de MIUI. Úselo con precaución.
 Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="dump_log_title">Acerca de esta función</string>
     <string name="easymode_hint">Toque para desactivar el Modo lite</string>
@@ -5680,7 +5680,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas en un lapso de 15 minutos en modo silencio</string>
+    <string name="repeat_call_info">Suena o vibra mientras recibe la segunda llamada del mismo número de teléfono en %d minutos</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Nunca</string>
     <string name="repeat_title">Repetir</string>
@@ -5869,7 +5869,7 @@ Esa configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_enhance_engine_ai_pic_summary">"Identifique objetos (por ejemplo, plantas, animales, edificios) y ajuste dinámicamente los efectos de visualización. Esta característica aumenta ligeramente el consumo de energía."</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen AI</string>
     <string name="screen_enhance_engine_memc_note">"No se pueden mejorar los videos cuando la súper resolución está activada. Al activar los videos mejorados, desactivará la súper resolución."</string>
-    <string name="screen_enhance_engine_memc_note_1">Esta función aumenta ligeramente el consumo de energía.</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. Esta función aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Esta función solo funciona cuando la caja de herramientas de video está activada.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Agregue marcos adicionales a los videos para que el contenido parezca fluido y las transiciones sean animadas."</string>
