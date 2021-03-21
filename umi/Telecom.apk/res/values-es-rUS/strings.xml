@@ -484,7 +484,7 @@ Selección"</string>
     <string name="power_remaining_charging_duration_only">%1$s para completar la carga</string>
     <string name="power_remaining_duration_only">Tiempo restante: aproximadamente %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Tiempo restante: aproximadamente %1$s en función de tu uso</string>
-    <string name="power_remaining_duration_only_short">Tiempo restante: ^1</string>
+    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Es posible que pronto se apague el teléfono</string>
     <string name="power_remaining_duration_shutdown_imminent">Es posible que pronto se apague el teléfono (%1$s)</string>
     <string name="power_remaining_less_than_duration">Tiempo restante: menos de %1$s (%2$s)</string>
