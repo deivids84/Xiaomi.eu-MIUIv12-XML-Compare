@@ -219,7 +219,7 @@
     <string name="privacy_provision_title">Privacidad</string>
     <string name="protect_persoanl_info_statement">Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
     <string name="provision_back">Atrás</string>
-    <string name="provision_inputmethod_policy_description">Ver la Política de Privacidad del teclado seleccionado.</string>
+    <string name="provision_inputmethod_policy_description"><Data>Vea la &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; del teclado seleccionado.</Data></string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
     <string name="provision_next">Siguiente</string>
     <string name="provision_skip_underline">Omitir</string>
