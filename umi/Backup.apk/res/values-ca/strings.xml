@@ -311,35 +311,35 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="mms_title">Missatgeria multimèdia</string>
     <string name="multi_select_title">%1$s seleccionats</string>
-    <string name="multi_user_mode_backup_message">"Desactiveu el mode Multiusuari per poder utilitzar la còpia de seguretat."</string>
-    <string name="multi_user_mode_dialog_message">"Desactiveu el mode Multiusuari per poder utilitzar Mi Mover."</string>
-    <string name="multi_user_mode_dialog_title">"Estàs en el mode Multiusuari"</string>
+    <string name="multi_user_mode_backup_message">"No es pot utilitzar la còpia de seguretat en mode Multiusuari. Desactiveu el mode Multiusuari per continuar."</string>
+    <string name="multi_user_mode_dialog_message">"No es pot utilitzar Mi Mover en mode Multiusuari. Desactiveu el mode Multiusuari per continuar."</string>
+    <string name="multi_user_mode_dialog_title">"Esteu en el mode Multiusuari"</string>
     <string name="name_password_not_consistent">El nom d\'usuari o la contrasenya són incorrectes</string>
     <string name="never">Mai</string>
     <string name="new_backup">Còpia de seguretat</string>
     <string name="new_britem_audio">Àudio</string>
-    <string name="new_britem_doc">Arxius</string>
+    <string name="new_britem_doc">Fitxers</string>
     <string name="new_britem_other">Altres</string>
     <string name="new_britem_pic">Imatges</string>
     <string name="new_britem_video">Vídeos</string>
-    <string name="new_confirm_enable_encrypt_content">"MIUI associa les còpies de seguretat xifrades amb el teu compte de Mi Account. Hauràs d'iniciar sessió en Mi Account per a restaurar elements de dites còpies."</string>
-    <string name="new_confirm_enable_encrypt_title">Xifrar</string>
+    <string name="new_confirm_enable_encrypt_content">"MIUI associa les còpies de seguretat xifrades amb el vostre Compte Mi. Haureu d’iniciar la sessió al vostre Compte Mi per restaurar els elements d’aquestes còpies de seguretat."</string>
+    <string name="new_confirm_enable_encrypt_title">Xifra</string>
     <string name="new_local_button_backup">Còpia de seguretat</string>
-    <string name="new_local_button_restore">Restaurar</string>
-    <string name="new_local_click_to_jump">Prem per a veure instruccions detallades</string>
+    <string name="new_local_button_restore">Restaura</string>
+    <string name="new_local_click_to_jump">Toqueu per veure les instruccions detallades</string>
     <string name="new_local_detail_description">"Nota:
-%1$d. Copia les còpies de seguretat en el teu ordinador per a evitar la pèrdua de dades. %2$s.
-%3$d. Les còpies de seguretat es desaran en MIUI-Backup-AllBackup."</string>
-    <string name="new_local_tab_backup">Fer còpia</string>
-    <string name="new_local_tab_restore">Restaurar</string>
+%1$d. Copieu les còpies de seguretat a l'ordinador per evitar la pèrdua de dades. %2$s.
+%3$d. Les còpies de seguretat es desaran a MIUI-Backup-AllBackup."</string>
+    <string name="new_local_tab_backup">Còpia de seguretat</string>
+    <string name="new_local_tab_restore">Restaura</string>
     <string name="new_low_storage_title">No hi ha prou espai d\'emmagatzematge</string>
-    <string name="new_more_settings_label">Configuracions addicionals</string>
-    <string name="new_pc_backup_content1">%1$d. Obrir \"%2$s\".</string>
-    <string name="new_pc_backup_content2">%d. Espera fins que tots els elements estiguin copiats.</string>
-    <string name="new_pc_backup_content3">%d. Troba la còpia de seguretat en MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_backup_content4">%d. Còpia l\'arxiu al teu ordinador.</string>
+    <string name="new_more_settings_label">Configuració addicional</string>
+    <string name="new_pc_backup_content1">%1$d. Obre \"%2$s\".</string>
+    <string name="new_pc_backup_content2">%d. Espereu fins que es faci la còpia de seguretat de tots els elements.</string>
+    <string name="new_pc_backup_content3">%d. Trobareu la còpia de seguretat a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content4">%d. Copieu el fitxer a l\'ordinador.</string>
     <string name="new_pc_backup_restore_link">Dispositiu mòbil</string>
-    <string name="new_pc_backup_summary1">Selecciona elements i prem \"Còpia de seguretat\".</string>
+    <string name="new_pc_backup_summary1">Seleccioneu els elements i toqueu \"Còpia de seguretat\".</string>
     <string name="new_pc_backup_summary2">Connecta el teu dispositiu mòbil a l\'ordinador a través del cable USB.</string>
     <string name="new_pc_backup_summary4">Nota: també pots copiar fotos i vídeos de DCIM.</string>
     <string name="new_pc_restore_content1">%d. Connecta el teu dispositiu mòbil a l\'ordinador a través del cable USB.</string>
