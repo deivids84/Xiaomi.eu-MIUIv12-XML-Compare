@@ -1392,7 +1392,7 @@ Selección"</string>
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
     <string name="bootloader_status_locked_summary">El teléfono es seguro</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock necesita acceso a Cuenta Mi, ID del CPU, IMEI e IMSI para funcional normalmente. Recolectamos, usamos y procesamos tus datos de acuerdo a nuestra %s. ¿De acuerdo?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necesita acceso a su cuenta Mi, ID de CPU, IMSI para funcionar normalmente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Estar de acuerdo?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos requeridos</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidad</string>
@@ -2594,8 +2594,8 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="dual_wifi_switching_prompt">Cambiando entre redes</string>
     <string name="dual_wifi_switching_summary">El aumento de velocidad Wi-Fi de doble banda debe usar dos bandas Wi-Fi diferentes. Si te conectas a una red principal diferente, se perderá la conexión auxiliar.</string>
     <string name="dump_log">Obtén registros relacionados con el problema</string>
-    <string name="dump_log_summary">"Esta función está diseñada para generar los 284 registros en la versión Beta de MIUI. Úsala con cuidado.
-Puedes ver los registros generados en el Gestor de archivos."</string>
+    <string name="dump_log_summary">"Esta función está diseñada para generar el %s en la versión Beta de MIUI. Úselo con precaución.
+Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="dump_log_title">Acerca de esta función</string>
     <string name="easymode_hint">Pulsa para desactivar el Modo lite</string>
     <string name="edge_mode_back">Volver</string>
@@ -5678,7 +5678,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en Modo silencio</string>
+    <string name="repeat_call_info">Suena o vibra mientras recibe la segunda llamada del mismo número de teléfono en %d minutos</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Nunca</string>
     <string name="repeat_title">Repetir</string>
@@ -5867,7 +5867,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_enhance_engine_ai_pic_summary">"Identifica objetos (por ejemplo, plantas, animales, edificios) y ajusta dinámicamente los efectos de visualización. "</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen IA</string>
     <string name="screen_enhance_engine_memc_note">"No se puede mejorar los vídeos cuando la superresolución está activada. Al activar los vídeos mejorados, desactivarás la superresolución."</string>
-    <string name="screen_enhance_engine_memc_note_1">Esta función aumenta ligeramente el consumo de energía.</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Esta función solo funciona cuando la caja de herramientas de video está activada.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Añade fotogramas adicionales a los vídeos para que el contenido parezca fluido y las transiciones sean rápidas."</string>
