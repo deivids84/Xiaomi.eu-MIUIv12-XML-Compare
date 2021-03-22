@@ -8135,7 +8135,7 @@ Revisa su política de privacidad."</string>
     <string name="wifi_assistant_auto_confirm_data_message">"Usar redes de datos móviles cuando su dispositivo no pueda conectarse a Internet mediante Wi-Fi."</string>
     <string name="wifi_assistant_confirm_always">"No volver a mostrar"</string>
     <string name="wifi_assistant_confirm_connection_title">"Seleccionar las mejores redes automáticamente"</string>
-    <string name="wifi_assistant_data_prompt">Atención</string>
+    <string name="wifi_assistant_data_prompt">Mostrar advertencia de uso de datos</string>
     <string name="wifi_assistant_data_prompt_summary">Mostrar alerta de uso de datos al cambiar a datos móviles</string>
     <string name="wifi_assistant_description">"Así es como funciona esta función:
 1. Cuando la conexión Wi-Fi es deficiente, su dispositivo intentará conectarse a otras redes Wi-Fi disponibles automáticamente.
@@ -8388,12 +8388,13 @@ Si configuras la red para que esté oculta, no se modificarán los ajustes del r
     <string name="wifi_link_turbo_customize">Aplicaciones personalizadas</string>
     <string name="wifi_link_turbo_customize_summary">Seleccionar aplicaciones que funcionarán con el asistente Wi-Fi de acuerdo a sus preferencias</string>
     <string name="wifi_link_turbo_list">Aplicaciones</string>
+    <string name="wifi_link_turbo_mode">Modo de aumento de velocidad</string>
     <string name="wifi_link_turbo_no_app">No hay aplicaciones todavía.</string>
     <string name="wifi_link_turbo_off">Desactivado</string>
     <string name="wifi_link_turbo_on">Activado</string>
     <string name="wifi_link_turbo_recommendation">Aplicaciones recomendadas</string>
     <string name="wifi_link_turbo_recommendation_summary">Recibir recomendaciones basadas en las estadísticas de uso de datos</string>
-    <string name="wifi_link_turbo_summary">Aumentar la velocidad de conexión para las aplicaciones seleccionadas que usan datos móviles cuando la conexión Wi-Fi es débil</string>
+    <string name="wifi_link_turbo_summary">Utilice datos móviles para aumentar la velocidad de conexión. El uso de esta función puede generar tarifas de operador adicionales.</string>
     <string name="wifi_menu_advanced">Config. avanzada</string>
     <string name="wifi_menu_configure">Configurar</string>
     <string name="wifi_menu_connect">Conectar a la red</string>
