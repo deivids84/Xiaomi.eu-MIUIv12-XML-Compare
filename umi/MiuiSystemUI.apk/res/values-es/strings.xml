@@ -791,6 +791,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fingerprint_not_identified_title">Introducir contraseña</string>
     <string name="fingerprint_try_again_msg">"No se pudo verificar la huella dactilar, inténtalo de nuevo."</string>
     <string name="fingerprint_try_again_text">Inténtalo de nuevo</string>
+    <string name="float_notification_snooze_strategy">Ocultar notificaciones flotantes temporalmente</string>
     <string name="force_allow_on_external">Forzar permiso de aplicaciones para escribir en el almacenamiento externo</string>
     <string name="force_allow_on_external_summary">Hacer que cualquier aplicación pueda ser escrita en el almacenamiento externo, sin importar los valores mostrados</string>
     <string name="force_msaa">Forzar 4x MSAA</string>
@@ -1230,6 +1231,15 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Hecho</string>
     <string name="miui_notification_menu_snooze">Repetición</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
+    <string name="miui_snooze_always_float">"No ocultar"</string>
+    <string name="miui_snooze_cancel">Cancelar</string>
+    <string name="miui_snooze_default_time">Por %d minuto</string>
+    <string name="miui_snooze_to_settings">Ajustes</string>
+    <string name="miui_snooze_toast_hint_default">"Las próximas notificaciones se ocultarán durante %d minutos. "</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">"Las próximas notificaciones se ocultarán hasta que se bloquee el dispositivo. "</string>
+    <string name="miui_snooze_until_unlock_screen">Hasta que se bloquee</string>
+    <string name="miui_snooze_user_set_fail">Vaya a Configuración &gt; Notificaciones &amp; Centro de control para ver más opciones</string>
+    <string name="miui_snooze_user_set_success">Aplicado con éxito. Vaya a Configuración &gt; Notificaciones &amp; Centro de control para ver más opciones.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
