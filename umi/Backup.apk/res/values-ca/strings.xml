@@ -400,7 +400,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
     <string name="notif_trans_wait_for_reconnecting">La connexió s\'ha interromput. Connecteu-vos de nou.</string>
     <string name="old_soft_name">Connecteu-vos mitjançant un codi QR</string>
-    <string name="old_way">També podeu generar un codi QR al vostre nou dispositiu i escanejar-lo amb el vell.</string>
+    <string name="old_way">També podeu generar un codi QR al dispositiu nou i escanejar-lo amb l’antic.</string>
     <string name="page_loading">Un moment…</string>
     <string name="password">Contrasenya</string>
     <string name="password_null">"La contrasenya no es pot deixar en blanc"</string>
