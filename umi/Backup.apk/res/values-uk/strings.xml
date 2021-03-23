@@ -758,11 +758,8 @@ r
 Не закривайте сторінку до встановлення підключення."</string>
     <string name="waiting">Секундочку…</string>
     <string name="wifi_title">Параметри Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_connect_download_manager_fail">"Не вдалося запустити завантаження. Переконайтеся, що Менеджер завантажень працює нормально."</string>
     <string name="xiaomi_external_storage_unavailable">"Сховище недоступне, перевірте вашу SD-карту."</string>
-    <string name="xiaomi_kilobytes_unit">%1$sкБ</string>
-    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_router">Mi Роутер</string>
     <string name="xiaomi_router_location">Mi роутер %s</string>
     <string name="xiaomi_update_dialog_message">"Представлена версія %1$s
