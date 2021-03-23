@@ -756,11 +756,8 @@ toqueu \"Soc el remitent\" i seleccioneu un punt d'accés per connectar-vos.
 No tanqueu la pàgina fins que s'hagi establert la connexió."</string>
     <string name="waiting">Un moment…</string>
     <string name="wifi_title">Configuració de la Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
     <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
