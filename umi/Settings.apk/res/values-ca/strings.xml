@@ -4284,7 +4284,7 @@ No podeu revertir aquesta acció."</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Zona central</string>
     <string name="miheadet_up_music">Pista anterior</string>
-    <string name="miheadset_Box">Caixa</string>
+    <string name="miheadset_Box">Estoig</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
@@ -8148,7 +8148,7 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_assistant_auto_confirm_data_message">"Utilitza xarxes de dades mòbils quan el dispositiu no es pugui connectar a Internet mitjançant la Wi-Fi."</string>
     <string name="wifi_assistant_confirm_always">"No m'ho tornis a preguntar"</string>
     <string name="wifi_assistant_confirm_connection_title">"No es pot connectar a Internet"</string>
-    <string name="wifi_assistant_data_prompt">Avisa</string>
+    <string name="wifi_assistant_data_prompt">Mostra l\'avís d\'ús de dades</string>
     <string name="wifi_assistant_data_prompt_summary">Mostra l\'advertència d\'ús de dades en canviar a dades mòbils</string>
     <string name="wifi_assistant_description">"Així és com funciona aquesta funció:
 1. Quan la connexió Wi-Fi és deficient, el dispositiu intentarà connectar-se automàticament a altres xarxes Wi-Fi disponibles.
@@ -8401,12 +8401,13 @@ Configurar la xarxa com a oculta no canviarà la configuració de l'encaminador.
     <string name="wifi_link_turbo_customize">Aplicacions personalitzades</string>
     <string name="wifi_link_turbo_customize_summary">Seleccioneu les aplicacions que funcionaran amb l\'assistent de la Wi-Fi segons les vostres preferències</string>
     <string name="wifi_link_turbo_list">Aplicacions</string>
+    <string name="wifi_link_turbo_mode">Mode d’augment de velocitat</string>
     <string name="wifi_link_turbo_no_app">Encara no hi ha aplicacions.</string>
     <string name="wifi_link_turbo_off">Desactivat</string>
     <string name="wifi_link_turbo_on">Activat</string>
     <string name="wifi_link_turbo_recommendation">Aplicacions recomanades</string>
     <string name="wifi_link_turbo_recommendation_summary">Rebreu recomanacions basades en les estadístiques d’ús de dades</string>
-    <string name="wifi_link_turbo_summary">Augmenta la velocitat de connexió de les aplicacions seleccionades mitjançant dades mòbils quan la connexió Wi-Fi és pobra</string>
+    <string name="wifi_link_turbo_summary">Utilitza dades mòbils per augmentar la velocitat de la connexió. L’ús d’aquesta funció pot generar tarifes addicionals de l’operador.</string>
     <string name="wifi_menu_advanced">Avançat</string>
     <string name="wifi_menu_configure">Configuració</string>
     <string name="wifi_menu_connect">Connecta a la xarxa</string>
