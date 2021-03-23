@@ -394,12 +394,12 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="notif_sending_transingsd">S\'està enviant %1$s (%2$s)…</string>
     <string name="notif_trans_auto_reconnecting_content">Si cal, podeu cancel·lar la tasca actual.</string>
     <string name="notif_trans_auto_reconnecting_title">S\'ha interromput la connexió. S\'està tornant a connectar automàticament…</string>
-    <string name="notif_trans_receiving_completed">Les dades s\'han rebut amb èxit</string>
+    <string name="notif_trans_receiving_completed">Les dades s\'han rebut correctament</string>
     <string name="notif_trans_receiving_failed">"No s'han pogut rebre les dades"</string>
-    <string name="notif_trans_sending_completed">Les dades s\'han enviat amb èxit</string>
+    <string name="notif_trans_sending_completed">Les dades s’han enviat correctament</string>
     <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
-    <string name="notif_trans_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar.</string>
-    <string name="old_soft_name">Connecta mitjançant un codi QR</string>
+    <string name="notif_trans_wait_for_reconnecting">La connexió s\'ha interromput. Connecteu-vos de nou.</string>
+    <string name="old_soft_name">Connecteu-vos mitjançant un codi QR</string>
     <string name="old_way">També podeu generar un codi QR al vostre nou dispositiu i escanejar-lo amb el vell.</string>
     <string name="page_loading">Un moment…</string>
     <string name="password">Contrasenya</string>
