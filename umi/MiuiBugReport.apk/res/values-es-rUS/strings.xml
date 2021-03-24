@@ -312,12 +312,8 @@ Envíe este código al supervisor."</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_millis">D</string>
-    <string name="fmt_time_minute">mill</string>
     <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
