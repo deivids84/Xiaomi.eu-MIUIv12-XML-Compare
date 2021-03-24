@@ -387,7 +387,11 @@ Per canviar de funcions, feu lliscar el dit cap amunt amb 3 dits i manteniu prem
     <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
     <string name="add_front_fingerprint_instruction_msg">El sensor d\'empremtes dactilars està al botó Inici del dispositiu.</string>
     <string name="add_new">Afegeix</string>
+    <string name="add_one_text_app_name_once">Podeu afegir un paquet a la vegada</string>
     <string name="add_rule">Afegeix regles</string>
+    <string name="add_text_app_name">Afegiu un paquet d\'aplicacions de prova</string>
+    <string name="add_text_app_name_here">Introduïu el nom del paquet</string>
+    <string name="add_text_app_package_name">Afegiu un paquet d\'aplicacions de prova</string>
     <string name="add_virtual_keyboard">Gestiona els teclats a la pantalla</string>
     <string name="adding_profile_owner_warning">"Si continueu, el vostre usuari serà gestionat per l'Administrador, que podrà recollir dades complementàries junt amb les vostres dades personals.
 
@@ -4288,6 +4292,7 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
+    <string name="miheadset_adaptive">Adaptatiu</string>
     <string name="miheadset_ancClosed">Desactivat</string>
     <string name="miheadset_ancHigh">Avió</string>
     <string name="miheadset_ancLow">Oficina</string>
