@@ -613,7 +613,7 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_intro_desc_9_method_3_title">3. Informeu dels problemes al QQ</string>
     <string name="trans_intro_desc_account">Heu d\'iniciar la sessió de nou als vostres comptes (per exemple, Compte Mi, Exchange, Google, etc.) en un dispositiu nou per raons de seguretat.</string>
     <string name="trans_intro_desc_gms">"A causa de l’alta probabilitat de transferències fallides causades per problemes de compatibilitat, Mi Mover no admet la transferència de dades generades per les aplicacions de Google."</string>
-    <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
+    <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix les dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
     <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
     <string name="trans_intro_desc_new">"Toqueu «Sóc un destinatari». Es generarà un codi QR."</string>
     <string name="trans_intro_desc_old">"Toqueu \"Sóc un remitent\". Escanegeu el codi QR en el nou telèfon, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i premeu \"Envia\"."</string>
