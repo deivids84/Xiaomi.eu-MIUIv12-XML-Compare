@@ -627,7 +627,7 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_intro_question_5">"%d. Per què Mi Mover em diu que no hi ha prou espai d'emmagatzematge a l'antic telèfon?"</string>
     <string name="trans_intro_question_6">"%d. Per què algunes aplicacions no es transfereixen correctament?"</string>
     <string name="trans_intro_question_7">"%d. Per què algunes aplicacions no s’inicien en el dispositiu nou?"</string>
-    <string name="trans_intro_question_8">"%d. Per què no s'ha transferit totalment l'historial de WeChat?"</string>
+    <string name="trans_intro_question_8">"%d. Per què l'historial de WeChat no es transfereix completament?"</string>
     <string name="trans_intro_question_9">"%d. Quins elements no es poden transferir?"</string>
     <string name="trans_intro_question_9_market">%d. Comentaris.</string>
     <string name="trans_intro_title">PMF</string>
@@ -638,14 +638,14 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_intro_title_new">En un telèfon nou:</string>
     <string name="trans_intro_title_old">En un telèfon antic:</string>
     <string name="trans_intro_title_private">Àlbum ocult:</string>
-    <string name="trans_main_tutor">Desplaça els contactes, l\'historial de trucades, els missatges, la disposició de la pantalla d\'inici, les aplicacions, les configuracions, etc. a un nou dispositiu</string>
+    <string name="trans_main_tutor">Mou els contactes, l\'historial de trucades, els missatges, la disposició de la pantalla d\'inici, les aplicacions, la configuració, etc. a un dispositiu nou</string>
     <string name="trans_my_device">El meu dispositiu</string>
     <string name="trans_native_no_space">"No hi ha prou espai d'emmagatzematge al dispositiu antic (%s disponible).
-Allibereu espai o només transferiu elements importants."</string>
-    <string name="trans_old_phone_low_space_msg">"Mi Mover necessita espai d'emmagatzematge per emmagatzemar les dades transferides, pero sembla que no hi ha prou espai al dispositiu antic. Allibereu espai a \"Seguretat\" o només transferiu elements importants."</string>
+Allibereu espai o només transferiu els elements importants."</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover necessita una mica d'espai d'emmagatzematge per empaquetar les dades transferides, però sembla que no hi ha prou espai disponible al dispositiu antic. Allibereu espai a \"Seguretat\" o transferiu només els elements importants."</string>
     <string name="trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_open_camera_failed_message">Reninicieu el vostre dispositiu i comproveu si Mi Mover us permet utilitzar &lt;b&gt;Càmera&lt;/b&gt;.</string>
+    <string name="trans_open_camera_failed_message">Reinicieu el dispositiu o comproveu si Mi Mover pot utilitzar la &lt;b&gt;Càmera&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"No s'ha pogut accedir a la càmera"</string>
     <string name="trans_open_location_button">Activa</string>
     <string name="trans_open_location_message">Activa els serveis d\'ubicació per obtenir el llistat de xarxes Wi-Fi disponibles.</string>
