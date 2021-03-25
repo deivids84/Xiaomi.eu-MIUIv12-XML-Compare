@@ -648,21 +648,21 @@ Allibereu espai o només transferiu els elements importants."</string>
     <string name="trans_open_camera_failed_message">Reinicieu el dispositiu o comproveu si Mi Mover pot utilitzar la &lt;b&gt;Càmera&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"No s'ha pogut accedir a la càmera"</string>
     <string name="trans_open_location_button">Activa</string>
-    <string name="trans_open_location_message">Activa els serveis d\'ubicació per obtenir el llistat de xarxes Wi-Fi disponibles.</string>
-    <string name="trans_open_location_title">Activa els serveis d\'ubicació</string>
+    <string name="trans_open_location_message">Activeu els serveis d\'ubicació per obtenir la llista de xarxes Wi-Fi disponibles.</string>
+    <string name="trans_open_location_title">Activeu els serveis d\'ubicació</string>
     <string name="trans_operate_func_one">Mètode A</string>
     <string name="trans_operate_func_two">Mètode B</string>
-    <string name="trans_operate_new_phone_tips">"Des de Configuració &gt; Configuracions addicionals &gt; Mi Mover
-Toqueu [Sóc un receptor] per crear el codi QR"</string>
-    <string name="trans_operate_old_phone_tips1">"1. Instal·leu l'aplicació Mi Mover en el dispositiu antic
-2. Obriu l'aplicació i toqueu Comença
+    <string name="trans_operate_new_phone_tips">"Aneu a Configuració &gt; Configuració addicional &gt; Mi Mover
+Toqueu [Sóc el destinatari] per crear un codi QR"</string>
+    <string name="trans_operate_old_phone_tips1">"1. Instal·leu l'aplicació Mi Mover al dispositiu antic
+2. Obriu l'aplicació i toqueu Inicia
 3. Escanegeu el codi QR amb el dispositiu antic"</string>
-    <string name="trans_operate_old_phone_tips2">"Des de Configuració &gt; Configuracions addicionals &gt; Mi Mover, Toqueu [Sóc un emissor]"</string>
-    <string name="trans_operate_reconnect_new_tips">"Espereu fins que aparegui \"S'ha interromput la connexió\" al nou telèfon.
+    <string name="trans_operate_old_phone_tips2">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover, Toqueu [Sóc el remitent]"</string>
+    <string name="trans_operate_reconnect_new_tips">"Espereu fins que el telèfon nou mostri \"S'ha interromput la connexió\".
 A continuació, toqueu \"Torna a connectar\" per crear un codi QR."</string>
-    <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui \"S'ha interromput la connexió\" a l'antic telèfon.
+    <string name="trans_operate_reconnect_old_tips">"Espereu fins que el telèfon antic mostri \"S'ha interromput la connexió\".
 A continuació, toqueu \"Torna a connectar\" per escanejar el codi QR."</string>
-    <string name="trans_operate_tip_for_other_android">Obriu Mi Mover al vostre telèfon antic, prmeu \"Inicia\" i escanegeu el codi QR a la part superior.</string>
+    <string name="trans_operate_tip_for_other_android">Obriu Mi Mover al telèfon antic, toqueu «Inicia» i escanegeu el codi QR anterior.</string>
     <string name="trans_pausing">S\'està aturant…</string>
     <string name="trans_please_waiting">Un moment…</string>
     <string name="trans_progress_subdescript_br_receiver">S\'està restaurant %1$s, %2$s completat</string>
