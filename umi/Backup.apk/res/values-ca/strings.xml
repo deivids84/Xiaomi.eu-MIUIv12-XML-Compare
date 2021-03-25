@@ -716,12 +716,12 @@ Mantingueu els dispositius a prop l'un de l'altre."</string>
     <string name="trans_success_dialog_button_market_comment">Comenta</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Valoreu Mi Mover</string>
     <string name="trans_success_dialog_button_survey">Enquesta</string>
-    <string name="trans_success_dialog_market_comment_and_survey_title">"Esteu llest! Expliqueu-nos què penseu quant al Mi Mover."</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">"Ja podeu començar! Digueu-nos que us sembla Mi Mover."</string>
     <string name="trans_success_dialog_market_comment_title">"Ara el vostre dispositiu nou es sent com a casa.
 Us ha agradat Mi Mover?"</string>
     <string name="trans_success_dialog_survey_title">Agraïm els vostres comentaris</string>
     <string name="trans_success_survey_hint">Ompliu primer tots els camps.</string>
-    <string name="trans_switching_5g">S\'està canviant a Wi-Fi de 5 Ghz…</string>
+    <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5 GHz…</string>
     <string name="trans_time_format_second">Menys d\'un minut</string>
     <string name="trans_time_spent">Temps emprat: %s</string>
     <string name="trans_wait_trans_data">"S'ha connectat al dispositiu antic.
