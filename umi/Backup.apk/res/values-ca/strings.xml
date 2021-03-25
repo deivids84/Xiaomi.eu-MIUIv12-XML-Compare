@@ -606,7 +606,7 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_intro_desc_7">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu-la a instal·lar en un dispositiu nou.</string>
     <string name="trans_intro_desc_8">"És possible que les dades de l'aplicació WeChat i l'historial de xats no es transfereixin completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu la sessió del vostre compte per obtenir més possibilitats d'una transferència correcta."</string>
     <string name="trans_intro_desc_9_method_1_dec">Aneu a la Pantalla d\'inici &gt; Eines &gt; Comentaris.</string>
-    <string name="trans_intro_desc_9_method_1_title">1. Compartiu la vostra opinió utilitzant l\'aplicació \"Comentaris\".</string>
+    <string name="trans_intro_desc_9_method_1_title">1. Compartiu els vostres comentaris utilitzant l\'aplicació \"Comentaris\".</string>
     <string name="trans_intro_desc_9_method_2_dec">Envieu els vostres comentaris a miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Envieu-nos un correu</string>
     <string name="trans_intro_desc_9_method_3_dec">"El grup Mi Mover a QQ és: 687338378"</string>
