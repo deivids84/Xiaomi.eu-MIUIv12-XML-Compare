@@ -582,9 +582,9 @@ Allibereu %s com a mínim."</string>
     <string name="trans_device_disconnected">La connexió s\'ha interromput</string>
     <string name="trans_device_wait_for_reconnecting">La connexió s\'ha interromput. Connecteu-vos de nou per continuar.</string>
     <string name="trans_dialog_survey_finish">Envia</string>
-    <string name="trans_disconnected_tips_message">S\'ha desconnectat el dispositiu remot. Torneu-lo a connectar manualment o cancel·leu la transferència.</string>
-    <string name="trans_disconnected_tips_title">S\'ha desconnectat el dispositiu remot</string>
-    <string name="trans_failed_details_page_title">Transferències sense èxit</string>
+    <string name="trans_disconnected_tips_message">Dispositiu remot desconnectat. Torneu a connectar-vos manualment o cancel·leu la transferència.</string>
+    <string name="trans_disconnected_tips_title">Dispositiu remot desconnectat</string>
+    <string name="trans_failed_details_page_title">Transferències fallides</string>
     <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
     <string name="trans_generate_qrcode_failed">"No s'ha pogut generar el codi QR. Tanqueu les altres aplicacions i proveu-ho de nou."</string>
     <string name="trans_generating_qrcode">S\'està generant el codi QR…</string>
