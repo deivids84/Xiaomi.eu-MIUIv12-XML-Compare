@@ -609,10 +609,10 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_intro_desc_9_method_1_title">1. Compartiu els vostres comentaris utilitzant l\'aplicació \"Comentaris\".</string>
     <string name="trans_intro_desc_9_method_2_dec">Envieu els vostres comentaris a miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Envieu-nos un correu</string>
-    <string name="trans_intro_desc_9_method_3_dec">"El grup Mi Mover a QQ és: 687338378"</string>
-    <string name="trans_intro_desc_9_method_3_title">3. Notifiqueu els problemes a QQ</string>
-    <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
-    <string name="trans_intro_desc_gms">"A causa de l'alta probabilitat de transferències fallides causades per problemes de compatibilitat, el Mi Mover no admet la transferència de les dades generades per les aplicacions de Google."</string>
+    <string name="trans_intro_desc_9_method_3_dec">"Grup QQ de Mi Mover: 687338378"</string>
+    <string name="trans_intro_desc_9_method_3_title">3. Informeu dels problemes al QQ</string>
+    <string name="trans_intro_desc_account">Heu d\'iniciar la sessió de nou als vostres comptes (per exemple, Compte Mi, Exchange, Google, etc.) en un dispositiu nou per raons de seguretat.</string>
+    <string name="trans_intro_desc_gms">"A causa de l’alta probabilitat de transferències fallides causades per problemes de compatibilitat, Mi Mover no admet la transferència de dades generades per les aplicacions de Google."</string>
     <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
     <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
     <string name="trans_intro_desc_new">"Toqueu «Sóc un destinatari». Es generarà un codi QR."</string>
