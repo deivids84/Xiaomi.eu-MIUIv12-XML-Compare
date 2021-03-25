@@ -676,19 +676,19 @@ A continuació, toqueu \"Torna a connectar\" per escanejar el codi QR."</string>
     <string name="trans_progress_subdescript_transingsddata_receiver">S\'estan rebent %1$s fitxers de la targeta SD, %2$s completat</string>
     <string name="trans_progress_subdescript_transingsddata_sender">S\'estan enviant %1$s fitxers de la targeta SD, %2$s completat</string>
     <string name="trans_progress_subdescript_waiting">S\'està esperant a rebre %s</string>
-    <string name="trans_receiver">"Sóc un receptor"</string>
-    <string name="trans_receiver_time_remained">"%s restant.
+    <string name="trans_receiver">"Sóc el destinatari"</string>
+    <string name="trans_receiver_time_remained">"Queden %s.
 No desactiveu el punt d'accés Wi-Fi.
-Mantingueu els dispositius propers l'un de l'altre."</string>
-    <string name="trans_receiving_completed">S\'ha rebut amb èxit</string>
+Mantingueu els dispositius a prop l'un de l'altre."</string>
+    <string name="trans_receiving_completed">S\'ha rebut correctament</string>
     <string name="trans_restoring">S\'està restaurant…</string>
     <string name="trans_restoring_no_items">S\'està obtenint la informació…</string>
-    <string name="trans_retry">Proveu de nou</string>
+    <string name="trans_retry">Torna-ho a provar</string>
     <string name="trans_scan_invalid_qrcode">El codi QR no és vàlid</string>
     <string name="trans_scan_qr_code_tips">Escanegeu el codi QR amb el dispositiu nou</string>
     <string name="trans_security_tips_message">"Algunes aplicacions no són compatibles amb Mi Mover."</string>
     <string name="trans_security_tips_title">Compatibilitat amb Mi Mover</string>
-    <string name="trans_select_data">Selecciona els elements que vols enviar</string>
+    <string name="trans_select_data">Seleccioneu els elements que voleu enviar</string>
     <string name="trans_select_data_no_space">"No hi ha prou espai d'emmagatzematge al nou dispositiu (%s disponible).
 Allibereu espai o només transferiu elements importants."</string>
     <string name="trans_select_data_tips">"Seleccioneu els elements que voleu transferir.
