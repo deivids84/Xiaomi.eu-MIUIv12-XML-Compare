@@ -567,20 +567,20 @@ Allibereu %s com a mínim."</string>
     <string name="trans_detail_category_wechat_qq">Dades de WeChat i QQ (inclòs l\'historial de xats)</string>
     <string name="trans_detail_item_app_data_selected_tip">També s\'han seleccionat les aplicacions corresponents.</string>
     <string name="trans_detail_item_app_data_skip_data">"No es poden transferir les dades de l'aplicació"</string>
-    <string name="trans_detail_item_app_data_too_large_tip">Sembla que l\'element és massa gran per transferir-lo.</string>
-    <string name="trans_detail_list_footer">"1. Podeu seleccionar les aplicacions individuals que voleu transferir.
-2. Si seleccioneu les dades de l'aplicació, també es seleccionaran les aplicacions corresponents.
-3. És possible que les dades de les aplicacions WeChat i QQ no es transfereixin a causa de problemes de compatibilitat. Podeu provar les funcions de transferència en l'aplicació."</string>
+    <string name="trans_detail_item_app_data_too_large_tip">Sembla que l’element és massa gran per transferir-lo.</string>
+    <string name="trans_detail_list_footer">"1. Podeu seleccionar les aplicacions individualment que vulgueu transferir.
+2. Si seleccioneu les dades de l'aplicació, també se seleccionaran les aplicacions corresponents.
+3. És possible que les dades de l'aplicació WeChat i QQ no es transfereixin a causa de problemes de compatibilitat. Podeu provar les funcions de transferència des de l'aplicació."</string>
     <string name="trans_detail_page_tip">Com més elements seleccioneu, més temps durarà la transferència.</string>
-    <string name="trans_detail_qq_data">Dades QQ (incloent l\'historial de xat)</string>
+    <string name="trans_detail_qq_data">Dades de QQ (inclòs l\'historial de xats)</string>
     <string name="trans_detail_sys_data_list_title">Aplicacions del sistema</string>
     <string name="trans_detail_sys_data_page_title">Seleccioneu les aplicacions del sistema</string>
-    <string name="trans_detail_wechat_data">Dades WeChat (incloent l\'historial de xat)</string>
+    <string name="trans_detail_wechat_data">Dades de WeChat (inclòs l\'historial de xats)</string>
     <string name="trans_detail_wechat_qq_list_title">WeChat i QQ</string>
     <string name="trans_detail_wechat_qq_page_title">Seleccioneu WeChat, QQ i dades de l\'aplicació</string>
     <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
-    <string name="trans_device_disconnected">S\'ha interromput la connexió</string>
-    <string name="trans_device_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar per continuar.</string>
+    <string name="trans_device_disconnected">La connexió s\'ha interromput</string>
+    <string name="trans_device_wait_for_reconnecting">La connexió s\'ha interromput. Connecteu-vos de nou per continuar.</string>
     <string name="trans_dialog_survey_finish">Envia</string>
     <string name="trans_disconnected_tips_message">S\'ha desconnectat el dispositiu remot. Torneu-lo a connectar manualment o cancel·leu la transferència.</string>
     <string name="trans_disconnected_tips_title">S\'ha desconnectat el dispositiu remot</string>
