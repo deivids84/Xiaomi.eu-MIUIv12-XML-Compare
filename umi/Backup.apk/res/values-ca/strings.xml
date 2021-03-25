@@ -689,29 +689,29 @@ Mantingueu els dispositius a prop l'un de l'altre."</string>
     <string name="trans_security_tips_message">"Algunes aplicacions no són compatibles amb Mi Mover."</string>
     <string name="trans_security_tips_title">Compatibilitat amb Mi Mover</string>
     <string name="trans_select_data">Seleccioneu els elements que voleu enviar</string>
-    <string name="trans_select_data_no_space">"No hi ha prou espai d'emmagatzematge al nou dispositiu (%s disponible).
-Allibereu espai o només transferiu elements importants."</string>
+    <string name="trans_select_data_no_space">"No hi ha prou espai d'emmagatzematge al dispositiu nou (%s disponible).
+Allibereu espai d’emmagatzematge o transferiu només els elements importants."</string>
     <string name="trans_select_data_tips">"Seleccioneu els elements que voleu transferir.
-Es sobreescriuran els elements similars en el nou dispositiu.
-(La mida dels elements transferits que veieu ara és una estimació aproximada.)"</string>
+Se sobreescriuran els elements similars al nou dispositiu.
+(La mida dels elements transferits que veieu ara és aproximada.)"</string>
     <string name="trans_select_data_too_large">"Heu seleccionat massa elements per transferir.
-Seleccioneu només elements importants per fer la transferència més ràpida."</string>
+Seleccioneu només els elements importants per fer la transferència més ràpida."</string>
     <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre les dades.</string>
     <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
-    <string name="trans_select_notification_message">Toqueu per mostrar-ho</string>
+    <string name="trans_select_notification_message">Toqueu per veure-ho</string>
     <string name="trans_select_notification_title">Mi Mover està treballant…</string>
-    <string name="trans_sender">"Sóc un emissor"</string>
-    <string name="trans_sender_connectting">Confirma-ho en el dispositiu nou</string>
+    <string name="trans_sender">"Sóc el remitent"</string>
+    <string name="trans_sender_connectting">Confirmeu-ho en el dispositiu nou</string>
     <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
     <string name="trans_sender_searching_ensurance">"Assegureu-vos que el dispositiu antic està activat
 S'està esperant que el dispositiu antic es connecti…"</string>
-    <string name="trans_sender_time_remained">"%s restant.
-No desactiveu el Wi-Fi.
-Mantingueu els dispositius propers l'un de l'altre."</string>
-    <string name="trans_sending_completed">S\'ha enviat amb èxit</string>
+    <string name="trans_sender_time_remained">"Queden %s.
+No desactiveu la Wi-Fi.
+Mantingueu els dispositius a prop l'un de l'altre."</string>
+    <string name="trans_sending_completed">S\'ha enviat correctament</string>
     <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
-    <string name="trans_show_qr_code_tips">Escaneja el codi QR utilitzant el dispositiu antic</string>
-    <string name="trans_start_failed_message">"No s'ha pogut iniciar la transferència, proveu-ho de nou o reinicieu el dispositiu."</string>
+    <string name="trans_show_qr_code_tips">Escanegeu el codi QR utilitzant el dispositiu antic</string>
+    <string name="trans_start_failed_message">"No s'ha pogut iniciar la transferència, torneu-ho a provar o reinicieu el dispositiu."</string>
     <string name="trans_start_failed_title">"No s'ha pogut iniciar la transferència"</string>
     <string name="trans_success_dialog_button_market_comment">Comenta</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Valoreu Mi Mover</string>
