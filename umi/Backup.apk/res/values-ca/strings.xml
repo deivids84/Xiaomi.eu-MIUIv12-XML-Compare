@@ -626,7 +626,7 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_intro_question_4">"%d. Per què no puc utilitzar la Wi-Fi durant les transferències?"</string>
     <string name="trans_intro_question_5">"%d. Per què Mi Mover em diu que no hi ha prou espai d'emmagatzematge a l'antic telèfon?"</string>
     <string name="trans_intro_question_6">"%d. Per què algunes aplicacions no es transfereixen correctament?"</string>
-    <string name="trans_intro_question_7">"%d. Per què algunes aplicacions no s’inicien en un dispositiu nou?"</string>
+    <string name="trans_intro_question_7">"%d. Per què algunes aplicacions no s’inicien en el dispositiu nou?"</string>
     <string name="trans_intro_question_8">"%d. Per què no s'ha transferit totalment l'historial de WeChat?"</string>
     <string name="trans_intro_question_9">"%d. Quins elements no es poden transferir?"</string>
     <string name="trans_intro_question_9_market">%d. Comentaris.</string>
