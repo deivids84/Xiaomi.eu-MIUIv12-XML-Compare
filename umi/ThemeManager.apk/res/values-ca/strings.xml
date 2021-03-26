@@ -800,7 +800,7 @@ mm"</string>
     <string name="resource_search_color_hint_red">Vermell</string>
     <string name="resource_search_color_hint_yellow">Groc</string>
     <string name="resource_search_list_empty">"No s'ha trobat res."</string>
-    <string name="resource_see_more">Mostrar tots</string>
+    <string name="resource_see_more">Mostrar-ho tot</string>
     <string name="resource_select">Selecciona</string>
     <string name="resource_select_alarm_audio_confirm">Voleu seleccionar aquest so de notificació?</string>
     <string name="resource_select_audio_confirm_picker">Voleu seleccionar aquest so?</string>
