@@ -57,7 +57,7 @@
     <string name="controls_dismiss_dialog_title">Dispositius domèstics intel·ligents</string>
     <string name="controls_dismiss_dialog_title_international">Elimina la targeta</string>
     <string name="controls_edit_panel_not_added_title">Dispositius disponibles</string>
-    <string name="controls_edit_panel_save_button">Amb èxit</string>
+    <string name="controls_edit_panel_save_button">Fet</string>
     <string name="controls_edit_panel_subtitle">Arrossegueu els elements per reordenar-los</string>
     <string name="controls_edit_panel_title">Dispositius afegits</string>
     <string name="controls_error_failed">S\'ha produït un error, torneu-ho a intentar</string>
