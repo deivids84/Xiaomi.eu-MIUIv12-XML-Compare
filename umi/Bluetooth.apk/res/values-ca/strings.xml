@@ -46,10 +46,10 @@
     <string name="bluetooth_map_remote_message_access_feature_downgrade">Reverteix les funcions d\'accés a missatges remots</string>
     <string name="bluetooth_map_repair_for_adv_message_access_feature">Vinculeu de nou per utilitzar les funcions avançades d’accés a missatges</string>
     <string name="bluetooth_map_repair_for_message_access_version_comp">Vinculeu de nou per garantir la compatibilitat de la versió d\'accés a missatges</string>
-    <string name="bluetooth_map_settings_app_icon">Icona d\'aplicació</string>
+    <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
     <string name="bluetooth_map_settings_cancel">Cancel·la</string>
-    <string name="bluetooth_map_settings_count">Espais que queden:</string>
-    <string name="bluetooth_map_settings_intro">Selecciona els comptes que vulguis compartir mitjançant el Bluetooth. Cal que acceptis l\'accés als comptes en connectar-t\'hi.</string>
+    <string name="bluetooth_map_settings_count">Espais lliures:</string>
+    <string name="bluetooth_map_settings_intro">Seleccioneu els comptes que vulgueu compartir per Bluetooth. Cal que accepteu l\'accés als comptes en connectar-hi.</string>
     <string name="bluetooth_map_settings_no_account_slots_left">No es pot seleccionar el compte. No queda cap espai.</string>
     <string name="bluetooth_map_settings_save">Desa</string>
     <string name="bluetooth_map_settings_title">Configuració per compartir missatges mitjançant el Bluetooth</string>
