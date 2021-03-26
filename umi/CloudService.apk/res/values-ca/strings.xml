@@ -616,7 +616,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="share_sdk_member_info_title">Informació del membre</string>
     <string name="share_sdk_normal_invite_success_btn_text">D\'acord</string>
     <string name="share_sdk_normal_invite_success_title">S\'ha enviat la invitació</string>
-    <string name="share_sdk_operation_success">Amb èxit</string>
+    <string name="share_sdk_operation_success">Fet</string>
     <string name="share_sdk_permission_checked_error">Seleccioneu 1 element com a mínim</string>
     <string name="share_sdk_pref_category_family_detail">Propietats</string>
     <string name="share_sdk_pref_category_member_title">Seleccioneu membres</string>
