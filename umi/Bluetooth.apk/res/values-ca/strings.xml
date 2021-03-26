@@ -96,12 +96,12 @@
     <string name="download_line3">Mida del fitxer: %1$s</string>
     <string name="download_line5">S\'està rebent el fitxer…</string>
     <string name="download_ok">Amaga</string>
-    <string name="download_succ_line5">S\'ha rebut el fitxer</string>
+    <string name="download_succ_line5">Fitxer rebut</string>
     <string name="download_succ_ok">Obre</string>
-    <string name="download_success">Recepció completada (%1$s)</string>
+    <string name="download_success">Recepció de %1$s completada.</string>
     <string name="download_title">Transferència de fitxers</string>
     <string name="early_morning">Matí</string>
-    <string name="enabling_progress_content">S\'està activant el Bluetooth...</string>
+    <string name="enabling_progress_content">S\'està activant el Bluetooth…</string>
     <string name="enabling_progress_title">Espereu…</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
