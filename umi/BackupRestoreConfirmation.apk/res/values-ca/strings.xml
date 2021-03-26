@@ -23,5 +23,5 @@ Si no heu sol·licitat aquesta restauració, no permeteu aquesta operació. Aix�
     <string name="toast_backup_started">S\'està iniciant la còpia de seguretat...</string>
     <string name="toast_restore_ended">La restauració ha finalitzat</string>
     <string name="toast_restore_started">S\'està iniciant la restauració...</string>
-    <string name="toast_timeout">S\'ha esgotat el temps de connexió de l\'operació.</string>
+    <string name="toast_timeout">Temps d\'operació esgotat</string>
 </resources>
