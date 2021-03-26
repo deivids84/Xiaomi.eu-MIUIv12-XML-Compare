@@ -343,7 +343,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="text_select_nothing">Desselecciona-ho tot</string>
     <string name="tip_shortcut_added_success">S\'ha creat amb èxit</string>
     <string name="tip_shortcut_already_added">La drecera de la pantalla d’inici ja existeix</string>
-    <string name="transfer_done">Amb èxit</string>
+    <string name="transfer_done">Fet</string>
     <string name="transport_end_button">Edita\'l</string>
     <string name="transport_title">Transferències</string>
     <string name="unlock_password_dialog_msg">S\'utilitzarà una contrasenya de protecció de privadesa. Funciona per a fotos, notes i fitxers.</string>
