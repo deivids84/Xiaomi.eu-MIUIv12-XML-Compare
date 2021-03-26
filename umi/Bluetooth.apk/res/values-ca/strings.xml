@@ -53,8 +53,8 @@
     <string name="bluetooth_map_settings_no_account_slots_left">No es pot seleccionar el compte. No queda cap espai.</string>
     <string name="bluetooth_map_settings_save">Desa</string>
     <string name="bluetooth_map_settings_title">Configuració per compartir missatges mitjançant el Bluetooth</string>
-    <string name="bluetooth_opp_file_limit_exceeded">No es poden transferir fitxers més grans de 4 GB</string>
-    <string name="bluetooth_rc_feat_content">L\'emparellat suporta característiques avançades</string>
+    <string name="bluetooth_opp_file_limit_exceeded">No es poden transferir els fitxers més grans de 4 GB</string>
+    <string name="bluetooth_rc_feat_content">La vinculació suporta característiques avançades</string>
     <string name="bluetooth_rc_feat_subtext">Emparelleu de nou per activar-ho</string>
     <string name="bluetooth_rc_feat_title">Navegació de mitjans de Bluetooth</string>
     <string name="bluetooth_sap_notif_disconnect_button">Desconnecta</string>
@@ -94,7 +94,7 @@
     <string name="download_line1">De: \"%1$s\"</string>
     <string name="download_line2">Fitxer: %1$s</string>
     <string name="download_line3">Mida del fitxer: %1$s</string>
-    <string name="download_line5">S\'està rebent un fitxer...</string>
+    <string name="download_line5">S\'està rebent el fitxer…</string>
     <string name="download_ok">Amaga</string>
     <string name="download_succ_line5">S\'ha rebut el fitxer</string>
     <string name="download_succ_ok">Obre</string>
