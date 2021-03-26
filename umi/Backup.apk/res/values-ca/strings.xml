@@ -726,27 +726,28 @@ Us ha agradat Mi Mover?"</string>
     <string name="trans_time_spent">Temps emprat: %s</string>
     <string name="trans_wait_trans_data">"S'ha connectat al dispositiu antic.
 S'està esperant la transferència…"</string>
-    <string name="trans_waiting_ensurance">"\"Assegureu-vos que el dispositiu antic està activat i s'ha activat Mi Mover\""</string>
+    <string name="trans_waiting_ensurance">"Assegureu-vos que el dispositiu antic està activat
+i s'ha activat Mi Mover"</string>
     <string name="trans_waiting_for_sender">S\'està esperant que el dispositiu antic es connecti…</string>
-    <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir dades."</string>
+    <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir les dades."</string>
     <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
     <string name="unit_byte">B</string>
     <string name="unknown_hint">Desconeguda</string>
-    <string name="usb_backup_select_data_too_large">"Els fitexrs seleccionats són massa grans. Assegureu-vos que la unitat USB té prou espai d'emmagatzematge.
-Només transferiu elements importants."</string>
-    <string name="usb_restore_select_data_too_large">"Els fitxers a copiar són grans. Podria trigar una mica a restaurar-los.
-Restaurar només els elements importants seria més ràpid."</string>
-    <string name="usb_trans_native_no_space">"Només %s disponibles al vostre dispositiu.
-Allibereu espai o realitzeu múltiples transferències més petites."</string>
-    <string name="usb_trans_old_phone_low_space_msg">"Es requereix emmagatzematge addicional per crear les copies. No hi ha prou espai d'emmagatzematge per continuar la transferència. Podeu alliberar espai i eliminar fitxers innecessaris a Seguretat o intentant transferir només fitxers importants."</string>
+    <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB tingui prou espai d'emmagatzematge.
+Transferiu només els elements importants."</string>
+    <string name="usb_restore_select_data_too_large">"Els fitxers de la còpia de seguretat són grans. Pot trigar una estona a restaurar-los.
+Restaurar només els elements importants serà més ràpid."</string>
+    <string name="usb_trans_native_no_space">"Només hi ha %s disponible al dispositiu.
+Allibereu espai o feu diverses transferències més petites."</string>
+    <string name="usb_trans_old_phone_low_space_msg">"Cal emmagatzematge addicional per empaquetar les còpies de seguretat. No hi ha prou espai d'emmagatzematge per continuar la transferència. Podeu alliberar espai i suprimir fitxers innecessaris a Seguretat o provar de transferir només els elements importants."</string>
     <string name="usb_trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
-    <string name="usb_trans_select_data_no_space">"Només %s disponibles a la vostra unitat USB.
+    <string name="usb_trans_select_data_no_space">"Només hi ha %s disponibles a la unitat USB.
 Allibereu espai o transferiu només els elements importants."</string>
     <string name="user_feedback">Comentaris</string>
     <string name="user_name">ID d\'Apple o correu</string>
     <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
     <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
-    <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
+    <string name="user_notice_message">Algunes funcions requereixen connexió a Internet per funcionar amb normalitat.</string>
     <string name="user_notice_title">Atenció</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
