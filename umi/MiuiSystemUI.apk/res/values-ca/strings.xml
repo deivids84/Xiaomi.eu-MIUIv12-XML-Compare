@@ -804,7 +804,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="forget_password_string">Contrasenya oblidada</string>
     <string name="fs_gesture_back_home_summary">Llisqueu des de baix ràpidament</string>
     <string name="fs_gesture_back_ready_title">Anar enrere</string>
-    <string name="fs_gesture_final_over">"Finalitza"</string>
+    <string name="fs_gesture_final_over">"He acabat"</string>
     <string name="fs_gesture_final_restart">Torna a estudiar</string>
     <string name="fs_gesture_final_summary">Podeu tornar a utilitzar els botons a Configuració &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">"Ja podeu començar!"</string>
