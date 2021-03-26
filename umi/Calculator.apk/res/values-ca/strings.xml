@@ -109,7 +109,7 @@
     <string name="day">dia</string>
     <string name="degDesc">Angle</string>
     <string name="del">SUPR</string>
-    <string name="deleteDesc">elimina</string>
+    <string name="deleteDesc">suprimeix</string>
     <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'impostos. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
     <string name="description_title">Quant a la Calculadora</string>
     <string name="deselect_all">Desselecciona</string>
