@@ -84,7 +84,7 @@
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="defaultname">Equip per a l\'automòbil</string>
-    <string name="deleteAll_record">Suprimeix tots els registres</string>
+    <string name="deleteAll_record">Suprimeix tot el registre</string>
     <string name="delete_record">Suprimeix el registre</string>
     <string name="download_cancel">Atura</string>
     <string name="download_fail_line1">No s\'ha rebut el fitxer</string>
