@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navega a l\'inici</string>
-    <string name="abc_action_bar_up_description">Ves cap amunt</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més</string>
     <string name="abc_action_mode_done">Fet</string>
     <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
@@ -930,7 +930,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="msn_privacy_content">Per al contingut desenvolupat per Microsoft News</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="must_play">Essencials</string>
-    <string name="mw_abc_action_bar_home_description">Navega a la pàgina d\'inici</string>
+    <string name="mw_abc_action_bar_home_description">Navega a l\'inici</string>
     <string name="mw_abc_action_bar_up_description">Navega cap amunt</string>
     <string name="mw_abc_action_menu_overflow_description">Més opcions</string>
     <string name="mw_abc_action_mode_done">Fet</string>
