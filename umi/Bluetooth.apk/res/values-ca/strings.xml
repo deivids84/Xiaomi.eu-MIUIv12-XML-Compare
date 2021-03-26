@@ -32,8 +32,8 @@
     <string name="ack_record">Registre de notificacions</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
-    <string name="airplane_error_msg">"No pots utilitzar el Bluetooth en mode d'avió."</string>
-    <string name="airplane_error_title">Mode d\'avió</string>
+    <string name="airplane_error_msg">"No es pot utilitzar el Bluetooth en Mode avió."</string>
+    <string name="airplane_error_title">Mode Avió</string>
     <string name="am">AM</string>
     <string name="auth_notif_message">Introduïu la clau de sessió per a %1$s</string>
     <string name="auth_notif_ticker">Sol·licitud d\'autenticació Obex</string>
