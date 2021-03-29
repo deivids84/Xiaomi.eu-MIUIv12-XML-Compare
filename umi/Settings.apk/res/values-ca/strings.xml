@@ -4191,6 +4191,8 @@ No podeu revertir aquesta acció."</string>
     <string name="max_fingerprint_number_reached">"Només es permeten 5 emprentes. Per afegir-n'en una altra, primer n'heu d'esborrar una."</string>
     <string name="max_fingerprint_reached_toast">Podeu afegir fins a 5 empremtes</string>
     <string name="maximum_memory_use">Ús màxim de la memòria</string>
+    <string name="mechanical_ime">Teclat mecànic</string>
+    <string name="mechanical_ime_hint">Només és compatible amb el teclat personalitzat per a Xiaomi</string>
     <string name="media_button">Botó multimèdia</string>
     <string name="media_category">Multimèdia</string>
     <string name="media_feedback_enable_title">Vibra amb el ritme</string>
@@ -8785,6 +8787,8 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="xiaomi_cloud_service_disabled">Desactivat</string>
     <string name="xiaomi_cloud_service_unknown">Desconegut</string>
     <string name="xiaomi_custom_input_method">Personalitzat per a Xiaomi</string>
+    <string name="xiaomi_hp_location">habilita una ubicació altament precisa</string>
+    <string name="xiaomi_hp_location_description">millora la precisió GNSS accedint a una xarxa d’alta precisió</string>
     <string name="xiaomi_money_service">Les meves monedes</string>
     <string name="xiaomi_router_available_notif_summary">Toqueu per veure més informació.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
