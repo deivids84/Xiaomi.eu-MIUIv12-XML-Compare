@@ -48,9 +48,9 @@
     <string name="bmi_label_underweight">Infrapès</string>
     <string name="bmi_normal">Normal</string>
     <string name="bmi_over_weight">Sobrepès</string>
-    <string name="bmi_underweight">Infraponderat</string>
-    <string name="btn_float_window_alpha">Ajusteu l\'opacitat</string>
-    <string name="btn_float_window_back_to_app">Maximitzeu la Calculadora</string>
+    <string name="bmi_underweight">Infrapès</string>
+    <string name="btn_float_window_alpha">Ajusta l’opacitat</string>
+    <string name="btn_float_window_back_to_app">Maximitza la Calculadora</string>
     <string name="btn_float_window_close">Tanqueu la Calculadora minimitzada</string>
     <string name="btn_float_window_resize">Redimensioneu la calculadora minimitzada</string>
     <string name="cal_convert_to_word_figure">Converteix a caràcters financers</string>
