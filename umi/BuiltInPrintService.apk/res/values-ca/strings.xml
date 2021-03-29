@@ -5,8 +5,8 @@
     <string name="add_named">Afegeix %1$s</string>
     <string name="add_printer_by_ip">Afegeix la impressora per adreça IP</string>
     <string name="app_name">Servei d\'impressió del sistema</string>
-    <string name="certificate_update_request">Aquesta impressora proporciona un nou certificat de seguretat o bé un altre dispositiu que la substitueix. Voleu acceptar el nou certificat?</string>
-    <string name="connect_hint_text">"És possible que hàgiu d’aprovar aquesta connexió al plafó frontal de la impressora"</string>
+    <string name="certificate_update_request">Aquesta impressora ha proporcionat un certificat de seguretat nou o un altre dispositiu l\'està suplantant. Voleu acceptar el nou certificat?</string>
+    <string name="connect_hint_text">"És possible que hàgiu d'aprovar aquesta connexió al tauler frontal de la impressora"</string>
     <string name="connecting_to">S\'està connectant a %1$s</string>
     <string name="connections">Connexions</string>
     <string name="connects_via_network">Es connecta mitjançant la xarxa actual a %1$s</string>
