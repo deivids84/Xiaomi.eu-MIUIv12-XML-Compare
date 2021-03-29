@@ -363,6 +363,8 @@
     <string name="reg_error_server">S\'ha produït un error en el servidor. Informeu-nos i torneu-ho a provar.</string>
     <string name="reg_error_upload_audio">"No s'ha pogut pujar el fitxer, torneu-ho a provar."</string>
     <string name="reg_error_upload_order">"No s'ha pogut pujar, torneu-ho a provar."</string>
+    <string name="remove_icon_description_content">"La Gravadora és una aplicació del sistema. No podreu gestionar els enregistraments després d’eliminar la drecera de la pantalla d’inici."</string>
+    <string name="remove_icon_description_title">Voleu suprimir la \"Gravadora\" de la pantalla d\'inici?</string>
     <string name="rename">Canvia el nom</string>
     <string name="rename_dialog_title">Canvi de nom de la gravació</string>
     <string name="rename_duplicate">Ja existeix una gravació amb aquest nom.</string>
