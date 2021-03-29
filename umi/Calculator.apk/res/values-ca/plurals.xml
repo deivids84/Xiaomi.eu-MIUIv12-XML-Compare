@@ -85,7 +85,7 @@
         <item quantity="one">Amortització detallada (%d any)</item>
     </plurals>
     <plurals name="loan_repayment_detail_unit">
-        <item quantity="other">Amortització detallada (%d anys). CNY</item>
+        <item quantity="other">Amortització detallada (%d anys), CNY</item>
         <item quantity="one">Amortització detallada (%d any), CNY</item>
     </plurals>
     <plurals name="mortgage_summary_years">
