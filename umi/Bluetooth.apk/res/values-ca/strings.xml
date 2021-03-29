@@ -339,7 +339,7 @@
     <string name="the_tw_youth_day">Dia de la Joventut</string>
     <string name="the_united_nations_day">Dia de les Nacions Unides</string>
     <string name="the_valentines_day">"Sant Valentí"</string>
-    <string name="the_water_lantern_festival">Festa dels fanals d\'aigua</string>
+    <string name="the_water_lantern_festival">Festa dels Fanalets d\'aigua</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
@@ -347,9 +347,9 @@
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="transfer_clear_dlg_msg">S\'esborraran tots els elements de la llista.</string>
-    <string name="transfer_clear_dlg_title">Esborra</string>
+    <string name="transfer_clear_dlg_title">Neteja</string>
     <string name="transfer_menu_clear">Esborra de la llista</string>
-    <string name="transfer_menu_clear_all">Esborra la llista</string>
+    <string name="transfer_menu_clear_all">Neteja la llista</string>
     <string name="transfer_menu_open">Obre</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
@@ -366,10 +366,10 @@
     <string name="upload_fail_line1_2">Fitxer: %1$s</string>
     <string name="upload_line1">Per a: \"%1$s\"</string>
     <string name="upload_line3">Tipus de fitxer: %1$s (%2$s)</string>
-    <string name="upload_line5">S\'està enviant el fitxer...</string>
-    <string name="upload_succ_line5">S\'ha enviat el fitxer</string>
+    <string name="upload_line5">S\'està enviant el fitxer…</string>
+    <string name="upload_succ_line5">Fitxer enviat</string>
     <string name="upload_succ_ok">D\'acord</string>
-    <string name="upload_success">%1$s: enviament complet.</string>
+    <string name="upload_success">Enviament de %1$s completat.</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
