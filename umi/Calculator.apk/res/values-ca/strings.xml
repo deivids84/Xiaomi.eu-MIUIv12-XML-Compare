@@ -26,9 +26,9 @@
     <string name="abc_searchview_description_voice">Cerca per veu</string>
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
-    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="action_mode_select_all">Selecciona-ho tot</string>
-    <string name="age_label_add_to_calendar">Afegeix al calendari</string>
+    <string name="age_label_add_to_calendar">Afegeix al Calendari</string>
     <string name="age_label_dob">Data de naixement</string>
     <string name="age_label_hours">Hores</string>
     <string name="age_label_minutes">Minuts</string>
@@ -41,7 +41,7 @@
     <string name="app_name">Calculadora</string>
     <string name="app_notification_info">La calculadora està funcionant en segon pla</string>
     <string name="base_rate">Base del tipus d\'interès</string>
-    <string name="bmi_error_text">"Aquest IMC no sembla correcte. Assegura't que l'alçada i el pes que has introduït són correctes."</string>
+    <string name="bmi_error_text">"Aquest IMC no sembla correcte. Assegureu-vos que l'alçada i el pes que heu introduït són correctes."</string>
     <string name="bmi_label_information">Informació</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Sobrepès</string>
