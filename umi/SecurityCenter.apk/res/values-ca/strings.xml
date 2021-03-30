@@ -856,6 +856,13 @@ No perdreu cap dada d'aplicació."</string>
     <string name="cd_back">Enrere</string>
     <string name="cellular_data_auto_check">Comproveu automàticament</string>
     <string name="cellular_package_daily_input">Retorn</string>
+    <string name="cetus_invisible_mode">Incògnit</string>
+    <string name="cetus_invisible_mode_description_card">Suspèn els permisos</string>
+    <string name="cetus_invisible_mode_description_switch">Activa la suspensió dels permisos de micròfon, càmera i ubicació de totes les aplicacions</string>
+    <string name="cetus_invisible_mode_warn_all">"Esteu d’incògnit. Els permisos de micròfon, càmera i ubicació estan suspesos."</string>
+    <string name="cetus_invisible_mode_warn_camera">"Esteu d’incògnit. Els permisos de la càmera estan suspesos."</string>
+    <string name="cetus_invisible_mode_warn_location">"Esteu d’incògnit. Els permisos d'ubicació estan suspesos."</string>
+    <string name="cetus_invisible_mode_warn_record_audio">"Esteu d’incògnit. Els permisos de micròfon estan suspesos."</string>
     <string name="charger_detect_button_ok">D\'acord</string>
     <string name="charger_detect_info1">Comproveu si l\'adaptador d\'alimentació i el cable estan correctament connectats.</string>
     <string name="charger_detect_info2">"La càrrega també pot disminuir si utilitzeu cables i adaptadors d’alimentació antics o no estàndard."</string>
@@ -2702,6 +2709,11 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_list_item_set_lockscreen_time_summary">Bloquejar el dispositiu més ràpidament estalvia bateria</string>
     <string name="power_center_list_item_wake_notification">"No encenguis la pantalla per les notificacions"</string>
     <string name="power_center_list_item_wake_notification_summary">Les notificacions entrants només es mostraran quan activeu la pantalla</string>
+    <string name="power_center_night_charge_noti_subtitle">La bateria es carregarà completament en %s</string>
+    <string name="power_center_night_charge_noti_title">La càrrega optimitzada està activada</string>
+    <string name="power_center_night_charge_protection">Càrrega optimitzada</string>
+    <string name="power_center_night_charge_protection_setting">Vegeu més opcions a Seguretat &gt; Bateria.</string>
+    <string name="power_center_night_charge_protection_summary">Per reduir l\'envelliment de la bateria, MIUI aprèn de la rutina diària de càrrega per tal de reduir la càrrega contínua innecessària</string>
     <string name="power_center_one_key_save">Optimitza</string>
     <string name="power_center_ontime_boot">Hora d\'encesa</string>
     <string name="power_center_ontime_shutdown">Hora de l\'apagat</string>
@@ -2741,6 +2753,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_consume_rank_title">Ús de bateria</string>
     <string name="power_consume_software_total_format">Aplicacions: %s</string>
     <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
+    <string name="power_dailog_night_charge_protection_done">Entesos</string>
+    <string name="power_dailog_night_charge_protection_summary">Sembla que la bateria està carregada completament la major part del temps, cosa que pot accelerar el seu envelliment. MIUI ha activat la càrrega optimitzada per evitar aquests problemes.</string>
     <string name="power_dialog_cancel">Cancel·la</string>
     <string name="power_dialog_ok">D\'acord</string>
     <string name="power_dialog_super_save_msg">"L’estalvi de bateria ultra restringeix la majoria de funcions que consumeixen energia i disminueixen el rendiment del dispositiu per tal de deixar les funcions bàsiques (per exemple, trucades, SMS i connexió a la xarxa) disponibles el màxim temps possible. Voleu activar l'estalvi de bateria ultra?"</string>
@@ -3735,6 +3749,12 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="storage_available_total_size">%1$s de %2$s disponibles</string>
     <string name="storage_available_total_size1">Ocupat: %1$s | Total: %2$s</string>
     <string name="storage_category_title">Opcions addicionals</string>
+    <string name="storage_clear_available_total_size">%1$s/%3$s ocupades | %2$s disponibles</string>
+    <string name="storage_clear_cache">Allibera %s</string>
+    <string name="storage_clear_cache_deep">Allibera emmagatzematge</string>
+    <string name="storage_clear_cache_large">Allibera %s</string>
+    <string name="storage_clear_more_tools">Més eines de neteja</string>
+    <string name="storage_clear_video">Esborra la memòria cau de vídeo</string>
     <string name="storage_deepclean_entry">Neteja a fons</string>
     <string name="storage_dialog_unmountable">"Això ^ 1 està danyat.
 
