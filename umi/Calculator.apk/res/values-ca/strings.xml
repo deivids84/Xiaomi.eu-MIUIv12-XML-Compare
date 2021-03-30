@@ -73,8 +73,8 @@
     <string name="common_google_play_services_enable_title">Activeu els Serveis de Google Play</string>
     <string name="common_google_play_services_install_button">Instal·la</string>
     <string name="common_google_play_services_install_text">"%1$s no s'executarà sense els Serveis de Google Play que falten al vostre dispositiu."</string>
-    <string name="common_google_play_services_install_title">Obtén Serveis de Google Play</string>
-    <string name="common_google_play_services_notification_channel_name">Disponibilitat de serveis de Google Play</string>
+    <string name="common_google_play_services_install_title">Obteniu els Serveis de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitat dels Serveis de Google Play</string>
     <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s té problemes amb Serveis de Google Play. Torna-ho a provar.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s no es pot executar sense Serveis de Google Play, que no és compatible amb el teu dispositiu."</string>
