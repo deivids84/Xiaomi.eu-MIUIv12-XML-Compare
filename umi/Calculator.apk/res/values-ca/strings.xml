@@ -72,7 +72,7 @@
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà tret que activeu els Serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activeu els Serveis de Google Play</string>
     <string name="common_google_play_services_install_button">Instal·la</string>
-    <string name="common_google_play_services_install_text">"%1$s no s'executarà si Serveis de Google Play no està instal·lat al dispositiu."</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executarà sense els Serveis de Google Play que falten al vostre dispositiu."</string>
     <string name="common_google_play_services_install_title">Obtén Serveis de Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilitat de serveis de Google Play</string>
     <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
