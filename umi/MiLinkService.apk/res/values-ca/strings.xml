@@ -74,6 +74,8 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
 2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
     <string name="dialog_scanning_device">S\'estan cercant dispositius propers…</string>
     <string name="dialog_scanning_precondition">Activeu la Wi-Fi i el Bluetooth al telèfon per utilitzar la pantalla sense fils.</string>
+    <string name="dialog_scanning_precondition_new_china">Activeu els serveis de Wi-Fi, Bluetooth i ubicació per poder emetre. Voleu activar-ho ara?</string>
+    <string name="dialog_scanning_precondition_new_global">Activeu els serveis de Wi-Fi, Bluetooth i ubicació per poder emetre. Voleu activar-ho ara?</string>
     <string name="dialog_select_tv">Seleccioneu el dispositiu (%d)</string>
     <string name="dialog_show_help">Ajuda</string>
     <string name="disconnect">Atura l\'emissió</string>
