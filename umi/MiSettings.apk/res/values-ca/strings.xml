@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="actionbar_button_up_description">Enrere</string>
+    <string name="adaptive_fps_tip">2. Aconseguiu el millor equilibri entre la suavitat i la durada de la bateria ajustant dinàmicament la freqüència de refresc.</string>
     <string name="advanced_mode">Configuració avançada</string>
     <string name="africa_introduction">"La fauna prospera a l'Àfrica, on hi ha molts dels animals més famosos del món."</string>
     <string name="african_bush_elephant">Elefant africà de sabana</string>
@@ -120,6 +121,7 @@
     <string name="class_breast_feeding">Mamífers</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="click_to_save">Toqueu \"Fet\" per establir un to de trucada general.</string>
+    <string name="close">Tanca</string>
     <string name="color_gamut">Gamma de colors</string>
     <string name="common_brushtail">Pòssum comú</string>
     <string name="common_ostrich">Estruç</string>
@@ -231,7 +233,7 @@
     <string name="fps_smooth_title">Alta</string>
     <string name="fps_standard_summary">La freqüència d’actualització estàndard estalvia bateria</string>
     <string name="fps_standard_title">Estàndard</string>
-    <string name="fps_user_tip">Aquestes animacions de demostració es reprodueixen a baixa velocitat per a la vostra referència. El rendiment real pot tenir un aspecte diferent en funció de diversos factors.</string>
+    <string name="fps_user_tip">1. Aquestes animacions de demostració es reprodueixen a baixa velocitat per a la vostra referència. El rendiment real pot semblar diferent en funció de diversos factors.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -471,6 +473,7 @@
     <string name="search_app_name">Cerca aplicacions</string>
     <string name="search_empty">No s\'ha trobat cap aplicació</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="several_days_use_time">Temps de pantalla: %2$s</string>
     <string name="short_eared_owl">Mussol emigrant</string>
     <string name="shortcut_created">Aquesta drecera ja existeix</string>
