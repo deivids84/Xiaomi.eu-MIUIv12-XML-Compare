@@ -8784,8 +8784,8 @@ Almacenamiento de credenciales desactivado."</string>
     <string name="xiaomi_cloud_service_disabled">Desactivado</string>
     <string name="xiaomi_cloud_service_unknown">Desconocido</string>
     <string name="xiaomi_custom_input_method">Personalizado para Xiaomi</string>
-    <string name="xiaomi_hp_location">permiten una ubicación de alta precisión</string>
-    <string name="xiaomi_hp_location_description">mejorar la precisión GNSS accediendo a la red de alta precisión</string>
+    <string name="xiaomi_hp_location">xiaomi_hp_location&gt;Acceso a la ubicación precisa</string>
+    <string name="xiaomi_hp_location_description">La información de ubicación precisa permite una navegación más exacta</string>
     <string name="xiaomi_money_service">Monedas Mi</string>
     <string name="xiaomi_router_available_notif_summary">Toque para ver más información.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
