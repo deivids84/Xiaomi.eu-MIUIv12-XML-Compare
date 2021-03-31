@@ -77,16 +77,16 @@
     <string name="common_google_play_services_notification_channel_name">Disponibilitat dels Serveis de Google Play</string>
     <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els Serveis de Google Play. Torneu-ho a provar.</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s no es pot executar sense Serveis de Google Play, que no és compatible amb el teu dispositiu."</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no funcionarà sense els Serveis de Google Play, que no són compatibles amb el vostre dispositiu."</string>
     <string name="common_google_play_services_update_button">Actualitza</string>
-    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes Serveis de Google Play."</string>
-    <string name="common_google_play_services_update_title">Actualitza Serveis de Google Play</string>
-    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense Serveis de Google Play, que s'està actualitzant en aquest moment."</string>
-    <string name="common_google_play_services_wear_update_text">Cal una nova versió de Serveis de Google Play. S\'actualitzarà automàticament aviat.</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà tret que actualitzeu els Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitzeu els Serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els Serveis de Google Play, que actualment s'estan actualitzant."</string>
+    <string name="common_google_play_services_wear_update_text">Cal una nova versió dels Serveis de Google Play. S\'actualitzarà pròximament.</string>
     <string name="common_open_on_phone">Obre al telèfon</string>
-    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text">Inicia la sessió</string>
     <string name="common_signin_button_text_long">Inicia la sessió amb Google</string>
-    <string name="convert_currency">Convertidor de divises</string>
+    <string name="convert_currency">Convertidor de moneda</string>
     <string name="convertion_unit">Convertidor d\'unitats</string>
     <string name="convertion_unit_area">Convertidor d\'àrees</string>
     <string name="convertion_unit_data">Convertidor de dades</string>
@@ -96,7 +96,7 @@
     <string name="convertion_unit_time">Convertidor de temps</string>
     <string name="convertion_unit_velocity">Convertidor de velocitat</string>
     <string name="convertion_unit_volume">Convertidor de volum</string>
-    <string name="convertion_unit_weight">Convertidor de pes</string>
+    <string name="convertion_unit_weight">Convertidor de massa</string>
     <string name="cosDesc">cosinus</string>
     <string name="currency_dialog_privacy_content">&lt;Data&gt;El convertidor de divises necessita connectar-se a Internet per obtenir els últims tipus de canvi de moneda. Llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta funció.&lt;/Data&gt;</string>
     <string name="currency_update_connect_to_get_data">Tipus de canvi proporcionats per Webull. Connecteu a la xarxa per obtenir l\'última informació.</string>
