@@ -98,13 +98,13 @@
     <string name="convertion_unit_volume">Convertidor de volum</string>
     <string name="convertion_unit_weight">Convertidor de massa</string>
     <string name="cosDesc">cosinus</string>
-    <string name="currency_dialog_privacy_content">&lt;Data&gt;El convertidor de divises necessita connectar-se a Internet per obtenir els últims tipus de canvi de moneda. Llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta funció.&lt;/Data&gt;</string>
-    <string name="currency_update_connect_to_get_data">Tipus de canvi proporcionats per Webull. Connecteu a la xarxa per obtenir l\'última informació.</string>
-    <string name="currency_update_support">Tipus de canvi proporcionats per Webull.</string>
-    <string name="currency_update_time_format">Els tipus de canvi els proporciona Webull (%s)</string>
-    <string name="currency_update_updating">Actualizant taxes…</string>
+    <string name="currency_dialog_privacy_content"><Data>El convertidor de divises ha de connectar-se a Internet per obtenir els últims tipus de canvi de divises. Llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i la&lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar aquesta funció.</Data></string>
+    <string name="currency_update_connect_to_get_data">Webull proporciona els tipus de canvi. Connecteu-vos a la xarxa per obtenir la informació més recent.</string>
+    <string name="currency_update_support">Webull proporciona els tipus de canvi.</string>
+    <string name="currency_update_time_format">Webull proporciona els tipus de canvi (%s)</string>
+    <string name="currency_update_updating">S\'estan actualitzant les taxes…</string>
     <string name="date_format">dd MMM yyyy</string>
-    <string name="date_time_picker_dialog_title">Definiu la data i l\'hora</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">dia</string>
     <string name="degDesc">Angle</string>
