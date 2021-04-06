@@ -40,7 +40,7 @@
     <string name="angle">graus</string>
     <string name="app_name">Calculadora</string>
     <string name="app_notification_info">La calculadora està funcionant en segon pla</string>
-    <string name="base_rate">Base del tipus d\'interès</string>
+    <string name="base_rate">Tipus d’interès base</string>
     <string name="bmi_error_text">"Aquest IMC no sembla correcte. Assegureu-vos que l'alçada i el pes que heu introduït són correctes."</string>
     <string name="bmi_label_information">Informació</string>
     <string name="bmi_label_normal">Normal</string>
