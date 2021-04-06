@@ -110,11 +110,11 @@
     <string name="degDesc">Angle</string>
     <string name="del">SUPR</string>
     <string name="deleteDesc">suprimeix</string>
-    <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'impostos. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
+    <string name="description_content">A més de les seves funcions bàsiques, la Calculadora també funciona com a convertidor multifuncional, hipoteca i calculadora d’impostos. Assegureu-vos que podeu prescindir d’aquestes funcions abans de desinstal·lar l’aplicació.</string>
     <string name="description_title">Quant a la Calculadora</string>
     <string name="deselect_all">Desselecciona</string>
     <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
-    <string name="dialog_privacy_content">&lt;Data&gt;A més de les característiques bàsiques d\'una calculadora, la nostra aplicació també conté una calculadora científica i un convertidor de múltiples usos. Algunes funcions necessiten connectar-se a Internet per treballar normalment. Heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar la Calculadora.&lt;/Data&gt;</string>
+    <string name="dialog_privacy_content"><Data>A més de les funcions bàsiques d’una calculadora, la nostra aplicació també conté una calculadora científica i un convertidor polivalent. Algunes funcions necessiten connectar-se a Internet per funcionar amb normalitat. Heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar la Calculadora.</Data></string>
     <string name="dialog_privacy_disagree_msg">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la política de privadesa de la Calculadora. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. La Calculadora ha de recopilar la informació personal necessària per proporcionar-li serveis bàsics. La retirada del consentiment a la seva Política de privadesa es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida.</string>
     <string name="dialog_privacy_revoke_btn_ok">Retira</string>
     <string name="dialog_privacy_revoke_title">Retirada del consentiment</string>
