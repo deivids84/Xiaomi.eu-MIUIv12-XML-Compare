@@ -120,7 +120,7 @@
     <string name="dialog_privacy_revoke_title">Retirada del consentiment</string>
     <string name="dialog_privacy_title">Termes i condicions</string>
     <string name="dialog_rating_desc_ask">Què us sembla la Calculadora?</string>
-    <string name="dialog_rating_desc_less">Podrieu donar-nos la vostra valoració?</string>
+    <string name="dialog_rating_desc_less">Podríeu donar-nos la vostra opinió?</string>
     <string name="dialog_rating_desc_perfect">Genial! Voleu valorar la Calculadora a la Play Store?</string>
     <string name="dialog_rating_title">Valoreu la nostra aplicació</string>
     <string name="divDesc">divideix</string>
