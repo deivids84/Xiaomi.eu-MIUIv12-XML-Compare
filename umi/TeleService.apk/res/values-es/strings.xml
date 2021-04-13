@@ -1024,6 +1024,8 @@ Selección"</string>
     <string name="force_resizable_activities_summary">Hacer que el tamaño de todas las actividades se pueda ajustar para el modo multiventana independientemente de los valores definidos</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección de diseño RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar dirección RTL para todos los idiomas</string>
+    <string name="four_point_five_switch_summary">Utilice 4.5G para mejorar la velocidad de acceso a los datos y la calidad de la voz.</string>
+    <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte canal núm</string>
     <string name="fw_change_failed">"No se ha podido cambiar el número de desvío.
 Ponte en contacto con tu operador si el problema persiste."</string>
