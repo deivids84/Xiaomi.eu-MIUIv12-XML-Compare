@@ -1224,6 +1224,11 @@ Here's what might be wrong:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Select maximum number of connected Bluetooth audio devices</string>
     <string name="bluetooth_max_connected_audio_devices_string">Maximum connected Bluetooth audio devices</string>
     <string name="bluetooth_menu_advanced">Advanced</string>
+    <string name="bluetooth_message_access_dialog_content">"An untrusted Bluetooth device, %1$s, wants to access your messages.
+
+You haven’t connected to %2$s before."</string>
+    <string name="bluetooth_message_access_dialog_title">Allow access to messages?</string>
+    <string name="bluetooth_message_access_notification_content">Untrusted device wants to access your messages. Tap for details.</string>
     <string name="bluetooth_message_move_out_of_blacklist">Unblock %1$s now?</string>
     <string name="bluetooth_mi_fast_connect">Pair compatible devices</string>
     <string name="bluetooth_mi_fast_connect_summary">Connect to nearby devices using a simplified pairing process</string>
@@ -1268,6 +1273,11 @@ Here's what might be wrong:
     <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for internet access</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s wants to access your contacts and call history. Give access to %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Don’t ask again</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"An untrusted Bluetooth device, %1$s, wants to access your contacts and call log. This includes data about incoming and outgoing calls.
+
+You haven’t connected to %2$s before."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Allow access to contacts and call log?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Untrusted device wants to access your contacts and call log. Tap for details.</string>
     <string name="bluetooth_phonebook_request">Phone book access request</string>
     <string name="bluetooth_pin_values_hint">Usually 0000 or 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Must be 16 digits</string>
@@ -3032,6 +3042,7 @@ For more details, contact your organization's admin."</string>
     <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
     <string name="fingerprint_apply_to_privacy_password">Privacy protection password</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
+    <string name="fingerprint_base_title">Fingerprint %s</string>
     <string name="fingerprint_delete_message">Do you want to delete this fingerprint?</string>
     <string name="fingerprint_delete_title">"Remove '%1$s'"</string>
     <string name="fingerprint_double_tap">Double tap fingerprint sensor</string>
@@ -3042,6 +3053,7 @@ For more details, contact your organization's admin."</string>
     <string name="fingerprint_first_open_screen_password_tittle">Fingerprint (set Lock screen password first)</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
     <string name="fingerprint_gesture_screen_title">Swipe fingerprint</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Saved as \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Enter password</string>
     <string name="fingerprint_identify_msg">Reading fingerprint…</string>
     <string name="fingerprint_identify_try_again_msg">"Couldn't read fingerprint, try again"</string>
@@ -3400,6 +3412,22 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="header_category_wireless_networks">Wireless &amp; networks</string>
     <string name="header_data_and_synchronization">Data &amp; synchronization</string>
     <string name="headset_connectiong">Connecting…</string>
+    <string name="headset_find_both">Both</string>
+    <string name="headset_find_cancel">Cancel</string>
+    <string name="headset_find_connected">Connected</string>
+    <string name="headset_find_disconnect">Not connected</string>
+    <string name="headset_find_handle_tip">Tap to play alarm</string>
+    <string name="headset_find_left">Left</string>
+    <string name="headset_find_notify_connected">Connected</string>
+    <string name="headset_find_notify_disconnect">Disconnected. Connect and try again.</string>
+    <string name="headset_find_play_warning">Looks like at least one of the earphones is in your ear. Playing the alarm now may damage your hearing. Remove the earphones from your ears before you continue.</string>
+    <string name="headset_find_playing">Playing…</string>
+    <string name="headset_find_query_play">Play</string>
+    <string name="headset_find_right">Right</string>
+    <string name="headset_find_tip">Your earphones should be nearby and connected to this device for you to find them. Playing the alarm while at least one of the earphones is in your ear may damage your hearing.</string>
+    <string name="headset_find_tip_title">Attention</string>
+    <string name="headset_find_title">Find your earphones</string>
+    <string name="headset_find_voice_warning">High volume warning</string>
     <string name="headset_notification_switch_summary">Show status on the Notification shade widget when earphones are connected</string>
     <string name="headset_notification_switch_title">Notification shade widget</string>
     <string name="headset_remove_message">Unpair device?</string>
@@ -4426,6 +4454,8 @@ You can't reverse this action."</string>
     <string name="max_fingerprint_number_reached">"Can't add more than 5 fingerprints. To add a new fingerprint, delete an existing fingerprint first."</string>
     <string name="max_fingerprint_reached_toast">You can add up to 5 fingerprints</string>
     <string name="maximum_memory_use">Maximum memory use</string>
+    <string name="mechanical_ime">Mechanical keyboard</string>
+    <string name="mechanical_ime_hint">Supported only by the keyboard customized for Xiaomi</string>
     <string name="media_button">Media button</string>
     <string name="media_category">Media</string>
     <string name="media_feedback_enable_title">Vibrate with the beat</string>
@@ -4531,9 +4561,12 @@ You can't reverse this action."</string>
     <string name="miheadset_active">Energetic</string>
     <string name="miheadset_adaptive">Adaptive</string>
     <string name="miheadset_ancClosed">Off</string>
+    <string name="miheadset_ancDepth">Deep</string>
+    <string name="miheadset_ancEquilibrium">Balanced</string>
     <string name="miheadset_ancHigh">Airplane</string>
     <string name="miheadset_ancLow">Office</string>
     <string name="miheadset_ancMedium">Daily</string>
+    <string name="miheadset_ancMild">Light</string>
     <string name="miheadset_anc_indicate">Connect and pair earphones</string>
     <string name="miheadset_audio_mode">Audio quality</string>
     <string name="miheadset_audio_mode_high">High</string>
@@ -4567,8 +4600,10 @@ You can't reverse this action."</string>
     <string name="miheadset_fitness_check_result_dialog1">Place earphones in both ears before starting the test.</string>
     <string name="miheadset_fitness_check_result_dialog2">End your current call before starting the test.</string>
     <string name="miheadset_fitness_check_result_dialog_title">Attention</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Readjust earphone</string>
     <string name="miheadset_fitness_check_result_not_ok">Bad fit</string>
     <string name="miheadset_fitness_check_result_ok">Good fit</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Readjust earphone</string>
     <string name="miheadset_fitness_check_result_summary1">This fit works great for you!</string>
     <string name="miheadset_fitness_check_result_summary2">Adjust or try a different ear tip, and test again.</string>
     <string name="miheadset_fitness_check_start">Start</string>
@@ -4579,8 +4614,8 @@ You can't reverse this action."</string>
     <string name="miheadset_game_mode">Gaming mode</string>
     <string name="miheadset_game_mode_summary">Reduce audio delay while playing games</string>
     <string name="miheadset_ignore">Unpair</string>
-    <string name="miheadset_in_ear_check">Detect ear presence</string>
-    <string name="miheadset_in_ear_check_summary">Pause and resume playback automatically as you wear or remove earphones</string>
+    <string name="miheadset_in_ear_check">In-ear detection</string>
+    <string name="miheadset_in_ear_check_summary">"Pause audio when earphones are taken out and resume automatically when they're put back in"</string>
     <string name="miheadset_key_config_ANC_list_title">Noise control</string>
     <string name="miheadset_key_config_call_ai">Voice assistant</string>
     <string name="miheadset_key_config_close">Off</string>
@@ -8274,6 +8309,7 @@ Tap the plus to add words."</string>
     <string name="voice_search_settings_title">Voice search</string>
     <string name="voice_service_preference_section_title">Voice input services</string>
     <string name="voicemail_number_not_set">&lt;Not set></string>
+    <string name="voip_assistant_settings">VoIP assistant</string>
     <string name="volte_5G_limited_text">"This also turns off your 5G connection.
 During a voice call, you can’t use the internet and some apps may not work."</string>
     <string name="volte_5G_limited_title">Turn off VoLTE?</string>
@@ -9155,6 +9191,8 @@ Looks like credential storage isn't enabled."</string>
     <string name="xiaomi_cloud_service_disabled">Off</string>
     <string name="xiaomi_cloud_service_unknown">Unknown</string>
     <string name="xiaomi_custom_input_method">Customized for Xiaomi</string>
+    <string name="xiaomi_hp_location">Precise location access</string>
+    <string name="xiaomi_hp_location_description">Precise location information allows accurate navigation</string>
     <string name="xiaomi_lanting_title">小米兰亭Pro</string>
     <string name="xiaomi_money_service">Mi Coins</string>
     <string name="xiaomi_router_available_notif_summary">Tap to view more info.</string>
