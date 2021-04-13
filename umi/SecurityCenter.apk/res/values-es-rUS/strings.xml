@@ -2745,6 +2745,16 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_center_stop_scan_title">Detener el escaneo</string>
     <string name="power_center_super_save_summary_text">Incrementa el tiempo restante hasta %1$d h y %2$d min</string>
     <string name="power_center_super_save_title_text">Ahorro de batería ultra</string>
+    <string name="power_center_super_wireless_charge">Carga inalámbrica rápida</string>
+    <string name="power_center_super_wireless_charge_dialog_positive">Continuar</string>
+    <string name="power_center_super_wireless_charge_dialog_summary">"Este modo aumenta la velocidad del ventilador del enfriador del cargador inalámbrico. Mantenga este modo activado para cargar su dispositivo más rápido, o apáguelo si cree que el ruido es demasiado fuerte."</string>
+    <string name="power_center_super_wireless_charge_dialog_summary2">Vaya a Seguridad &gt; Batería &gt; Configuración para más opciones.</string>
+    <string name="power_center_super_wireless_charge_dialog_title">Carga inalámbrica rápida</string>
+    <string name="power_center_super_wireless_charge_noti_summary">Toque para abrir Configuración</string>
+    <string name="power_center_super_wireless_charge_noti_switch">Notificar sobre carga inalámbrica rápida</string>
+    <string name="power_center_super_wireless_charge_noti_title">La carga inalámbrica rápida está activada</string>
+    <string name="power_center_super_wireless_charge_summary">"Aumente la velocidad del ventilador del enfriador del cargador inalámbrico"</string>
+    <string name="power_center_super_wireless_charge_toast_close">La carga inalámbrica rápida está desactivada</string>
     <string name="power_center_time_to_boot">Hora de encendido</string>
     <string name="power_center_time_to_shutdown">Hora de apagado</string>
     <string name="power_center_title">Batería</string>
