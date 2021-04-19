@@ -147,6 +147,8 @@
     <string name="app_name_miuiwallpaper">Fons de pantalla</string>
     <string name="app_name_screenshot">Captures de pantalla</string>
     <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
+    <string name="app_uninstall_description_content">"El Navegador és una aplicació del sistema. No podreu utilitzar els serveis de cerca i navegació web que proporciona després de desinstal·lar l'aplicació."</string>
+    <string name="app_uninstall_description_title">Voleu desinstal·lar el Navegador?</string>
     <string name="app_update_install">Preparat per instal·lar l\'actualització.</string>
     <string name="application_name">Navegador</string>
     <string name="aqi_quality_index_break">Altament perillós</string>
@@ -1794,7 +1796,6 @@ Alguns llocs no utilitzaran l'historial de navegació anterior per personalitzar
     <string name="setting">Configuració</string>
     <string name="setting_app_language">Idioma del Navegador</string>
     <string name="setting_feed_language">Idioma de la font de continguts</string>
-    <string name="setting_home_page_show_title">Pàgina d\'inici</string>
     <string name="setting_privacy_password">Defineix el patró de desbloqueig</string>
     <string name="share_image_text">Mireu què he compartit! @MIUI</string>
     <string name="share_page_text">Mireu què he compartit: %1$s @MIUI| %2$s</string>
