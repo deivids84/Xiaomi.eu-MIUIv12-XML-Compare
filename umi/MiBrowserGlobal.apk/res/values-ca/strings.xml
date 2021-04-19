@@ -1794,6 +1794,7 @@ Alguns llocs no utilitzaran l'historial de navegació anterior per personalitzar
     <string name="setting">Configuració</string>
     <string name="setting_app_language">Idioma del Navegador</string>
     <string name="setting_feed_language">Idioma de la font de continguts</string>
+    <string name="setting_home_page_show_title">Pàgina d\'inici</string>
     <string name="setting_privacy_password">Defineix el patró de desbloqueig</string>
     <string name="share_image_text">Mireu què he compartit! @MIUI</string>
     <string name="share_page_text">Mireu què he compartit: %1$s @MIUI| %2$s</string>
