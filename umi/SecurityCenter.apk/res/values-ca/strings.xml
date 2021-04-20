@@ -2153,6 +2153,7 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="mixed_recording_intro_header">Introduïu %1$s-%2$s caràcters</string>
     <string name="mixed_retry_button_text">Cancel·la</string>
     <string name="mixed_settings_help_how_to_record">Com establir la contrasenya</string>
+    <string name="mm_app_name">Mi SIM</string>
     <string name="modify_cellular_type">Toqueu per seleccionar el vostre pla</string>
     <string name="modify_password_mode"><u>Canvieu el tipus de contrasenya</u></string>
     <string name="modifypassword">Canvia la contrasenya</string>
