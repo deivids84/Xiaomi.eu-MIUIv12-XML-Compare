@@ -6032,6 +6032,7 @@ Para fijar una app, sigue estos pasos: \u0009
     <string name="screen_projection_sample_title">Demos</string>
     <string name="screen_projection_title">Emitir</string>
     <string name="screen_reader_category_title">Lectores de pantalla</string>
+    <string name="screen_recorder_title">Grabadora de pantalla</string>
     <string name="screen_resolution_dialog_title">Cambiar resolución</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_normal_format">Normal (%1$s)</string>
