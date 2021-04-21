@@ -3142,6 +3142,8 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
     <string name="freeform_guide_notification_drop_down_summary">Mantingueu premut i, a continuació, tireu cap avall la barra d’acció d’una notificació</string>
     <string name="freeform_guide_notification_drop_down_title">Obertura de finestres flotants</string>
     <string name="freeform_guide_settings">Finestres flotants</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Llisqueu des de la part inferior de la pantalla fins a l\'extrem superior dret de la pantalla</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Lliscament a finestres flotants</string>
     <string name="freeform_guide_slide_up_to_close_summary">Feu lliscar el dit des de la barra d’acció d’una finestra flotant</string>
     <string name="freeform_guide_slide_up_to_close_title">Tancament de finestres flotants</string>
     <string name="freeform_vedio_description">"· Manteniu premuda la tecla i, a continuació, elimineu una notificació per obrir-la en una finestra flotant.
@@ -4351,6 +4353,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_double_click_key_mode">Doble toc</string>
     <string name="miheadset_double_click_left">Feu doble toc a l\'auricular esquerre</string>
     <string name="miheadset_double_click_right">Feu doble toc a l\'auricular dret</string>
+    <string name="miheadset_double_press_left">Doble pulsació a l\'auricular esquerra</string>
+    <string name="miheadset_double_press_right">Doble pulsació a l\'auricular dret</string>
     <string name="miheadset_enhanceVoice">Millora la veu</string>
     <string name="miheadset_enhence_high">Aguts millorats</string>
     <string name="miheadset_enhence_low">Baixos millorats</string>
@@ -4412,6 +4416,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_transparent">Transparència</string>
     <string name="miheadset_transparentMode">Transparència</string>
     <string name="miheadset_triple_click_key_mode">Triple toc</string>
+    <string name="miheadset_triple_press_left">Triple pulsació a l\'auricular esquerra</string>
+    <string name="miheadset_triple_press_right">Triple pulsació a l\'auricular dret</string>
     <string name="miheadset_unpair_device_text">%1$s es desvincularà de tots els dispositius associats a aquest compte Mi.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fitxers diversos</string>
