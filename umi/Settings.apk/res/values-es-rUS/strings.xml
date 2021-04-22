@@ -5834,7 +5834,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="ringer_mode_setting_summary">Silenciar llamadas entrantes y notificaciones</string>
     <string name="ringer_mode_setting_title">Modo silencio</string>
     <string name="ringtone_slot_setting_title">Ajustes de SIM individual</string>
-    <string name="ringtone_title">Tono</string>
+    <string name="ringtone_title">Tono de llamada</string>
     <string name="ringtone_uniform_setting_title">Ajustes de SIM dual</string>
     <string name="ringtones_category_preference_title">Tonos</string>
     <string name="ringtones_install_custom_sound_content">Se copiará este archivo a la carpeta %s</string>
