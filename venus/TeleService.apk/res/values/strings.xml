@@ -1339,8 +1339,6 @@ Emergency calls are only possible in areas with cellular coverage."</string>
     <string name="message_decode_error">There was an error while decoding the message.</string>
     <string name="mhh_disable">Medical, Health, and Hospital disabled</string>
     <string name="mhh_enable">Medical, Health, and Hospital enabled</string>
-    <string name="mi_mobile_settings_summary">Data plans provided by Xiaomi</string>
-    <string name="mi_mobile_settings_title">Mi Mobile</string>
     <string name="mi_mobile_sim_activate_message">Activate SIM %d to be able to use Mi Mobile. This might take up to 5 minutes.</string>
     <string name="mi_mobile_sim_activate_ok">Activate</string>
     <string name="mi_mobile_sim_activate_title">Welcome to Mi Mobile!</string>
@@ -2205,6 +2203,10 @@ UT Interface: %5$s"</string>
     <string name="smart_forwarding_settings_menu_summary">"When one number isn't reachable, always forward calls to your other number"</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Make sure the number you enter is correct. Otherwise, you won't be able to send or receive SMS. Contact your carrier to confirm your SMSC number."</string>
+    <string name="softap_beacon_protection">Enable SoftAp Beacon Protection</string>
+    <string name="softap_beacon_protection_summary">Enable SoftAp beacon protection using Hotspot</string>
+    <string name="softap_ocv">Enable SoftAp OCV</string>
+    <string name="softap_ocv_summary">Enable SoftAp OCV using Hotspot</string>
     <string name="speed_label_fast">Fast</string>
     <string name="speed_label_medium">Medium</string>
     <string name="speed_label_okay">OK</string>
@@ -2625,6 +2627,8 @@ If you select to prefer mobile networks, they will be used by default to make ph
     <string name="wifi_limited_connection">Limited connection</string>
     <string name="wifi_metered_label">Metered</string>
     <string name="wifi_network_prefix_length_hint">24</string>
+    <string name="wifi_new_network_auto_connection">SSID Bridging ‑ Auto Connection</string>
+    <string name="wifi_new_network_auto_connection_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
     <string name="wifi_no_internet">No internet access</string>
     <string name="wifi_no_internet_no_reconnect">"Won't automatically connect"</string>
     <string name="wifi_not_in_range">Not in range</string>
@@ -2685,6 +2689,8 @@ Please check validity of certificates"</string>
 Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
     <string name="wificall_switch_summary">Use Wi-Fi to make and receive calls whenever possible</string>
     <string name="wificall_switch_title">Make calls using Wi-Fi</string>
     <string name="wild_prompt_str">Replace wild character with</string>
