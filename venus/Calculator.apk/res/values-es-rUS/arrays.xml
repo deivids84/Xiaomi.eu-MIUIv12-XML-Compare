@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>Centímetro</item>
+        <item>Metro</item>
+        <item>Pie</item>
+        <item>Pulgadas</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Cuotas fijas</item>
+        <item>Cuota decreciente</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>abrir paréntesis</item>
+        <item>cerrar paréntesis</item>
+        <item>factorial</item>
+        <item>logaritmo natural</item>
+        <item>logaritmo</item>
+        <item>raíz cuadrada</item>
+        <item>dividido entre</item>
+        <item>multiplicado por</item>
+        <item>más</item>
+        <item>menos</item>
+        <item> punto </item>
+        <item>a la potencia</item>
+        <item>tangente</item>
+        <item>seno</item>
+        <item>coseno</item>
+        <item>pi</item>
+        <item>igual a</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>año</item>
+        <item>semana</item>
+        <item>día</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilogramo</item>
+        <item>Libra</item>
+    </string-array>
+</resources>
