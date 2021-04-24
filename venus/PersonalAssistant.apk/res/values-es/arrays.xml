@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Semana 1</item>
+        <item>Semana 2</item>
+        <item>Semana 3</item>
+        <item>Semana %1$d</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Conductor</item>
+        <item>Transporte público</item>
+        <item>Taxi</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>60 minutos</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Noche</item>
+        <item>Noche</item>
+        <item>Mañana</item>
+        <item>Tarde</item>
+        <item>Tarde</item>
+        <item>Noche</item>
+        <item>Noche</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Noche</item>
+        <item>Temprano por la mañana</item>
+        <item>Mañana</item>
+        <item>Mediodía</item>
+        <item>Tarde</item>
+        <item>Al final de la tarde</item>
+        <item>Noche</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Pequeño</item>
+        <item>Normal</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Rojo - arriba, verde - abajo</item>
+        <item>Verde - arriba, rojo - abajo</item>
+    </string-array>
+</resources>
