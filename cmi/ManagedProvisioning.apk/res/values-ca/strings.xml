@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
@@ -20,7 +20,7 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
@@ -156,7 +156,7 @@
     <string name="profile_owner_info_with_terms_headers">"Esteu a punt de crear un perfil de treball que serà gestionat i supervisat per l'organització. S'aplicaran les condicions de %1$s."</string>
     <string name="profile_owner_info_with_terms_headers_comp">Es crearà un perfil per a les vostres aplicacions de treball. Aquest perfil i la resta del dispositiu seran gestionats i supervisats per l\'organització. S\'aplicaran les condicions de %1$s.</string>
     <string name="progress_connect_to_mobile_network">S\'està connectant a una xarxa mòbil…</string>
-    <string name="progress_connect_to_wifi">S\'està connectant al Wi-Fi&#8230;</string>
+    <string name="progress_connect_to_wifi">S\'està connectant a la Wi-Fi…</string>
     <string name="progress_data_process">S\'estan processant les dades de configuració&#8230;</string>
     <string name="progress_delete_non_required_apps">S\'estan eliminant les aplicacions del sistema no necessàries…</string>
     <string name="progress_download">S\'està baixant l\'aplicació d\'administració&#8230;</string>
