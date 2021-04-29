@@ -154,6 +154,12 @@
         <item>4K (sobredimensionat, segur)</item>
         <item>720p, 1080p (pantalla doble)</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desactivat</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>
         <item>64K per registre de memòria</item>
@@ -171,13 +177,13 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Totes les memòries intermèdies de registre</item>
         <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
         <item>només la memòria intermèdia de registre del nucli</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Tot</item>
         <item>Tot excepte la ràdio</item>
         <item>només kernel</item>
