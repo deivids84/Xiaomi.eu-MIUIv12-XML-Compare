@@ -20,7 +20,7 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
@@ -33,15 +33,17 @@
     <string name="am">am</string>
     <string name="casting_tips">S\'està emetent…</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="close">Tanca</string>
     <string name="close_hotspot_hint">Apagueu el punt d\'accés portàtil abans d\'emetre</string>
     <string name="close_slave_wifi_hint">Desconnecteu-vos de les xarxes Wi-Fi auxiliars abans d\'emetre</string>
-    <string name="close_slave_wifi_hint_china">Desconnecteu les xarxes WLAN auxiliars abans d\'emetre</string>
+    <string name="close_slave_wifi_hint_china">Desconnecteu-vos de les xarxes Wi-Fi auxiliars abans d\'emetre</string>
     <string name="console_guide_btn_got_it">Entesos</string>
     <string name="console_guide_subtitle_hang_up">Podeu continuar emetent amb la pantalla del dispositiu apagada. Aquesta característica disminueix el consum d\'energia.</string>
     <string name="console_guide_subtitle_private">"No mostris notificacions flotants, trucades entrants i altres elements privats en monitors externs"</string>
     <string name="console_guide_subtitle_small_window">"Minimitzeu la finestra que s'està emetent per poder utilitzar altres funcions del telèfon"</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="device_desc_trust">Disp. de confiança</string>
     <string name="dialog_can_not_find_device">"No s'han pogut trobar dispositius a prop"</string>
     <string name="dialog_cancle">Cancel·la</string>
@@ -56,7 +58,7 @@
     <string name="dialog_miplay_permission_title">Permisos necessaris</string>
     <string name="dialog_nfc_cast_wifi_off">Activeu la connexió Wi-Fi per poder emetre mitjançant NFC. Voleu activar-la ara?</string>
     <string name="dialog_no_device_message"><Data>1. Connecteu tant el telèfon com el televisor a la mateixa xarxa Wi-Fi.&lt;br&gt;&lt;br&gt;2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Vegeu &lt;a href=milink://com.milink.service/specification&gt;\"Ajuda\"&lt;/a&gt; per obtenir més informació.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>1. Connecteu el telèfon i el televisor a la mateixa xarxa WLAN.&lt;br&gt;&lt;br&gt;2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Vegeu &lt;a href=milink://com.milink.service/specification&gt;\"Ajuda\"&lt;/a&gt; per obtenir més informació.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Connecteu tant el telèfon com el televisor a la mateixa xarxa Wi-Fi.&lt;br&gt;&lt;br&gt;2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Consulteu &lt;a href=milink://com.milink.service/specification&gt;\"Ajuda\"&lt;/a&gt; per obtenir més informació.</Data></string>
     <string name="dialog_ok">D\'acord</string>
     <string name="dialog_only_suport_content">Emeteu fotos, vídeos o música</string>
     <string name="dialog_open_wifi_bt">Activa</string>
@@ -67,11 +69,13 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
     <string name="dialog_scan_message">"1. Connecteu el telèfon i la televisió a la mateixa xarxa Wi-Fi.
 
 2. En alguns models de televisió, aquesta funció només està disponible quan la pantalla de pantalla es troba activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
-    <string name="dialog_scan_message_china">"1. Connecteu el telèfon i el televisor a la mateixa xarxa WLAN.
+    <string name="dialog_scan_message_china">"1. Connecteu el telèfon i el televisor a la mateixa xarxa Wi-Fi.
 
-2. En alguns models de televisió, aquesta funció només està disponible quan la pantalla de pantalla es troba activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
+2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
     <string name="dialog_scanning_device">S\'estan cercant dispositius propers…</string>
     <string name="dialog_scanning_precondition">Activeu la Wi-Fi i el Bluetooth al telèfon per utilitzar la pantalla sense fils.</string>
+    <string name="dialog_scanning_precondition_new_china">Activeu els serveis de Wi-Fi, Bluetooth i ubicació per poder emetre. Voleu activar-ho ara?</string>
+    <string name="dialog_scanning_precondition_new_global">Activeu els serveis de Wi-Fi, Bluetooth i ubicació per poder emetre. Voleu activar-ho ara?</string>
     <string name="dialog_select_tv">Seleccioneu el dispositiu (%d)</string>
     <string name="dialog_show_help">Ajuda</string>
     <string name="disconnect">Atura l\'emissió</string>
@@ -81,65 +85,28 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
     <string name="eras_bc">a.C.</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Avançat</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_timezone">zD</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="global_privacy">Termes i condicions</string>
+    <string name="global_privacy_detail"><Data>\"Llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta aplicació.&lt;br&gt;Si no accepteu utilitzar els serveis esmentats anteriorment, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible.\"</Data></string>
+    <string name="global_privacy_explain">Us donem la benvinguda a Emetre. Aquesta aplicació proporciona els serveis següents:</string>
+    <string name="global_privacy_feature">Utilitzar finestres minimitzades, emetre amb la pantalla apagada i amagar elements privats.</string>
+    <string name="global_privacy_main">"Projecció dels elements des de la pantalla del telèfon a un monitor extern més gran."</string>
+    <string name="global_privacy_negative">"No hi estic d'acord"</string>
+    <string name="global_privacy_positive">D\'acord</string>
+    <string name="global_privacy_tip"><Data>Hem de recopilar la informació personal necessària per proporcionar-vos els serveis bàsics i optimitzar el procés d\'emissió. Vostè pot aprendre com fem servir la informació que obtenim en la nostra &lt;a href=%1$s&gt;Política de Privadesa&lt;/a&gt;. Podeu retirar el vostre consentiment a la Política de Privadesa a la Configuració en qualsevol moment.</Data></string>
     <string name="hang_up">Emet amb la pantalla apagada</string>
     <string name="hang_up_alert_dialog_content">Continua emetent-se quan la pantalla del dispositiu està apagada. Aquesta característica disminueix el consum d\'energia. Premeu el botó d\'engegada per tornar a encendre la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancel·la</string>
     <string name="hang_up_alert_dialog_pos">D\'acord</string>
-    <string name="hang_up_alert_dialog_title">A punt d\'emetre amb pantalla apagada…</string>
+    <string name="hang_up_alert_dialog_title">A punt d’emetre amb la pantalla apagada…</string>
     <string name="help_page_text_01">Ajuda</string>
     <string name="help_page_text_02">Què és emetre?</string>
     <string name="help_page_text_03">"Emetre és projectar els elements de la pantalla del telèfon en un monitor extern més gran. Permet compartir imatges i vídeos amb els teus amics i familiars sense utilitzar dades mòbils."</string>
@@ -214,11 +181,22 @@ Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves apl
     <string name="help_page_text_55_global">"Si no us podeu connectar a la xarxa, assegureu-vos que el vostre monitor extern suporti la funcionalitat de Miracast i que estigui activada. En alguns models, aquesta funció s'anomena Pantalla sense fils, Screen Mirroring o Múltiples pantalles.
 4. Si teniu problemes, podeu informar-nos mitjançant l'aplicació \"Serveis i comentaris\"."</string>
     <string name="help_page_text_end">"Si la marca del vostre dispositiu no apareix aquí, poseu-vos en contacte amb el fabricant per obtenir més informació sobre les funcions d'emissió."</string>
-    <string name="keyguard_security_setting_privacy_policy">Política de privacitat</string>
+    <string name="keyguard_security_setting_privacy_policy">Política de privadesa</string>
     <string name="midnight">Nit</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol amb èxit</string>
-    <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
+    <string name="miuix_appcompat_cancel_description">Cancel·la</string>
+    <string name="miuix_appcompat_confirm_description">Confirma</string>
+    <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
+    <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -306,7 +284,7 @@ Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves apl
     <string name="privacy_permission_optional">Permisos opcionals</string>
     <string name="privacy_permission_optional_desc">"S'utilitza per a funcions addicionals mentre les utilitzeu"</string>
     <string name="privacy_permission_wlan">Activant i desactivant la connexió</string>
-    <string name="privacy_permission_wlan_china">Activant i desactivant la WLAN</string>
+    <string name="privacy_permission_wlan_china">Activació i desactivació de la Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Per trobar dispositius disponibles a prop</string>
     <string name="privacy_permission_wlan_desc_china">Per trobar dispositius disponibles a prop</string>
     <string name="privacy_positive">Acordar</string>
@@ -348,11 +326,12 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="screen_projection_sample_title">Demostracions</string>
     <string name="screen_projection_title">Emet</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="small_window">Minimitza la finestra</string>
     <string name="small_window_not_supported">"No puc minimitzar aquesta aplicació mentre s'està emetent"</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Clar i lluminós</string>
+    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosada freda</string>
     <string name="solar_term_grain_buds">Les criatures plenàries</string>
     <string name="solar_term_grain_in_ear">Sembrant mill</string>
@@ -381,17 +360,17 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="sunday_shortest">Dg</string>
     <string name="synergy_casting">"No es pot utilitzar el càsting mentre Screen Combo funciona"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari del Dret Marcial d\'Aixecament</string>
-    <string name="the_anti_aggression_day">Dia de la no-agressió</string>
+    <string name="the_anti_aggression_day">Dia Internacional de la No-Violència</string>
     <string name="the_arbor_day">Dia de l\'Arbor</string>
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia de l\'Exèrcit Popular d\'Alliberament</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
     <string name="the_chinese_youth_day">Dia de la joventut</string>
     <string name="the_christmas_day">Nadal</string>
-    <string name="the_double_ninth_festival">Doble Novè Festival</string>
-    <string name="the_dragon_boat_festival">Festival del vaixell de drac</string>
-    <string name="the_easter_day">Setmana Santa</string>
-    <string name="the_eve_of_the_spring_festival">Vigília de l\'Any Nou xinès</string>
+    <string name="the_double_ninth_festival">Festa del Doble Yang</string>
+    <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
+    <string name="the_easter_day">Pasqua</string>
+    <string name="the_eve_of_the_spring_festival">Cap d\'Any Xinès</string>
     <string name="the_fifth_day">Cinquè dia de l\'Any Nou Xinès</string>
     <string name="the_fools_day">"Dia d'enganyar"</string>
     <string name="the_forth_day">Quart dia de l\'Any Nou Xinès</string>
@@ -411,7 +390,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="the_second_day">Segon dia de l\'Any Nou Xinès</string>
     <string name="the_seventh_day">Setè dia de l\'Any Nou Xinès</string>
     <string name="the_sixth_day">Sisè dia de l\'Any Nou Xinès</string>
-    <string name="the_spirit_festival">Festival dels fantasmes</string>
+    <string name="the_spirit_festival">Festa de les Ànimes</string>
     <string name="the_spring_festival">Any Nou Xinès</string>
     <string name="the_teachers_day">"Dia dels mestres"</string>
     <string name="the_third_day">Tercer dia de l\'Any Nou Xinès</string>
