@@ -41,8 +41,8 @@
         <item quantity="one">Queda prop de %d minut</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Queden prop de %1$d h %2$d m</item>
-        <item quantity="one">Queda prop de %1$d h %2$s m</item>
+        <item quantity="other">Queden aproximadament %1$d h %2$d m</item>
+        <item quantity="one">Queden aproximadament %1$d h %2$d m</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d hores</item>
@@ -51,6 +51,10 @@
     <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">%d minuts</item>
         <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d m</item>
+        <item quantity="one">%1$d h %2$d m</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">Queden %d hores</item>
@@ -102,7 +106,7 @@
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">Torneu-ho a provar d\'aquí a %d segons.</item>
-        <item quantity="one">Torneu-ho a provar d\'aquí a %d segon.</item>
+        <item quantity="one">Torneu-ho a provar d\'aquí a 1 segon.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d noves notificacions</item>
