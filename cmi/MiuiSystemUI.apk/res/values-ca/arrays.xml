@@ -19,7 +19,7 @@
     </string-array>
     <string-array name="battery_options">
         <item>Mostra sempre el percentatge</item>
-        <item>Mostra el percentatge mentre es carregui (predeterminat)</item>
+        <item>Mostra el percentatge mentre es carregui (per defecte)</item>
         <item>"No mostris aquesta icona"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
@@ -188,6 +188,12 @@
         <item>4K (ampliat, segur)</item>
         <item>720p, 1080p (pantalla dual)</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desactivat</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>
         <item>64 KB per buffer de registre</item>
@@ -197,7 +203,7 @@
         <item>16 MB per buffer de registre</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Inactiu</item>
+        <item>Desactivat</item>
         <item>64 KB</item>
         <item>256 KB</item>
         <item>1 MB</item>
