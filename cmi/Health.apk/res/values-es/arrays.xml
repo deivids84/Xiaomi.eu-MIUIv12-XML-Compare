@@ -4,12 +4,76 @@
         <item>Salud</item>
         <item>Ejercicio</item>
     </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imagen</item>
+        <item>Ruta</item>
+        <item>Tarjeta</item>
+    </string-array>
     <string-array name="SportTabTitle">
         <item>Correr</item>
         <item>Caminar</item>
         <item>Ciclismo</item>
         <item>Saltar a la Comba</item>
         <item>Entrenamiento</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="arr_prompt_label">
         <item>Razonable</item>
@@ -42,7 +106,7 @@
         <item>Compañero/a</item>
     </string-array>
     <string-array name="energy_unit">
-        <item>"kcal"</item>
+        <item>" kcal"</item>
         <item>" kJ"</item>
     </string-array>
     <string-array name="gender_array">
@@ -52,7 +116,7 @@
     </string-array>
     <string-array name="length_unit">
         <item>" cm"</item>
-        <item>"m"</item>
+        <item>" m"</item>
         <item>" km"</item>
     </string-array>
     <string-array name="normal_blood_array">
@@ -93,8 +157,8 @@
         <item>Nunca</item>
     </string-array>
     <string-array name="speed_unit">
-        <item>"km/h"</item>
-        <item>"m/s"</item>
+        <item>" km/h"</item>
+        <item>" m/s"</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
         <item>"Sentarse no beneficia su salud. En caso de no poder reducir el tiempo que pasa sentado, es una buena idea ponerse de pie de vez en cuando."</item>
@@ -107,7 +171,7 @@
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
-        <item>° F</item>
+        <item>°F</item>
     </string-array>
     <string-array name="week">
         <item>Domingo</item>
@@ -128,13 +192,13 @@
         <item>Sáb</item>
     </string-array>
     <string-array name="week_short">
-        <item>Dom</item>
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mié</item>
-        <item>Jue</item>
-        <item>Vie</item>
-        <item>Sáb</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" gramo"</item>
