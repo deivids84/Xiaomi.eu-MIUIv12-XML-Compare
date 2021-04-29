@@ -82,7 +82,7 @@
     <string name="audio_download_failed">"No se pudo descargar el audio"</string>
     <string name="audio_message_expired">Este mensaje de voz ha expirado.</string>
     <string name="audio_message_mx_offline">"No se pudo descargar audio. Mi Message está fuera de línea o no disponible."</string>
-    <string name="audio_sim_card_mismatching">Sin conexión de red o fallo en la instalación de la tarjeta SIM. Instala la tarjeta SIM con el mensaje enviado y conéctate a una red.</string>
+    <string name="audio_sim_card_mismatching">No hay conexión de red o se instaló una tarjeta SIM incorrecta. Instale la tarjeta SIM desde la que se envió el mensaje y conéctese a la red.</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Activar Mensajes Inteligentes</string>
     <string name="auto_identify_btn_text_when_all_disabled">Identificar automáticamente el ID del remitente</string>
     <string name="auto_identify_btn_title">Este mensaje ha sido enviado desde un número desconocido.</string>
@@ -115,7 +115,7 @@
     <string name="button_resend_message">Enviar de nuevo</string>
     <string name="button_unfold">Desdoblar</string>
     <string name="call_sender">Llamar al remitente</string>
-    <string name="can_not_send_by_rcs">"No puedes utilizar Mensajería de China Mobile"</string>
+    <string name="can_not_send_by_rcs">"No se puede usar Mensajes de China Mobile"</string>
     <string name="can_not_view_group_chat_stranger">"No se puede ver los detalles de extraños."</string>
     <string name="cannot_add_picture_and_video">"No se pueden añadir vídeos ni imágenes a una diapositiva."</string>
     <string name="cannot_add_slide_anymore">"No se pueden añadir más diapositivas."</string>
@@ -218,7 +218,7 @@
     <string name="delete_verification_code_sms_message">¿Eliminar todas las contraseñas de un solo uso?</string>
     <string name="delete_verification_code_sms_title">Eliminar contraseñas de un solo uso</string>
     <string name="delete_wild_sims">Eliminar números</string>
-    <string name="delete_wild_sims_confirm">Todos los mensajes relacionados con los números seleccionados se eliminarán de este teléfono. Puedes restaurarlos en i.mi.com.</string>
+    <string name="delete_wild_sims_confirm">Todos los mensajes relacionados con los números seleccionados se eliminarán de este teléfono. Puede restaurarlos en i.mi.com.</string>
     <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
     <string name="delivery_report_activity">Informe de entrega</string>
     <string name="delivery_toast_body">Mensaje recibido por %s</string>
@@ -298,65 +298,20 @@
     <string name="favorite_at_time">Añadido a favoritos a las: %1s</string>
     <string name="fdn_check_failure">Solo puede enviar mensajes a los números de marcación fija.</string>
     <string name="feature_mx">Mi mensaje</string>
-    <string name="feature_mx_summary"><b>Mi Message le permite enviar mensajes a otros usuarios de Mi Message a través de Internet sin incurrir en cargos</b>. Se requiere un mensaje SMS saliente para activar este servicio. Su operador le cobrará por este mensaje. Lea y acepte nuestro <font color="#B3000000"><a href="http://url1">Acuerdo de usuario</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de utilizar esta función.</string>
+    <string name="feature_mx_summary"><b>Mi Mensajes le permite enviar mensajes a otros usuarios de Mi Mensajes a través de Internet sin incurrir en cargos</b>. Se requiere un mensaje SMS saliente para activar este servicio. Su operador le cobrará por este mensaje. Lea y acepte nuestro <font color="#B3000000"><a href="http://url1">Acuerdo de usuario</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de utilizar esta función.</string>
     <string name="feature_smart_sms">Mensajes Inteligentes</string>
-    <string name="feature_smart_sms_summary"><b>Smart Messaging proporciona reconocimiento de ID de remitente y menús inteligentes</b>\". Smart Messaging es proporcionado en parte por Yulore. Lea y acepte la\"<font color="#B3000000"><a href="http://url3">Política de privacidad</a></font> Yulore antes de usar esta función.</string>
+    <string name="feature_smart_sms_summary"><b>Mensajería Inteligente proporciona reconocimiento de ID de remitente y menús inteligentes</b>\". Mensajería Inteligente es proporcionado en parte por Yulore. Lea y acepte la\"<font color="#B3000000"><a href="http://url3">Política de privacidad</a></font> Yulore antes de usar esta función.</string>
     <string name="festival_sms_loading">Cargando…</string>
     <string name="file_create_time">Creado:</string>
     <string name="file_size">Tamaño:</string>
     <string name="file_title">Nombre:</string>
     <string name="file_width_height">Tamaño:</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_timezone">zD</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">D</string>
-    <string name="fmt_time_minute">mill</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">E</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
     <string name="force_touch_new_message_title">Nuevo mensaje</string>
     <string name="forward_from">Reenviado de:</string>
     <string name="forward_message_select_title">Reenviar mensaje</string>
@@ -608,9 +563,9 @@ Este mensaje podría ser no deseado."</string>
     <string name="mx_enable_ex">Mi Message y Voz</string>
     <string name="mx_enable_popup_msg">Mi Message te permite enviar mensajes a otros dispositivos MIUI sin cargos adicionales.</string>
     <string name="mx_filter_message_from_stranger">Bloquear Mi Messages de números desconocidos</string>
-    <string name="mx_filter_message_from_stranger_dialog_desc">"Todavía puedes recibir SMS de números desconocidos. Puedes activar o desactivar esta función en cualquier momento en Mensajes &gt; Ajustes."</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">"Seguirá recibiendo SMS de números desconocidos. Puede activar o desactivar esta función en cualquier momento en Mensajes &gt; Ajustes."</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Messages de números desconocidos</string>
-    <string name="mx_filter_message_from_stranger_summary">"Todavía puedes recibir SMS de un número desconocido"</string>
+    <string name="mx_filter_message_from_stranger_summary">"Seguirá recibiendo SMS de números desconocidos"</string>
     <string name="mx_main_purpose">"Mi Message te permite enviar mensajes a otros usuarios de Mi Message a través de Internet sin coste alguno. 
 Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrará por este mensaje."</string>
     <string name="mx_main_purpose_short">Mi Message permite a usuarios de MIUI enviar y recibir SMS y MMS de forma gratuita.</string>
@@ -643,6 +598,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="no_block_button_msg">Desbloquear</string>
     <string name="no_conversations">Sin conversaciones</string>
     <string name="no_delivery_report">Sin informe de entrega</string>
+    <string name="no_dialogue_yet">Seleccionar una conversación</string>
     <string name="no_longer_recommend">"No mostrar de nuevo"</string>
     <string name="no_network_description">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="no_subject">(Sin asunto)</string>
@@ -723,12 +679,10 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_summary_ad_mms_recognition">Coloque los mensajes promocionales en una pestaña separada</string>
     <string name="pref_summary_allow_si_sl_push">Permitir a los mensajes cargar el contenido de los sitios web</string>
     <string name="pref_summary_auto_delete">Eliminar mensajes antiguos cuando se alcance el límite</string>
-    <string name="pref_summary_collapse_ad_notification">Mostrar todos los mensajes promocionales en una carpeta de tonos de notificación separada</string>
-    <string name="pref_summary_collapse_ad_notification_mms">Mostrar todos los mensajes promocionales en una pestaña separada</string>
-    <string name="pref_summary_collapse_ad_notification_mms_new">Agrupe los mensajes promocionales y márquelos como sin importancia en el tono Notificación</string>
     <string name="pref_summary_delete_limit">%1$s mensajes por conversación</string>
     <string name="pref_summary_delivery_reports">Mostrar el estado de la entrega de los mensajes enviados</string>
     <string name="pref_summary_delivery_ringtone">Recibir notificación sonora para mensajes enviados.</string>
+    <string name="pref_summary_enable_ad_notification">Activar notificaciones de grupo sobre mensajes promocionales en el panel de notificaciones</string>
     <string name="pref_summary_enable_classify">Mueva los mensajes promocionales y financieros a pestañas separadas</string>
     <string name="pref_summary_manage_sim_messages">Gestionar los mensajes almacenados en tu tarjeta SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Descargar automáticamente fotos y vídeos de los mensajes</string>
@@ -747,8 +701,8 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_title_allow_si_sl_push">Permitir la transferencia y notificación de mensajes WAP (SI/SL)</string>
     <string name="pref_title_auto_delete">Eliminar mensajes antiguos</string>
     <string name="pref_title_card_format">Formato para compartir tarjeta</string>
-    <string name="pref_title_collapse_ad_notification">Notificaciones grupales sobre mensajes promocionales</string>
     <string name="pref_title_delivery_reports">Estado de la entrega</string>
+    <string name="pref_title_enable_ad_notification">Mensajes promocionales</string>
     <string name="pref_title_enable_classify">Agrupar mensajes automáticamente</string>
     <string name="pref_title_fwd_sender_info">Información del remitente</string>
     <string name="pref_title_manage_sim_messages">Almacenamiento de la tarjeta SIM</string>
@@ -829,6 +783,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="rcs_chat_bot_subject">Propietario: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Recibiste un mensaje A2P. Toque para ver los detalles.</string>
     <string name="rcs_chatbot_audio_message">Recibiste un mensaje de audio. Toque para ver los detalles.</string>
+    <string name="rcs_chatbot_blocked_tip">"Esta mini aplicación fue bloqueada. No puedo iniciar la conversación."</string>
     <string name="rcs_chatbot_card_message">Recibiste una tarjeta. Toque para ver los detalles.</string>
     <string name="rcs_chatbot_file_message">Recibiste un archivo. Toque para ver los detalles.</string>
     <string name="rcs_chatbot_geo_message">Recibiste un mensaje con información de ubicación. Toque para ver los detalles.</string>
@@ -890,7 +845,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_conversation_rcs_tip">Mini aplicación: %s</string>
     <string name="rcs_create_new_group">Crear chat de grupo</string>
     <string name="rcs_dspt">Enviar y recibir mensajes usando Wi-Fi o la red de China Mobile</string>
-    <string name="rcs_dspt_unavailable">"No puedes utilizar esta función ahora. La tarjeta SIM de China Mobile no es tu tarjeta de datos predeterminada."</string>
+    <string name="rcs_dspt_unavailable">"No puede utilizar esta función ahora. La tarjeta SIM de China Mobile no es su tarjeta de datos predeterminada."</string>
     <string name="rcs_file_link_as_sms">Visita %s para ver el archivo RCS que te ha sido enviado.</string>
     <string name="rcs_forward_faild">"No se pudo reenviar"</string>
     <string name="rcs_forward_successful">Reenviado con éxito</string>
@@ -906,9 +861,9 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_more_bar_title">Cancelar</string>
     <string name="rcs_msg">Mensajes de China Mobile</string>
     <string name="rcs_my_black_chatbot_title">Lista negra</string>
-    <string name="rcs_not_online">"No puedes utilizar Mensajería de China Mobile. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="rcs_not_online">"No se puede usar Mensajería China Mobile. Compruebe su configuración de red e inténtelo de nuevo."</string>
     <string name="rcs_offline">No has iniciado sesión en UC. Espera un par de minutos e inténtalo de nuevo.</string>
-    <string name="rcs_offline_hint">"Mensajes de China Mobile no está en línea. No puedes reenviar este mensaje."</string>
+    <string name="rcs_offline_hint">"Mensajes de China Mobile fuera de linea. No puede reenviar este mensaje."</string>
     <string name="rcs_pref_button_login">Iniciar sesión</string>
     <string name="rcs_pref_button_logout">Cerrar sesión</string>
     <string name="rcs_pref_category_rcs">Mensajes RCS</string>
@@ -931,7 +886,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_recipient_type_group">Reenviar al chat de grupo</string>
     <string name="rcs_recipient_type_pc">Reenviar al ordenador</string>
     <string name="rcs_remember_my_choice">Recordar mi elección</string>
-    <string name="rcs_resend_not_online">"No puedes utilizar Mensajería de China Mobile"</string>
+    <string name="rcs_resend_not_online">"No puede utilizar Mensajería de China Mobile"</string>
     <string name="rcs_resend_sim_card_not_insert">"Parece que tu tarjeta SIM no está instalada"</string>
     <string name="rcs_search_group_local">Mis mini aplicaciones</string>
     <string name="rcs_search_group_recommend">Mini aplicaciones recomendadas</string>
@@ -940,16 +895,16 @@ Echa un vistazo a los recomendados!"</string>
     <string name="rcs_search_result_server_data_empty">"No se pudieron encontrar mini aplicaciones en línea"</string>
     <string name="rcs_send_hello">¡Hola!</string>
     <string name="rcs_send_rms_remind_change">Ajustes</string>
-    <string name="rcs_send_rms_remind_desp">Mensajes de China Mobile es un servicio de mensajería instantánea proporcionado por China Mobile. Puedes desactivar esta función en Ajustes.</string>
+    <string name="rcs_send_rms_remind_desp">Mensajes de China Mobile es un servicio de mensajería instantánea proporcionado por China Mobile. Puede desactivar esta función en Ajustes.</string>
     <string name="rcs_send_rms_remind_title">Enviar mensajes con Mensajería de China Mobile</string>
     <string name="rcs_service_agreement">Acuerdo de Servicio</string>
     <string name="rcs_setting">Ajustes de Mensajería de China Mobile</string>
-    <string name="rcs_setting_tips">Puedes cambiar alternativamente los métodos de envío en los ajustes de Mensajes.</string>
+    <string name="rcs_setting_tips">Puede cambiar alternativamente los métodos de envío en los ajustes de Mensajes.</string>
     <string name="rcs_silence_message">Silenciar notificaciones de mensajes</string>
     <string name="rcs_summary_auto_resend_mms">"Convertir los mensajes multimedia de China Mobile a MMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje."</string>
     <string name="rcs_summary_auto_resend_sms">"Convertir los mensajes multimedia de China Mobile a SMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje."</string>
     <string name="rcs_summary_silence_message">Silenciar notificaciones de mensajes cuando el cliente de escritorio esté funcionando</string>
-    <string name="rcs_unavailable">"No puedes utilizar la mensajería de China Mobile ahora. La tarjeta SIM de China Mobile no es tu tarjeta de datos predeterminada."</string>
+    <string name="rcs_unavailable">"No puede utilizar la mensajería de China Mobile. La tarjeta SIM de China Mobile no es su tarjeta de datos predeterminada."</string>
     <string name="rcs_up_not_online">RCS desconectado. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
     <string name="rcs_wait_for_retry_text">Esperando…</string>
     <string name="received_at_time">Recibido a las: %1s</string>
@@ -967,7 +922,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="recommend_bar_title_mx_rcs">Mi mensaje</string>
     <string name="recommend_bar_title_smart_message">Mensajes Inteligente</string>
     <string name="recommend_both_dialog_title">¡Bienvenido a Mensajes!</string>
-    <string name="recommend_dialog_message">Puedes activar Mi Message y Mensajes Inteligentes para acceder a funciones adicionales.</string>
+    <string name="recommend_dialog_message">Puede activar Mi Mensajes y Mensajes Inteligentes para acceder a funciones adicionales.</string>
     <string name="recommend_mx_dialog_title">¡Bienvenido a Mi Message!</string>
     <string name="recommend_mx_setting_summary">Mi Message te permite enviar mensajes a otros usuarios de Mi Message a través de Internet sin coste alguno.</string>
     <string name="recommend_smart_sms_dialog_title">¡Bienvenido a Mensajes Inteligentes!</string>
@@ -996,15 +951,24 @@ Echa un vistazo a los recomendados!"</string>
     <string name="restore_blocked_message">Restaurar</string>
     <string name="restore_to_phone_memory_failed">"No se pudo restaurar"</string>
     <string name="restored_to_phone_memory">Restaurado</string>
-    <string name="rms_audio_file_duration_too_long">"No puedes enviar archivos de audio con duración mayor a 180 segundos"</string>
-    <string name="rms_audio_file_length_too_large">"No puedes enviar audios mayores de %1$d MB"</string>
+    <string name="rms_audio_body">[Audio]</string>
+    <string name="rms_audio_file_duration_too_long">"No puede enviar archivos de audio con duración mayor a 180 segundos"</string>
+    <string name="rms_audio_file_length_too_large">"No se pueden enviar archivos de audio de más de %1$dMB"</string>
+    <string name="rms_card_body">[Card]</string>
+    <string name="rms_cloud_file_body">[Cloud file]</string>
     <string name="rms_editor_hints">Conversación</string>
+    <string name="rms_file_body">[File]</string>
     <string name="rms_file_not_exist">"Este archivo no existe."</string>
     <string name="rms_file_not_exist_to_view">El archivo fue movido o eliminado</string>
     <string name="rms_illegal_extension">"Este formato de archivo no es soportado."</string>
-    <string name="rms_normal_file_length_too_large">"No puedes enviar archivos mayores de %1$d MB"</string>
-    <string name="rms_original_image_length_too_large">"No puedes enviar imágenes mayores de %1$d MB"</string>
+    <string name="rms_image_body">[Image]</string>
+    <string name="rms_location_body">[Location]</string>
+    <string name="rms_normal_file_length_too_large">"No se pueden enviar archivos de más de %1$dMB"</string>
+    <string name="rms_original_image_length_too_large">"No se pueden enviar imágenes de más de %1$dMB"</string>
     <string name="rms_original_image_size_too_large">Esta imagen es demasiado grande</string>
+    <string name="rms_text_body">[Text]</string>
+    <string name="rms_vcard_body">[Contact]</string>
+    <string name="rms_video_body">[Video]</string>
     <string name="rsc_chatbot_back">Volver</string>
     <string name="rsc_chatbot_detail">Información del proveedor</string>
     <string name="saturday">Sábado</string>
@@ -1060,6 +1024,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="send_message_notification_tickerText">El dispositivo solicita permiso</string>
     <string name="send_message_notification_title">Solicitud de permiso</string>
     <string name="send_rms_editor_hints">Mensajes de China Mobile</string>
+    <string name="send_rms_editor_hints_omit">Mi Mensaje</string>
     <string name="send_signature_confirm_dialog_message">No se encontró contenido. ¿Enviar solo tu firma?</string>
     <string name="send_signature_confirm_dialog_title">Enviar mensaje</string>
     <string name="send_sms">Enviar mensaje</string>
@@ -1097,7 +1062,7 @@ Echa un vistazo a los recomendados!"</string>
     <string name="smart_messages_network_allow_title">Se requiere conexión a Internet</string>
     <string name="smart_msg_main_purpose">Mensajes Inteligentes ofrece reconocimiento de identidad del remitente y menús de servicio inteligentes.</string>
     <string name="smart_msg_privacy_policy">Política de Privacidad de Mensajes Inteligentes</string>
-    <string name="smart_msg_upgrade_main_purpose">"La mensajería inteligente funciona con MMS ahora. Podrás utilizar más servicios proporcionados por los remitentes, así como recibir mensajes en nuevos formatos."</string>
+    <string name="smart_msg_upgrade_main_purpose">"Ahora la mensajería inteligente funciona con MMS. Podrá utilizar más servicios proporcionados por los remitentes, así como recibir mensajes en nuevos formatos."</string>
     <string name="sms_card_partner_label">"Tarjeta SMS de asociado: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Contenido:</string>
@@ -1177,12 +1142,12 @@ Echa un vistazo a los recomendados!"</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link" formatted="false">Lee y acepta nuestro %1s y %2s antes de usar esta función.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! %2s</string>
-    <string name="system_permission_declare_no_say_no">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
-Si no aceptas conceder dichos permisos ni compartir y subir tu información personal, no podrás usar esta aplicación."</string>
+    <string name="system_permission_declare_no_say_no">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
+Si no acepta conceder dichos permisos ni compartir o subir su información personal, no podrá usar esta aplicación."</string>
     <string name="system_permission_declare_privacy_declare">%1s necesita recolectar tus datos y los siguientes permisos para funcionar con normalidad:</string>
     <string name="system_permission_declare_privacy_declare_new">Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para funcionar con normalidad:</string>
     <string name="system_permission_declare_privacy_link">Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestra %1s.</string>
-    <string name="system_permission_declare_revoke_path">Puedes revocar tu autorización y desactivar los servicios en los ajustes de Mensajes.</string>
+    <string name="system_permission_declare_revoke_path">Puede revocar su autorización y desactivar los servicios en los ajustes de Mensajes.</string>
     <string name="system_permission_declare_single_link">Lee y acepta nuestra %1s antes de usar esta función.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Lee y acepta nuestro %1s, %2s y %3s antes de usar estas funciones.</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
