@@ -7,10 +7,10 @@
     <string name="Yesterday">Ahir</string>
     <string name="abc_action_bar_home_description">Navega a l\'inici</string>
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
-    <string name="abc_action_menu_overflow_description">Més</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
-    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+    <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -25,13 +25,14 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Contrau</string>
+    <string name="access_denied_info">Massa intents. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="account_bind_secure_email_title">Afegiu un correu electrònic de recuperació</string>
     <string name="account_bind_secure_phone_title">Afegiu un número de telèfon de recuperació</string>
     <string name="account_crop_user_avatar">Escapça la foto</string>
@@ -68,6 +69,8 @@
     <string name="activate_email_notice">Assegureu-vos d’activar el vostre compte en 24 hores</string>
     <string name="activity_not_found_notice">"No trobo l'aplicació"</string>
     <string name="ad">Anunci</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostra els esdeveniments a l\'area de notificacions</string>
+    <string name="ad_bar_notification_setting_title">Esdeveniments</string>
     <string name="ad_buy">Compra</string>
     <string name="ad_download">descarregar</string>
     <string name="ad_join">Unir-se a la comunitat</string>
@@ -96,6 +99,8 @@
     <string name="alert_dialog_download_prepare">S\'està preparant la baixada…</string>
     <string name="alert_dialog_download_progress">"Baixant l'aplicació: "</string>
     <string name="all">Mostrar tots</string>
+    <string name="app_description_content">"Mi Vídeo és una aplicació del sistema que conté un reproductor de vídeo local. Encara podreu reproduir fitxers de vídeo després de suprimir la drecera de la pantalla d'inici."</string>
+    <string name="app_description_title">Voleu suprimir \"Mi Vídeo\" de la pantalla d\'inici?</string>
     <string name="app_name">Mi Vídeo</string>
     <string name="auth_again">Acordar</string>
     <string name="auth_fail_warning">Sessió expirada. Inicieu la sessió de nou.</string>
@@ -104,6 +109,7 @@
     <string name="back_to_mainpage">Descobridor</string>
     <string name="before_yestoday">fa 2 dies</string>
     <string name="bind_sign_in_title">Afegeix Compte Mi</string>
+    <string name="brvah_app_name">Biblioteca</string>
     <string name="cancel">Cancel·la</string>
     <string name="cancel_choose">Deselecciona</string>
     <string name="cancel_subscribe_tips">Deixeu de seguir ara?</string>
@@ -149,6 +155,7 @@
     <string name="cast_tracks_chooser_dialog_ok">D\'acord</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Subtítols</string>
     <string name="cast_unmute">No activa</string>
+    <string name="catchplay_video">Catchplay</string>
     <string name="change_activate_email">Canvia l\'adreça de correu electrònic</string>
     <string name="change_password">Canvia la contrasenya</string>
     <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
@@ -173,6 +180,7 @@
     <string name="com_facebook_device_auth_instructions">Visiteu &lt;b&gt;facebook.com/device&lt;/b&gt; i introduïu el codi que es mostra més amunt.</string>
     <string name="com_facebook_image_download_unknown_error">Error inesperat al baixar una imatge.</string>
     <string name="com_facebook_internet_permission_error_message">L\'inici de sessió al WebView requereix permís INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Error d\'AndroidManifest</string>
     <string name="com_facebook_like_button_liked">Agradat</string>
     <string name="com_facebook_like_button_not_liked">M\'agrada</string>
     <string name="com_facebook_loading">S\'està carregant…</string>
@@ -235,7 +243,7 @@
     <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els serveis de Google Play actualitzats actualment."</string>
     <string name="common_google_play_services_wear_update_text">Es necessita una versió nova dels serveis de Google Play. S\'actualitzarà en breu.</string>
     <string name="common_open_on_phone">Obert per telèfon</string>
-    <string name="common_signin_button_text">Inicieu la sessió</string>
+    <string name="common_signin_button_text">Inicia la sessió</string>
     <string name="common_signin_button_text_long">Inicieu la sessió amb Google</string>
     <string name="confirm_activate_email">Verificat</string>
     <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon associat</string>
@@ -254,11 +262,24 @@
     <string name="diagnosis_log_sent_format">"Els registres s’han enviat correctament.
 ID: %s
 Envieu aquest codi al supervisor."</string>
+    <string name="dialog_disagree_privacychange_info">"No podreu utilitzar els serveis de transmissió en línia de Mi Video si no accepteu la nostra Política de privadesa. Toqueu \"Cancel·la\" per tornar enrere o \"No estic d'acord\" per continuar i utilitzar Mi Video només com a reproductor local."</string>
+    <string name="dialog_disagree_privacychange_title">"No hi esteu d'acord?"</string>
+    <string name="dialog_privacy_change_info">"Hem actualitzat la política de privadesa de Mi Vídeo a causa dels ajustos en els serveis que oferim. Per entendre completament els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d’usuari&lt;/a&gt; i la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar l’aplicació."</string>
+    <string name="dialog_privacy_change_title">Actualització de la política de privadesa</string>
     <string name="dialog_privacy_info_new2">"Per poder utilitzar els seus serveis, heu d'autoritzar que %1$s reculli, processi i utilitzi la vostra informació personal. Se suposarà que heu llegit i acceptat la nostra &lt;a href=%2$s&gt;Política de Privadesa&lt;/a&gt; quan premeu \"D'acord\" a sota."</string>
     <string name="dialog_privacy_info_new3">"Per poder utilitzar aquest servei, heu de permetre que %1$s recopili, processi i utilitzi la vostra informació personal d’acord amb la Política de privadesa. A el fer ús \"d'acord\" a continuació, vostè accepta de Xiaomi &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt; i &lt;a href=%3$s&gt;de l'usuari Acord&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Toqueu \"D'acord\" també permet a Mi Video accedir a la llista d'aplicacions instal·lades al dispositiu. Amb aquest permís, Mi Video podrà compartir elements, entendre si s’instal·la una aplicació al dispositiu, quina versió d’una aplicació s’instal·la i si una aplicació és segura."</string>
-    <string name="dialog_privacy_title">Autorització</string>
+    <string name="dialog_privacy_info_new4">"Us donem la benvinguda a Mi Vídeo. Aquesta aplicació proporciona els serveis següents:&lt;br&gt;&lt;/br&gt; - Serveis de transmissió en línia&lt;br&gt;&lt;/br&gt;- Un reproductor de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necessita recopilar la informació personal necessària per proporcionar-vos els serveis bàsics. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra Política de privadesa. Podreu canviar la configuració relacionada a Configuració &gt; Contrasenyes i seguretat.&lt;br&gt;&lt;/br&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d’usuari&lt;/a&gt; i la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar Mi Vídeo."</string>
+    <string name="dialog_privacy_revoke_cancel">Cancel·la</string>
+    <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
+    <string name="dialog_privacy_revoke_description">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la política de privadesa de Mi Vídeo. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. La retirada del consentiment a la Política de privadesa es considerarà com a denegació d’acceptar els serveis en línia basats en la informació personal recollida.</string>
+    <string name="dialog_privacy_revoke_fail">El dispositiu ha de connectar-se a la xarxa perquè pugueu retirar el consentiment. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
+    <string name="dialog_privacy_revoke_ok">Retira</string>
+    <string name="dialog_privacy_revoke_success">S\'ha retirat correctament</string>
+    <string name="dialog_privacy_revoking">Retirant el consentiment…</string>
+    <string name="dialog_privacy_title">Termes i condicions</string>
     <string name="dialog_revoke_privacy_info_new2">Després de revocar l’autorització, l’aplicació deixarà de recollir dades i totes les dades relacionades se suprimiran dels nostres servidors. Això podria fer que l’aplicació sigui pràcticament inutilitzable. Revocar l\'autorització?</string>
     <string name="dialog_revoke_privacy_title">Autorització de revocació</string>
+    <string name="disagree">"No hi estic d'acord"</string>
     <string name="diy_channels_tips">Ja podeu personalitzar la llista dels vostres canals.</string>
     <string name="do_not_show_again">"No es torni a mostrar"</string>
     <string name="download">descarregar</string>
@@ -398,7 +419,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Creació de vídeo…</string>
     <string name="galleryplus_gallery_video_slow_edit">Càmera lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostra les marques</string>
-    <string name="galleryplus_is_higher_definition">S\'ha obert la previsualització en HD</string>
+    <string name="galleryplus_is_higher_definition">Vista prèvia en HD</string>
     <string name="galleryplus_network_connect_check">"No s'ha pogut connectar a la xarxa"</string>
     <string name="galleryplus_network_connect_confirm">Connecta’t a Wi-Fi o activa les dades mòbils a la configuració de la xarxa.</string>
     <string name="galleryplus_network_error">"No s'ha pogut connectar a la xarxa"</string>
@@ -408,6 +429,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_online_cta_disagree">"No estic d'acord"</string>
     <string name="galleryplus_online_cta_title">Termes i condicions</string>
     <string name="galleryplus_online_video_loading">Un moment…</string>
+    <string name="galleryplus_orientation_lock">S\'ha bloquejat l\'orientació correctament</string>
+    <string name="galleryplus_orientation_unlock">L\'orientació de la pantalla està desbloquejada</string>
     <string name="galleryplus_permission_content">Doneu a Mi Video els permisos necessaris per poder utilitzar aquesta funció.</string>
     <string name="galleryplus_permission_content2">"Per poder utilitzar aquesta funció, aneu a Configuració &gt; Aplicacions &gt; Mi Video &gt; Permisos d'aplicacions i permetre a Mi Video fer el següent:
 
@@ -462,6 +485,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">En línia</string>
     <string name="hot">Popular</string>
+    <string name="i_know">Entesos</string>
     <string name="id_namespace">Hungama</string>
     <string name="identity">Identificació</string>
     <string name="inconsistent_pwd">"Les contrasenyes no coincideixen"</string>
@@ -483,6 +507,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="language_setting_tips">S\'ha desat correctament. Podeu modificar les preferències d\'idioma a la configuració.</string>
     <string name="language_setting_tips_dialog">Podeu seleccionar preferències d\'idioma per al contingut del llenguatge del compte &gt;.</string>
     <string name="later">No desactivar-ho</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite d\'Android basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per a Android</string>
     <string name="library_roundedimageview_libraryDescription">Un ImageView ràpid (i dibuixable) que admet les cantonades arrodonides (i ovals o cercles) basat en l\'exemple original de Romain Guy.</string>
     <string name="live_now">Viu ara</string>
     <string name="live_title">En directe</string>
@@ -494,7 +520,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="local_video_notification_title">S\'ha trobat un nou vídeo local</string>
     <string name="local_video_space">Ocupat: %s</string>
     <string name="lock_screen">Pantalla de bloqueig</string>
-    <string name="login">Inicieu la sessió</string>
+    <string name="login">Inicia la sessió</string>
     <string name="login_tip">Inicieu la sessió per poder rebre les nostres respostes al vostre comentari.</string>
     <string name="logo_neverthink">Comissariat per Neverthink.tv</string>
     <string name="logout">Tanca sessió</string>
@@ -548,7 +574,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="lv_home_localt">Local</string>
     <string name="lv_home_recent">Recents</string>
     <string name="lv_home_settings">Configuració</string>
-    <string name="lv_input_password">Introduir la contrasenya</string>
+    <string name="lv_input_password">Introduïu la contrasenya</string>
     <string name="lv_local_folder">Carpetes</string>
     <string name="lv_local_video">Vídeos</string>
     <string name="lv_media_type_unsported">"No es pot reproduir aquest format de vídeo."</string>
@@ -589,7 +615,10 @@ Envieu aquest codi al supervisor."</string>
     <string name="lv_subtitle_no_subtitle">"Els subtítols no estan disponibles"</string>
     <string name="lv_subtitle_non_subtitle_file">No hi ha fitxers de subtítols disponibles</string>
     <string name="lv_subtitle_offset_add_1s">+ 1s</string>
+    <string name="lv_subtitle_offset_add_dot5s">+0,5s</string>
     <string name="lv_subtitle_offset_normal">"No moveu subtítols"</string>
+    <string name="lv_subtitle_offset_sub_1s">-1s</string>
+    <string name="lv_subtitle_offset_sub_dot5s">-0,5s</string>
     <string name="lv_subtitle_onlinesub_language">Idioma: %s</string>
     <string name="lv_subtitle_onlinesub_loading">S\'estan carregant subtítols…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">S\'estan carregant subtítols…</string>
@@ -661,14 +690,17 @@ Envieu aquest codi al supervisor."</string>
     <string name="my_favorite_channels">Els meus canals preferits</string>
     <string name="my_feedback_title">El meu comentari</string>
     <string name="need_update_app">Actualitza Mi Video per utilitzar totes les seves funcions</string>
-    <string name="network_connect_info">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="network_connect_info">"No s'ha pogut connectar a la xarxa."</string>
+    <string name="network_error_info">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="network_failed">"No s'ha pogut connectar a la xarxa"</string>
+    <string name="network_timeout_info">"No s'ha pogut connectar a la xarxa. Torneu-ho a provar."</string>
     <string name="neverthink_player_loading">S\'està carregant el vídeo …desvetllar</string>
     <string name="new_channel_tip">Doneu un cop d\'ull als nous canals.</string>
     <string name="next">Pròxim</string>
     <string name="next_step">Següent</string>
     <string name="nick_name">Sobrenom</string>
     <string name="no_account">No s\'ha iniciat la sessió</string>
+    <string name="no_history">No hi ha elements aquí</string>
     <string name="no_longer_prompt">"No es torni a mostrar"</string>
     <string name="no_more_content">"Això és tot per ara"</string>
     <string name="no_network_tips">"No puc fer servir aquesta funció ara. L’accés a la xarxa està restringit."</string>
@@ -695,6 +727,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="off_tip_firework_recommend">"No rebràs recomanacions de contingut personalitzat de Firework"</string>
     <string name="ok">D\'acord</string>
     <string name="on_tip_firework_recommend">"Rebràs recomanacions de contingut personalitzat de Firework"</string>
+    <string name="open_settings">Configuració</string>
     <string name="order_recently_subscribe">Subscripcions recents</string>
     <string name="order_recently_updated">Actualitzat recentment</string>
     <string name="ovp_alert_dialog_download_install_task">S\'està baixant el connector HD…</string>
@@ -774,7 +807,7 @@ update meu vídeo a la versió més recent en primer lloc."</string>
     <string name="ovp_setting_clear_cache_success">S\'ha eliminat la memòria cau correctament</string>
     <string name="ovp_setting_clear_cache_text">Netegeu els fitxers de memòria cau desats al vostre dispositiu</string>
     <string name="ovp_setting_clear_cache_title">Netejar memòria cau</string>
-    <string name="ovp_setting_privacy_policy_title">Política de privacitat</string>
+    <string name="ovp_setting_privacy_policy_title">Política de privadesa</string>
     <string name="ovp_setting_privacy_switch_tips">"Algunes funcions no estaran disponibles si revoca l’autorització"</string>
     <string name="ovp_setting_privacy_switch_title">Autorització &amp; revocació</string>
     <string name="ovp_setting_user_agreement_title">Acord d\'usuari</string>
@@ -830,7 +863,7 @@ update meu vídeo a la versió més recent en primer lloc."</string>
     <string name="passport_input_vcode_hint">Introduïu el codi de verificació</string>
     <string name="passport_input_voice_captcha_hint">Introduïu el codi de verificació de veu</string>
     <string name="passport_input_voice_hint">Introduïu el codi de veu</string>
-    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el format següent: + [prefix] [número de telèfon], per exemple: +34 817282982)</string>
+    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el següent format: +[codi d\'àrea][número de telèfon], per exemple: +91 817282982)</string>
     <string name="passport_log_detail">Mostra els detalls</string>
     <string name="passport_login_failed">"No s'ha pogut iniciar la sessió"</string>
     <string name="passport_next">Següent</string>
@@ -936,6 +969,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="plus_menu_delete_popup_text">Vols suprimir ara?</string>
     <string name="plus_menu_properties">Propietats</string>
     <string name="plus_menu_rename">Canviar el nom</string>
+    <string name="plus_menu_rename_cant_empty">"El nom del fitxer no pot estar buit"</string>
     <string name="plus_menu_rename_fail">"El nom de fitxer no pot contenir \"/\""</string>
     <string name="plus_menu_share">Compartir</string>
     <string name="plus_mine_gallery">Els meus àlbums</string>
@@ -1031,6 +1065,9 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="plus_sort_type_time">Temps</string>
     <string name="plus_tab_gallery">Carpetes</string>
     <string name="plus_tab_time">Cronologia</string>
+    <string name="privacy_revoke_setting">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la Política de privadesa de Mi Vídeo.</string>
+    <string name="privacy_revoke_title">Retirada del consentiment</string>
+    <string name="progressbar_title">S\'està comprovant si hi ha problemes de seguretat…</string>
     <string name="psw_hint">Contrasenya</string>
     <string name="psw_sign_in">Inicieu sessió utilitzant la contrasenya</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Estireu per actualitzar…</string>
@@ -1068,6 +1105,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="report_content_violence">El discurs de l\'odi</string>
     <string name="report_fail">"No s'ha pogut informar Torna-ho a provar."</string>
     <string name="report_success">S\'ha informat correctament</string>
+    <string name="request_camera_permission_message">"Protegirem la vostra informació personal d’acord amb les lleis i regulacions pertinents. Aquesta aplicació necessita els permisos següents per funcionar amb normalitat:&lt;br&gt;&lt;br&gt;&lt;b&gt;Utilitzar la càmera (per configurar la foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no accepteu concedir aquests permisos, no podreu utilitzar algunes funcions d'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible per a vosaltres. Sempre podeu restringir els permisos o revocar la vostra autorització a la configuració."</string>
     <string name="resend_active_email">Reenvia</string>
     <string name="resend_email_reach_limit_message">"Heu sol·licitat massa correus de verificació. Assegureu-vos que el correu de verificació no estigui a la carpeta de correu brossa de la safata d'entrada."</string>
     <string name="resend_email_reach_limit_title">Massa intents</string>
@@ -1094,6 +1132,8 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="screenrecord_cancel">Problemes de compatibilitat</string>
     <string name="screenrecord_nosupport_record">"La gravadora de pantalla actualment no és compatible amb aquest dispositiu."</string>
     <string name="search">Cerca</string>
+    <string name="search_bar_hint">Cerca vídeos</string>
+    <string name="search_bar_video_download_hint">Cerqueu o introduïu l\'URL</string>
     <string name="search_choose_language">Escolliu l\'idioma</string>
     <string name="search_choose_voice_language">Seleccioneu l’idioma que s’utilitza per a la cerca de veu</string>
     <string name="search_hot_words">Popular</string>
@@ -1164,6 +1204,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="sync_favorites_limit">"Hi ha més de 500 vídeos als teus favorits. Per continuar sincronitzant, hem de suprimir alguns dels vídeos anteriors."</string>
     <string name="sync_favorites_message">Sincronitzar els favorits d’aquest dispositiu amb el vostre compte? Els elements que ja no estan disponibles seran eliminats.</string>
     <string name="sync_favorites_title">Sincronitza els favorits</string>
+    <string name="system_error_info">El sistema està ocupat. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="t_check_hide_file">Seleccioneu els elements que voleu amagar</string>
     <string name="t_check_unhide_file">Seleccioneu els elements que voleu publicar</string>
     <string name="t_downloading">Descàrrega:</string>
@@ -1216,6 +1257,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="ugc_no_net">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="ui_log_tip">Toqueu aquesta àrea per ocultar-la, manteniu premuda per eliminar els registres antics. Arrossegueu els registres manualment.</string>
     <string name="unknow">Desconegut</string>
+    <string name="unknown_error_info">Error desconegut</string>
     <string name="update">Actualitza</string>
     <string name="update_email_address_dialog_message">Heu de verificar la vostra identitat abans d’actualitzar el correu de recuperació.</string>
     <string name="update_email_address_dialog_title">Actualitza el correu de recuperació</string>
@@ -1236,8 +1278,8 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="v_data_empty">No hi ha articles aquí</string>
     <string name="v_exit">Surt</string>
     <string name="v_finish">Fet</string>
-    <string name="v_input_password">Introduir la contrasenya</string>
-    <string name="v_login">Inicieu la sessió</string>
+    <string name="v_input_password">Introduïu la contrasenya</string>
+    <string name="v_login">Inicia la sessió</string>
     <string name="v_menu_hide">Amagar</string>
     <string name="v_more">Més</string>
     <string name="v_network_failed">"No s'ha pogut connectar a la xarxa"</string>
@@ -1252,7 +1294,19 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="v_txt_login">Inicieu la sessió per sincronitzar els vostres favorits</string>
     <string name="v_update">Actualitza</string>
     <string name="video_already_download_tip">"Ja heu descarregat aquest element"</string>
+    <string name="video_download_btn">Baixa</string>
     <string name="video_download_fail">"No s'ha pogut descarregar el vídeo"</string>
+    <string name="video_download_fail_hint">"No s'ha pogut baixar"</string>
+    <string name="video_download_floating_guide">Baixeu vídeos de forma gratuïta</string>
+    <string name="video_download_forbidden">"No es pot baixar des d'aquest lloc web"</string>
+    <string name="video_download_network_error">Error de xarxa</string>
+    <string name="video_download_play_video_guide">En primer lloc, reproduïu el vídeo.</string>
+    <string name="video_download_play_video_guide2">A continuació, toqueu el botó per baixar-lo.</string>
+    <string name="video_download_site_search">URL</string>
+    <string name="video_download_source">Baixada web</string>
+    <string name="video_download_start">S\'està baixant…</string>
+    <string name="video_download_storage_error">No hi ha prou espai d\'emmagatzematge</string>
+    <string name="video_downloading">S\'està baixant…</string>
     <string name="video_live_over">Aquesta sessió s’ha acabat</string>
     <string name="video_noyet_download_tip">Aquest vídeo encara s\'està baixant</string>
     <string name="video_offline">Aquest element ja no està disponible</string>
@@ -1278,4 +1332,12 @@ Mida d'actualització Delta: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">L\'emmagatzematge no està disponible. Comproveu la targeta SD.</string>
     <string name="year">curs</string>
     <string name="yesterday">Ahir</string>
+    <string name="ytb_account">Comptes</string>
+    <string name="ytb_author_video">Vídeos</string>
+    <string name="ytb_login">Inicia la sessió</string>
+    <string name="ytb_login_btn">Inicia la sessió</string>
+    <string name="ytb_login_hint">Inicieu la sessió per veure les vostres subscripcions a YouTube</string>
+    <string name="ytb_logout">Tanca la sessió</string>
+    <string name="ytb_play_next">A continuació</string>
+    <string name="ytb_subscribed">Subscripcions</string>
 </resources>
