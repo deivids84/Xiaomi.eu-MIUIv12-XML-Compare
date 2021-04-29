@@ -29,8 +29,8 @@
         <item quantity="one">Introduce tu contraseña al menos una vez cada %d hora para recordarla siempre</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Introduce tu patrón al menos una vez cada %d horas para recordarlo siempre</item>
-        <item quantity="one">Introduce tu patrón al menos una vez cada %d hora para recordarlo siempre</item>
+        <item quantity="other">Introduce tu contraseña al menos una vez cada %d horas para recordarla siempre</item>
+        <item quantity="one">Introduce tu contraseña al menos una vez cada %d hora para recordarla siempre</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Queda alrededor de %d horas</item>
@@ -52,6 +52,10 @@
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d m</item>
+        <item quantity="one">%1$d h %2$d m</item>
+    </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">%d horas restantes</item>
         <item quantity="one">%d hora restante</item>
@@ -61,11 +65,11 @@
         <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d h %2$d m restantes</item>
-        <item quantity="one">%1$d h %2$d m restante</item>
+        <item quantity="other">%1$d horas %2$d minutos restantes</item>
+        <item quantity="one">%1$d hora %2$d minuto restante</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Introduce el PIN de la SIM, tienes %d intentos restantes.</item>
+        <item quantity="other">Introduce el PIN de la SIM, tienes %d intentos restantes antes de que debas contactar con tu operador para desbloquear el dispositivo.</item>
         <item quantity="one">Introduce el PIN de la SIM, tienes %d intento restante antes de que debas contactar con tu operador para desbloquear el dispositivo.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
@@ -77,8 +81,8 @@
         <item quantity="one">La SIM fue deshabilitada. Introduce el código PUK para continuar. Tienes %d intento restante antes de que la SIM se vuelva inutilizable. Contacta con tu operador para más detalles.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">PIN incorrecto. Tiene %d intentos restantes antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
-        <item quantity="one">PIN incorrecto. Tiene %d intento restante antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
+        <item quantity="other">PIN de la SIM incorrecto. Tienes %d intentos restantes.</item>
+        <item quantity="one">PIN de la SIM incorrecto. Tienes %d intento restante antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code_multi_sim">
         <item quantity="other">Código PIN%1$d de la tarjeta SIM incorrecto, te quedan %2$d intentos restantes.</item>
@@ -101,8 +105,8 @@
         <item quantity="one">"El dispositivo no ha sido desbloqueado por %d hora. Confirma el PIN."</item>
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Vuelve a intentarlo en %d segundos.</item>
-        <item quantity="one">Vuelve a intentarlo en %d segundo.</item>
+        <item quantity="other">Vuelva a intentarlo en %d segundos.</item>
+        <item quantity="one">Vuelva a intentarlo en 1 segundo.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d nuevas notificaciones</item>
@@ -133,8 +137,8 @@
         <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="user_limit_reached_message">
-        <item quantity="other">Puedes añadir hasta %d usuarios.</item>
-        <item quantity="one">Sólo un usuario puede ser creado.</item>
+        <item quantity="other">Puede añadir hasta %d usuarios.</item>
+        <item quantity="one">Solo se puede crear un usuario.</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispositivos conectados</item>
