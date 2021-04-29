@@ -317,6 +317,7 @@ Selection"</string>
     <string name="disabled">Disabled</string>
     <string name="disabled_by_admin">Disabled by admin</string>
     <string name="disabled_by_admin_summary_text">Controlled by admin</string>
+    <string name="do_not_show_again">"Don't show again"</string>
     <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
     <string name="enable_account_preference_title">Calling accounts</string>
     <string name="enable_adb">USB debugging</string>
@@ -534,6 +535,11 @@ Selection"</string>
     <string name="runningservices_settings_summary">View and control currently running services</string>
     <string name="runningservices_settings_title">Running services</string>
     <string name="saved_network">Saved by %1$s</string>
+    <string name="scam_cancle">Cancel</string>
+    <string name="scam_message">"You're setting up call forwarding. After this, all your incoming calls will be answered by the %1$s phone number. If you don't own this forwarding number, you might be at risk of exposing your personal information or compromising the security of your property. Use this feature with caution."</string>
+    <string name="scam_message_2">**21*Forwarding number# is the call forwarding code. Contact your carrier if you have any questions.</string>
+    <string name="scam_ok">Dial</string>
+    <string name="scam_title">Fraud risk reminder</string>
     <string name="screen_zoom_summary_custom">Custom (%d)</string>
     <string name="screen_zoom_summary_default">Default</string>
     <string name="screen_zoom_summary_extremely_large">Largest</string>
@@ -575,10 +581,6 @@ Selection"</string>
     <string name="show_touches">Show taps</string>
     <string name="show_touches_summary">Show visual feedback for taps</string>
     <string name="simulate_color_space">Simulate color space</string>
-    <string name="softap_beacon_protection">Enable SoftAp Beacon Protection</string>
-    <string name="softap_beacon_protection_summary">Enable SoftAp beacon protection using Hotspot</string>
-    <string name="softap_ocv">Enable SoftAp OCV</string>
-    <string name="softap_ocv_summary">Enable SoftAp OCV using Hotspot</string>
     <string name="speed_label_fast">Fast</string>
     <string name="speed_label_medium">Medium</string>
     <string name="speed_label_okay">OK</string>
@@ -737,8 +739,6 @@ Any user can update apps for all other users."</string>
     <string name="wifi_limited_connection">Limited connection</string>
     <string name="wifi_metered_label">Metered</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_new_network_auto_connection">SSID Bridging ‑ Auto Connection</string>
-    <string name="wifi_new_network_auto_connection_summary">Enable auto connection attempts to a new WPA/WPA2‑PSK 5GHz SSID with current connected WPA/WPA2‑PSK 2GHz SSID credentials on SSID and BSSID partial match</string>
     <string name="wifi_no_internet">No internet access</string>
     <string name="wifi_no_internet_no_reconnect">"Won't automatically connect"</string>
     <string name="wifi_not_in_range">Not in range</string>
@@ -799,8 +799,6 @@ Please check validity of certificates"</string>
 Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
-    <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
-    <string name="wifi_whitelist_roaming_summary">Enable roaming between different SSID WPA/WPA2‑PSK APs with same gateway MAC address</string>
     <string name="window_animation_scale_title">Window animation scale</string>
     <string name="zen_alarm_warning">"You won't hear your next alarm %1$s"</string>
     <string name="zen_alarm_warning_indef">"You won't hear your next alarm %1$s unless you turn this off before then"</string>
