@@ -8,9 +8,12 @@
         <item>perseus</item>
         <item>andromeda</item>
         <item>cepheus</item>
+        <item>gauguin</item>
+        <item>gauguininpro</item>
         <item>grus</item>
         <item>equuleus</item>
         <item>violet</item>
+        <item>gram</item>
         <item>pyxis</item>
         <item>davinci</item>
         <item>davinciin</item>
@@ -35,6 +38,31 @@
         <item>vangogh</item>
         <item>toco</item>
         <item>tocoin</item>
+        <item>surya</item>
+        <item>karna</item>
+        <item>cas</item>
+        <item>apollo</item>
+        <item>citrus</item>
+        <item>lime</item>
+        <item>venus</item>
+        <item>sweet</item>
+        <item>sweetin</item>
+        <item>courbet</item>
+        <item>cetus</item>
+        <item>haydn</item>
+        <item>haydnin</item>
+        <item>star</item>
+        <item>mars</item>
+        <item>mojito</item>
+        <item>courbet</item>
+        <item>renoir</item>
+        <item>rainbow</item>
+        <item>sunny</item>
+        <item>thyme</item>
+        <item>alioth</item>
+        <item>aliothin</item>
+        <item>vayu</item>
+        <item>vayuin</item>
     </string-array>
     <string-array name="device_use_cameraone">
         <item>jason</item>
@@ -58,6 +86,11 @@
         <item>olivelite</item>
         <item>pine</item>
         <item>olivewood</item>
+        <item>willow</item>
+        <item>lime</item>
+        <item>citrus</item>
+        <item>lemon</item>
+        <item>pomelo</item>
     </string-array>
     <string-array name="device_use_resident_memory">
         <item>jason</item>
@@ -70,10 +103,26 @@
         <item>sagit</item>
         <item>chiron</item>
     </string-array>
+    <string-array name="get_frame_nonsequence">
+        <item>sunny</item>
+        <item>mojito</item>
+        <item>curtana</item>
+        <item>secret</item>
+        <item>maltose</item>
+        <item>joyeuse</item>
+        <item>excalibur</item>
+        <item>ares</item>
+        <item>ginkgo</item>
+    </string-array>
     <string-array name="retry_connect_camera">
         <item>laurus</item>
         <item>platina</item>
         <item>willow</item>
+        <item>lime</item>
+        <item>citrus</item>
         <item>lavender</item>
+        <item>ginkgo</item>
+        <item>lemon</item>
+        <item>pomelo</item>
     </string-array>
 </resources>
