@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navega a l\'inici</string>
-    <string name="abc_action_bar_up_description">Mou cap a dalt</string>
-    <string name="abc_action_menu_overflow_description">Més</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
-    <string name="abc_activitychooserview_choose_application">Seleccioneu una aplicació</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+    <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -56,6 +56,15 @@
     <string name="category_select">Trieu</string>
     <string name="category_video">Vídeos</string>
     <string name="category_video_title">Vídeos</string>
+    <string name="channel_pc_edit">Editat a l\'ordinador</string>
+    <string name="channel_pc_upload">Penjat des de l\'ordinador</string>
+    <string name="channel_pc_view">Visualitzat a l\'ordinador</string>
+    <string name="channel_phone_edit">Editat al telèfon</string>
+    <string name="channel_phone_upload">Penjat des del telèfon</string>
+    <string name="channel_phone_view">Visualitzat al telèfon</string>
+    <string name="channel_web_edit">Editat al navegador</string>
+    <string name="channel_web_upload">Penjat al navegador</string>
+    <string name="channel_web_view">Visualitzat al navegador</string>
     <string name="clear_cache_success">Registre de trucades eliminat</string>
     <string name="cloud_gallery_to_pdf">Generat automàticament</string>
     <string name="cloud_storage_already_full">L’emmagatzematge al núvol està complet: %1$s/%2$s</string>
@@ -81,8 +90,12 @@
     <string name="create_pdf_manual">Nou PDF</string>
     <string name="current_speed_content">Velocitat actual: %1$s</string>
     <string name="delete_file_success">S\'ha eliminat correctament</string>
+    <string name="delete_operation_record">Voleu suprimir aquest registre?</string>
+    <string name="delete_operation_record_timeout">"No s'ha pogut suprimir el registre. Espereu un minut o dos i torneu-ho a provar."</string>
     <string name="delete_record_only">"Els elements als quals fan referència els registres seleccionats no se suprimiran."</string>
     <string name="delete_success">S\'ha eliminat correctament</string>
+    <string name="detail_download_path">"Ubicació: "</string>
+    <string name="detail_download_time">"Baixat: "</string>
     <string name="dialog_content_delete_pdf_content">Voleu suprimir aquest PDF ara?</string>
     <string name="dialog_copy_storage_full_desc">"No es poden copiar elements perquè no hi ha prou espai d'emmagatzematge al núvol. Actualitzeu el vostre pla per obtenir més espai d'emmagatzematge."</string>
     <string name="dialog_copy_storage_full_title">"No es pot copiar"</string>
@@ -168,12 +181,14 @@
     <string name="file_upload_dialog_cancel">Surt</string>
     <string name="file_upload_dialog_title">Trieu una categoria</string>
     <string name="h5_ppt_to_pdf_introduce_title">Quant a la conversió de diapositives a PDF</string>
+    <string name="home_action_up">Enrere</string>
     <string name="i_know">Entesos</string>
     <string name="image_picker_title">Seleccioneu les imatges</string>
     <string name="image_preview_cover_failed">"No s'ha pogut carregar. Torneu-ho a provar."</string>
     <string name="image_preview_download_failed">"No s'ha pogut obrir la imatge original"</string>
     <string name="image_preview_open_large_image">Obre la imatge original (%s)</string>
     <string name="inner_storage_path">Emmagatzematge intern</string>
+    <string name="jump_to_directory">Obre la carpeta</string>
     <string name="just_now">Ara mateix</string>
     <string name="license_host_unreachable">"El vostre dispositiu no està connectat a serveis al núvol. Per veure aquest element, visiteu %s en qualsevol dispositiu connectat."</string>
     <string name="load_label_up_no_data">No hi ha més elements a mostrar</string>
@@ -195,7 +210,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="micloud_space_duokan_title">Espai d\'emmagatzematge de Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Obriu l'aplicació Recorder al telèfon i seleccioneu la carpeta amb els elements emmagatzemats al núvol.
 Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."</string>
-    <string name="micloud_space_soundrecorder_title">enregistraments d’àudio</string>
+    <string name="micloud_space_soundrecorder_title">Enregistraments d\'àudio</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -225,6 +240,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="navigation_file">Fitxers</string>
     <string name="navigation_my">Perfil</string>
     <string name="navigation_transport">Transferències</string>
+    <string name="no_recent_activity">No hi ha elements recents aquí</string>
     <string name="not_set">Sense definir</string>
     <string name="not_support_upload_file_for_overseas_users">"La càrrega no està disponible fora de la Xina continental"</string>
     <string name="notification_channel_remind">Recordatoris</string>
@@ -240,6 +256,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="operation_dialog_copy_message">Copiant&#8230;</string>
     <string name="operation_dialog_create_folder_message">S\'està creant la carpeta…</string>
     <string name="operation_dialog_delete_message">S\'està eliminant…</string>
+    <string name="operation_dialog_jump_message">Obrint la carpeta…</string>
     <string name="operation_dialog_move_message">Movent&#8230;</string>
     <string name="operation_dialog_rename_message">Canviant el nom de…</string>
     <string name="operation_download">Baixada gratuïta</string>
@@ -249,6 +266,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="operation_save">Desa</string>
     <string name="operation_sure_to_delete">Voleu suprimir-ho ara?</string>
     <string name="operation_transport_success">S\'ha afegit a les transferències correctament</string>
+    <string name="operation_will_not_show_after_delete">El registre deixarà d\'aparèixer aquí si el suprimiu.</string>
     <string name="pause_all">Pausa-ho tot</string>
     <string name="pause_download">En pausa</string>
     <string name="pause_upload">Aturat</string>
@@ -269,6 +287,8 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="private_empty_sub_desc">Proveu de moure fitxers aquí o pengeu-los directament.</string>
     <string name="private_folder_name">Arxius privats</string>
     <string name="ptp_ai_recommend_empty_page">Aquí no es genera cap PDF automàtic</string>
+    <string name="recent_file">Recents</string>
+    <string name="recent_jump_to_privacy_fail_notice">Aquest fitxer és privat. Torneu a la pàgina inicial i tireu cap avall per veure\'l.</string>
     <string name="refresh_label_pull_to_refresh">Tira avall per recarregar</string>
     <string name="refresh_label_refreshed">Actualitzat correctament</string>
     <string name="refresh_label_refreshing">S\'està actualitzant&#8230;</string>
@@ -304,6 +324,9 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="setting_title">Configuració</string>
     <string name="shortcut_dialog_confirm">Crear</string>
     <string name="shortcut_dialog_content">Voleu crear una drecera de pantalla d\'inici per a Mi Drive?</string>
+    <string name="speed_unit_gb">%s GB/s</string>
+    <string name="speed_unit_kb">%s KB/s</string>
+    <string name="speed_unit_mb">%s MB/s</string>
     <string name="start_download">S\'està iniciant la baixada…</string>
     <string name="start_upload">Començant a penjar…</string>
     <string name="stay_tuned">Estigueu atents</string>
@@ -320,7 +343,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="text_select_nothing">Desselecciona-ho tot</string>
     <string name="tip_shortcut_added_success">S\'ha creat amb èxit</string>
     <string name="tip_shortcut_already_added">La drecera de la pantalla d’inici ja existeix</string>
-    <string name="transfer_done">Amb èxit</string>
+    <string name="transfer_done">Fet</string>
     <string name="transport_end_button">Edita\'l</string>
     <string name="transport_title">Transferències</string>
     <string name="unlock_password_dialog_msg">S\'utilitzarà una contrasenya de protecció de privadesa. Funciona per a fotos, notes i fitxers.</string>
@@ -347,7 +370,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="upload_metered_network_dialog_title">Utilitza les dades mòbils</string>
     <string name="uploading">S\'està pujant</string>
     <string name="user_agreement_title">Acord d\'usuari de Mi Drive</string>
-    <string name="user_protocol_and_privacy_protocol">"He llegit i he acceptat l'acord d'usuari i la política de privadesa."</string>
+    <string name="user_protocol_and_privacy_protocol"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;\".</Data></string>
     <string name="v7_preference_off">DESACTIVA</string>
     <string name="v7_preference_on">Activat</string>
     <string name="video_picker_title">Selecciona vídeos</string>
