@@ -56,6 +56,15 @@
     <string name="category_select">Seleccionar</string>
     <string name="category_video">Vídeos</string>
     <string name="category_video_title">Vídeos</string>
+    <string name="channel_pc_edit">Editado en el ordenador</string>
+    <string name="channel_pc_upload">Subido desde el ordenador</string>
+    <string name="channel_pc_view">Visto en el ordenador</string>
+    <string name="channel_phone_edit">Editado en el teléfono</string>
+    <string name="channel_phone_upload">Cargado desde el teléfono</string>
+    <string name="channel_phone_view">Visto en el teléfono</string>
+    <string name="channel_web_edit">Editado en el navegador</string>
+    <string name="channel_web_upload">Cargado en el navegador</string>
+    <string name="channel_web_view">Visto en el navegador</string>
     <string name="clear_cache_success">Borrado con éxito</string>
     <string name="cloud_gallery_to_pdf">Auto generado</string>
     <string name="cloud_storage_already_full">El almacenamiento en la nube está lleno: %1$s/%2$s</string>
@@ -81,8 +90,12 @@
     <string name="create_pdf_manual">Nuevo PDF</string>
     <string name="current_speed_content">Velocidad actual: %1$s</string>
     <string name="delete_file_success">Borrado con éxito</string>
+    <string name="delete_operation_record">¿Eliminar este registro?</string>
+    <string name="delete_operation_record_timeout">"No se pudo borrar el registro. Espere uno o dos minutos y vuelva a intentarlo."</string>
     <string name="delete_record_only">"Los elementos a los que se refieren los registros seleccionados no serán eliminados."</string>
     <string name="delete_success">Eliminado correctamente</string>
+    <string name="detail_download_path">"Ubicación: "</string>
+    <string name="detail_download_time">"Descargado: "</string>
     <string name="dialog_content_delete_pdf_content">¿Eliminar este PDF ahora?</string>
     <string name="dialog_copy_storage_full_desc">"No se pueden copiar los elementos porque no hay suficiente espacio de almacenamiento en la nube. Actualiza tu plan para obtener más espacio de almacenamiento."</string>
     <string name="dialog_copy_storage_full_title">"No se puede copiar"</string>
@@ -168,12 +181,14 @@
     <string name="file_upload_dialog_cancel">Cancelar</string>
     <string name="file_upload_dialog_title">Seleccionar categoría</string>
     <string name="h5_ppt_to_pdf_introduce_title">Acerca de la conversión de diapositivas a PDF</string>
+    <string name="home_action_up">Volver</string>
     <string name="i_know">Entendido</string>
     <string name="image_picker_title">Seleccionar imágenes</string>
     <string name="image_preview_cover_failed">"No se pudo cargar. Inténtalo de nuevo."</string>
     <string name="image_preview_download_failed">"No se pudo abrir la imagen original"</string>
     <string name="image_preview_open_large_image">Abrir imagen original (%s)</string>
     <string name="inner_storage_path">Almacenamiento interno</string>
+    <string name="jump_to_directory">Abrir carpeta</string>
     <string name="just_now">Justo ahora</string>
     <string name="license_host_unreachable">"Tu dispositivo no está conectado a los servicios en la nube. Para ver este elemento, visita %s en cualquier dispositivo conectado."</string>
     <string name="load_label_up_no_data">No hay más elementos para mostrar</string>
@@ -210,7 +225,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="music_picker_title">Seleccionar música</string>
     <string name="music_play_attention_network_traffic">El uso de datos móviles para transmitir audio y video puede generar tarifas adicionales</string>
     <string name="music_play_online">Transmisión</string>
-    <string name="music_play_online_network_not_available">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="music_play_online_network_not_available">"No se pudo conectar a la red. Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="music_preview_download_failed">"No se pudo cargar"</string>
     <string name="music_preview_failed">"No se puede reproducir este archivo de audio"</string>
     <string name="music_preview_title_loading">Un momento…</string>
@@ -225,6 +240,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="navigation_file">Archivos</string>
     <string name="navigation_my">Perfil</string>
     <string name="navigation_transport">Transferencias</string>
+    <string name="no_recent_activity">No hay elementos recientes aquí</string>
     <string name="not_set">No establecido</string>
     <string name="not_support_upload_file_for_overseas_users">"La carga no está disponible fuera de China continental"</string>
     <string name="notification_channel_remind">Recordatorios</string>
@@ -240,6 +256,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="operation_dialog_copy_message">Copiando…</string>
     <string name="operation_dialog_create_folder_message">Creando carpeta…</string>
     <string name="operation_dialog_delete_message">Eliminando…</string>
+    <string name="operation_dialog_jump_message">Abriendo carpeta…</string>
     <string name="operation_dialog_move_message">Moviendo…</string>
     <string name="operation_dialog_rename_message">Renombrando…</string>
     <string name="operation_download">Descargar</string>
@@ -249,6 +266,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="operation_save">Guardar</string>
     <string name="operation_sure_to_delete">¿Eliminar ahora?</string>
     <string name="operation_transport_success">Añadido a transferencias con éxito</string>
+    <string name="operation_will_not_show_after_delete">El registro ya no aparecerá aquí si lo borra.</string>
     <string name="pause_all">Pausar todo</string>
     <string name="pause_download">En pausa</string>
     <string name="pause_upload">En pausa</string>
@@ -269,6 +287,8 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="private_empty_sub_desc">Intente mover archivos aquí o cárguelos directamente.</string>
     <string name="private_folder_name">Archivos privados</string>
     <string name="ptp_ai_recommend_empty_page">No hay archivos PDF generados automáticamente aquí</string>
+    <string name="recent_file">Reciente</string>
+    <string name="recent_jump_to_privacy_fail_notice">Este archivo es privado. Regrese a la página de inicio y desliza hacia abajo para ver.</string>
     <string name="refresh_label_pull_to_refresh">Tira hacia abajo para actualizar</string>
     <string name="refresh_label_refreshed">Actualizado con éxito</string>
     <string name="refresh_label_refreshing">Actualizando…</string>
@@ -304,6 +324,9 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="setting_title">Ajustes</string>
     <string name="shortcut_dialog_confirm">Crear</string>
     <string name="shortcut_dialog_content">¿Crear un acceso directo en la pantalla de inicio para Mi Drive?</string>
+    <string name="speed_unit_gb">%s GB/s</string>
+    <string name="speed_unit_kb">%s KB/s</string>
+    <string name="speed_unit_mb">%s MB/s</string>
     <string name="start_download">Comenzando a descargar…</string>
     <string name="start_upload">Comenzando a subir…</string>
     <string name="stay_tuned">Manténganse al tanto</string>
@@ -330,9 +353,9 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="update_dialog_content">"Nueva versión: %1$s
 %2$s"</string>
     <string name="update_dialog_title">Hay una actualización disponible</string>
-    <string name="update_failed">Ocurrió un error en el servidor. Espera uno o dos minutos y vuelve a intentarlo.</string>
+    <string name="update_failed">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="update_failed_no_app_info">"No se pudo obtener el paquete de instalación"</string>
-    <string name="update_no_network">"No se pudo conectar a la red. Verifica la configuración de tu red y vuelve a intentarlo."</string>
+    <string name="update_no_network">"No se pudo conectar a la red. Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="update_no_update">La versión actual está actualizada</string>
     <string name="update_progress_dialog_content">Descargando…</string>
     <string name="upload_done">Subido con éxito</string>
@@ -347,7 +370,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="upload_metered_network_dialog_title">Usando datos móviles</string>
     <string name="uploading">Subiendo</string>
     <string name="user_agreement_title">Acuerdo de Usuario de Mi Drive</string>
-    <string name="user_protocol_and_privacy_protocol">"He leído y acepto el Acuerdo de Usuario y la Política de Privacidad."</string>
+    <string name="user_protocol_and_privacy_protocol"><Data>\"He leído y acepto el &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
     <string name="v7_preference_off">Apagado</string>
     <string name="v7_preference_on">Encendido</string>
     <string name="video_picker_title">Seleccionar vídeos</string>
