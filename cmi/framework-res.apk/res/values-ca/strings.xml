@@ -15,7 +15,7 @@
     <string name="ColpMmi">ID de línia connectada</string>
     <string name="ColrMmi">Restricció d\'ID de línia connectada</string>
     <string name="CwMmi">Trucada en espera</string>
-    <string name="DndMmi">No molesteu</string>
+    <string name="DndMmi">No molestis</string>
     <string name="EmergencyCallWarningSummary">No es poden fer trucades d\'emergència mitjançant la WLAN</string>
     <string name="EmergencyCallWarningTitle">Trucada d’emergència no disponible</string>
     <string name="Midnight">Mitjanit</string>
@@ -331,7 +331,7 @@ Podeu canviar aquesta drecera a una altra funció a Configuració &gt; Accessibi
 
 \"<annotation id="url">Més informació</annotation></string>
     <string name="battery_saver_notification_channel_name">Estalvi de bateria</string>
-    <string name="battery_saver_off_notification_title">Estalvi de bateria apagat</string>
+    <string name="battery_saver_off_notification_title">L\'estalvi de bateria s\'ha desactivat</string>
     <string name="beforeOneMonthDurationPast">Abans de fa 1 mes</string>
     <string name="biometric_dialog_default_title">Verifica que ets tu</string>
     <string name="biometric_error_canceled">S\'ha cancel·lat l\'autenticació</string>
@@ -421,10 +421,10 @@ utilitzat %s"</string>
     <string name="data_usage_rapid_title">Ús de dades mòbils elevat</string>
     <string name="data_usage_restricted_body">Toqueu per eliminar la restricció.</string>
     <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
-    <string name="data_usage_warning_body">"Toqueu per veure l'ús i la configuració."</string>
+    <string name="data_usage_warning_body">"Heu utilitzat %s de dades"</string>
     <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
     <string name="data_usage_wifi_limit_snoozed_title">Límit de dades Wi-Fi superat</string>
-    <string name="data_usage_wifi_limit_title">S\'ha arribat al límit de dades Wi-Fi</string>
+    <string name="data_usage_wifi_limit_title">Límit de dades Wi-Fi assolit</string>
     <string name="date_picker_decrement_day_button">Redueix els dies</string>
     <string name="date_picker_decrement_month_button">Redueix els mesos</string>
     <string name="date_picker_decrement_year_button">Redueix els anys</string>
@@ -547,7 +547,7 @@ utilitzat %s"</string>
     <string name="ext_media_unsupported_notification_message">Aquest dispositiu no és compatible amb aquest %s. Toqueu per configurar-lo en un format compatible.</string>
     <string name="ext_media_unsupported_notification_title">%s incompatible</string>
     <string name="extract_edit_menu_button">Edita</string>
-    <string name="face_acquired_insufficient">No s\'ha pogut capturar les dades de la cara exactes. Torneu-ho a provar.</string>
+    <string name="face_acquired_insufficient">No s\'han pogut capturar les dades facials precises. Torneu-ho a provar.</string>
     <string name="face_acquired_not_detected">Situeu la cara directament davant del telèfon.</string>
     <string name="face_acquired_obscured">Elimineu qualsevol cosa que amagui la cara.</string>
     <string name="face_acquired_pan_too_extreme">Gireu una mica menys el cap.</string>
@@ -593,6 +593,8 @@ utilitzat %s"</string>
     <string name="factorytest_not_system">L\'acció FACTORY_TEST només és compatible amb els paquets instal·lats a /system/app.</string>
     <string name="factorytest_reboot">Reinicia</string>
     <string name="failed_to_copy_to_clipboard">No s\'ha pogut copiar al porta-retalls</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">S\'ha completat el codi de funció.</string>
     <string name="fcError">Problema de connexió o codi de funció no vàlid.</string>
     <string name="find">Cerca</string>
@@ -931,7 +933,6 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="mediasize_na_tabloid">Tabloide</string>
     <string name="mediasize_unknown_landscape">Mida horitzontal desconeguda</string>
     <string name="mediasize_unknown_portrait">Mida vertical desconeguda</string>
-    <string name="megabyteShort">MB</string>
     <string name="meid">MEID</string>
     <string name="menu_alt_shortcut_label">Alt+</string>
     <string name="menu_ctrl_shortcut_label">Ctrl+</string>
@@ -993,7 +994,7 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="network_switch_metered_toast">Canviat de %1$s a %2$s</string>
     <string name="network_switch_type_name_unknown">tipus de xarxa desconeguda</string>
     <string name="new_app_action">Inicia %1$s</string>
-    <string name="new_app_description">Atura l\'aplicació antiga sense desar.</string>
+    <string name="new_app_description">%1$s es tancarà sense desar</string>
     <string name="new_sms_notification_content">Obre l\'aplicació SMS per veure\'ls</string>
     <string name="new_sms_notification_title">Teniu missatges nous</string>
     <string name="next_button_label">Següent</string>
@@ -1039,7 +1040,7 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="notification_channel_virtual_keyboard">Teclat virtual</string>
     <string name="notification_channel_voice_mail">Missatges de correu de veu</string>
     <string name="notification_channel_vpn">Estat de la VPN</string>
-    <string name="notification_channel_wfc">Trucades WLAN</string>
+    <string name="notification_channel_wfc">Trucades per Wi-Fi</string>
     <string name="notification_description">Estat de la trucada de veu</string>
     <string name="notification_hidden_text">Contingut ocult</string>
     <string name="notification_history_title_placeholder">Notificació d\'aplicació personalitzada</string>
@@ -1069,6 +1070,7 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="package_installed_device_owner">Instal·lat per l\'administrador</string>
     <string name="package_updated_device_owner">Actualitzat per l\'administrador</string>
     <string name="passwordIncorrect">Contrasenya incorrecta.</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="paste">Enganxa</string>
     <string name="paste_as_plain_text">Enganxa com a text sense format</string>
     <string name="peerTtyModeFull">L\'altre dispositiu ha sol·licitat el mode TTY COMPLET</string>
@@ -1086,7 +1088,7 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="permdesc_accessNetworkConditions">Permet que una aplicació detecti canvis en l\'estat de la xarxa. No ha de ser necessari per a aplicacions normals.</string>
     <string name="permdesc_accessNetworkState">Permet que l\'aplicació vegi informació sobre connexions de xarxa, com ara, quines xarxes hi ha i estan connectades.</string>
     <string name="permdesc_accessNotifications">Permet que l\'aplicació recuperi, examini i esborri notificacions, incloses les que han publicat altres aplicacions.</string>
-    <string name="permdesc_accessWifiState">Permet que l\'aplicació vegi informació sobre connexió a xarxes Wi-Fi (per exemple, si està activada la connexió Wi-Fi i el nom dels dispositius Wi-Fi connectats).</string>
+    <string name="permdesc_accessWifiState">Permet que l\'aplicació visualitzi informació sobre les xarxes Wi-Fi, com ara si la Wi-Fi està activada i el nom dels dispositius Wi-Fi connectats.</string>
     <string name="permdesc_accessWimaxState">Permet que l\'aplicació determini si està activada la connexió WiMAX i obtingui informació sobre les xarxes WiMAX que estan connectades.</string>
     <string name="permdesc_access_notification_policy">Permet que l\'aplicació llegeixi la configuració No molesteu i hi escrigui.</string>
     <string name="permdesc_activityRecognition">Aquesta aplicació pot reconèixer la vostra activitat física.</string>
@@ -1111,8 +1113,8 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="permdesc_cameraOpenCloseListener">Aquesta aplicació pot rebre avisos quan s\'hagi obert qualsevol dispositiu de càmera (segons quina aplicació) o tancat.</string>
     <string name="permdesc_changeNetworkState">Permet que l\'aplicació modifiqui l\'estat de la connexió de xarxes.</string>
     <string name="permdesc_changeTetherState">Permet que l\'aplicació canviï l\'estat de la connectivitat de compartir internet.</string>
-    <string name="permdesc_changeWifiMulticastState">Permet que l\'aplicació rebi paquets enviats a tots els dispositius d\'una xarxa Wi-Fi que utilitzin adreces de multidifusió, no només al telèfon. Utilitza més bateria que el mode de no multidifusió.</string>
-    <string name="permdesc_changeWifiState">Permet que l\'aplicació es connecti a punts d\'accés Wi-Fi i es desconnecti d\'ells i que realitzi canvis en la configuració de xarxes Wi-Fi del dispositiu.</string>
+    <string name="permdesc_changeWifiMulticastState">Permet que l\'aplicació rebi paquets enviats a tots els dispositius d\'una xarxa Wi-Fi mitjançant adreces de multidifusió, no només el telèfon. Utilitza més energia que el mode no multidifusió.</string>
+    <string name="permdesc_changeWifiState">Permet a l\'aplicació connectar-se i desconnectar-se dels punts d\'accés Wi-Fi i fer canvis a la configuració del dispositiu per a xarxes Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">Permet que l\'aplicació connecti el telèfon a xarxes WiMAX i el desconnecti d\'elles.</string>
     <string name="permdesc_connection_manager">Permet que l\'aplicació gestioni les connexions de telecomunicacions.</string>
     <string name="permdesc_control_incall_experience">Permet que l\'aplicació proporcioni una experiència d\'usuari durant la trucada.</string>
@@ -1263,8 +1265,8 @@ per al compte %s"</string>
     <string name="permlab_cameraOpenCloseListener">Permet a una aplicació o servei rebre resposta sobre l\'obertura o el tancament de dispositius de càmera.</string>
     <string name="permlab_changeNetworkState">canviar la connectivitat de la xarxa</string>
     <string name="permlab_changeTetherState">canviar la connectivitat d\'ancoratge</string>
-    <string name="permlab_changeWifiMulticastState">permetre la recepció de multidifusió Wi-Fi</string>
-    <string name="permlab_changeWifiState">activar la Wi-Fi</string>
+    <string name="permlab_changeWifiMulticastState">permet la recepció de multidifusió Wi-Fi</string>
+    <string name="permlab_changeWifiState">connectar-se i desconnectar-se de la Wi-Fi</string>
     <string name="permlab_changeWimaxState">canviar l\'estat de WiMAX</string>
     <string name="permlab_connection_manager">gestionar les connexions de telecomunicacions</string>
     <string name="permlab_control_incall_experience">proporcionar una experiència d\'usuari durant la trucada</string>
@@ -1375,6 +1377,7 @@ per al compte %s"</string>
     <string name="phoneTypePager">Cercapersones</string>
     <string name="phoneTypeRadio">Ràdio</string>
     <string name="phoneTypeTelex">Tèlex</string>
+    <string name="phoneTypeTtyTdd">TTY TDD</string>
     <string name="phoneTypeWork">Feina</string>
     <string name="phoneTypeWorkMobile">Mòbil de la feina</string>
     <string name="phoneTypeWorkPager">Cercapersones de la feina</string>
@@ -1521,7 +1524,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
     <string name="search_hint">Cerca…</string>
     <string name="search_language_hint">Escriviu el nom de l\'idioma</string>
     <string name="searchview_description_clear">Neteja la consulta</string>
-    <string name="searchview_description_query">Cerca la consulta</string>
+    <string name="searchview_description_query">Consulta de cerca</string>
     <string name="searchview_description_search">Cerca</string>
     <string name="searchview_description_submit">Tramet la consulta</string>
     <string name="searchview_description_voice">Cerca per veu</string>
@@ -1544,6 +1547,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
     <string name="serviceClassData">Dades</string>
     <string name="serviceClassDataAsync">Asíncron</string>
     <string name="serviceClassDataSync">Sincronitza</string>
+    <string name="serviceClassFAX">FAX</string>
     <string name="serviceClassPAD">TECLAT</string>
     <string name="serviceClassPacket">Paquet</string>
     <string name="serviceClassVoice">Veu</string>
@@ -1611,7 +1615,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
     <string name="ssl_certificate_is_valid">El certificat és vàlid.</string>
     <string name="status_bar_screen_record">registre de pantalla</string>
     <string name="status_communication_speaker_summary">Una trucada en mans lliures està en curs. Si es connecten els auriculars, es continuarà reproduint l\'àudio a través dels altaveus.</string>
-    <string name="status_communication_summary">Una trucada està en curs. Ara només podeu ajustar el volum de trucades.</string>
+    <string name="status_communication_summary">Hi ha una trucada en curs. Ara només podeu ajustar el volum de les trucades.</string>
     <string name="stk_cc_ss_to_dial">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
     <string name="stk_cc_ss_to_dial_video">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
     <string name="stk_cc_ss_to_ss">La sol·licitud SS s\'ha transformat en una sol·licitud SS nova.</string>
@@ -1758,20 +1762,20 @@ Voleu tancar-la?"</string>
     <string name="weeks">setmanes</string>
     <string name="wfcRegErrorTitle">Trucada Wi-Fi</string>
     <string name="wfcSpnFormat_spn_vowifi">%s VoWifi</string>
-    <string name="wfcSpnFormat_spn_wifi">%s WLAN</string>
-    <string name="wfcSpnFormat_spn_wifi_calling">%s Trucades Wi-Fi</string>
-    <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Trucades Wi-Fi</string>
-    <string name="wfcSpnFormat_spn_wlan_call">%s Trucada WLAN</string>
+    <string name="wfcSpnFormat_spn_wifi">%s Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling">%s Trucades per Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Trucades per Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wlan_call">%s trucada per Wi-Fi</string>
     <string name="wfcSpnFormat_vowifi">VoWifi</string>
-    <string name="wfcSpnFormat_wifi">WLAN</string>
-    <string name="wfcSpnFormat_wifi_calling">Trucades WLAN</string>
-    <string name="wfcSpnFormat_wifi_calling_bar_spn">Trucades WLAN | %s</string>
-    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Trucades WLAN</string>
+    <string name="wfcSpnFormat_wifi">Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling">Trucades per Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling_bar_spn">Trucades per Wi-Fi | %s</string>
+    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Trucades per Wi-Fi</string>
     <string name="wfcSpnFormat_wlan_call">Trucada Wi-Fi</string>
     <string name="wfc_mode_cellular_preferred_summary">Preferència per les dades mòbils</string>
     <string name="wfc_mode_ims_preferred_summary">Preferència IMS</string>
     <string name="wfc_mode_wifi_only_summary">Només Wi-Fi</string>
-    <string name="wfc_mode_wifi_preferred_summary">Preferentment amb Wi-Fi</string>
+    <string name="wfc_mode_wifi_preferred_summary">Truca per Wi-Fi</string>
     <string name="whichApplication">Completa l\'acció utilitzant</string>
     <string name="whichApplicationLabel">Completa l\'acció</string>
     <string name="whichApplicationNamed">Completa l\'acció amb %1$s</string>
@@ -1798,9 +1802,9 @@ Voleu tancar-la?"</string>
     <string name="whichViewApplication">Obre amb</string>
     <string name="whichViewApplicationLabel">Obre</string>
     <string name="whichViewApplicationNamed">Obre amb %1$s</string>
-    <string name="wifi_available_sign_in">Inicia sessió a la xarxa Wi-Fi</string>
+    <string name="wifi_available_sign_in">Inicieu la sessió a la xarxa Wi-Fi</string>
     <string name="wifi_calling_off_summary">Desactivat</string>
-    <string name="wifi_no_internet">La Wi-Fi no té accés a Internet</string>
+    <string name="wifi_no_internet">%1$s no té accés a Internet</string>
     <string name="wifi_no_internet_detailed">Toqueu per veure opcions</string>
     <string name="wireless_display_route_description">Pantalla sense fils</string>
     <string name="work_mode_off_message">Permet que el perfil laboral funcioni, incloses les aplicacions, la sincronització en segon pla i les funcions relacionades.</string>
@@ -1823,7 +1827,7 @@ Voleu tancar-la?"</string>
     <string name="zen_mode_downtime_feature_name">Temps d\'inactivitat</string>
     <string name="zen_mode_feature_name">No molesteu</string>
     <string name="zen_mode_forever">Fins que no ho desactiveu</string>
-    <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
+    <string name="zen_mode_forever_dnd">Fins que desactiveu No molestis</string>
     <string name="zen_mode_until">Fins %1$s</string>
     <string name="zen_upgrade_notification_content">"Toqueu per comprovar què hi ha bloquejat."</string>
     <string name="zen_upgrade_notification_title">No molestar ha canviat</string>
