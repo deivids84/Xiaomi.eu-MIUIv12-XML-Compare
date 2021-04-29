@@ -245,6 +245,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_express_shunfeng_verify_dialog_title">Verificació completa</string>
     <string name="app_express_shunfeng_verify_failed">"No s'ha pogut verificar la informació de contacte. Comproveu si els darrers quatre dígits del número de telèfon que heu introduït són correctes i torneu-ho a provar."</string>
     <string name="app_express_tail_number">Comanda: %1$s</string>
+    <string name="app_first_loading_txt">S\'estan carregant les targetes…</string>
     <string name="app_health_card_completion">Progrés</string>
     <string name="app_health_card_energy">Calories</string>
     <string name="app_health_card_step">Passes</string>
