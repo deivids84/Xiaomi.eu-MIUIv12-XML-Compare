@@ -85,6 +85,7 @@
         <item>rosemary</item>
         <item>camellian</item>
         <item>davinci</item>
+        <item>biloba</item>
     </string-array>
     <string-array name="config_alwaysEnableMms_off_array">
         <item>ch</item>
@@ -118,11 +119,11 @@
         <item>0.854902</item>
     </array>
     <integer-array name="config_compensateSignalLevelValue">
-        <item>2</item>
-        <item>2</item>
-        <item>2</item>
-        <item>4</item>
+        <item>3</item>
         <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
         <item>0</item>
         <item>0</item>
         <item>0</item>
