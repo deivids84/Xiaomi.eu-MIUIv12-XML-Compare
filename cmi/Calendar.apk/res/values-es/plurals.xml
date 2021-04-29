@@ -109,12 +109,12 @@
         <item quantity="one">%1$d día antes</item>
     </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
-        <item quantity="other">Puedes ingresar hasta %1$d días</item>
-        <item quantity="one">Puedes ingresar hasta %1$d día</item>
+        <item quantity="other">Puede ingresar hasta %1$d días</item>
+        <item quantity="one">Puede ingresar hasta %1$d día</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="other">Puedes establecer hasta %d recordatorios</item>
-        <item quantity="one">Puedes establecer hasta %d recordatorio</item>
+        <item quantity="other">Puede establecer hasta %d recordatorios</item>
+        <item quantity="one">Puede establecer hasta %d recordatorio</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
@@ -139,6 +139,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementos seleccionados</item>
+        <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nuevas notificaciones</item>
