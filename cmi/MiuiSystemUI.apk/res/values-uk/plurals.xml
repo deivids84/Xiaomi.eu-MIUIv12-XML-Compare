@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d дн. тому</item>
+        <item quantity="one">%d день тому</item>
+        <item quantity="few">%d дн. тому</item>
+        <item quantity="many">%d дн. тому</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">%d хв. тому</item>
+        <item quantity="few">%d хв. тому</item>
+        <item quantity="many">%d хв. тому</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d yr ago</item>
+        <item quantity="one">%d yr ago</item>
+        <item quantity="few">%d yr ago</item>
+        <item quantity="many">%d yr ago</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s елементів керування додано.</item>
+        <item quantity="one">%s додано контроль.</item>
+        <item quantity="few">%s елементів керування додано.</item>
+        <item quantity="many">%s елементів керування додано.</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Неправильний PIN-код, залишилося спроб: %d</item>
+        <item quantity="one">Неправильний PIN-код, залишилося спроб: %d</item>
+        <item quantity="few">Неправильний PIN-код, залишилося спроб: %d</item>
+        <item quantity="many">Неправильний PIN-код, залишилося спроб: %d</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Неправильний PUK-код, залишилося спроб: %d</item>
+        <item quantity="one">Неправильний PUK-код, залишилося спроб: %d</item>
+        <item quantity="few">Неправильний PUK-код, залишилося спроб: %d</item>
+        <item quantity="many">Неправильний PUK-код, залишилося спроб: %d</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="one">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="few">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="many">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="one">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="few">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="many">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Залишилося %d  год</item>
+        <item quantity="one">Залишилося %d  год</item>
+        <item quantity="few">Залишилося %d  год</item>
+        <item quantity="many">Залишилося %d  год</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Залишилося %d  хв</item>
+        <item quantity="one">Залишилося %d  хв</item>
+        <item quantity="few">Залишилося %d  хв</item>
+        <item quantity="many">Залишилося %d  хв</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="one">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="few">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="many">Залишилося %1$d  год %2$d  хв</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d  год</item>
+        <item quantity="one">%d  год</item>
+        <item quantity="few">%d  год</item>
+        <item quantity="many">%d  год</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d  хв</item>
+        <item quantity="one">%d  хв</item>
+        <item quantity="few">%d  хв</item>
+        <item quantity="many">%d  хв</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d  год %2$d  хв</item>
+        <item quantity="one">%1$d  год %2$d  хв</item>
+        <item quantity="few">%1$d  год %2$d  хв</item>
+        <item quantity="many">%1$d  год %2$d  хв</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Залишилося %d  год</item>
+        <item quantity="one">Залишилося %d  год</item>
+        <item quantity="few">Залишилося %d  год</item>
+        <item quantity="many">Залишилося %d  год</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Залишилося %d  хв</item>
+        <item quantity="one">Залишилася %d  хв</item>
+        <item quantity="few">Залишилося %d  хв</item>
+        <item quantity="many">Залишилося %d  хв</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="one">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="few">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="many">Залишилося %1$d  год %2$d  хв</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Введіть PIN-код. Залишилося %d спроб.</item>
+        <item quantity="one">Введіть PIN-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+        <item quantity="few">Введіть PIN-код. Залишилося %d спроби.</item>
+        <item quantity="many">Введіть PIN-код. Залишилося %d спроб.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Введіть PIN-%1$d SIM-карти, %2$d інші спроби.</item>
+        <item quantity="one">Введіть%1$d PIN-код. У вас залишилася %2$d спроба перед тим, як вам доведеться звернутися до оператора для розблокування.</item>
+        <item quantity="few">Введіть PIN-%1$d SIM-карти, %2$d інші спроби.</item>
+        <item quantity="many">Введіть PIN-%1$d SIM-карти, %2$d інші спроби.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
+        <item quantity="one">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
+        <item quantity="few">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
+        <item quantity="many">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилося %d спроби. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неправильний PIN-код. Залишилося %d спроб.</item>
+        <item quantity="one">Неправильний PIN-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку для розблокування пристрою.</item>
+        <item quantity="few">Неправильний PIN-код. Залишилося %d спроби.</item>
+        <item quantity="many">Неправильний PIN-код. Залишилося %d спроб.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Неправильний PIN-код%1$d SIM-карти. У вас залишилося %2$d спроб.</item>
+        <item quantity="one">Неправильний PIN-код SIM-карти%1$d . У вас залишилася %2$d спроба.</item>
+        <item quantity="few">Неправильний PIN-код%1$d SIM-карти. У вас залишилося %2$d спроб.</item>
+        <item quantity="many">Неправильний PIN-код%1$d SIM-карти. У вас залишилося %2$d спроб.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Введіть PUK-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+        <item quantity="one">Введіть PUK-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+        <item quantity="few">Введіть PUK-код. Залишилося %d спроби. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+        <item quantity="many">Введіть PUK-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"Пристрій не розблоковували %d год. Підтвердіть пароль."</item>
+        <item quantity="one">"Пристрій не розблоковували %d год. Підтвердіть пароль."</item>
+        <item quantity="few">"Пристрій не розблоковували %d год. Підтвердіть пароль."</item>
+        <item quantity="many">"Пристрій не розблоковували %d год. Підтвердіть пароль."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"Пристрій не розблоковували %d год. Введіть графічний ключ."</item>
+        <item quantity="one">"Пристрій не розблоковували %d год. Введіть графічний ключ."</item>
+        <item quantity="few">"Пристрій не розблоковували %d год. Введіть графічний ключ."</item>
+        <item quantity="many">"Пристрій не розблоковували %d год. Введіть графічний ключ."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"Пристрій не розблоковували %d год. Підтвердіть PIN-код."</item>
+        <item quantity="one">"Пристрій не розблоковували %d год. Підтвердіть PIN-код."</item>
+        <item quantity="few">"Пристрій не розблоковували %d год. Підтвердіть PIN-код."</item>
+        <item quantity="many">"Пристрій не розблоковували %d год. Підтвердіть PIN-код."</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Спробуйте знову через %d секунд.</item>
+        <item quantity="one">Повторіть спробу через 1 секунду.</item>
+        <item quantity="few">Спробуйте знову через %d секунд.</item>
+        <item quantity="many">Спробуйте знову через %d секунд.</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d нових сповіщень</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нових сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Ще %s сповіщень.</item>
+        <item quantity="one">Ще %s сповіщення.</item>
+        <item quantity="few">Ще %s сповіщення.</item>
+        <item quantity="many">Ще %s сповіщень.</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Повторіть спробу через %d хв</item>
+        <item quantity="one">Повторіть спробу через %d хв</item>
+        <item quantity="few">Повторіть спробу через %d хв</item>
+        <item quantity="many">Повторіть спробу через %d хв</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Повторіть спробу через %d сек</item>
+        <item quantity="one">Повторіть спробу через %d сек</item>
+        <item quantity="few">Повторіть спробу через %d сек</item>
+        <item quantity="many">Повторіть спробу через %d сек</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d пристрої</item>
+        <item quantity="one">%d пристрій</item>
+        <item quantity="few">%d пристрої</item>
+        <item quantity="many">%d пристрої</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d годин</item>
+        <item quantity="one">%d година</item>
+        <item quantity="few">%d годин</item>
+        <item quantity="many">%d годин</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилин</item>
+        <item quantity="many">%d хвилин</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Ви можете додати до %d користувачів.</item>
+        <item quantity="one">Можна створити лише одного користувача.</item>
+        <item quantity="few">Ви можете додати до %d користувачів.</item>
+        <item quantity="many">Ви можете додати до %d користувачів.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Підключено пристроїв: %1$d</item>
+        <item quantity="one">Підключено пристроїв: %1$d</item>
+        <item quantity="few">Підключено пристроїв: %1$d</item>
+        <item quantity="many">Підключено пристроїв: %1$d</item>
+    </plurals>
+</resources>
