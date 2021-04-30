@@ -2,4 +2,7 @@ files:
   - source: /cmi/**/values/*.xml
     ignore:
       - /*_stable/
+      - /cmi/Settings.apk/
     translation: /cmi/**/values-%two_letters_code%/%original_file_name%
+  - source: /venus/Settings.apk/res/values/**.xml
+    translation: /cmi/Settings.apk/res/values-%two_letters_code%/%original_file_name%
