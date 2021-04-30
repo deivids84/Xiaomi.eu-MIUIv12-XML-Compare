@@ -2011,6 +2011,7 @@ Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando c
     <string name="custom_color">Personalizado</string>
     <string name="custom_gesture_title">Gestos personalizados</string>
     <string name="custom_wifi_name_title">Editar nombre de Wi-Fi</string>
+    <string name="customize_knock_gesture">Gestos de nudillos personalizados</string>
     <string name="cutout_mode_always">Siempre mostrar notch</string>
     <string name="cutout_mode_default">Automático</string>
     <string name="cutout_mode_settings_title">Algunas aplicaciones podrían mostrarse de manera incorrecta si personalizas la manera en que se muestra el notch.</string>
@@ -2556,6 +2557,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="done_button">Listo</string>
     <string name="double_click_power_key">Doble clic en el Botón de encendido</string>
     <string name="double_click_volume_down_when_lock">Pulsa dos veces el Botón de bajar volumen cuando la pantalla está bloqueada</string>
+    <string name="double_knock">Doble toque de nudillos</string>
     <string name="double_tap_power_for_camera_suggestion_title">Abrir la cámara rápidamente</string>
     <string name="double_tap_power_for_camera_summary">Pulsa dos veces el botón de encendido para abrir la cámara rápidamente. Funciona desde cualquier pantalla.</string>
     <string name="double_tap_power_for_camera_title">Abrir la cámara rápidamente</string>
@@ -3717,6 +3719,16 @@ Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="keywords_zen_mode_settings">no molestar, programar, notificaciones, bloquear, silencio, vibrar, dormir, trabajar, enfoque, sonido, silencio, día, día de la semana, fin de semana, noche de la semana, evento</string>
     <string name="kid_space_settings">Espacio para niños</string>
     <string name="kilobyte_per_second">KB/s</string>
+    <string name="knock_edge_area_invalid">"Este gesto no funciona cerca de los bordes de la pantalla"</string>
+    <string name="knock_guide_dialog_title">Seleccione una acción para este gesto. Puede cambiarlo más tarde en Configuración &gt; Configuración adicional &gt; Atajos de botón.</string>
+    <string name="knock_guide_drive_desc">Tome capturas de pantalla mientras conduce</string>
+    <string name="knock_guide_launch_desc">Active Mi AI cuando su teléfono esté sobre la mesa</string>
+    <string name="knock_guide_set_screenshot">Captura de pantalla</string>
+    <string name="knock_guide_sub_title">Puede activar Mi AI o tomar capturas de pantalla tocando la pantalla con los nudillos</string>
+    <string name="knock_guide_title">Doble toque de nudillos</string>
+    <string name="knock_long_press_horizontal_slid">Presione y deslice horizontalmente con un nudillo</string>
+    <string name="knock_slide_shape">Dibuja un círculo con un nudillo</string>
+    <string name="knock_slide_v">Dibuja V con un nudillo</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_mi_stats">Mi analytics</string>
     <string name="language_and_input_for_work_category_title">Perfiles de trabajo y herramientas</string>
