@@ -274,7 +274,7 @@
     <string name="status_bar_toggle_paper_mode">Modo lectura</string>
     <string name="status_bar_toggle_power_mode">Rendimiento</string>
     <string name="status_bar_toggle_quiet_mode">DND</string>
-    <string name="status_bar_toggle_rotate">Orientación de bloqueo</string>
+    <string name="status_bar_toggle_rotate">Bloquear orientación</string>
     <string name="status_bar_toggle_screen_button">Botones</string>
     <string name="status_bar_toggle_screenshot">Captura</string>
     <string name="status_bar_toggle_sync">Sincro</string>
