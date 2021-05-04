@@ -2815,11 +2815,11 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="exterior">Esquema de colores</string>
     <string name="external_code_size_label">Aplicación en el almacenamiento USB</string>
     <string name="external_data_size_label">Datos en el almacenamiento USB</string>
-    <string name="external_ram_dialog_btn_cancel">Más tarde</string>
+    <string name="external_ram_dialog_btn_cancel">Después</string>
     <string name="external_ram_dialog_btn_ok">Reiniciar</string>
     <string name="external_ram_dialog_message">Reinicie el dispositivo para aplicar cambios.</string>
-    <string name="external_ram_dialog_title">Reiniciar el dispositivo</string>
-    <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en el dispositivo."</string>
+    <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+    <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando espacio de almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en su dispositivo."</string>
     <string name="external_ram_title">Extensión de memoria</string>
     <string name="external_ram_toast">"No se puede usar la extensión de memoria debido a la falta de espacio de almacenamiento"</string>
     <string name="external_source_switch_title">Confiar en esta fuente</string>
