@@ -701,7 +701,7 @@ para videos"</string>
     <string name="next_step">Siguiente</string>
     <string name="nick_name">Alias</string>
     <string name="no_account">No ha iniciado sesión</string>
-    <string name="no_history">No hay elementos</string>
+    <string name="no_history">No hay artículos aquí</string>
     <string name="no_longer_prompt">"No volver a mostrar"</string>
     <string name="no_more_content">"Esto es todo por ahora"</string>
     <string name="no_network_tips">"No puede usar esta función por ahora. Acceso a red restringido."</string>
@@ -1300,7 +1300,7 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="video_download_fail_hint">"No se pudo descargar"</string>
     <string name="video_download_floating_guide">Descarga videos gratis</string>
     <string name="video_download_forbidden">"No se puede descargar de este sitio web"</string>
-    <string name="video_download_network_error">Error de red</string>
+    <string name="video_download_network_error">Error de conexión</string>
     <string name="video_download_play_video_guide">Primero, reproduzca el video.</string>
     <string name="video_download_play_video_guide2">Luego toque el botón para descargar.</string>
     <string name="video_download_site_search">URL</string>
@@ -1339,6 +1339,6 @@ Tamaño de actualización: %2$s"</string>
     <string name="ytb_login_btn">Iniciar sesión</string>
     <string name="ytb_login_hint">Inicie sesión para ver sus suscripciones de YouTube</string>
     <string name="ytb_logout">Cerrar sesión</string>
-    <string name="ytb_play_next">Siguiente</string>
-    <string name="ytb_subscribed">Subscripciones</string>
+    <string name="ytb_play_next">A continuación</string>
+    <string name="ytb_subscribed">Suscripciones</string>
 </resources>
