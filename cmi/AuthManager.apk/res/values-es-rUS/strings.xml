@@ -154,9 +154,9 @@
     <string name="blur_location_is_on_tip">%1$s usa su ubicación aproximada. ¿Seguir usándolo en lugar de la ubicación precisa?</string>
     <string name="blur_location_now_tip">Ubicación aproximada activada</string>
     <string name="blur_location_title">Ubicacion Aproximada</string>
-    <string name="cetus_invisible_mode_notice_audio">"Estás incógnito. No puedes usar el micrófono ahora."</string>
-    <string name="cetus_invisible_mode_notice_camera">"Estás incógnito. No puedes usar la cámara ahora."</string>
-    <string name="cetus_invisible_mode_notice_location">"Estás incógnito. No puedes usar los servicios de ubicación ahora."</string>
+    <string name="cetus_invisible_mode_notice_audio">"Está incógnito. No puede usar el micrófono ahora."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Está incógnito. No puede usar la cámara ahora."</string>
+    <string name="cetus_invisible_mode_notice_location">"Está incógnito. No puede usar los servicios de ubicación ahora."</string>
     <string name="cetus_invisible_mode_notice_tip">Toque para desactivar el modo de incógnito en la configuración</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="clipboard_ai_allow_once">Permitido %1$s para acceder a elementos en el portapapeles automáticamente</string>
