@@ -104,7 +104,7 @@
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
@@ -120,13 +120,13 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
-    <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">La correcció del color us permet ajustar la visualització dels colors al dispositiu</string>
     <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>
     <string name="accessibility_manual_zen_less_time">Menys temps.</string>
@@ -138,8 +138,8 @@
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
     <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
-    <string name="accessibility_wifi_three_bars">Tres barres de senyal Wi-Fi.</string>
-    <string name="accessibility_wifi_two_bars">Dues barres de senyal Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Tres barres de Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dues barres de Wi-Fi.</string>
     <string name="accessibility_work_profile_app_description">Treball %s</string>
     <string name="accessor_expires_text">L’arrendament caduca a les %s</string>
     <string name="accessor_info_title">Aplicacions que comparteixen dades</string>
@@ -229,9 +229,9 @@
     <string name="audio_mode_wired_headset">Auriculars amb cable</string>
     <string name="auth_username_summary">Nom d\'usuari utilitzat per a l\'autenticació</string>
     <string name="auth_username_title">Nom d\'usuari d\'autenticació</string>
-    <string name="auto_answer_delay_entries_delay_10s">10 segons</string>
-    <string name="auto_answer_delay_entries_delay_3s">3 segons</string>
-    <string name="auto_answer_delay_entries_delay_5s">5 segons</string>
+    <string name="auto_answer_delay_entries_delay_10s">%d segons</string>
+    <string name="auto_answer_delay_entries_delay_3s">%d segons</string>
+    <string name="auto_answer_delay_entries_delay_5s">%d segons</string>
     <string name="auto_answer_delay_entries_immediately">Sense retard</string>
     <string name="auto_answer_delay_title">Retard en la resposta automàtica</string>
     <string name="auto_answer_pref_summary">Respon automàticament les trucades entrants</string>
@@ -301,15 +301,15 @@
     <string name="bluetooth_active_no_battery_level">Actiu</string>
     <string name="bluetooth_battery_level">%1$s de bateria</string>
     <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
-    <string name="bluetooth_connected">Aparellat</string>
+    <string name="bluetooth_connected">Connectat%1$s</string>
     <string name="bluetooth_connected_battery_level">Connectat, bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">S\'ha connectat parcialment (sense multimèdia)</string>
+    <string name="bluetooth_connected_no_a2dp">S\'ha connectat (sense multimèdia)%1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Connectat (sense multimèdia), bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">S\'ha connectat parcialment (sense telèfon)</string>
+    <string name="bluetooth_connected_no_headset">S\'ha connectat (sense telèfon)%1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Connectat (sense telèfon), bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">S\'ha connectat parcialment (sense telèfon o multimèdia)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">S\'ha connectat (sense telèfon o multimèdia)%1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connectat (sense telèfon ni multimèdia), bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">S\'ha connectat parcialment (sense accés als missatges)</string>
+    <string name="bluetooth_connected_no_map">S\'ha connectat (sense accés als missatges)%1$s</string>
     <string name="bluetooth_connecting">S\'està connectant&#8230;</string>
     <string name="bluetooth_disable_absolute_volume">Desactiva el volum general</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funció de volum general de Bluetooth en cas que es produeixin problemes de volum amb dispositius remots, com ara el volum massa fort o una pèrdua de control.</string>
@@ -434,7 +434,7 @@ Taxa de mostreig"</string>
     <string name="callFailed_dsac_restricted">El control d\'accés restringeix les trucades.</string>
     <string name="callFailed_dsac_restricted_emergency">El control d\'accés restringeix les trucades d\'emergència.</string>
     <string name="callFailed_dsac_restricted_normal">El control d\'accés restringeix les trucades normals.</string>
-    <string name="callFailed_emergency_call_over_wfc_not_available">Trucades d’emergència mitjançant trucades WLAN no disponibles en aquesta ubicació.</string>
+    <string name="callFailed_emergency_call_over_wfc_not_available">Les trucades d\'emergència a través de les trucades per Wi-Fi no estan disponibles en aquesta ubicació.</string>
     <string name="callFailed_facility_rejected">Servei rebutjat</string>
     <string name="callFailed_fdn_only">Les trucades sortints estan limitades als NMP.</string>
     <string name="callFailed_imei_not_accepted">No es pot connectar, inseriu una targeta SIM vàlida.</string>
@@ -470,7 +470,7 @@ Taxa de mostreig"</string>
     <string name="callFailed_otasp_provisioning_in_process">No es pot fer la trucada perquè s\'està duent a terme el proveïment del dispositiu.</string>
     <string name="callFailed_outOfService">La xarxa mòbil no està disponible</string>
     <string name="callFailed_out_of_network">Trucada des de fora de la xarxa</string>
-    <string name="callFailed_powerOff">Ràdio apagada</string>
+    <string name="callFailed_powerOff">Ràdio desactivada</string>
     <string name="callFailed_preemption">Dret preferent de compra</string>
     <string name="callFailed_protocol_error_unspecified">Error de protocol, sense especificar</string>
     <string name="callFailed_recovery_on_timer_expired">Recuperació en expirar el temporitzador</string>
@@ -493,8 +493,8 @@ Taxa de mostreig"</string>
     <string name="callFailed_userBusy">Línia ocupada</string>
     <string name="callFailed_user_not_member_of_CUG">L\'usuari no és membre del CUG</string>
     <string name="callFailed_video_call_tty_enabled">No es poden fer videotrucades quan el dispositiu TTY està activat.</string>
-    <string name="callFailed_wfc_service_not_available_in_this_location">La trucada WLAN no està disponible en aquesta ubicació.</string>
-    <string name="callFailed_wifi_lost">S\'ha perdut la connexió Wi-Fi. S\'ha finalitzat la trucada.</string>
+    <string name="callFailed_wfc_service_not_available_in_this_location">Les trucades per Wi-Fi no estan disponibles en aquesta ubicació.</string>
+    <string name="callFailed_wifi_lost">S\'ha perdut la connexió Wi-Fi. La trucada ha finalitzat.</string>
     <string name="callUnanswered_forwarded">Trucada no contestada i desviada</string>
     <string name="call_advanced_setting_title">Configuració avançada</string>
     <string name="call_barring">Restricció de trucades</string>
@@ -529,6 +529,8 @@ Taxa de mostreig"</string>
     <string name="call_barring_sum">Configuració de restricció de trucades de veu</string>
     <string name="call_category">Trucades</string>
     <string name="call_description_recording">S\'està enregistrant&#8230;</string>
+    <string name="call_fold_setting">Plegable i desplegable</string>
+    <string name="call_fold_setting_title">Plegable i desplegable</string>
     <string name="call_forward_option">Opcions de desviament de trucades</string>
     <string name="call_forwarding_number_hint">Desvia les trucades a</string>
     <string name="call_forwarding_settings">Desviament de trucades</string>
@@ -605,18 +607,18 @@ Taxa de mostreig"</string>
     <string name="cell_bc_sms_enable">Canals d\'SMS activats</string>
     <string name="cell_broadcast_settings">Emissions d\'emergència</string>
     <string name="cell_broadcast_sms">Canals SMS</string>
-    <string name="cf_setting_mobile_data_alert">Activeu les dades mòbils i comproveu que la Wi-Fi estigui desactivada</string>
+    <string name="cf_setting_mobile_data_alert">Activeu les dades mòbils i assegureu-vos que la Wi-Fi està desactivada</string>
     <string name="cf_setting_mobile_data_roaming_alert">Activeu la itinerància de dades</string>
     <string name="cfb_title">Desviament si ocupat</string>
     <string name="cfnrc_title">Desviament si fora de cobertura</string>
     <string name="cfnrc_title_cta">Desviament si fora de cobertura</string>
-    <string name="cfnry_time_fifteen_sec">15 s</string>
-    <string name="cfnry_time_five_sec">5 s</string>
+    <string name="cfnry_time_fifteen_sec">%d seg</string>
+    <string name="cfnry_time_five_sec">%d seg</string>
     <string name="cfnry_time_setting_title">Estableix el temps d\'espera</string>
-    <string name="cfnry_time_ten_sec">10 s</string>
-    <string name="cfnry_time_thirty_sec">30 s</string>
-    <string name="cfnry_time_twenty_five_sec">25 s</string>
-    <string name="cfnry_time_twenty_sec">20 s</string>
+    <string name="cfnry_time_ten_sec">%d seg</string>
+    <string name="cfnry_time_thirty_sec">%d seg</string>
+    <string name="cfnry_time_twenty_five_sec">%d seg</string>
+    <string name="cfnry_time_twenty_sec">%d seg</string>
     <string name="cfnry_title">Desviament si no contesta</string>
     <string name="cfu_title">Desviament incondicional</string>
     <string name="change_data_preference_4g_only_prompt">Sembla que teniu una targeta SIM només 4G. Per assegurar-vos que funciona amb normalitat, configureu-la com a predeterminat per a les dades mòbils. Voleu configurar-ho ara?</string>
@@ -641,6 +643,7 @@ Taxa de mostreig"</string>
     <string name="change_pin_title">Canvia el PIN del correu de veu</string>
     <string name="charge_length_format">Fa %1$s</string>
     <string name="china_mobile_palm_category">Serveis de l\'operador</string>
+    <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
     <string name="choose_network_title">Trieu una xarxa</string>
     <string name="choose_profile">Seleccioneu un perfil</string>
     <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
@@ -710,7 +713,7 @@ Taxa de mostreig"</string>
     <string name="cloud_sim_enabled_dual_4g_summary">"No es pot desactivar Dual 4G mentre utilitzeu Mi Roaming"</string>
     <string name="cloud_sim_enabled_preferred_network_summary">"No es pot modificar les preferències de xarxa mentre s'utilitza Mi Roaming"</string>
     <string name="cmcc_ut_data_enable_prompt">Aquest servei requereix connexió de dades mòbils. Engegueu-lo per continuar.</string>
-    <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
+    <string name="command_error_fdn_failure">Us cal desactivar primer els NMP</string>
     <string name="config_default_data_sim">Configuració</string>
     <string name="confirmPin2Label">Confirmeu el PIN2 nou</string>
     <string name="confirmPinLabel">Confirmeu el PIN nou</string>
@@ -756,7 +759,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="daltonizer_mode_protanomaly">Protanòpsia (vermell-verd)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanòpsia (blau-groc)</string>
     <string name="daltonizer_type_overridden">Substituït per %1$s</string>
-    <string name="data_disable_warning_no_mms">"No podreu enviar ni rebre MMS si desactiveu les dades mòbils (WCDMA/LTE). Tanmateix, podreu fer-ho quan el dispositiu estigui connectat a la Wi-Fi."</string>
+    <string name="data_disable_warning_no_mms">"No podreu enviar i rebre MMS si desactiveu les dades mòbils (WCDMA/LTE). Tanmateix, ho podreu fer quan el dispositiu estigui connectat a una xarxa Wi-Fi."</string>
     <string name="data_disable_warning_with_mms">"Encara podreu enviar i rebre MMS si desactiveu les dades mòbils (WCDMA/LTE). Per utilitzar Internet, connecteu-vos a la Wi-Fi."</string>
     <string name="data_enable_always_warn">Pregunta si s\'utilitzen dades mòbils</string>
     <string name="data_enable_summary">Permet que aquest dispositiu utilitzi dades mòbils</string>
@@ -815,6 +818,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="description_image_button_star">asterisc</string>
     <string name="description_image_button_three">tres</string>
     <string name="description_image_button_two">dos</string>
+    <string name="description_image_button_zero">zero</string>
     <string name="description_voicemail_button">bústia de veu</string>
     <string name="dev_logpersist_clear_warning_message">Quan ja no monitoritzem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
     <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
@@ -840,7 +844,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="dialog_ota_change_number_success">S\'ha canviat correctament el número de telèfon</string>
     <string name="dialog_report">Notifica</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
-    <string name="disable">Apaga</string>
+    <string name="disable">Desactiva</string>
     <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucades</string>
     <string name="disable_cfb_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està ocupat."</string>
     <string name="disable_cfnrc_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està fora de cobertura."</string>
@@ -932,7 +936,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="enable_opengl_traces_title">Activa el seguiment d\'OpenGL</string>
     <string name="enable_pin">Activa/desactiva el PIN del SIM</string>
     <string name="enable_pin_ok">S\'ha definit el PIN</string>
-    <string name="enable_proximity_summary">"Apaga la pantalla automàticament quan tingueu el dispositiu a la vostra orella durant una trucada"</string>
+    <string name="enable_proximity_summary">"Apaga la pantalla automàticament quan manteniu el dispositiu a l'orella durant una trucada"</string>
     <string name="enable_proximity_title">Sensor de proximitat</string>
     <string name="enable_sim_pin">Estableix el PIN de la SIM</string>
     <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
@@ -952,7 +956,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorat</string>
     <string name="enhanced_connectivity">Connectivitat millorada</string>
     <string name="enhanced_connectivity_summary">Activa la funció de connectivitat millorada.</string>
-    <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (4 dígits)</string>
+    <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (%d dígits)</string>
     <string name="enter_input">Un missatge USSD ha de tenir entre %1$d i %2$d caràcters. Torneu-ho a provar.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN de la SIM:</string>
@@ -980,7 +984,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fdn_enabled">Els números de marcatge predefinit estan activats</string>
     <string name="fdn_failed">El marcatge NMP ha fallat.</string>
     <string name="fdn_full">"NMP no s'ha actualitzat perquè la llista està completa."</string>
-    <string name="fdn_invalid_number">"NMP no s'ha actualitzat perquè el número no pot ser buit o excedir els 20 dígits."</string>
+    <string name="fdn_invalid_number">"NMP no s'ha actualitzat perquè el número no pot excedir els %d dígits."</string>
     <string name="fdn_list_with_label">Llista NMP (%s)</string>
     <string name="fdn_summary">Restringeix les trucades sortints als NMP llistats o a números amb determinats prefixos</string>
     <string name="fdn_with_label">Números de marcatge predefinits (%s)</string>
@@ -1000,10 +1004,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_sa_switch_open_dialog_content">La connexió 5G pot ser inestable en mode autònom, la qual cosa pot afectar els serveis de telefonia. De totes maneres, voleu activar el mode SA?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenció</string>
     <string name="fiveg_sa_switch_summary">Permet la connexió a xarxes 5G en mode autònom</string>
-    <string name="fiveg_sa_switch_title">Mode SA</string>
-    <string name="fiveg_sa_switch_title_slot0">Mode SIM 1 SA</string>
-    <string name="fiveg_sa_switch_title_slot1">Mode SIM 2 SA</string>
-    <string name="fiveg_sa_switch_warning_toast">Reinicieu el telèfon perquè tingui efecte.</string>
+    <string name="fiveg_sa_switch_warning_toast">Reinicieu el dispositiu per aplicar els canvis</string>
     <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="fiveg_signal_strength1">Potència del senyal 5G :</string>
     <string name="fiveg_switch_status1">Estat del commutador 5G:</string>
@@ -1011,6 +1012,8 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_upperlayer_indication1">Estat de la indicació de la capa superior:</string>
     <string name="flash_when_ring_summary">Encén la llum del flaix en rebre trucades</string>
     <string name="flash_when_ring_title">Flaix en rebre trucada</string>
+    <string name="fold_answer_pref_summary">Plegueu el dispositiu per acceptar automàticament una trucada entrant</string>
+    <string name="fold_answer_pref_title">Plega per acceptar trucades</string>
     <string name="forbidden_network">(prohibida)</string>
     <string name="force_allow_on_external">Força el permís d\'aplicacions a l\'emmagatzematge extern</string>
     <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
@@ -1020,6 +1023,8 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
     <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
+    <string name="four_point_five_switch_summary">Utilitzeu 4.5G per augmentar la velocitat de connexió de dades mòbils i millorar la qualitat de la veu</string>
+    <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">número de canal lte</string>
     <string name="fw_change_failed">"No s'ha pogut canviar el número de desviament.
 Contacteu amb el vostre operador si el problema persisteix."</string>
@@ -1041,12 +1046,12 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="guest_nickname">Convidat</string>
     <string name="hac_mode_summary">Activa compatibilitat amb audiòfons</string>
     <string name="hac_mode_title">Audiòfons</string>
-    <string name="handon_ringer_summary">Redueix el volum del timbre per a la trucada entrant en apujar el telèfon.</string>
+    <string name="handon_ringer_summary">Redueix el volum del timbre per a la trucada entrant quan s\'eleva el telèfon.</string>
     <string name="handon_ringer_title">Deixa de sonar quan s\'agafi</string>
     <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
     <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
-    <string name="help_feedback_label">Ajuda i suggeriments</string>
-    <string name="help_label">Ajuda amb &amp; comentaris</string>
+    <string name="help_feedback_label">Ajuda i comentaris</string>
+    <string name="help_label">Ajuda i comentaris</string>
     <string name="home">Pàgina inicial de la configuració</string>
     <string name="ime_security_warning">Aquest mètode d\'entrada pot ser capaç de recopilar tot el text que escriviu, incloses les dades personals com contrasenyes i números de targetes de crèdit. Prové de l\'aplicació %1$s. Voleu utilitzar aquest mètode d\'entrada?</string>
     <string name="immediately_destroy_activities">No mantinguis les activitats</string>
@@ -1075,7 +1080,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="incall_error_outgoing_call_failed">"No s'ha pogut fer la trucada"</string>
     <string name="incall_error_power_off">Desactiveu el mode d\'avió per fer una trucada.</string>
     <string name="incall_error_power_off_wfc">Sortiu del mode avió o connecteu a una xarxa sense fil per fer una trucada.</string>
-    <string name="incall_error_promote_wfc">Activeu les trucades Wi-Fi per fer una trucada.</string>
+    <string name="incall_error_promote_wfc">Habiliteu les trucades per Wi-Fi per fer una trucada.</string>
     <string name="incall_error_supp_service_conference">No es poden fer trucades multiconferència.</string>
     <string name="incall_error_supp_service_hangup">"No es pot despenjar la trucada."</string>
     <string name="incall_error_supp_service_hold">"No es pot retenir trucades."</string>
@@ -1093,22 +1098,35 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="international_enable">Notícies internacionals activades</string>
     <string name="international_roaming_setting">Itinerància de dades</string>
     <string name="international_roaming_setting_kr">Itinerància internacional</string>
+    <string name="international_roaming_setting_kr_skt">Itinerància T</string>
     <string name="internet_phone">Trucada internet</string>
     <string name="invalidPin">Introduïu un PIN que tingui entre 4 i 8 dígits.</string>
     <string name="invalidPin2">Introduïu un PIN2 que tingui entre 4 i 8 dígits.</string>
     <string name="invalidPuk2">Introduïu un PUK2 de 8 dígits.</string>
-    <string name="invalid_password">Introduïu una contrasenya de 4 números</string>
-    <string name="invalid_pin">Introduïu un PIN que tingui entre 4 i 8 dígits.</string>
-    <string name="invalid_pin2">Introduïu un PIN2 que tingui entre 4 i 8 dígits.</string>
-    <string name="invalid_puk">Introduïu un PUK de 4 a 8 números.</string>
-    <string name="invalid_puk2">Introduïu un PUK2 de 8 dígits.</string>
+    <string name="invalid_password">Introduïu una contrasenya de %d números</string>
+    <string name="invalid_pin">Escriviu un PIN que tingui entre %1$d i %2$d números.</string>
+    <string name="invalid_pin2">Introduïu un PIN2 que tingui entre %1$d i %2$d números.</string>
+    <string name="invalid_puk">Escriviu un PUK que tingui entre %1$d i %2$d números.</string>
+    <string name="invalid_puk2">Escriviu un PUK2 que tingui %d números.</string>
     <string name="ivr_mo_area_code_settings">Codi d\'àrea actual</string>
     <string name="ivr_mo_area_code_settings_hint">Introduïu el codi d\'àrea actual</string>
     <string name="ivr_parameter_settings">Configuració de paràmetres IVR</string>
     <string name="ivr_type_cm_3">Fàcil de tenir</string>
+    <string name="ivr_type_ct_2">Client de China Telecom</string>
     <string name="ivr_type_settings">Configuració del pla de dades</string>
     <string name="ivr_type_settings_hint">Introduïu el codi del vostre pla de dades</string>
     <string name="jump_to_mobile_network_setting">Configuració de la xarxa mòbil</string>
+    <string name="kddi_sim_lock_status_allowed">Permès</string>
+    <string name="kddi_sim_lock_status_code">Codi</string>
+    <string name="kddi_sim_lock_status_default_code">-</string>
+    <string name="kddi_sim_lock_status_no_sim">Sense targeta SIM</string>
+    <string name="kddi_sim_lock_status_not_allowed">No permès</string>
+    <string name="kddi_sim_lock_status_open_wifi_warning">Es necessita connexió Wi-Fi</string>
+    <string name="kddi_sim_lock_status_status">Estat</string>
+    <string name="kddi_sim_lock_status_title">Estat de la targeta SIM</string>
+    <string name="kddi_sim_lock_status_update">Actualitza l\'estat de la SIM</string>
+    <string name="kddi_sim_lock_status_update_fail">Error d\'actualització</string>
+    <string name="kddi_sim_lock_status_update_success">S\'ha actualitzat correctament</string>
     <string name="keep_screen_on">Mantén-la activa</string>
     <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
     <string name="keywords_adb_wireless">adb, depuració, dev</string>
@@ -1160,7 +1178,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="lable_all_outgoing">Totes les trucades sortints</string>
     <string name="lable_all_outgoing_international">Trucades internacionals sortints</string>
     <string name="lable_call_barring">Restricció de trucades</string>
-    <string name="lable_disable">Apaga</string>
+    <string name="lable_disable">Desactivat</string>
     <string name="lable_enable">Encén</string>
     <string name="lable_incoming_calls_except">Trucades entrants en itinerància</string>
     <string name="lable_network_not_supported">"La xarxa no s'admet"</string>
@@ -1186,10 +1204,10 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="lgu_msim_emm_cause_7_14">"La xarxa SIM %d no proporciona serveis de dades mòbils"</string>
     <string name="lgu_msim_emm_cause_8">"La SIM %d no s'ha pogut registrar a la xarxa. Visiteu un centre d’atenció al client."</string>
     <string name="lgu_msim_emm_cause_others">"La SIM %d no es pot connectar a la xarxa. Visiteu un centre d’atenció al client."</string>
-    <string name="limited_service_alert_dialog_description"><b>Trucades d\'emergència mitjançant trucades WLAN</b>\"
-Les trucades d\'emergència no són possibles mitjançant trucades WLAN. 
+    <string name="limited_service_alert_dialog_description"><b>Trucades d\'emergència mitjançant les trucades per Wi-Fi</b>\"
+No es poden fer trucades d\'emergència mitjançant les trucades per Wi-Fi. 
 
-El dispositiu canvia automàticament a una xarxa mòbil (2G / 3G) per fer una trucada d\'emergència. 
+El dispositiu canvia automàticament a una xarxa mòbil (2G/3G) per fer una trucada d\'emergència. 
 
 Les trucades d\'emergència només són possibles a les zones amb cobertura cel·lular. \"</string>
     <string name="limited_sim_function_notification_message">Es poden bloquejar %1$s trucades i serveis de dades mentre s’utilitza una altra SIM.</string>
@@ -1239,6 +1257,11 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="message_decode_error">Hi ha hagut un error en descodificar el missatge.</string>
     <string name="mhh_disable">Metge, salut i hospitals desactivat</string>
     <string name="mhh_enable">Metge, salut i hospitals activat</string>
+    <string name="mi_mobile_settings_summary">Plans de dades proporcionats per Xiaomi</string>
+    <string name="mi_mobile_settings_title">Mi Mòbil</string>
+    <string name="mi_mobile_sim_activate_message">Activeu la SIM %d per poder utilitzar Mi Mobile. Això pot trigar fins a 5 minuts.</string>
+    <string name="mi_mobile_sim_activate_ok">Activa</string>
+    <string name="mi_mobile_sim_activate_title">Us donem la benvinguda a Mi Mobile!</string>
     <string name="mi_sim_settings_summary">Utilització de dades mòbils sense targeta SIM</string>
     <string name="mi_sim_settings_title">SIM Mi</string>
     <string name="mismatchPin">"Els PIN que heu introduït no coincideixen. Torneu-ho a provar."</string>
@@ -1246,14 +1269,14 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="mismatch_password">"Les contrasenyes que heu introduït no coincideixen"</string>
     <string name="mismatch_pin">"Els PIN no coincideixen."</string>
     <string name="mismatch_pin2">"Els codis PIN2 no coincideixen. Torneu-ho a provar."</string>
-    <string name="missed_call_notify_five_times">5 cops</string>
+    <string name="missed_call_notify_five_times">%d vegades</string>
     <string name="missed_call_notify_none">No ho recordis</string>
-    <string name="missed_call_notify_once">1 cop</string>
-    <string name="missed_call_notify_ten_times">10 cops</string>
-    <string name="missed_call_notify_thrice">3 cops</string>
-    <string name="missed_call_notify_times_summary">els recordatoris es separen en intervals de 5 minuts</string>
+    <string name="missed_call_notify_once">%d vegada</string>
+    <string name="missed_call_notify_ten_times">%d vegades</string>
+    <string name="missed_call_notify_thrice">%d vegades</string>
+    <string name="missed_call_notify_times_summary">Els recordatoris estan separats per intervals de %d minuts</string>
     <string name="missed_call_notify_times_title">Recordatoris de trucades perdudes</string>
-    <string name="missed_call_notify_twice">2 cops</string>
+    <string name="missed_call_notify_twice">%d vegades</string>
     <string name="miui_network_selection_reset_text">Restableix</string>
     <string name="miui_notification_network_selection_title">SIM: Sense servei</string>
     <string name="miui_notification_network_selection_title_by_sim">SIM %s: Sense servei</string>
@@ -1354,7 +1377,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Error de targeta SIM</string>
     <string name="msim_setting_categery_title">Configuració de targeta SIM</string>
-    <string name="msim_setting_default_data">Targeta de dades</string>
+    <string name="msim_setting_default_data">SIM de dades</string>
     <string name="msim_setting_default_data_description">SIM de dades %d</string>
     <string name="msim_setting_default_voice">Per defecte per a trucades</string>
     <string name="msim_setting_default_voice_description">SIM %d per a trucades</string>
@@ -1368,7 +1391,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="msim_setting_pop_text">Seleccioneu una targeta SIM per marcar</string>
     <string name="msim_setting_screen_title">Targetes SIM i xarxes mòbils</string>
     <string name="msim_setting_set_package">Seleccioneu un pla</string>
-    <string name="msim_setting_sim_info_editor_title">Ediat informació de targeta</string>
+    <string name="msim_setting_sim_info_editor_title">Edita la informació de la SIM</string>
     <string name="msim_sim_lock">Bloquejada</string>
     <string name="msim_sim_radio_off">Desactivat</string>
     <string name="msim_switch_data_conn_toast">S\'han bescanviat les targetes SIM. El tipus de xarxa ha canviat. Consulteu informació addicional a targes SIM i xarxes mòbils del menú de configuració.</string>
@@ -1413,7 +1436,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="network_settings_select_automatic_hint">"No es pot accedir a la xarxa que heu seleccionat.
 S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="network_settings_title">Xarxes mòbils</string>
-    <string name="network_settings_turn_off">Apagat</string>
+    <string name="network_settings_turn_off">Desactivat</string>
     <string name="network_settings_warn_message">El vostre dispositiu només es connectarà a les xarxes que seleccioneu manualment.</string>
     <string name="network_state_display">Mostra l\'estat de la xarxa</string>
     <string name="network_state_display_title">Configuració de l\'estat de la xarxa</string>
@@ -1421,7 +1444,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="networks_title">Xarxes mòbils</string>
     <string name="newPin2Label">PIN2 nou</string>
     <string name="newPinLabel">PIN nou</string>
-    <string name="new_password_label">Nova contrasenya de 4 dígits</string>
+    <string name="new_password_label">Nova contrasenya de %d dígits</string>
     <string name="new_pin2_label">Nou PIN2</string>
     <string name="new_pin_label">Nou PIN</string>
     <string name="no_application">Cap</string>
@@ -1434,8 +1457,8 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="no_vm_number">Número de bústia de veu perdut</string>
     <string name="no_vm_number_msg">No hi ha número de correu de veu emmagatzemat en la targeta SIM.</string>
     <string name="no_voip">"La trucada SIP no és compatible"</string>
-    <string name="no_wifi_available">Necessiteu estar connectat a una xarxa Wi-Fi per fer trucades per internet (utilitzeu els paràmetres de la xarxa &amp; Wi-Fi).</string>
-    <string name="not_a_valid_port">El número de port ha d\'estar entre 1000 i 65534.</string>
+    <string name="no_wifi_available">Heu d’estar connectat a una xarxa Wi-Fi per a trucades SIP (utilitzeu la configuració de la xarxa i sense fils).</string>
+    <string name="not_a_valid_port">El número de port ha d’estar entre %1$d i %2$d.</string>
     <string name="not_allowed">"La vostra targeta SIM no permet una connexió a aquesta xarxa."</string>
     <string name="not_set">Sense especificar</string>
     <string name="not_voice_capable">Trucada de veu no suportada</string>
@@ -1466,7 +1489,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="okay">D\'acord</string>
     <string name="oldPin2Label">PIN2 antic</string>
     <string name="oldPinLabel">PIN antic</string>
-    <string name="old_password_label">Contrasenya anterior de 4 dígits</string>
+    <string name="old_password_label">Contrasenya de %d dígits actual</string>
     <string name="old_pin2_label">PIN2</string>
     <string name="old_pin_label">PIN antic</string>
     <string name="onHold">En espera</string>
@@ -1481,7 +1504,7 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="onscreenShowDialpadText">Teclat</string>
     <string name="onscreenSwapCallsText">Bescanvia</string>
     <string name="onscreenVideoCallText">Vídeotrucada</string>
-    <string name="open_miui">Obert</string>
+    <string name="open_miui">Activa</string>
     <string name="opened_dual_4g_confirm_prompt">Sembla que teniu una targeta SIM només 4G. La 4G Dual s\'ha activat automàticament.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">La SIM %1$s només admet 4G. Per assegurar-vos que la vostra targeta SIM funciona amb normalitat, s\'ha activat el 4G dual.</string>
     <string name="operator">Operador</string>
@@ -1501,7 +1524,7 @@ Pot trigar uns 5 minuts."</string>
     <string name="ota_listen">Seguiu les instruccions parlades fins que escolteu que s\'ha completat l\'activació.</string>
     <string name="ota_next">Següent</string>
     <string name="ota_progress">S\'està programant el vostre telèfon&#8230;</string>
-    <string name="ota_skip_activation_dialog_message">"Si ometeu l'activació, no podreu trucar ni connectar-vos a la xarxa de dades mòbil (però sí que podreu connectar-vos a xarxes Wi-Fi). Fins que no activeu el vostre telèfon, se us demanarà per activar-lo cada cop que l'engegueu."</string>
+    <string name="ota_skip_activation_dialog_message">"Si ometeu l’activació, no podreu fer trucades ni connectar-vos a xarxes de dades mòbils (tot i que us podreu connectar a les xarxes Wi-Fi). Fins que no activeu el telèfon, se us demanarà que l’activeu cada cop que l’engegueu."</string>
     <string name="ota_skip_activation_dialog_skip_label">Omet</string>
     <string name="ota_skip_activation_dialog_title">Voleu ometre l\'activació?</string>
     <string name="ota_spc_failure">MASSA FALLADES SPC</string>
@@ -1690,11 +1713,11 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent 
     <string name="preferred_network_mode_wcdma_perf_summary">Mode de xarxa preferit: WCDMA preferit</string>
     <string name="preferred_network_restrict_network_changed_incall">"No es pot canviar de xarxa mòbil durant una trucada"</string>
     <string name="preferred_network_type_3g_only_warning">La vostra targeta SIM ha d\'admetre 3G per connectar a la xarxa.</string>
-    <string name="preferred_network_type_pref_entries_3g_preferred">3G preferentment</string>
-    <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G (CDMA) preferentment</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred">Preferentment 3G</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Preferentment 3G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G / 2G (preferit 3G)</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred">LTE preferentment</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G (CDMA) preferentment</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred">Preferentment LTE</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferentment 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferentment 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G / 3G / 2G (preferit 4G)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferentment 5G</string>
@@ -1783,10 +1806,10 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent 
     <string name="radio_info_ims_feature_status_available">Disponible</string>
     <string name="radio_info_ims_feature_status_unavailable">No disponible</string>
     <string name="radio_info_ims_reg_status">"Registre IMS: %1$s
-Voice over LTE: %2$s
-Voice over WLAN: %3$s
-Video Calling: %4$s
-Interface UT: %5$s"</string>
+Veu per LTE: %2$s
+Veu per Wi-Fi: %3$s
+Videotrucades: %4$s
+Interfície UT: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">No registrat</string>
     <string name="radio_info_ims_reg_status_registered">Enregistrat</string>
     <string name="radio_info_ims_reg_status_title">Estat IMS</string>
@@ -1813,7 +1836,7 @@ Interface UT: %5$s"</string>
     <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
     <string name="radio_off_during_emergency_call">No es pot activar al mode avió durant una trucada d\'emergència.</string>
     <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
-    <string name="reading_settings">Configuració de lectura&#8230;</string>
+    <string name="reading_settings">S\'està llegint la configuració…</string>
     <string name="regional_disable">Notícies regionals desactivades</string>
     <string name="regional_enable">Notícies regionals activades</string>
     <string name="register_automatically">Registre automàtic&#8230;</string>
@@ -1824,7 +1847,7 @@ Interface UT: %5$s"</string>
     <string name="registration_status_failed_try_later">"No s'ha pogut registrar el compte: %s. Un altre intent es farà més endavant."</string>
     <string name="registration_status_invalid_credentials">"No s'ha pogut registrar el compte. Nom d'usuari o contrasenya incorrecta."</string>
     <string name="registration_status_no_data">"No s'ha pogut registrar el compte. Aquest dispositiu no està connectat a Internet."</string>
-    <string name="registration_status_no_wifi_data">"No s'ha pogut registrar el compte. Aquest dispositiu no està connectat a WLAN."</string>
+    <string name="registration_status_no_wifi_data">"No s'ha pogut registrar el compte. Aquest dispositiu no està connectat a la Wi-Fi."</string>
     <string name="registration_status_not_receiving">"No es poden rebre trucades."</string>
     <string name="registration_status_not_running">"No s'ha pogut registrar el compte."</string>
     <string name="registration_status_registering">S\'està registrant&#8230;</string>
@@ -1904,6 +1927,7 @@ Interface UT: %5$s"</string>
     <string name="search_menu">Cerca a la configuració</string>
     <string name="search_menu_title">Cerca</string>
     <string name="selectContact">Selecciona contacte</string>
+    <string name="select_apn_list_title">Trieu el vostre APN predeterminat: per a la targeta %1$s</string>
     <string name="select_application">Seleccioneu l\'aplicació</string>
     <string name="select_automatically">Selecció automàtica</string>
     <string name="select_dds_dialog_title">Seleccioneu la SIM de dades mòbils per defecte</string>
@@ -1921,6 +1945,8 @@ Interface UT: %5$s"</string>
     <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
     <string name="send_button">Envia</string>
     <string name="send_keepalive_title">Envia mantenir-actiu</string>
+    <string name="sensor_answer_summary">Porteu el telèfon a l’orella per respondre automàticament una trucada entrant</string>
+    <string name="sensor_answer_title">Aixequeu per respondre</string>
     <string name="set_primary_summary">Utilitzat per trucades sortints</string>
     <string name="set_primary_title">Selecciona com a compte principal</string>
     <string name="set_smsc_address_error">"No s'ha pogut establir el número"</string>
@@ -1994,7 +2020,7 @@ Interface UT: %5$s"</string>
     <string name="sip_call_options_entry_3">Pregunta-ho a cada trucada</string>
     <string name="sip_call_options_title">Utilitza trucades per internet</string>
     <string name="sip_call_options_wifi_only_entry_1">Per a totes les trucades</string>
-    <string name="sip_call_options_wifi_only_title">Fes trucades per internet (només Wi-Fi)</string>
+    <string name="sip_call_options_wifi_only_title">Utilitza les trucades SIP (només Wi-Fi)</string>
     <string name="sip_connection_service_label">Trucades SIP integrades</string>
     <string name="sip_edit_new_title">Detalls del compte SIP</string>
     <string name="sip_edit_title">Detalls del compte SIP</string>
@@ -2038,13 +2064,14 @@ Interface UT: %5$s"</string>
     <string name="srvcc_message">La trucada de veu 4G s\'ha reduït a trucada de veu 2G / 3G, ja que la xarxa 4G no està disponible.</string>
     <string name="srvcc_video_message">La trucada de vídeo 4G s\'ha reduït a trucada de vídeo 2G / 3G, ja que la xarxa 4G no està disponible.</string>
     <string name="standby_bucket_summary">Estat d\'espera de l\'aplicació: %s</string>
-    <string name="status_hint_label_incoming_wifi_call">Trucada via Wi-Fi entrant</string>
+    <string name="status_hint_label_incoming_wifi_call">Trucada per Wi-Fi des de</string>
     <string name="status_hint_label_wifi_call">Trucada per Wi-Fi</string>
     <string name="status_unavailable">No disponible</string>
     <string name="stk_cc_ss_to_dial_error">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
     <string name="stk_cc_ss_to_dial_video_error">La sol·licitud de SS ha canviat a videotrucada</string>
     <string name="stk_cc_ss_to_ss_error">La sol·licitud SS s\'ha transformat en una nova sol·licitud SS.</string>
     <string name="stk_cc_ss_to_ussd_error">La sol·licitud SS s\'ha transformat en una sol·licitud USSD.</string>
+    <string name="stk_name">Joc d\'eines USIM</string>
     <string name="stock_quotes_disable">Cotitzacions de borsa desactivades</string>
     <string name="stock_quotes_enable">Cotitzacions de borsa activades</string>
     <string name="storage_category">Emmagatzematge</string>
@@ -2210,6 +2237,8 @@ El període següent comença en %2$d dies (%3$s)"</string>
     <string name="tts_status_ok">%1$s és compatible</string>
     <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
     <string name="tts_status_title">Estat de l\'idioma per defecte</string>
+    <string name="tty_mode_entries_full">TTY complet</string>
+    <string name="tty_mode_entries_off">TTY desactivat</string>
     <string name="tty_mode_not_allowed_video_call">No es pot canviar el mode TTY durant una videotrucada</string>
     <string name="tty_mode_option_summary">Estableix mode TTY</string>
     <string name="tty_mode_option_title">Mode TTY</string>
@@ -2218,6 +2247,10 @@ El període següent comença en %2$d dies (%3$s)"</string>
     <string name="turnover_mute_summary">Quan el telèfon estigui en un lloc pla pantalla amunt, poseu-la cap avall per silenciar les trucades i aturar la vibració i la llum intermitent de notificació.</string>
     <string name="turnover_mute_title">Silencia la trucada girant</string>
     <string name="undefined">Cap</string>
+    <string name="unfold_close_camera_pref_summary">Desplegueu el dispositiu durant una videotrucada per desactivar la càmera</string>
+    <string name="unfold_close_camera_pref_title">Desplega per desactivar la càmera</string>
+    <string name="unfold_speaker_pref_summary">Desplegueu el dispositiu durant una trucada per activar l\'altaveu</string>
+    <string name="unfold_speaker_pref_title">Desplega per utilitzar l\'altaveu</string>
     <string name="unknown">Desconegut</string>
     <string name="unlock_failed">Sol·licitud de desbloqueig de xarxa incorrecta.</string>
     <string name="unlock_success">El desbloqueig de la xarxa SIM ha tingut èxit.</string>
@@ -2311,7 +2344,7 @@ Aquesta tauleta no té auricular. Podeu canviar al mode de mans lliures o utilit
     <string name="voicemail_provider">Servei</string>
     <string name="voicemail_provider_summary">Trieu un servei de bústia de veu</string>
     <string name="voicemail_set_pin_dialog_title">Estableix el PIN</string>
-    <string name="voicemail_settings">Configuració</string>
+    <string name="voicemail_settings">Configuració de la bústia de veu</string>
     <string name="voicemail_settings_number_hint">Introduïu el número de bústia de veu</string>
     <string name="voicemail_settings_number_label">Número de bústia de veu</string>
     <string name="voicemail_settings_number_title">Número de bústia de veu</string>
@@ -2331,16 +2364,16 @@ Aquesta tauleta no té auricular. Podeu canviar al mode de mans lliures o utilit
     <string name="volte_tips_when_turn_on">Els serveis VoLTE de China Telecom només es proporcionen a les zones amb cobertura de xarxa LTE.</string>
     <string name="vonr_switch_summary">Utilitzeu VoNR per millorar la qualitat de les trucades de veu</string>
     <string name="vonr_switch_title">Utilitzeu VoNR</string>
-    <string name="vowifi_emergency_notification_channel">Avis de Trucada d\'emergencia WLAN</string>
+    <string name="vowifi_emergency_notification_channel">Avís de trucades d\'emergència per Wi-Fi</string>
     <string name="vowifi_emergency_notification_content">Trucades d’emergència només a zones amb cobertura cel·lular</string>
-    <string name="vowifi_emergency_notification_title">Trucada WLAN de Vodafone</string>
+    <string name="vowifi_emergency_notification_title">Trucades per Wi-Fi Vodafone</string>
     <string name="vowifi_emergency_warning_check">"No ho mostris més."</string>
-    <string name="vowifi_emergency_warning_message">"No es poden fer trucades d’emergència mitjançant Trucades WLAN.
+    <string name="vowifi_emergency_warning_message">"No es poden fer trucades d’emergència mitjançant les trucades per Wi-Fi.
 
-El dispositiu passa automàticament a una xarxa mòbil (2G/3G) per fer una trucada d'emergència.
+El dispositiu canvia automàticament a una xarxa mòbil (2G/3G) per fer una trucada d'emergència.
 
-Les trucades d’emergència només són possibles en zones amb cobertura cel·lular."</string>
-    <string name="vowifi_emergency_warning_title">Trucades d’emergència mitjançant Trucades WLAN</string>
+Les trucades d'emergència només són possibles a les zones amb cobertura cel·lular."</string>
+    <string name="vowifi_emergency_warning_title">Trucades d\'emergència mitjançant les trucades per Wi-Fi</string>
     <string name="vowifi_welcome_notification_channel">wifiCallWelcomeNotification</string>
     <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
     <string name="vt_provisioned_switch_string">Prova de trucades de vídeo prevista</string>
@@ -2367,37 +2400,39 @@ Les trucades d’emergència només són possibles en zones amb cobertura cel·l
     <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
     <string name="wapi_yes">sí</string>
     <string name="wfc_provisioned_switch_string">Provisió de trucades wifi</string>
+    <string name="wfcmode_ims_preferred">Prefereix IMS</string>
     <string name="wfcmode_mobile_preferred">Preferència a xarxes mòbils</string>
     <string name="wfcmode_wifi_only">Només Wi-Fi</string>
-    <string name="wfcmode_wifi_preferred">Preferencia a Wi-Fi</string>
+    <string name="wfcmode_wifi_preferred">Preferentment la Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
     <string name="wifi_call_accept">Omet</string>
-    <string name="wifi_call_available_message">"Ara podeu fer trucades mitjançant la WLAN. Si esteu connectats a una xarxa WLAN, podreu parlar fins i tot quan sigueu a les zones sense cobertura de xarxa mòbil."</string>
-    <string name="wifi_call_available_title">Activant les Trucades WLAN</string>
+    <string name="wifi_call_available_message">"Ara podeu fer trucades mitjançant la Wi-Fi. Si esteu connectats a una xarxa Wi-Fi, podreu parlar fins i tot quan us trobeu a les zones sense cobertura de la xarxa mòbil."</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Esteu a punt de connectar-vos a una xarxa Wi-Fi. La qualitat de les trucades pot variar en funció de la xarxa.</string>
+    <string name="wifi_call_available_title">Activació de les trucades per Wi-Fi</string>
     <string name="wifi_call_cancel">Més informació</string>
     <string name="wifi_call_help">Ajuda</string>
-    <string name="wifi_call_help_message_1">"Trucades WLAN és un servei proporcionat per Orange que permet fer i rebre trucades mitjançant la WLAN. Aquesta funció es pot utilitzar en zones amb una cobertura de xarxa mòbil pobra.
+    <string name="wifi_call_help_message_1">"Les trucades per Wi-Fi són un servei que ofereix Orange, que permet fer i rebre trucades mitjançant la Wi-Fi. Aquesta funció es pot utilitzar a zones amb una cobertura de xarxa mòbil deficient.
 
-Per utilitzar Trucades WLAN, activeu-les a Configuració &gt; Trucades WLAN.
+Per utilitzar les trucades per Wi-Fi, activeu-lo a Configuració &gt; Trucades per Wi-Fi.
 
-Per activar el servei, Orange us enviarà un missatge de confirmació tan bon punt el servei estigui disponible. Després d'això, podreu connectar-vos a una xarxa WLAN i fer trucades.
+Per activar el servei, Orange us enviarà un missatge de confirmació tan bon punt el servei estigui disponible. Després, podreu connectar-vos a una xarxa Wi-Fi i fer trucades.
 
-Les trucades realitzades mitjançant la WLAN es cobraran segons les condicions del vostre pla.
+Les trucades realitzades mitjançant la Wi-Fi es cobraran segons les condicions del vostre pla.
 
-Sempre que estigui disponible aquesta funció, la icona següent es mostrarà a la part superior de la pantalla."</string>
-    <string name="wifi_call_help_message_2">"Si escolliu preferir les xarxes WLAN, s’utilitzaran per defecte per fer les trucades de telèfon. En cas que no estigueu connectat a la WLAN o el senyal és deficient, s’utilitzaran xarxes mòbils per fer les trucades.
+Sempre que aquesta funció estigui disponible, es mostrarà la icona següent a la part superior de la pantalla."</string>
+    <string name="wifi_call_help_message_2">"Si seleccioneu preferentment les xarxes Wi-Fi, s’utilitzaran de manera predeterminada per fer les trucades telefòniques. En cas que no estigueu connectats a la Wi-Fi o que el senyal sigui deficient, s’utilitzaran les xarxes mòbils per fer les trucades.
 
-Si escolliu preferir les xarxes mòbils, s’utilitzaran per defecte per fer trucades de telèfon. En cas que no hi hagi cobertura de xarxa mòbil o el senyal sigui deficient, s'utilitzaran les xarxes WLAN."</string>
-    <string name="wifi_call_help_title">Ajuda de Trucades WLAN</string>
+Si seleccioneu preferentment les xarxes mòbils, s'utilitzaran de manera predeterminada per fer les trucades telefòniques. En cas que no hi hagi cobertura de xarxa mòbil o el senyal sigui pobre, s’utilitzaran les xarxes Wi-Fi."</string>
+    <string name="wifi_call_help_title">Ajuda de trucades per Wi-Fi</string>
     <string name="wifi_call_notification_message">"Aquest servei el proporciona Orange. Podeu trigar unes hores a activar aquest servei. Rebreu un SMS de confirmació tan bon punt estigui disponible."</string>
-    <string name="wifi_call_preferred_summary">"Si seleccioneu preferir les xarxes mòbils, s’utilitzaran per a les trucades per defecte. En cas que no hi hagi senyal de xarxa mòbil o sigui molt pobre, s'utilitzarà la xarxa WLAN."</string>
-    <string name="wifi_call_setting">Trucades WLAN</string>
-    <string name="wifi_call_setting_vodafone_de">Trucades WLAN</string>
-    <string name="wifi_call_setting_vodafone_uk">Trucada WLAN</string>
-    <string name="wifi_call_welcome_settings">Trucades WLAN</string>
-    <string name="wifi_calling">Trucades WLAN</string>
-    <string name="wifi_calling_settings_title">Trucades WLAN</string>
+    <string name="wifi_call_preferred_summary">"Si seleccioneu preferentment les xarxes mòbils, les xarxes mòbils s’utilitzaran per defecte per a les trucades. En cas que no hi hagi cap senyal de xarxa mòbil o sigui molt pobre, s’utilitzarà la xarxa Wi-Fi."</string>
+    <string name="wifi_call_setting">Trucades Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_de">Trucades per Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_uk">Trucada Wi-Fi</string>
+    <string name="wifi_call_welcome_settings">Trucades Wi-Fi</string>
+    <string name="wifi_calling">Trucades per Wi-Fi</string>
+    <string name="wifi_calling_settings_title">Trucades per Wi-Fi</string>
     <string name="wifi_cant_connect">"No es pot connectar"</string>
     <string name="wifi_cant_connect_to_ap">"No es pot connectar a '%1$s'"</string>
     <string name="wifi_check_password_try_again">Comproveu la contrasenya i torneu-ho a provar</string>
@@ -2408,7 +2443,7 @@ Si escolliu preferir les xarxes mòbils, s’utilitzaran per defecte per fer tru
     <string name="wifi_disabled_generic">Desactivada</string>
     <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
     <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
-    <string name="wifi_disabled_wifi_failure">Error de connexió Wi-Fi</string>
+    <string name="wifi_disabled_wifi_failure">Error de connexió de la Wi-Fi</string>
     <string name="wifi_disconnected">Desconnectat</string>
     <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
     <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
@@ -2449,8 +2484,8 @@ Comproveu la validesa dels certificats"</string>
 L'emmagatzematge de credencials no es pot activar"</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
-    <string name="wificall_switch_summary">Utilitza la WLAN per fer i rebre trucades sempre que sigui possible</string>
-    <string name="wificall_switch_title">Realitza les trucades mitjançant la WLAN</string>
+    <string name="wificall_switch_summary">Utilitza la Wi-Fi per fer i rebre trucades sempre que sigui possible</string>
+    <string name="wificall_switch_title">Fes les trucades per Wi-Fi</string>
     <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="wrong_password">La contrasenya introduïda és incorrecta</string>
