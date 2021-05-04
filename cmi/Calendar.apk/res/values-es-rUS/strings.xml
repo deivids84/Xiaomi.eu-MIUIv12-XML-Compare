@@ -532,7 +532,7 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="preferences_use_home_tz_title">Usar zona horaria de casa</string>
     <string name="preferences_week_start_day_dialog">Inicio de la semana</string>
     <string name="preferences_week_start_day_title">Inicio de la semana</string>
-    <string name="prefsx_notify_sound_none">Silencio</string>
+    <string name="prefsx_notify_sound_none">Silenciar</string>
     <string name="premission_description_agree">Permitir a esta app conectarse a Internet y otorgar los permisos obligatorios listados arriba.</string>
     <string name="premission_description_calendar">Para agregar y mostrar sus eventos</string>
     <string name="premission_description_contact">Para mostrar los cumpleaños de tus contactos</string>
