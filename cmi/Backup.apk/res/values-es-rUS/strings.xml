@@ -75,6 +75,7 @@
     <string name="backup_finished">Respaldo completado</string>
     <string name="backup_hint">Mantenga su dispositivo encendido</string>
     <string name="backup_hint_onpad">Mantenga su dispositivo encendido</string>
+    <string name="backup_hint_pad">Mantenga su dispositivo encendido</string>
     <string name="backup_is_running">Respaldando el dispositivo</string>
     <string name="backup_new">Nuevo:</string>
     <string name="backup_progress">Respaldando…</string>
@@ -407,7 +408,9 @@ primero deberá crear un respaldo de iCloud."</string>
 %1$d. Copia las copias de seguridad en tu computadora para evitar la pérdida de datos. %2$s.
 %3$d. Las copias de seguridad se guardarán en MIUI-Backup-AllBackup."</string>
     <string name="new_local_tab_backup">Copia de seguridad</string>
+    <string name="new_local_tab_backup_pad">Copia de seguridad</string>
     <string name="new_local_tab_restore">Restaurar</string>
+    <string name="new_local_tab_restore_pad">Restaurar</string>
     <string name="new_low_storage_title">No hay suficiente espacio de almacenamiento</string>
     <string name="new_more_settings_label">Ajustes adicionales</string>
     <string name="new_pc_backup_content1">%1$d. Abre \"%2$s\".</string>
@@ -415,11 +418,14 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="new_pc_backup_content3">%d. Encuentre la copia de seguridad en MIUI-Backup-AllBackup.</string>
     <string name="new_pc_backup_content4">%d. Copia el archivo a tu computadora.</string>
     <string name="new_pc_backup_restore_link">Dispositivo móvil</string>
+    <string name="new_pc_backup_restore_link_pad">Dispositivo móvil</string>
     <string name="new_pc_backup_summary1">Seleccione elementos y toque \"Copia de seguridad\".</string>
     <string name="new_pc_backup_summary2">Conecta tu dispositivo móvil a la computadora mediante un cable USB.</string>
+    <string name="new_pc_backup_summary2_pad">Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
     <string name="new_pc_backup_summary4">Nota: también puede copiar fotos y vídeos de DCIM.</string>
     <string name="new_pc_restore_content1">%d. Conecta tu dispositivo móvil a una computadora mediante un cable USB.</string>
     <string name="new_pc_restore_content2">%d. Copia la copia de seguridad de tu computadora a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Copie la copia de seguridad de su computadora a MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Abra \"%2$s\" y seleccione elementos para restaurarlos.</string>
     <string name="new_pc_title">Copias de respaldo</string>
     <string name="new_select_file">Audio, videos y archivos</string>
@@ -445,6 +451,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="no_encrypt_password">Sin contraseña</string>
     <string name="no_network">"No se puede conectar a la red"</string>
     <string name="noon">Mediodía</string>
+    <string name="not_enough_storage_tips">Espacio de almacenamiento insuficiente. Libera espacio y vuelve a intentarlo.</string>
     <string name="not_set">Sin definir</string>
     <string name="note_title">Notas</string>
     <string name="nothing_searched">Sin resultados.</string>
