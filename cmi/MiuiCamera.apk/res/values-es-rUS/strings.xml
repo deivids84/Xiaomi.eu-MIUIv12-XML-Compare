@@ -953,6 +953,7 @@ se vean más grandes en las fotos"</string>
     <string name="module_name_panorama">Panorámica</string>
     <string name="module_name_portrait">Retrato</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Escáner</string>
     <string name="module_name_square">Cuadrado</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Video</string>
@@ -1549,6 +1550,9 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
+    <string name="scan_install_prompt_header">Instalar Escáner</string>
+    <string name="scan_install_prompt_loading">Instalando Escáner…</string>
+    <string name="scan_install_prompt_message">Instale Escáner y vuelva a intentarlo.</string>
     <string name="screen_on_proximity_sensor_hint">Para desactivar esta función presione los botones de subir volumen y Atrás al mismo tiempo.</string>
     <string name="screen_on_proximity_sensor_summary">"No cubrir la zona del auricular"</string>
     <string name="search_menu_title">Buscar</string>
