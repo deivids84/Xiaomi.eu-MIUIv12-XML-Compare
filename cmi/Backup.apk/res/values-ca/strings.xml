@@ -75,6 +75,7 @@
     <string name="backup_finished">S\'ha copiat correctament</string>
     <string name="backup_hint">Manteniu el dispositiu encès</string>
     <string name="backup_hint_onpad">Manteniu el dispositiu encès</string>
+    <string name="backup_hint_pad">Mantingueu el dispositiu encès</string>
     <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
     <string name="backup_new">Noves:</string>
     <string name="backup_progress">S\'està fent una còpia de seguretat…</string>
@@ -407,7 +408,9 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
 %1$d. Copieu les còpies de seguretat a l'ordinador per evitar la pèrdua de dades. %2$s.
 %3$d. Les còpies de seguretat es desaran a MIUI-Backup-AllBackup."</string>
     <string name="new_local_tab_backup">Còpia de seguretat</string>
+    <string name="new_local_tab_backup_pad">Còpia de seguretat</string>
     <string name="new_local_tab_restore">Restaura</string>
+    <string name="new_local_tab_restore_pad">Restaura</string>
     <string name="new_low_storage_title">No hi ha prou espai d\'emmagatzematge</string>
     <string name="new_more_settings_label">Configuració addicional</string>
     <string name="new_pc_backup_content1">%1$d. Obre \"%2$s\".</string>
@@ -415,11 +418,14 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="new_pc_backup_content3">%d. Trobareu la còpia de seguretat a MIUI-Backup-AllBackup.</string>
     <string name="new_pc_backup_content4">%d. Copieu el fitxer a l\'ordinador.</string>
     <string name="new_pc_backup_restore_link">Dispositiu mòbil</string>
+    <string name="new_pc_backup_restore_link_pad">Dispositiu mòbil</string>
     <string name="new_pc_backup_summary1">Seleccioneu els elements i toqueu \"Còpia de seguretat\".</string>
     <string name="new_pc_backup_summary2">Connecteu el dispositiu mòbil a l’ordinador mitjançant un cable USB.</string>
+    <string name="new_pc_backup_summary2_pad">Connecteu el dispositiu mòbil a l’ordinador mitjançant un cable USB.</string>
     <string name="new_pc_backup_summary4">Nota: També podeu copiar fotos i vídeos de la DCIM.</string>
     <string name="new_pc_restore_content1">%d. Connecteu el dispositiu mòbil a l’ordinador mitjançant un cable USB.</string>
     <string name="new_pc_restore_content2">%d. Copieu la còpia de seguretat de l\'ordinador a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Copieu la còpia de seguretat de l\'ordinador a MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Obriu \"%2$s\" i seleccioneu els elements a restaurar.</string>
     <string name="new_pc_title">Copia les còpies de seguretat</string>
     <string name="new_select_file">Àudio, vídeos i fitxers</string>
@@ -445,6 +451,7 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
     <string name="no_encrypt_password">Sense contrasenya</string>
     <string name="no_network">"No es pot connectar a la xarxa"</string>
     <string name="noon">Migdia</string>
+    <string name="not_enough_storage_tips">Espai d\'emmagatzematge insuficient. Allibereu espai i torneu-ho a provar.</string>
     <string name="not_set">Sense especificar</string>
     <string name="note_title">Notes</string>
     <string name="nothing_searched">Sense resultats.</string>
