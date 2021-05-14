@@ -3133,8 +3133,8 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="freeform_guide_notification_drop_down_summary">Mantenga presionado y luego deslice hacia abajo la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir una ventana flotante</string>
     <string name="freeform_guide_settings">Ventanas flotantes</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Deslice el dedo desde la parte inferior de la pantalla hasta la esquina superior derecha de la pantalla</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Deslizándose a ventanas flotantes</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Mantenga presionada la parte inferior de la ventana y arrástrela a la esquina superior derecha</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimizar una aplicación</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslice hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
     <string name="freeform_vedio_description">"· Mantenga presionado y luego deslice hacia abajo una notificación para abrirla en una ventana flotante.
@@ -3308,7 +3308,6 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="header_category_system">Sistema</string>
     <string name="header_category_wireless_networks">Inalámbrico y redes</string>
     <string name="header_data_and_synchronization">Sincronización y datos</string>
-    <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Conectando…</string>
     <string name="headset_find_both">Ambos</string>
     <string name="headset_find_cancel">Cancelar</string>
@@ -4128,7 +4127,7 @@ del segundo espacio"</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
-    <string name="magic_window_name">Ventana dividida</string>
+    <string name="magic_window_name">Ventanas paralelas</string>
     <string name="main_netcheck_summary">Probar la conexión para detectar problemas de red</string>
     <string name="main_running_process_description">Proceso principal en uso.</string>
     <string name="main_toolbar_statistic">Estadísticas del uso de datos</string>
