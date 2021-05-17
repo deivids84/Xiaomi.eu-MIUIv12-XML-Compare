@@ -45,7 +45,7 @@
     <string name="alert_title_backup_to_miasist">¿Respaldar elementos con Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en su teléfono?</string>
     <string name="already_enable_encrypt">El cifrado ya está activado</string>
-    <string name="am">AM</string>
+    <string name="am">A.M.</string>
     <string name="app_name">Copia de seguridad</string>
     <string name="apps_and_data_item_desc">Aplicaciones y datos</string>
     <string name="auto_backup">Programar copia de seguridad de rutina</string>
@@ -105,7 +105,7 @@
     <string name="cancel_moving_dialog_message">¿Detener la importación ahora?</string>
     <string name="cancel_moving_dialog_title">Detener la importación</string>
     <string name="cancel_restore">Detener</string>
-    <string name="clearable_edittext_clear_description">Limpiar</string>
+    <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="click_soft_ap_to_link">Seleccione un punto de acceso para conectarse</string>
     <string name="click_to_view">Toque para visualizar</string>
     <string name="close">Cerrar</string>
@@ -149,7 +149,7 @@ https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
     <string name="data_item_desc">Datos</string>
     <string name="data_no_enough_space_message">"No hay suficiente espacio de almacenamiento en su dispositivo."</string>
     <string name="date_format">dd/MM/yyyy HH:mm:ss</string>
-    <string name="date_picker_lunar">Calendario Chino Tradicional</string>
+    <string name="date_picker_lunar">Calendario tradicional chino</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="delete">Eliminar</string>
     <string name="delete_backup_process">Eliminando…</string>
@@ -169,7 +169,7 @@ https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">No encriptar</string>
     <string name="disable_encrypt_title">Desactivar el cifrado</string>
-    <string name="early_morning">Mañana</string>
+    <string name="early_morning">Buenos días</string>
     <string name="enable_encrypt">Activar el cifrado</string>
     <string name="enable_encrypt_description">Encriptar</string>
     <string name="enable_encrypt_fail">Error de encriptación</string>
@@ -221,7 +221,7 @@ Asegúrese de que la unidad USB tiene espacio suficiente antes de iniciar."</str
     <string name="flash_drive_search_backup_files">"Buscando respaldo USB…
 No modifique o renombre los archivos de respaldo."</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
