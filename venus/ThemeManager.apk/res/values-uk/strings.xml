@@ -332,7 +332,6 @@
     <string name="forbid_video_wallpaper_by_second_space">Можна спочатку застосувати динамічні шпалери у першій області.</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
-    <string name="friday_shortest">Фа</string>
     <string name="gallery_wallpaper">Шпалпапір Карусель</string>
     <string name="gallery_wallpaper_theme">Треба мати шпалери</string>
     <string name="gift_share">Відправити</string>
@@ -562,6 +561,7 @@ dd/M"</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Зрозуміло</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Більше не показувати"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Проблеми сумісності</string>
+    <string name="multiwindow_no_support_icon">"Не можна змінити іконки при розділенні екрану"</string>
     <string name="network_exception">"Неможливо підключитися до інтернету"</string>
     <string name="new_resource_price_unit">Мі</string>
     <string name="night">Очистити кеш</string>
@@ -1105,7 +1105,7 @@ dd/M"</string>
     <string name="third_party_pickers_activity_title">Додати %1$s</string>
     <string name="thursday">Четвер</string>
     <string name="thursday_short">Чт</string>
-    <string name="thursday_shortest">Ч</string>
+    <string name="thursday_shortest">Т</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="time_picker_label_hour">Н</string>
     <string name="time_picker_label_minute">М-ль</string>
