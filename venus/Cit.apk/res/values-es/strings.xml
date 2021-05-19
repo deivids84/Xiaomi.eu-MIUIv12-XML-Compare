@@ -32,7 +32,7 @@
     <string name="back_mic_check_record_tip">Grabando, por favor diga algo al MIC en la parte trasera del teléfono</string>
     <string name="battery_authentic">Batería auténtica</string>
     <string name="battery_dual_connector">BateríaDualConnector</string>
-    <string name="battery_id">Batería ID</string>
+    <string name="battery_id">ID de batería</string>
     <string name="battery_plug_wirelee_summary">Cargador inalámbrico en cada conexión, desconecte una vez</string>
     <string name="battery_plug_wirelee_title">Prueba de carga inalámbrica</string>
     <string name="battery_plugin_wirelee">La carga inalámbrica está conectada</string>
@@ -44,8 +44,8 @@
     <string name="battery_value">Electricidad</string>
     <string name="bottom_left_high_speaker">Prueba de tweeter inferior del lado izquierdo</string>
     <string name="bottom_left_low_speaker">Prueba de woofer inferior del lado izquierdo</string>
-    <string name="bottom_right_high_speaker">Prueba de tweeter inferior derecho</string>
-    <string name="bottom_right_low_speaker">Prueba de woofer bajo del lado derecho inferior</string>
+    <string name="bottom_right_high_speaker">Prueba de tweeter superior del lado derecho</string>
+    <string name="bottom_right_low_speaker">Prueba de woofer bajo inferior del lado derecho</string>
     <string name="bt_address">Dirección:</string>
     <string name="bt_name">Nombre:</string>
     <string name="camera_capture">Captura</string>
@@ -114,9 +114,9 @@ Sostenga el teléfono como si estuviera haciendo una llamada, hable al micrófon
 1.Toque el botón de la cámara a continuación para ingresar a la interfaz frontal de la cámara
 2.Toque el botón del obturador
 3.El sistema guardará la foto automáticamente después de la captura
-4.La foto que tomó debe mostrarse en la pantalla, Toque Pasar para completar la prueba."</string>
+4.La foto que tomó debe mostrarse en la pantalla, toque Pasar para completar la prueba."</string>
     <string name="cit_camera_deleted">Foto eliminada</string>
-    <string name="cit_camera_deleted_failed">Fallo al eliminar la foto</string>
+    <string name="cit_camera_deleted_failed">No se pudo borrar la foto</string>
     <string name="cit_camera_flash_adjust">Ajustar el flash</string>
     <string name="cit_camera_rearsub">Prueba de la cámara secundaria trasera en curso, espere....</string>
     <string name="cit_capture_fail">No se pudo tomar la foto</string>
@@ -150,6 +150,8 @@ y el enchufe inverso"</string>
 Haga clic en el botón correspondiente según el número que escuche"</string>
     <string name="cit_exit_test_summary">Cuando salga, se borrarán todos los datos de texto relacionados.</string>
     <string name="cit_exit_test_title">Prueba de salida</string>
+    <string name="cit_external_keyboard_test_summary">Ingrese caracteres al azar después de conectar el teclado y observe los resultados de la prueba</string>
+    <string name="cit_external_keyboard_test_title">Prueba de teclado externo</string>
     <string name="cit_fail">Fallar</string>
     <string name="cit_flash_life_check_summary">Estimación del tiempo de vida del flash del dispositivo</string>
     <string name="cit_flash_life_check_title">Vida flash</string>
@@ -161,7 +163,7 @@ Haga clic en el botón correspondiente según el número que escuche"</string>
 Antes de la prueba, debe insertar el auricular"</string>
     <string name="cit_fm_check_title">Radio FM</string>
     <string name="cit_fold_hall_test_summary">Doble el dispositivo y amplíelo. Si se puede hacer clic en el botón para aprobar, la prueba pasa</string>
-    <string name="cit_fp_fod_cali_title">Calibración de huellas dactilares Fod</string>
+    <string name="cit_fp_fod_cali_title">Calibración de huella dactilar</string>
     <string name="cit_front_camera_check_title">Cámara frontal</string>
     <string name="cit_front_dual_camera_check_title">Cámara frontal Bokeh</string>
     <string name="cit_front_sub_camera_check_title">Cámara auxiliar frontal</string>
@@ -202,7 +204,7 @@ Antes de la prueba, debe insertar el auricular"</string>
     <string name="cit_leds_check_title">Luz de notificación (LED)</string>
     <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, pruebe el sensor de luz</string>
     <string name="cit_light_sensor_check_title">Sensor de luz</string>
-    <string name="cit_magnetic_info_hint">Por favor, gire el dispositivo en forma de 8</string>
+    <string name="cit_magnetic_info_hint">Gire el dispositivo en forma de 8</string>
     <string name="cit_magnetic_sensor_check_summary">Los valores para X, Y, Z, las coordenadas deben aparecer debajo</string>
     <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
     <string name="cit_main_board_bottom_speaker_test_title">Prueba del altavoz inferior en la placa principal</string>
@@ -215,6 +217,8 @@ No apague la pantalla durante la prueba"</string>
     <string name="cit_no_sim_check_title">Sin tarjeta SIM</string>
     <string name="cit_otg_not_supported">"Este dispositivo no admite pruebas OTG"</string>
     <string name="cit_pass">Pasar</string>
+    <string name="cit_pencil_reverse_wireless_charger_summary">Coloque el lápiz en el área de detección derecha de la mesa para comenzar la prueba</string>
+    <string name="cit_pencil_reverse_wireless_charger_title">Prueba de carga de lápiz</string>
     <string name="cit_pointer_location_title">Sensor tactil</string>
     <string name="cit_power_check_summary">La cantidad de carga de la batería debe expresarse como un porcentaje a continuación.</string>
     <string name="cit_power_check_title">Indicador de batería</string>
@@ -259,7 +263,7 @@ Al calibrar, asegúrese de que no haya nada entre el sensor y su mano (por ejemp
     <string name="cit_sub_touch_panel_test_title">Sensor táctil secundario</string>
     <string name="cit_tele_camera_check_title">Tele cámara</string>
     <string name="cit_test_results">HistoryTestResult</string>
-    <string name="cit_tfcard_available_szie">Talla disponible</string>
+    <string name="cit_tfcard_available_szie">Tamaño disponible</string>
     <string name="cit_tfcard_mounted">Detectar tarjeta SD</string>
     <string name="cit_tfcard_support_summary">Compruebe si TFCard es compatible con este dispositivo</string>
     <string name="cit_tfcard_support_title">Soporte TFCard</string>
@@ -335,11 +339,9 @@ Al calibrar, asegúrese de que no haya nada entre el sensor y su mano (por ejemp
     <string name="cit_tool_bluetooth_le_tx_4x_antenna">antena:</string>
     <string name="cit_tool_bluetooth_le_tx_4x_channel">canal:</string>
     <string name="cit_tool_bluetooth_le_tx_4x_payload">carga útil:</string>
-    <string name="cit_tool_bluetooth_le_tx_4x_powerdbm">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_le_tx_50_antenna">antena:</string>
     <string name="cit_tool_bluetooth_le_tx_50_channel">canal:</string>
     <string name="cit_tool_bluetooth_le_tx_50_payload">carga útil:</string>
-    <string name="cit_tool_bluetooth_le_tx_50_powerdbm">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_le_tx_antenna">antena:</string>
     <string name="cit_tool_bluetooth_le_tx_ch0">Ingrese al modo de prueba Bluetooth LE 2.402GHz Freq TX</string>
     <string name="cit_tool_bluetooth_le_tx_ch1">Ingrese al modo de prueba Bluetooth LE 2.404GHz Freq TX</string>
@@ -385,7 +387,6 @@ Al calibrar, asegúrese de que no haya nada entre el sensor y su mano (por ejemp
     <string name="cit_tool_bluetooth_le_tx_msg">Ingrese al modo de prueba de Bluetooth LE 5.0 TX:</string>
     <string name="cit_tool_bluetooth_le_tx_msg_old">Ingrese al modo de prueba Bluetooth LE 4.x TX:</string>
     <string name="cit_tool_bluetooth_le_tx_power">"LE: TX Pwr "</string>
-    <string name="cit_tool_bluetooth_le_tx_power_dbm">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_le_tx_power_level">Pwr / Lv:</string>
     <string name="cit_tool_bluetooth_le_tx_power_msg">Ingrese al modo de prueba de energía Bluetooth BLE TX:</string>
     <string name="cit_tool_bluetooth_le_tx_type">PHY:</string>
@@ -474,38 +475,22 @@ La segunda línea muestra el nombre y el número de versión del MBN predetermin
     <string name="cit_tool_to_fetching">ir a buscar</string>
     <string name="cit_tool_wlan">Herramienta de prueba de Wi-Fi</string>
     <string name="cit_tool_wlan_exit">Salir</string>
-    <string name="cit_tool_wlan_rx_ap">Rx: AP</string>
-    <string name="cit_tool_wlan_rx_ap_name">MT</string>
-    <string name="cit_tool_wlan_rx_chan">Rx: canal</string>
+    <string name="cit_tool_wlan_rx_chan">Rx: Canal</string>
     <string name="cit_tool_wlan_rx_count_error">El valor de salida no es un número</string>
     <string name="cit_tool_wlan_rx_error">Se produjo un error al ejecutar el programa</string>
-    <string name="cit_tool_wlan_rx_exit">Rx:exit</string>
     <string name="cit_tool_wlan_rx_run">Ejecutar</string>
     <string name="cit_tool_wlan_rx_stop">Detener</string>
-    <string name="cit_tool_wlan_rxac_test">Rx: ac</string>
-    <string name="cit_tool_wlan_rxax_test">Rx: ax</string>
-    <string name="cit_tool_wlan_rxbg_test">Rx: a/b/g</string>
     <string name="cit_tool_wlan_rxbg_test_channel">canal:</string>
-    <string name="cit_tool_wlan_rxn_test">Rx: n</string>
     <string name="cit_tool_wlan_rxn_test_bw">ancho de banda:</string>
     <string name="cit_tool_wlan_rxn_test_channel">canal:</string>
     <string name="cit_tool_wlan_sniffer">Herramienta de rastreo de Wi-Fi</string>
     <string name="cit_tool_wlan_sniffer_settings">Configuración del rastreador</string>
     <string name="cit_tool_wlan_sniffer_test_title">Herramienta de prueba de rastreador de Wi-Fi</string>
     <string name="cit_tool_wlan_test_title">Herramienta de prueba de Wi-Fi</string>
-    <string name="cit_tool_wlan_tx_ac">Tx: ac</string>
-    <string name="cit_tool_wlan_tx_ax">Tx: ax</string>
     <string name="cit_tool_wlan_tx_ax_gI">Intervalo de guardia:</string>
-    <string name="cit_tool_wlan_tx_bg">Tx: a/b/g</string>
     <string name="cit_tool_wlan_tx_bg_chan">canal:</string>
-    <string name="cit_tool_wlan_tx_bg_txpr">txpower:</string>
-    <string name="cit_tool_wlan_tx_bg_txrt">velocidad de datos:</string>
-    <string name="cit_tool_wlan_tx_n">Tx: n</string>
-    <string name="cit_tool_wlan_tx_n_bandwidth">ancho de banda:</string>
+    <string name="cit_tool_wlan_tx_n_bandwidth">banda ancha:</string>
     <string name="cit_tool_wlan_tx_n_chan">canal:</string>
-    <string name="cit_tool_wlan_tx_n_txpr">txpower:</string>
-    <string name="cit_tool_wlan_tx_n_txrt">velocidad de datos: MCS</string>
-    <string name="cit_tool_wlan_tx_st">Tx: ST</string>
     <string name="cit_tool_wlan_tx_st_chan">canal:</string>
     <string name="cit_tool_wlan_txrx_chain_selection">Seleccionar antena</string>
     <string name="cit_top_left_speaker_test">Prueba de altavoz superior izquierdo</string>
@@ -567,17 +552,6 @@ prueba falló!"</string>
     <string name="fod_fingerprint_input_description">Prueba de entrada de huellas dactilares de Fod</string>
     <string name="fod_fingerprint_input_title">Prueba de entrada de huellas dactilares de Fod</string>
     <string name="front_mic_check_record_tip">Grabando, dile algo a MIC en la parte frontal del teléfono</string>
-    <string name="get_BLUETOOTH">BLUETOOTH</string>
-    <string name="get_BLUETOOTHPAN">BLUETOOTHPAN</string>
-    <string name="get_CABLE">CABLE</string>
-    <string name="get_HALLSENSOR">HALLSENSOR</string>
-    <string name="get_HOTSPOT">HOTSPOT</string>
-    <string name="get_MCC">MCC</string>
-    <string name="get_RECEIVER">RECEPTOR</string>
-    <string name="get_SENSOR1">SENSOR1</string>
-    <string name="get_SENSOR2">SENSOR2</string>
-    <string name="get_USB">USB</string>
-    <string name="get_WIFI">WIFI</string>
     <string name="get_dsi_tips">Valor actual de DSI</string>
     <string name="headset_plug_check_tip">Ahora reproduzca la cinta, escuche los auriculares, sáquelos cuando realice la prueba.</string>
     <string name="headset_press">Pulsar</string>
