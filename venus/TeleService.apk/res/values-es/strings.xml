@@ -1024,7 +1024,7 @@ Selección"</string>
     <string name="force_resizable_activities_summary">Hacer que el tamaño de todas las actividades se pueda ajustar para el modo multiventana independientemente de los valores definidos</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección de diseño RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar dirección RTL para todos los idiomas</string>
-    <string name="four_point_five_switch_summary">Utilice 4.5G para mejorar la velocidad de acceso a los datos y la calidad de la voz.</string>
+    <string name="four_point_five_switch_summary">Utilice 4.5G para aumentar la velocidad de conexión de datos móviles y mejorar la calidad de voz</string>
     <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte canal núm</string>
     <string name="fw_change_failed">"No se ha podido cambiar el número de desvío.
@@ -1319,6 +1319,8 @@ Las llamadas de emergencia solo son posibles en áreas con cobertura celular \"<
     <string name="mobile_network_settings_not_available">Los ajustes de red móvil no están disponibles para este usuario</string>
     <string name="mobile_networks">Ajustes de redes móviles</string>
     <string name="mobile_property">Propiedades de redes móviles</string>
+    <string name="mobile_special_network_optimization_config_summary">Cuando la red es anormal, intente reparar automáticamente</string>
+    <string name="mobile_special_network_optimization_config_title">Optimización de red especial</string>
     <string name="mock_location_app">Elegir aplicación para simular ubicación</string>
     <string name="mock_location_app_not_set">Aplicación para simular ubicación no establecida</string>
     <string name="mock_location_app_set">Aplicación para simular ubicación: %1$s</string>
