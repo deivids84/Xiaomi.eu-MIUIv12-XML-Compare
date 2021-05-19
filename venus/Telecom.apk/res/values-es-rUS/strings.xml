@@ -315,6 +315,7 @@ Selección"</string>
     <string name="disabled">Inhabilitada</string>
     <string name="disabled_by_admin">El administrador inhabilitó la opción</string>
     <string name="disabled_by_admin_summary_text">Controlada por el administrador</string>
+    <string name="do_not_show_again">"No mostrar de nuevo"</string>
     <string name="duplicate_video_call_not_allowed">No se puede agregar la llamada en este momento.</string>
     <string name="enable_account_preference_title">Cuentas telefónicas</string>
     <string name="enable_adb">Depuración por USB</string>
@@ -518,6 +519,11 @@ Selección"</string>
     <string name="runningservices_settings_summary">Ver y controlar servicios actuales en ejecución</string>
     <string name="runningservices_settings_title">En ejecución</string>
     <string name="saved_network">Guardada por %1$s</string>
+    <string name="scam_cancle">Cancelar</string>
+    <string name="scam_message">"Estás configurando el reenvío de llamadas. Después de esto, todas sus llamadas entrantes serán respondidas por el número de teléfono %1$s. Si no posee este número de reenvío, es posible que esté en riesgo de exponer su información personal o comprometer la seguridad de su propiedad. Utilice esta función con precaución."</string>
+    <string name="scam_message_2">**21*El número de reenvío# es el código de reenvío de llamadas. Póngase en contacto con su operador si tiene alguna pregunta.</string>
+    <string name="scam_ok">Marcar</string>
+    <string name="scam_title">Recordatorio de riesgo de fraude</string>
     <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
     <string name="screen_zoom_summary_default">Predeterminado</string>
     <string name="screen_zoom_summary_extremely_large">Máximo</string>
