@@ -1079,7 +1079,7 @@ Bluetooth"</string>
     <string name="kg_invalid_confirm_pin_hint">Οι κωδικοί PIN δεν αντιστοιχούν</string>
     <string name="kg_invalid_puk">Επανεισάγετε τον σωστό κωδικό PUK. Επαναλαμβανόμενες απόπειρες ενδέχεται να απενεργοποιήσουν μόνιμα την SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Εισαγάγετε ένα PIN από 4 μέχρι 8 αριθμούς.</string>
-    <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να αποτελείται από 8 αριθμούς.</string>
+    <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να περιέχει %1$d ψηφία.</string>
     <string name="kg_login_too_many_attempts">Πάρα πολλές προσπάθειες μοτίβου</string>
     <string name="kg_password_instructions">Εισαγωγή κωδικού</string>
     <string name="kg_password_pin_failed">Αδυναμία ξεκλειδώματος με PIN κάρτας SIM</string>
@@ -1169,6 +1169,7 @@ Bluetooth"</string>
     <string name="local_backup_password_toast_confirmation_mismatch">"Οι κωδικοί δεν ταιριάζουν"</string>
     <string name="local_backup_password_toast_success">Ορίστηκε νέος κωδικός αντίγραφων ασφαλείας</string>
     <string name="local_backup_password_toast_validation_failure">"Αδυναμία δημιουργίας κωδικού αντίγραφου ασφαλείας"</string>
+    <string name="lock_screen_access_to_5G">Πρόσβαση σε 5G</string>
     <string name="lock_screen_carrier_airplane_mode_on">Λειτουργία πτήσης</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
@@ -1231,6 +1232,7 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Τέλος</string>
     <string name="miui_notification_menu_snooze">Αναβολή</string>
     <string name="miui_notification_menu_title_not_allow">Περιορισμός</string>
+    <string name="miui_screen_rotation_freeze_message">Προσανατολισμός κλειδωμένης οθόνης σε οριζόντια λειτουργία</string>
     <string name="miui_snooze_always_float">"Χωρίς απόκρυψη"</string>
     <string name="miui_snooze_cancel">Ακύρωση</string>
     <string name="miui_snooze_default_time">Για %d λεπτό</string>
