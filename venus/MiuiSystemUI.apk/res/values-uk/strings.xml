@@ -1079,7 +1079,7 @@
     <string name="kg_invalid_confirm_pin_hint">PIN-коди не збігаються</string>
     <string name="kg_invalid_puk">Введіть правильний PUK-код. Після декількох невдалих спроб SIM-карта буде заблокована.</string>
     <string name="kg_invalid_sim_pin_hint">Введіть PIN-код, який містить від 4 до 8 цифр.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK-код має містити не менше 8 цифр.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код має містити %1$d цифр.</string>
     <string name="kg_login_too_many_attempts">Забагато спроб вводу</string>
     <string name="kg_password_instructions">Введіть пароль</string>
     <string name="kg_password_pin_failed">Не вдалося розблокувати за допомогою PIN-коду</string>
@@ -1169,6 +1169,7 @@
     <string name="local_backup_password_toast_confirmation_mismatch">"Паролі не збігаються"</string>
     <string name="local_backup_password_toast_success">Встановлено новий пароль для резервних копій</string>
     <string name="local_backup_password_toast_validation_failure">"Не вдалося встановити пароль для резервної копії"</string>
+    <string name="lock_screen_access_to_5G">Доступ до 5G</string>
     <string name="lock_screen_carrier_airplane_mode_on">Режим польоту</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
@@ -1231,6 +1232,7 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Виконано</string>
     <string name="miui_notification_menu_snooze">Повторити</string>
     <string name="miui_notification_menu_title_not_allow">Обмежити</string>
+    <string name="miui_screen_rotation_freeze_message">Закріплена орієнтація екрана в альбомному режимі</string>
     <string name="miui_snooze_always_float">"Не приховувати"</string>
     <string name="miui_snooze_cancel">Скасувати</string>
     <string name="miui_snooze_default_time">Протягом %d хвилини</string>
