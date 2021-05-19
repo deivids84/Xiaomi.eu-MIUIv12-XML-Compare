@@ -131,6 +131,7 @@
     <string name="accessibility_mimovie_on">Χρήση πλαισίου ταινίας</string>
     <string name="accessibility_module_picker_finish">Έγινε εναλλαγή σε %s</string>
     <string name="accessibility_more">Περισσότερα</string>
+    <string name="accessibility_multi_cam_reselect_button">Επιλέξτε και πάλι κάμερες</string>
     <string name="accessibility_open">Ενεργός</string>
     <string name="accessibility_pano_moving_left">Μετακίνηση της συσκευής αριστερά</string>
     <string name="accessibility_pano_moving_right">Μετακίνηση της συσκευής δεξιά</string>
@@ -150,6 +151,7 @@
     <string name="accessibility_preview_selected">Επιλεγμένο</string>
     <string name="accessibility_preview_shrink">Σμίκρυνση</string>
     <string name="accessibility_preview_zoom_tip">Προεπισκόπηση εστίασης %1$.1fX</string>
+    <string name="accessibility_pro_parameters_panel_on">Ανοίξτε το μενού με παραμέτρους PRO</string>
     <string name="accessibility_pro_video_simple_mode">Λειτουργία Lite</string>
     <string name="accessibility_protrait">Κατακόρυφα</string>
     <string name="accessibility_pull_down_to_open_camera">Σύρετε προς τα κάτω για να ανοίξετε την κάμερα</string>
@@ -531,6 +533,7 @@
     <string name="custom_watermark_words_save_success">Επιτυχής αποθήκευση</string>
     <string name="date_picker_lunar">Κινεζικό Παραδοσιακό Ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
+    <string name="dd_frn_f_t">Διπλώστε τη συσκευή σας για να χρησιμοποιήσετε την μπροστινή κάμερα</string>
     <string name="dialog_button_accept">Αποδοχή</string>
     <string name="dialog_button_back">Πίσω</string>
     <string name="dialog_button_cancel">Ακύρωση</string>
@@ -584,11 +587,15 @@
     <string name="dual_video_record_remote">Εγγραφή διπλού τηλεφώνου</string>
     <string name="dual_video_record_standalone">Διαχωρισμένο</string>
     <string name="dual_video_user_guide_main_content">Για τη δημιουργία βίντεο από πολλαπλές κάμερες στη συσκευής σας, επιλέξτε δύο κάμερες στη συσκευή σας και βιντεοσκοπήστε ταυτόχρονα. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή ως βίντεο εικόνας σε εικόνα.</string>
+    <string name="dual_video_user_guide_main_content_new">"Τα βίντεο Multicam γυρίζονται με πολλαπλές κάμερες ταυτόχρονα.
+Η εγγραφή διπλού τηλεφώνου σας επιτρέπει επίσης να συνδεθείτε με την άλλη συσκευή και να δημιουργήσετε ένα βίντεο πολύδυμων επιλέγοντας \"Συνδυασμένο\"."</string>
     <string name="dual_video_user_guide_main_title">Βίντεο από πολλαπλές κάμερες</string>
     <string name="dual_video_user_guide_merge_content">Βιντεοσκοπήστε με δύο κάμερες και συνδυάστε τις εγγραφές σε διαιρεμένη προβολή ή σε βίντεο εικόνας σε εικόνα.</string>
-    <string name="dual_video_user_guide_remote_content">"Η εγγραφή διπλού τηλεφώνου επιτρέπει τον συνδυασμό ροών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
+    <string name="dual_video_user_guide_merge_content_new">Δύο ηχογραφήσεις μπορούν να συνδυαστούν σε split view ή σε picture-in-picture video.</string>
+    <string name="dual_video_user_guide_remote_content">"Συνδυάστε τροφοδοσίες από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
     <string name="dual_video_user_guide_remote_p">Τηλέφωνο %d</string>
     <string name="dual_video_user_guide_standalone_content">Βιντεοσκοπήστε με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Ταυτόχρονα ηχογραφημένα βίντεο μπορούν επίσης να διαχωριστούν και να αποθηκευτούν ως δύο αρχεία.</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit_blusher">Ρουζ</string>
     <string name="edit_chin">Σαγόνι</string>
@@ -614,6 +621,7 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_fail_to_start_audio_capture">"Αδυναμία εκκίνησης λήψης ήχου"</string>
+    <string name="esp_tip">Εξωτερική προεπισκόπηση οθόνης</string>
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="extend_time_watermark_2_logo_text">SUPERMOON</string>
@@ -951,6 +959,7 @@
     <string name="module_name_panorama">Πανοράμα</string>
     <string name="module_name_portrait">Πορτρέτο</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Σαρωτής</string>
     <string name="module_name_square">Τετράγωνο</string>
     <string name="module_name_super_moon">Υπερπανσέληνος</string>
     <string name="module_name_video">Βίντεο</string>
@@ -1009,8 +1018,8 @@
     <string name="network_access_user_notice_title">Γίνεται σύνδεση στο interrnet</string>
     <string name="network_connection_failed">"Αδυναμία σύνδεσης"</string>
     <string name="network_connection_ongoing">Σύνδεση…</string>
-    <string name="network_connection_prerequisites">Ενεργοποιήστε το Bluetooth και το Wi-Fi για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου.</string>
-    <string name="network_connection_prerequisites_china">Ενεργοποιήστε το Bluetooth και το Wi-Fi για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου.</string>
+    <string name="network_connection_prerequisites">Ενεργοποιήστε το Bluetooth και το Wi-Fi στο κέντρο ελέγχου για να μπορείτε να χρησιμοποιήσετε διπλή εγγραφή τηλεφώνου.</string>
+    <string name="network_connection_prerequisites_china">Ενεργοποιήστε το Bluetooth και το Wi-Fi στο κέντρο ελέγχου για να μπορείτε να χρησιμοποιήσετε διπλή εγγραφή τηλεφώνου.</string>
     <string name="network_connection_rejected">Απορρίφθηκε</string>
     <string name="network_connection_timed_out">Λήξη χρονικού ορίου σύνδεσης</string>
     <string name="night">Βράδυ</string>
@@ -1189,6 +1198,7 @@
     <string name="pref_camera_eis_entry_off">Απενεργοποιημένη</string>
     <string name="pref_camera_eis_entry_pro">Λειτουργία Σταθερό βίντεο PRO</string>
     <string name="pref_camera_eis_title">EIS</string>
+    <string name="pref_camera_esp">Προεπισκόπηση οπίσθιας οθόνης</string>
     <string name="pref_camera_exposuretime_entry_auto">ΑΥΤΟΜΑΤΟ</string>
     <string name="pref_camera_face_info_watermark_title">Προσθήκη σφραγίδας ηλικίας στις φωτογραφίες</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Απόκρυψη του πλαισίου ανίχνευσης προσώπου αυτόματα</string>
@@ -1349,6 +1359,8 @@
     <string name="pref_camera_tip_id_card">Σαρωτής ID</string>
     <string name="pref_camera_touchafaec_entry_off">Απενεργοποίηση</string>
     <string name="pref_camera_touchafaec_entry_on">Ενεργοποίηση</string>
+    <string name="pref_camera_track_focus_preferred_description">"Ενεργοποιήστε για να διατηρήσετε την εστίαση σε άτομα και ζώα αυτόματα. Θα μπορείτε επίσης να επιλέξετε θέματα για χειροκίνητη παρακολούθηση."</string>
+    <string name="pref_camera_track_focus_preferred_title">Εστίαση παρακολούθησης</string>
     <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
     <string name="pref_camera_ultra_wide_ldc_description">Αυτόματη διόρθωση παραμορφωμένων αντικειμένων</string>
     <string name="pref_camera_ultra_wide_ldc_title">Επιδιόρθωση παραμορφώσεων σε εξαιρετικά ευρείες λήψεις</string>
@@ -1509,11 +1521,15 @@
     <string name="prek_b_j_o">Αναδημιουργία στερεοφωνικού εφέ surround</string>
     <string name="prek_b_j_p">Μείωση της επίδρασης του ανέμου στην ηχογράφηση</string>
     <string name="prep_video_ai_audio_new_desc_tip">Οι ήχοι από το θέμα στο επίκεντρο ενισχύονται</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Ήχοι από το θέμα στην εστίαση ενισχύονται σε λειτουργία τοπίου</string>
     <string name="prep_video_ai_audio_single_desc_tip">Ήχοι από πίσω από την οθόνη φιλτραρίζονται</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Ήχοι από πίσω από την οθόνη φιλτραρίζονται σε οριζόντια λειτουργία</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Η μεγέθυνση ήχου δεν λειτουργεί με ζωντανή οθόνη μέσα στο αυτί και εξωτερικό μικρόφωνο"</string>
     <string name="preparing_sd">Γίνεται έλεγχος κάρτας SD…</string>
     <string name="preview_back_pressed_hint">Πατήστε ξανά για επιστροφή στην προβολή</string>
     <string name="pro_color_mode">Επαγγελματικό χρώμα</string>
+    <string name="process_tips_1">"Μην διπλώσετε τη συσκευή μέχρι να αποθηκευτεί το βίντεο"</string>
+    <string name="process_tips_2">"Μην ξεδιπλώσετε τη συσκευή μέχρι να αποθηκευτεί το βίντεο"</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Δοκιμάστε τη λειτουργία Μάκρο</string>
     <string name="recommend_portrait">Δοκιμάστε τον κατακόρυφο προσανατολισμό</string>
@@ -1540,6 +1556,9 @@
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
+    <string name="scan_install_prompt_header">Εγκατάσταση Σαρωτή</string>
+    <string name="scan_install_prompt_loading">Εγκατάσταση Σαρωτή…</string>
+    <string name="scan_install_prompt_message">Εγκαταστήστε τον Σαρωτή και προσπαθήστε ξανά.</string>
     <string name="screen_on_proximity_sensor_hint">Για να απενεργοποιήσετε αυτή την λειτουργία, πιέστε ταυτόχρονα το κουμπί Αύξησης έντασης και το κουμπί Πίσω.</string>
     <string name="screen_on_proximity_sensor_summary">"Μην καλύπτετε την περιοχή των ακουστικών"</string>
     <string name="search_menu_title">Αναζήτηση</string>
