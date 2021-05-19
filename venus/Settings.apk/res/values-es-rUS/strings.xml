@@ -403,6 +403,7 @@ El administrador puede controlar y administrar la configuración, el acceso, las
     <string name="adjust_3d_depth_title">"Ajustar profundidad 3D en juegos"</string>
     <string name="adjust_font_size_answer_cn">¡Intente ajustar el tamaño del texto y ancho de la fuente con los controles deslizantes de abajo!</string>
     <string name="adjust_font_size_answer_global">¡Intente ajustar el tamaño del texto con el control deslizante de abajo!</string>
+    <string name="adjust_ligth">Ajuste de brillo</string>
     <string name="adjust_temperature_title">Temperatura del color</string>
     <string name="admin_device_owner_message">"El administrador puede controlar y administrar las apps y los datos asociados con este dispositivo, incluida la configuración, los permisos, el acceso corporativo, la actividad de red y la información de la ubicación del dispositivo."</string>
     <string name="admin_disabled_other_options">El administrador inhabilitó algunas opciones</string>
@@ -2815,6 +2816,13 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="exterior">Esquema de colores</string>
     <string name="external_code_size_label">Aplicación en el almacenamiento USB</string>
     <string name="external_data_size_label">Datos en el almacenamiento USB</string>
+    <string name="external_ram_dialog_btn_cancel">Después</string>
+    <string name="external_ram_dialog_btn_ok">Reiniciar</string>
+    <string name="external_ram_dialog_message">Reinicie el dispositivo para aplicar cambios.</string>
+    <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+    <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando espacio de almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en su dispositivo."</string>
+    <string name="external_ram_title">Extensión de memoria</string>
+    <string name="external_ram_toast">"No se puede usar la extensión de memoria debido a la falta de espacio de almacenamiento"</string>
     <string name="external_source_switch_title">Confiar en esta fuente</string>
     <string name="external_source_trusted">Permitido</string>
     <string name="external_source_untrusted">No permitido</string>
@@ -3126,8 +3134,8 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="freeform_guide_notification_drop_down_summary">Mantenga presionado y luego deslice hacia abajo la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir una ventana flotante</string>
     <string name="freeform_guide_settings">Ventanas flotantes</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Deslice el dedo desde la parte inferior de la pantalla hasta la esquina superior derecha de la pantalla</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Deslizándose a ventanas flotantes</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Mantenga presionada la parte inferior de la ventana y arrástrela a la esquina superior derecha</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimizar una aplicación</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslice hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
     <string name="freeform_vedio_description">"· Mantenga presionado y luego deslice hacia abajo una notificación para abrirla en una ventana flotante.
@@ -4120,7 +4128,7 @@ del segundo espacio"</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
-    <string name="magic_window_name">Ventana dividida</string>
+    <string name="magic_window_name">Ventanas paralelas</string>
     <string name="main_netcheck_summary">Probar la conexión para detectar problemas de red</string>
     <string name="main_running_process_description">Proceso principal en uso.</string>
     <string name="main_toolbar_statistic">Estadísticas del uso de datos</string>
@@ -4402,6 +4410,7 @@ No podrá deshacer esta acción"</string>
     <string name="miheadset_moreSettingsInAi">Ajustes adicionales</string>
     <string name="miheadset_multi_connect_mode">Multipunto</string>
     <string name="miheadset_multi_connect_mode_summary">Conéctese a varios dispositivos al mismo tiempo</string>
+    <string name="miheadset_network_not_available">Verifique su configuración de red e intente nuevamente</string>
     <string name="miheadset_next">Siguiente pista</string>
     <string name="miheadset_ok_device">Aceptar</string>
     <string name="miheadset_openAnc">Supresión de ruido</string>
@@ -4409,6 +4418,7 @@ No podrá deshacer esta acción"</string>
     <string name="miheadset_plus">Subir el volumen</string>
     <string name="miheadset_rename">Cambiar nombre</string>
     <string name="miheadset_rename_device">Renombrar</string>
+    <string name="miheadset_single_ear_indicate">Use ambos auriculares para usar la cancelación de ruido</string>
     <string name="miheadset_soft">Suave</string>
     <string name="miheadset_transparent">Transparencia</string>
     <string name="miheadset_transparentMode">Transparencia</string>
@@ -5260,6 +5270,8 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="permission_manage_title">%s permisos</string>
     <string name="permission_manager">Permisos</string>
     <string name="permission_mgr">Permisos</string>
+    <string name="permission_records">Uso de permisos</string>
+    <string name="permission_records_summary">Resumen de cómo las aplicaciones usan los permisos</string>
     <string name="permission_settings_summary">Administrar permisos relacionados a ubicación, almacenamiento, teléfono, mensajes y contactos.</string>
     <string name="permission_settings_title">Permisos de aplicaciones</string>
     <string name="permissions_label">Permisos</string>
@@ -6773,6 +6785,8 @@ Presione dos veces para abrir Recientes."</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Modo cubierta inteligente</string>
     <string name="smartcover_sensitive_summary">Bloquee y desbloquee automáticamente su teléfono usando una cubierta inteligente</string>
     <string name="smartcover_sensitive_title">Cubierta inteligente</string>
+    <string name="smooth_adjust_ligth">Suavizar las transiciones</string>
+    <string name="smooth_adjust_ligth_summary">Haga que las transiciones sean más suaves a medida que ajusta el brillo manualmente. Cuando esta función está activada, pueden aparecer ligeras inconsistencias de color en algunos casos.</string>
     <string name="sms_application_title">Mensajes</string>
     <string name="sms_change_default_dialog_text">¿Quieres usar %1$s en lugar de %2$s como la aplicación de SMS?</string>
     <string name="sms_change_default_dialog_title">¿Quieres cambiar la aplicación de SMS?</string>
