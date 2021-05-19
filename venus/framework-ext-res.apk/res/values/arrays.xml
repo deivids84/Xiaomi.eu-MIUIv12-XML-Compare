@@ -85,6 +85,8 @@
         <item>rosemary</item>
         <item>camellian</item>
         <item>davinci</item>
+        <item>biloba</item>
+        <item>willow</item>
     </string-array>
     <string-array name="config_alwaysEnableMms_off_array">
         <item>ch</item>
@@ -118,11 +120,11 @@
         <item>0.854902</item>
     </array>
     <integer-array name="config_compensateSignalLevelValue">
-        <item>2</item>
-        <item>2</item>
-        <item>2</item>
-        <item>4</item>
+        <item>3</item>
         <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
         <item>0</item>
         <item>0</item>
         <item>0</item>
@@ -2019,7 +2021,9 @@
     </string-array>
     <array name="screen_resolution_supported" />
     <string-array name="start_from_freeform_black_list_activity">
-        <item>com.netease.cloudmusic.activity.LockScreenActivity</item>
+        <item>com.tencent.qqmusic/.business.lockscreennew.LockScreenActivity</item>
+        <item>com.netease.cloudmusic/.activity.LockScreenActivity</item>
+        <item>com.ximalaya.ting.android/.host.activity.LockScreenActivity</item>
         <item>com.miui.todo.feature.remind.TodoAlarmAlertActivity</item>
     </string-array>
     <integer-array name="vibration_recorder_major_action">
