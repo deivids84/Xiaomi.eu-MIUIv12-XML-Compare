@@ -131,6 +131,7 @@
     <string name="accessibility_mimovie_on">Використовувати рамку для кіно</string>
     <string name="accessibility_module_picker_finish">Переключено на %s</string>
     <string name="accessibility_more">Ще</string>
+    <string name="accessibility_multi_cam_reselect_button">Виберіть камери знову</string>
     <string name="accessibility_open">Увімкнено</string>
     <string name="accessibility_pano_moving_left">Перемістіть пристрій вліво</string>
     <string name="accessibility_pano_moving_right">Перемістіть пристрій вправо</string>
@@ -150,6 +151,7 @@
     <string name="accessibility_preview_selected">Вибрано</string>
     <string name="accessibility_preview_shrink">Зменшити масштаб</string>
     <string name="accessibility_preview_zoom_tip">%1$.1fперегляд масштабування X</string>
+    <string name="accessibility_pro_parameters_panel_on">Відкрити меню з параметрами PRO</string>
     <string name="accessibility_pro_video_simple_mode">Простий режим</string>
     <string name="accessibility_protrait">Портрет</string>
     <string name="accessibility_pull_down_to_open_camera">Проведіть вниз, щоб відкрити камеру</string>
@@ -531,6 +533,7 @@
     <string name="custom_watermark_words_save_success">Збережено успішно</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату і час</string>
+    <string name="dd_frn_f_t">Згортайте пристрій для використання передньої камери</string>
     <string name="dialog_button_accept">Прийняти</string>
     <string name="dialog_button_back">Відмінити</string>
     <string name="dialog_button_cancel">Скасувати</string>
@@ -584,11 +587,15 @@
     <string name="dual_video_record_remote">Подвійний запис телефону</string>
     <string name="dual_video_record_standalone">Розділені</string>
     <string name="dual_video_user_guide_main_content">Щоб створити багатокамерне відео, виберіть два об\'єктива і почніть зйомку з одночасним використанням обраних камер. Запис може бути збережений у вигляді двох окремих файлів, а також в якості об\'єднаного відео в режимі поділу екрану або \"картинка в картинці\".</string>
+    <string name="dual_video_user_guide_main_content_new">"Багатоканальні відео спочатку застрелюються з декількома камерами.
+запис двох телефонів також дозволяє підключатися до іншого пристрою та створити багаторядкове відео, обравши «Комбінований»."</string>
     <string name="dual_video_user_guide_main_title">Багатокамерна зйомка</string>
     <string name="dual_video_user_guide_merge_content">Одночасна зйомка двома камерами з можливістю об\'єднання відео в режимі розділення екрану або\"картинка в картинці\".</string>
-    <string name="dual_video_user_guide_remote_content">"Запис двох телефонів дозволяє об'єднувати канали з двох різних пристроїв в одному відео. Зможете попередньо переглянути подачу і фінальне відео на цьому пристрої. Зауважте, що аудіо буде записано тільки цим пристроєм."</string>
+    <string name="dual_video_user_guide_merge_content_new">Два записи можна об\'єднати у роздільному вигляді або у зображенні відео.</string>
+    <string name="dual_video_user_guide_remote_content">"Об'єднайте канали з двох різних пристроїв в одному відео. Зможете попередньо переглянути подачу і фінальне відео на цьому пристрої. Зауважте, що аудіо буде записано тільки цим пристроєм."</string>
     <string name="dual_video_user_guide_remote_p">Телефон %d</string>
     <string name="dual_video_user_guide_standalone_content">Одночасна зйомка двома камерами з можливістю збереження двох записів в якості окремих відео.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Одночасно записані відео можуть бути розділені і збережені як два файли.</string>
     <string name="early_morning">Ранок</string>
     <string name="edit_blusher">Рум\'яна</string>
     <string name="edit_chin">Підборіддя</string>
@@ -614,6 +621,7 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">до н. е.</string>
     <string name="error_fail_to_start_audio_capture">"Неможливо записати звук"</string>
+    <string name="esp_tip">Попередній перегляд екрана</string>
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
     <string name="extend_time_watermark_2_logo_text">ПІДПИСАТИСЯ</string>
@@ -951,6 +959,7 @@
     <string name="module_name_panorama">Панорама</string>
     <string name="module_name_portrait">Портрет</string>
     <string name="module_name_professional">Профі</string>
+    <string name="module_name_scanner">Сканер</string>
     <string name="module_name_square">Квадрат</string>
     <string name="module_name_super_moon">Режим \"Супермісяць\"</string>
     <string name="module_name_video">Відео</string>
@@ -1009,8 +1018,8 @@
     <string name="network_access_user_notice_title">Підключення до мережі</string>
     <string name="network_connection_failed">"Не вдалося підключитися"</string>
     <string name="network_connection_ongoing">З\'єднання…</string>
-    <string name="network_connection_prerequisites">Увімкніть Bluetooth і Wi-Fi, щоб мати можливість використовувати запис двох телефонів.</string>
-    <string name="network_connection_prerequisites_china">Увімкніть Bluetooth і Wi-Fi, щоб мати можливість використовувати запис двох телефонів.</string>
+    <string name="network_connection_prerequisites">Увімкніть Bluetooth і Wi-Fi в центрі управління щоб використовувати запис двох телефонів.</string>
+    <string name="network_connection_prerequisites_china">Увімкніть Bluetooth і Wi-Fi в центрі управління щоб використовувати запис двох телефонів.</string>
     <string name="network_connection_rejected">Відхилено</string>
     <string name="network_connection_timed_out">Минув час очікування підключення</string>
     <string name="night">Вечір</string>
@@ -1189,6 +1198,7 @@
     <string name="pref_camera_eis_entry_off">Вимкнено</string>
     <string name="pref_camera_eis_entry_pro">Стабільне відео PRO</string>
     <string name="pref_camera_eis_title">EIS</string>
+    <string name="pref_camera_esp">Задній попередній перегляд екрана</string>
     <string name="pref_camera_exposuretime_entry_auto">Авто</string>
     <string name="pref_camera_face_info_watermark_title">Додавати вік на фото</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Автоматичне приховування обличчя</string>
@@ -1349,6 +1359,8 @@
     <string name="pref_camera_tip_id_card">Послідовний сканер</string>
     <string name="pref_camera_touchafaec_entry_off">Вимк.</string>
     <string name="pref_camera_touchafaec_entry_on">Увімк</string>
+    <string name="pref_camera_track_focus_preferred_description">"Увімкніть, щоб автоматично підтримувати фокус на людей і тварин. Ви також зможете вибрати теми для відстеження вручну."</string>
+    <string name="pref_camera_track_focus_preferred_title">Відстеження фокусу</string>
     <string name="pref_camera_ubifocus_title">Перефокусування</string>
     <string name="pref_camera_ultra_wide_ldc_description">Автоматично виправляти викривлені об\'єкти</string>
     <string name="pref_camera_ultra_wide_ldc_title">Виправляти ширококутні викривлення</string>
@@ -1509,11 +1521,15 @@
     <string name="prek_b_j_o">Повторно створити стереозвучений ефект</string>
     <string name="prek_b_j_p">Зменшення впливу вітру на запис звуку</string>
     <string name="prep_video_ai_audio_new_desc_tip">Звуки від предмету у фокусі покращені</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Звуки з предмету у пейзажному режимі</string>
     <string name="prep_video_ai_audio_single_desc_tip">Звуки позаду екрану фільтруються</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Звуки з-за екрана у ландшафтному режимі</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Аудіо Зум не працює з живим через вушний монітор та зовнішнім мікрофоном"</string>
     <string name="preparing_sd">Підготовка SD карти...</string>
     <string name="preview_back_pressed_hint">Натисніть ще раз, щоб повернутися до перегляду</string>
     <string name="pro_color_mode">Професійні кольори</string>
+    <string name="process_tips_1">"Не складайте пристрій доки відео не буде збережено"</string>
+    <string name="process_tips_2">"Не вмикати пристрій, поки не буде збережено відео"</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Спробуйте макро режим</string>
     <string name="recommend_portrait">Спробуйте портретний режим</string>
@@ -1540,6 +1556,9 @@
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="scan_install_prompt_header">Встановити сканер</string>
+    <string name="scan_install_prompt_loading">Встановлення сканера…</string>
+    <string name="scan_install_prompt_message">Встановіть сканер та повторіть спробу.</string>
     <string name="screen_on_proximity_sensor_hint">Для відключення цієї функції одночасно натисніть кнопки \"Збільшити гучність\" та \"Назад\".</string>
     <string name="screen_on_proximity_sensor_summary">"Не закривайте динамік"</string>
     <string name="search_menu_title">Пошук</string>
