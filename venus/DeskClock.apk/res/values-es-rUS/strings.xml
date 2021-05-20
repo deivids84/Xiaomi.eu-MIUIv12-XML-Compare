@@ -613,7 +613,7 @@
     <string name="version_update_dialog_title">Hay una actualización disponible</string>
     <string name="vibrate_pref_summary">Vibrar al sonar la alarma</string>
     <string name="vibrate_when_ringing">Vibrar cuando suene</string>
-    <string name="voice_add_alarm">Agregar alarma usando un comando de voz</string>
+    <string name="voice_add_alarm">Añadir alarma usando un comando de voz</string>
     <string name="volume_button_setting_desc">Asignar funciones para los botones de encendido y ajuste de volumen</string>
     <string name="volume_button_setting_summary">"Establecer la función de los botones de volumen durante la alarma"</string>
     <string name="volume_button_setting_title">Botones de volumen</string>
