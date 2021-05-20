@@ -302,6 +302,9 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="columbus_player_close_video">CERRAR VIDEO</string>
     <string name="columbus_player_install_now">INSTALAR</string>
     <string name="columbus_player_learn_more">Aprenda más</string>
+    <string name="columbus_player_speed_title">¿Saltar video?</string>
+    <string name="columbus_player_speed_video">Saltar VIDEO</string>
+    <string name="columbus_player_unit_sec">seg</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
