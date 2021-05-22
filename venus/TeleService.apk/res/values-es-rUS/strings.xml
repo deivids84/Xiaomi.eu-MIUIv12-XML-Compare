@@ -1461,7 +1461,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="no_vm_number_msg">No hay un número de buzón de voz almacenado en la tarjeta SIM.</string>
     <string name="no_voip">"Llamada SIP no compatible"</string>
     <string name="no_wifi_available">Tienes que estar conectado a una red Wi-Fi para las llamadas SIP (utilizar la configuración de redes inalámbricas).</string>
-    <string name="not_a_valid_port">El número de puerto debe estar dentro de %1$d y %2$d.</string>
+    <string name="not_a_valid_port">El número de puerto debe estar dentro de 1000 y 65534.</string>
     <string name="not_allowed">"Tu tarjeta SIM no permite una conexión con esta red."</string>
     <string name="not_set">Sin definir</string>
     <string name="not_voice_capable">No admite llamadas de voz.</string>
