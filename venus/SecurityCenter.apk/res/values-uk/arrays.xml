@@ -75,7 +75,7 @@
     <string-array name="app_behavior_type_menu">
         <item>Всі записи</item>
         <item>Автозапуск</item>
-        <item>Ланцюжковий запуск</item>
+        <item>Взаємний запуск</item>
         <item>Використання дозволів</item>
         <item>Конфіденційні дії</item>
     </string-array>
@@ -89,9 +89,9 @@
         <item>МБ</item>
     </string-array>
     <string-array name="cellular_package_type">
-        <item>Місячний план</item>
-        <item>Необмежено</item>
-        <item>Щоденний план</item>
+        <item>Місячний пакет</item>
+        <item>Без обмежень</item>
+        <item>Добовий пакет</item>
     </string-array>
     <string-array name="daily_brand">
         <item>Власний</item>
@@ -100,11 +100,11 @@
         <item>Карта Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
-        <item>Користувацька</item>
-        <item>Мі мобіль</item>
-        <item>Карта Mi Fan</item>
-        <item>Тяньшенська картка</item>
-        <item>Банківська картка</item>
+        <item>Власний</item>
+        <item>Mi Mobile</item>
+        <item>Карта Мі фана</item>
+        <item>Карта Tianshen</item>
+        <item>Карта Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Вчора (3G/4G) "</item>
@@ -128,7 +128,7 @@
         <item>"За місяць "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>"Вчора% "</item>
+        <item>"Вчора: "</item>
         <item>"Сьогодні: "</item>
         <item>"За минулий місяць: "</item>
         <item>"За місяць: "</item>
