@@ -101,16 +101,16 @@
         <item quantity="one">"No se pudo restaurar %d elemento debido a un error desconocido."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">%d grabaciones</item>
-        <item quantity="one">%d grabación</item>
+        <item quantity="other">Buscar entre %d grabaciones</item>
+        <item quantity="one">Buscar entre %d grabación</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">%d grabaciones</item>
-        <item quantity="one">%d grabación</item>
+        <item quantity="other">Buscar entre %d grabaciones</item>
+        <item quantity="one">Buscar entre %d grabación</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">%d grabaciones de llamadas</item>
-        <item quantity="one">%d grabación de llamadas</item>
+        <item quantity="other">Buscar entre %d grabaciones de llamada</item>
+        <item quantity="one">Buscar entre %d grabación de llamada</item>
     </plurals>
     <plurals name="search_fm_records_hint">
         <item quantity="other">%d grabaciones de radio</item>
