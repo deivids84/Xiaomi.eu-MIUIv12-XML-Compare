@@ -86,7 +86,7 @@
     </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
-        <item>Mb</item>
+        <item>MB</item>
     </string-array>
     <string-array name="cellular_package_type">
         <item>Plan mensual</item>
@@ -100,10 +100,10 @@
         <item>Tarjeta Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
-        <item>Personalizada</item>
+        <item>Personalizar</item>
         <item>Mi Móvil</item>
-        <item>Mi tarjeta Fan</item>
-        <item>Tarjeta de Tianshen</item>
+        <item>Tarjeta Mi Fan</item>
+        <item>Tarjeta Tianshen</item>
         <item>Tarjeta Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
@@ -184,7 +184,7 @@
         <item>Lea todas sus notificaciones, incluido el contenido de sus mensajes de texto y otros elementos que pueden contener información personal.</item>
         <item>Restringir los permisos de notificaciones para algunas aplicaciones</item>
         <item>Simule tocando las notificaciones y abriendo las aplicaciones</item>
-        <item>Active y desactive el modo no molestar</item>
+        <item>Active y desactive el modo No molestar</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Recopile datos sobre sus intereses y comportamientos aprendiendo qué aplicaciones usa y con qué frecuencia las usa.</item>
