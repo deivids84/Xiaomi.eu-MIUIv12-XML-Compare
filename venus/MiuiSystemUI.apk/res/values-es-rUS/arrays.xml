@@ -18,8 +18,8 @@
         <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="battery_options">
-        <item>Siempre mostrar porcentaje</item>
-        <item>Mostrar porcentaje al cargar (predeterminado)</item>
+        <item>Siempre mostrar el porcentaje</item>
+        <item>Mostrar el porcentaje durante la carga (predeterminado)</item>
         <item>"No mostrar este ícono"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
@@ -159,20 +159,20 @@
         <item>Comprobar siempre</item>
     </string-array>
     <string-array name="miui_notification_aggregate_category">
-        <item>Contenido recomendado.</item>
-        <item>Un anuncio.</item>
+        <item>Este es el contenido recomendado.</item>
+        <item>Este es un anuncio.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Portapapeles</item>
-        <item>Clave</item>
-        <item>Cambiador del teclado</item>
+        <item>Clave de código</item>
+        <item>Confirmar rotación, cambiar de teclado</item>
         <item>Ninguno</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>Normal</item>
         <item>Compacto</item>
-        <item>Inclinación a la izquierda</item>
-        <item>Inclinación a la derecha</item>
+        <item>Hacia la izquierda</item>
+        <item>Hacia la derecha</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ninguno</item>
