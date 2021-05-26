@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">freeform</string>
+    <string name="bottom_bar_smallwindow_text">Відпустіть для контакту</string>
+    <string name="contentDescription">Переміщення вікна</string>
+    <string name="freeform_demo_back">Назад</string>
+    <string name="freeform_demo_final_over">Готово</string>
+    <string name="freeform_demo_final_restart">Почати спочатку</string>
+    <string name="freeform_demo_final_title">"Все готово!"</string>
+    <string name="freeform_demo_go_on">Далі</string>
+    <string name="freeform_demo_title_finish">Чудово!</string>
+    <string name="freeform_demo_title_skip">Пропустити</string>
+    <string name="freeform_slide_to_small_freeform">Мінімізувати плаваюче вікно</string>
+    <string name="freeform_slide_to_small_freeform_summary">Натисніть та утримуйте панель дій та перетягніть в кут</string>
+    <string name="fullscreen_slide_to_small_freeform">Minimize an app</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Проведіть від нижньої частини екрану до верхнього правого кута</string>
+    <string name="how_to_close_or_fullscreen_freeform">Закриття спливаючого вікна або переключення на повноекранний режим</string>
+    <string name="how_to_drop_down_to_fullscreen">Перемикання на повноекранний режим</string>
+    <string name="how_to_drop_down_to_fullscreen_summary">Натисніть і утримуйте, а потім потягніть вниз рядок спливаючого вікна</string>
+    <string name="how_to_hang_freeform">Зменшити спливаючі вікна</string>
+    <string name="how_to_hang_to_small_freeform">Зменшити спливаюче вікно</string>
+    <string name="how_to_hang_to_small_freeform_summary">Перетягніть спливаюче вікно у куток екрана</string>
+    <string name="how_to_move_freeform">Переміщення спливаючих вікон</string>
+    <string name="how_to_move_freeform_window">Переміщення спливаючого вікна</string>
+    <string name="how_to_move_freeform_window_summary">Натисніть та утримуйте рядок спливаючого вікна для переміщення</string>
+    <string name="how_to_notification_drop_down">Відкрити спливаюче вікно</string>
+    <string name="how_to_notification_drop_down_summary">Натисніть і утримуйте, а потім потягніть вниз рядок сповіщення</string>
+    <string name="how_to_open_freeform">Відкиття сповіщеня у спливаючому вікні</string>
+    <string name="how_to_slide_up_to_close">Закрити спливаюче вікно</string>
+    <string name="how_to_slide_up_to_close_summary">Проведіть вверх від рядка спливаючого сповіщення</string>
+    <string name="how_to_use_freeform">Як використовувати спливаючі вікна</string>
+</resources>
