@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="additional_cal_dialog_labels">
+    <item>Без ефекту</item>
+    <item>Hijri Samvat</item>
+    <item>Shaka Samvat</item>
+    <item>Vikrami Samvat</item>
+  </string-array>
+  <string-array name="aquarius_info">
+    <item>водолій</item>
+    <item>Водолій</item>
+    <item>20/1 - 18/2</item>
+  </string-array>
+  <string-array name="aries_info">
+    <item>овен</item>
+    <item>Овен</item>
+    <item>21/3 - 19/4</item>
+  </string-array>
+  <string-array name="cancer_info">
+    <item>рак</item>
+    <item>Рак</item>
+    <item>22/6 - 22/7</item>
+  </string-array>
+  <string-array name="capricorn_info">
+    <item>козеріг</item>
+    <item>Козеріг</item>
+    <item>22/12 - 19/1</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item>Тільки цього разу</item>
+    <item>Всі заходи в серії</item>
+  </string-array>
+  <string-array name="date_calculate_spinner">
+    <item>Після</item>
+    <item>До</item>
+  </string-array>
+  <string-array name="default_reminder_labels">
+    <item>За фактом</item>
+    <item>За 5 хвилин</item>
+    <item>За 15 хвилин</item>
+    <item>За 30 хвилин</item>
+    <item>За годину</item>
+    <item>За 4 години</item>
+    <item>За 1 день</item>
+    <item>За 2 дні</item>
+    <item>За 1 тиждень</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item>Тільки цей захід</item>
+    <item>Цей і майбутні заходи</item>
+    <item>Всі заходи</item>
+  </string-array>
+  <string-array name="fortune_random_birthday">
+    <item>1992-01-01</item>
+    <item>2013-02-04</item>
+    <item>1995-04-05</item>
+    <item>1999-08-06</item>
+    <item>1996-06-21</item>
+    <item>2014-01-18</item>
+    <item>2006-01-23</item>
+    <item>2012-01-13</item>
+    <item>1993-01-17</item>
+    <item>1980-01-08</item>
+    <item>1982-01-10</item>
+  </string-array>
+  <string-array name="gemini_info">
+    <item>близнюки</item>
+    <item>Близнюки</item>
+    <item>21/5 - 21/6</item>
+  </string-array>
+  <string-array name="global_criket_match">
+    <item>Інтернаціональний</item>
+    <item>IPL</item>
+    <item>Внутрішній</item>
+    <item>Т20 Ліг</item>
+  </string-array>
+  <string-array name="leo_info">
+    <item>лев</item>
+    <item>Лев</item>
+    <item>23/7 - 22/8</item>
+  </string-array>
+  <string-array name="libra_info">
+    <item>терези</item>
+    <item>Терези</item>
+    <item>23/9 - 23/10</item>
+  </string-array>
+  <string-array name="panchang_weeks">
+    <item>Неділя</item>
+    <item>Понеділок</item>
+    <item>Вівторок</item>
+    <item>Середа</item>
+    <item>Четвер</item>
+    <item>П\'ятниця</item>
+    <item>Субота</item>
+  </string-array>
+  <string-array name="pisces_info">
+    <item>риби</item>
+    <item>Риби</item>
+    <item>19/2 - 20/3</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_vibrateWhen">
+    <item>Завжди</item>
+    <item>В режимі \"Без звуку\"</item>
+    <item>Ніколи</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_labels">
+    <item>Згідно з регіоном</item>
+    <item>Субота</item>
+    <item>Неділя</item>
+    <item>Понеділок</item>
+  </string-array>
+  <string-array name="repeat_choose_day">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+    <item>23</item>
+    <item>24</item>
+    <item>25</item>
+    <item>26</item>
+    <item>27</item>
+    <item>28</item>
+    <item>29</item>
+    <item>30</item>
+    <item>31</item>
+  </string-array>
+  <string-array name="repeat_choose_end">
+    <item>Ніколи</item>
+    <item>Час</item>
+    <item>Таймер</item>
+  </string-array>
+  <string-array name="repeat_choose_month">
+    <item>Січ</item>
+    <item>Лют</item>
+    <item>Бер</item>
+    <item>Квіт</item>
+    <item>Трав</item>
+    <item>Черв</item>
+    <item>Лип</item>
+    <item>Серп</item>
+    <item>Вер</item>
+    <item>Жов</item>
+    <item>Лист</item>
+    <item>Груд</item>
+  </string-array>
+  <string-array name="repeat_choose_week_left">
+    <item>перша</item>
+    <item>друга</item>
+    <item>третя</item>
+    <item>четверта</item>
+    <item>остання</item>
+  </string-array>
+  <string-array name="repeat_choose_week_right">
+    <item>Пн - Пт</item>
+    <item>Вихідні</item>
+    <item>Весь тижень</item>
+  </string-array>
+  <string-array name="repeat_choose_weekday">
+    <item>Пн</item>
+    <item>Вт</item>
+    <item>Ср</item>
+    <item>Чт</item>
+    <item>Пт</item>
+    <item>Сб</item>
+    <item>Нд</item>
+  </string-array>
+  <string-array name="repeat_countdown">
+    <item>Ніколи</item>
+    <item>Щомісяця</item>
+    <item>Щороку</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner">
+    <item>дн.</item>
+    <item>тиж.</item>
+    <item>міс.</item>
+    <item>р.</item>
+  </string-array>
+  <string-array name="repeat_monthly_on_day_count_values">
+    <item>перший понеділок</item>
+    <item>перший вівторок</item>
+    <item>перша середа</item>
+    <item>перший четвер</item>
+    <item>перша п\'ятниця</item>
+    <item>перша субота</item>
+    <item>перша неділя</item>
+    <item>другий понеділок</item>
+    <item>другий вівторок</item>
+    <item>друга середа</item>
+    <item>другий четвер</item>
+    <item>друга п\'ятниця</item>
+    <item>друга субота</item>
+    <item>друга неділя</item>
+    <item>третій понеділок</item>
+    <item>третій вівторок</item>
+    <item>третя середа</item>
+    <item>третій четвер</item>
+    <item>третя п\'ятниця</item>
+    <item>третя субота</item>
+    <item>третя неділя</item>
+    <item>четвертий понеділок</item>
+    <item>четвертий вівторок</item>
+    <item>четверта середа</item>
+    <item>четвертий четвер</item>
+    <item>четверта п\'ятниця</item>
+    <item>четверта субота</item>
+    <item>четверта неділя</item>
+    <item>останній понеділок</item>
+    <item>останній вівторок</item>
+    <item>остання середа</item>
+    <item>останній четвер</item>
+    <item>минулої п\'ятниці</item>
+    <item>останню суботу</item>
+    <item>остання неділя</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item>(немає відповіді)</item>
+    <item>Так</item>
+    <item>Можливо</item>
+    <item>Ні</item>
+  </string-array>
+  <string-array name="sagittarius_info">
+    <item>стрілець</item>
+    <item>Стрілець</item>
+    <item>23/11 - 21/12</item>
+  </string-array>
+  <string-array name="scorpio_info">
+    <item>скорпіон</item>
+    <item>Скорпіон</item>
+    <item>24/10 - 22/11</item>
+  </string-array>
+  <string-array name="serie_a">
+    <item>1</item>
+    <item>Серія A</item>
+  </string-array>
+  <string-array name="taurus_info">
+    <item>телець</item>
+    <item>Телець</item>
+    <item>20/4 - 20/5</item>
+  </string-array>
+  <string-array name="travel_reminder_minutes_labels">
+    <item>3 години</item>
+    <item>4 години</item>
+    <item>5 годин</item>
+    <item>6 годин</item>
+    <item>1 день</item>
+  </string-array>
+  <string-array name="virgo_info">
+    <item>діва</item>
+    <item>Діва</item>
+    <item>23/8 - 22/9</item>
+  </string-array>
+  <string-array name="weather_forecasts">
+    <item>Очистити</item>
+    <item>Хмарно</item>
+    <item>Похмуро</item>
+    <item>Fog</item>
+    <item>Сильна буря</item>
+    <item>Шторм</item>
+    <item>Світла буря</item>
+    <item>Гроза</item>
+    <item>Душ</item>
+    <item>Слабкий дощ</item>
+    <item>Дощ</item>
+    <item>Слабкий дощ</item>
+    <item>Дощ та сніг</item>
+    <item>Хуртовина</item>
+    <item>Снігопади</item>
+    <item>Сильний сніг</item>
+    <item>Сніг</item>
+    <item>Слабкий сніг</item>
+    <item>Сильна піщана буря</item>
+    <item>Піщана буря</item>
+    <item>Пил</item>
+    <item>Легка піщана буря</item>
+    <item>Hail</item>
+    <item>Плавний пил</item>
+    <item>Імла</item>
+    <item>Крижаний дощ</item>
+  </string-array>
+  <string-array name="week_header_name">
+    <item>НД</item>
+    <item>ПН</item>
+    <item>ВТ</item>
+    <item>СР</item>
+    <item>ЧТ</item>
+    <item>ПТ</item>
+    <item>СБ</item>
+  </string-array>
+  <string-array name="widget_style_list">
+    <item>Прозорий</item>
+    <item>Білий</item>
+  </string-array>
+  <string-array name="year_view_week_header_name">
+    <item>НД</item>
+    <item>ПН</item>
+    <item>ВТ</item>
+    <item>СР</item>
+    <item>ЧТ</item>
+    <item>ПТ</item>
+    <item>СБ</item>
+  </string-array>
+</resources>
