@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Cuentas</item>
+        <item>Añadir y administrar cuentas de terceros</item>
+        <item>Autorización;Cuenta;Cuenta Mi;Añadir;Par;Xiaomi;Ver;SNS;Facebook;Google</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Cuentas</item>
+        <item>Añadir y administrar cuentas de terceros</item>
+        <item>Autorización;Cuenta;Cuenta Mi;Añadir;Par;Xiaomi;Ver;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Cambiar contraseña</item>
+        <item>Cambiar contraseña de Cuenta Mi</item>
+        <item>Cambiar;Contraseña;Xiaomi;Cuenta Mi;Cuenta</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Ayuda</item>
+        <item>Obtén ayuda y soporte de Cuenta Mi</item>
+        <item>Xiaomi;Cuenta;Cuenta Mi;Ayuda;Soporte;Ver</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Verificación en 2 pasos</item>
+        <item>Configura la verificación en 2 pasos para tu Cuenta Mi</item>
+        <item>Iniciar sesión;Iniciar sesión;2 pasos;verificación;Xiaomi;Cuenta;Cuenta Mi; Ajustes</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Inicio de sesión y seguridad</item>
+        <item>Teléfono y correo electrónico de recuperación, gestión de contraseñas</item>
+        <item>Cuenta;Seguridad;Iniciar sesión;Iniciar sesión;Xiaomi;Cuenta Mi;Número de teléfono;Correo electrónico;Cambiar;Contraseña;Añadir;Vincular</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Dispositivos</item>
+        <item>Administra los dispositivos asociados con tu Cuenta Mi</item>
+        <item>Dispositivos;Administrar;Iniciar sesión;Iniciar sesión;Lista de dispositivos;Xiaomi;Cuenta Mi;Cuenta</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>Información de pago</item>
+        <item>Ver y administrar la información de pago</item>
+        <item>Pago;Información;Xiaomi;Cuenta Mi;Cuenta</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Política de Privacidad</item>
+        <item>Ver la Política de Privacidad de la Cuenta Mi</item>
+        <item>Xiaomi;Cuenta;Cuenta Mi;Privacidad;Política;Ver</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Correo electrónico de recuperación</item>
+        <item>Añadir correo electrónico de recuperación</item>
+        <item>Seguridad;Correo electrónico;Xiaomi;Cuenta;Cuenta Mi;Añadir;Vincular</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Teléfono de recuperación</item>
+        <item>Añadir teléfono de recuperación</item>
+        <item>Seguridad;Cuenta;Cuenta Mi;Teléfono;Xiaomi;Número de teléfono;Añadir;Vincular</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Anuncios</item>
+        <item>Administrar anuncios del sistema</item>
+        <item>Sistema;Anuncios;Xiaomi;Cuenta;Cuenta Mi;Ajustes</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Información de cuenta</item>
+        <item>Ver tu foto de perfil y administrar la información de la cuenta</item>
+        <item>Cuenta;Información;Personal;Foto de perfil;Nombre;Xiaomi;ID;Cuenta Mi;Ver; Ajustes</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Acuerdo de Usuario</item>
+        <item>Ver Acuerdo de Usuario de Cuenta Mi</item>
+        <item>Xiaomi;Cuenta;Cuenta Mi;Acuerdo de Usuario;Ver</item>
+    </string-array>
+</resources>
