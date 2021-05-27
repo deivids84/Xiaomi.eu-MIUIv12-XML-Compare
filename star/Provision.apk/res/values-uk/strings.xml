@@ -241,8 +241,12 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Угода користувача</string>
     <string name="other_settings_location">Доступ до місцезнаходження</string>
     <string name="other_settings_location_summary">Дозволити програмам доступ до місцезнаходження</string>
-    <string name="other_settings_upload_debug_log_summary">Інформація, яка допомагає нам знаходити та вирішувати проблеми, може містити ваші особисті дані</string>
-    <string name="other_settings_upload_debug_log_title">Надсилати діагностичні дані автоматично</string>
+    <string name="other_settings_upload_debug_log_detail">"Допомогти поліпшити роботу пристрою MIUI шляхом автоматичного надсилання діагностики, пристрою та даних використання програм в Xiaomi. Це допоможе покращити життя батареї, систему MIUI і стабільність додатків і багато іншого.
+Дані які ви надсилатимете, будуть містити загальну інформацію про ваш пристрій і те, як ви будете використовувати його (e. . рівень заряду батареї, система та активність додатків та помилки). Дані будуть використані для покращення пристроїв MIUI.
+Вимкнення цієї функції не впливає на можливості вашого пристрою надсилати інформацію, необхідну для таких важливих служб, як оновлення та безпека системи.
+Ви можете контролювати цю функцію з Налаштування &gt; Паролі &amp; Безпека &gt; Приватність &gt; Використання та діагностики."</string>
+    <string name="other_settings_upload_debug_log_summary">Допомогти поліпшити роботу пристрою MIUI шляхом автоматичного надсилання діагностики, пристрою та даних використання програм в Xiaomi. Це допоможе покращити життя батареї, систему MIUI і стабільність додатків і багато іншого.</string>
+    <string name="other_settings_upload_debug_log_title">Надіслати дані про використання та діагностику</string>
     <string name="other_settings_user_experience">Програма покращення якості</string>
     <string name="other_settings_user_experience_summary">Допоможіть нам покращити продукти та послуги шляхом відправлення даних щодо їх використання.</string>
     <string name="other_settings_user_experience_summary_index">Деталі</string>
