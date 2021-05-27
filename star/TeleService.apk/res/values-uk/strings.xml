@@ -1462,7 +1462,7 @@
     <string name="no_vm_number_msg">На SIM-карті немає збереж. номерів голос. пошти.</string>
     <string name="no_voip">"Виклики SIP не підтримуються"</string>
     <string name="no_wifi_available">Для викликів SIP потрібне з’єднання з мережею Wi-Fi (скористайтеся налаштуваннями бездротового зв’язку та мереж).</string>
-    <string name="not_a_valid_port">Введіть номер порту між 1000 та 65534.</string>
+    <string name="not_a_valid_port">Номер порту має бути в межах %1$d та %2$d.</string>
     <string name="not_allowed">"Ваша SIM-карта не дозволяє під’єднання до цієї мережі."</string>
     <string name="not_set">Не налаштовано</string>
     <string name="not_voice_capable">Голосові дзвінки не підтримуються</string>
