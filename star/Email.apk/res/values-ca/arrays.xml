@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>gen.</item>
+        <item>febr.</item>
+        <item>març</item>
+        <item>Abr.</item>
+        <item>maig</item>
+        <item>juny</item>
+        <item>jul.</item>
+        <item>ag.</item>
+        <item>set.</item>
+        <item>oct.</item>
+        <item>nov.</item>
+        <item>des.</item>
+    </string-array>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_chars2">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Aquesta nit</item>
+        <item>Demà</item>
+        <item>Cap de setmana</item>
+        <item>Setmana vinent</item>
+        <item>Mes següent</item>
+        <item>Tria la data</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Diminut</item>
+        <item>Petit</item>
+        <item>Normal</item>
+        <item>Gran</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>factura</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Vist recentment</item>
+        <item>Format</item>
+        <item>Nom</item>
+        <item>Remitent</item>
+        <item>Data de recepció</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Utilitzats freqüentment</item>
+        <item>Totes les carpetes</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Més recent</item>
+        <item>Més antic</item>
+        <item>Safata d\'entrada</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tots</item>
+        <item>Només els remitents</item>
+    </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Inici de sessió del protocol Imap de l\'Outlook</item>
+        <item>IMAP (sense calendari)</item>
+        <item>EXCHANGE (amb calendari)</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Lloc:</item>
+        <item>Correu:</item>
+        <item>Mòbil:</item>
+        <item>Telèfon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>Correu:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Correu:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adreça:</item>
+        <item>Tel:</item>
+        <item>Nom:</item>
+        <item>Correu:</item>
+        <item>Mòbil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Codi postal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Renúncia:</item>
+        <item>Renúncia de correu electrònic</item>
+        <item>Enviat a través de WPSMail</item>
+        <item>Enviat des de</item>
+        <item>Enviat amb</item>
+        <item>Gràcies,</item>
+        <item>Salutacions cordials</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Gràcies,</item>
+        <item>Salutacions cordials</item>
+        <item>Enviat des del meu</item>
+        <item>Correu original</item>
+        <item>Enviat des del meu</item>
+        <item>Enviat des de</item>
+        <item>Des de</item>
+        <item>Aquest correu</item>
+        <item>Renúncia</item>
+        <item>Renúncia de correu</item>
+    </string-array>
+</resources>
