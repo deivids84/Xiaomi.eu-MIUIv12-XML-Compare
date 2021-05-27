@@ -241,8 +241,12 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Acuerdo de Licencia de Usuario Final</string>
     <string name="other_settings_location">Ubicación</string>
     <string name="other_settings_location_summary">Permitir a las aplicaciones acceder a su ubicación</string>
-    <string name="other_settings_upload_debug_log_summary">Las estadísticas de uso nos ayudan a localizar y resolver errores. Podrían contener su información personal</string>
-    <string name="other_settings_upload_debug_log_title">Enviar diagnóstico de datos automáticamente</string>
+    <string name="other_settings_upload_debug_log_detail">"Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.
+Los datos que enviará contendrán información general sobre su dispositivo y cómo lo usa (por ejemplo, nivel de batería, actividad del sistema y de la aplicación, y errores). Los datos se utilizarán para mejorar los dispositivos MIUI.
+Desactivar esta función no afecta la capacidad de su dispositivo para enviar la información necesaria para servicios esenciales como actualizaciones del sistema y seguridad.
+Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Seguridad &gt; Privacidad &gt; Uso y diagnóstico."</string>
+    <string name="other_settings_upload_debug_log_summary">Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.</string>
+    <string name="other_settings_upload_debug_log_title">Enviar datos de uso y diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiencia del Usuario</string>
     <string name="other_settings_user_experience_summary">Ayúdenos a mejorar nuestros productos y servicios compartiendo con nosotros sus estadísticas de uso. Ver detalles</string>
     <string name="other_settings_user_experience_summary_index">Ver detalles</string>
