@@ -40,10 +40,12 @@
     <string name="back_up_task_in_process">Realitzant còpia de seguretat&#8230;</string>
     <string name="back_up_task_unfinished">"Còpia de seguretat no finalitzada"</string>
     <string name="backing_up_to_micloud">Realitzant còpia de seguretat&#8230;</string>
+    <string name="backup_action_access_permission">Configuració</string>
     <string name="backup_action_buy_cloud_space">Aconsegueix més espai d\'emmagatzematge</string>
     <string name="backup_action_check_network">Comproveu la configuració de xarxa</string>
     <string name="backup_action_clean_disk_space">Allibera espai</string>
     <string name="backup_action_retry_now">Torneu-ho a provar</string>
+    <string name="backup_failed_reason_app_usage_denied">Concediu els permisos necessaris per fer una còpia de seguretat dels elements</string>
     <string name="backup_failed_reason_cloud_space_not_enough">No queda prou emmagatzematge al núvol per desar aquesta còpia de seguretat. Actualitzeu el vostre pla o allibereu espai d’emmagatzematge al núvol.</string>
     <string name="backup_failed_reason_disk_space_not_enough">No hi ha prou espai d’emmagatzematge. Primer, allibereu emmagatzematge.</string>
     <string name="backup_failed_reason_network_error">Comproveu la configuració de xarxa i torneu-ho a provar</string>
@@ -58,6 +60,8 @@
     <string name="backup_success">Còpia realitzada amb èxit</string>
     <string name="backup_successfully">Còpia realitzada amb èxit</string>
     <string name="backup_to_cloud">Fes una còpia de l\'aplicació</string>
+    <string name="backup_warning_reason_app_usage_denied">"No s'han pogut sincronitzar les dades.
+Calen permisos."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"No es pot fer una còpia de seguretat"</string>
     <string name="backup_warning_reason_disk_space_not_enough">"No hi ha prou emmagatzematge
 No es pot fer una còpia de seguretat"</string>
@@ -162,8 +166,11 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="desktop_wait_network">S\'està esperant…</string>
     <string name="desktop_waiting">S\'està esperant</string>
     <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
+    <string name="dialog_app_usage_denied">Doneu el permís d\'\"Accés a l\'ús\" de la còpia de seguretat a la configuració per poder fer una còpia de seguretat dels elements.</string>
     <string name="dialog_backup_failed">"No s'ha pogut fer una còpia de seguretat"</string>
     <string name="dialog_btn_cancel_backup">Cancel·la</string>
+    <string name="dialog_btn_confirm2">Entesos</string>
+    <string name="dialog_btn_enter">Configuració</string>
     <string name="dialog_btn_next">Següent</string>
     <string name="dialog_btn_overwrite_backup">Sobreescriu</string>
     <string name="dialog_btn_restore_skip">Restaura més tard</string>
@@ -176,6 +183,7 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="dialog_msg_overwrite_backup">La còpia de seguretat local és diferent de la de Xiaomi Cloud. Si continueu, la còpia de seguretat actual substituirà l\'anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Per restaurar les còpies de seguretat requereix connectar-se a la Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">La restauració de còpies de seguretat requereix connectar-se a la Wi-Fi.</string>
+    <string name="dialog_need_permission">Permisos necessaris</string>
     <string name="dialog_title_require_wlan">Connecta a la Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Connecteu-vos a la Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
