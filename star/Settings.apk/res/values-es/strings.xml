@@ -2047,9 +2047,14 @@ Debes restablecer el estado de fábrica para volver a usar el teléfono. Cuando 
     <string name="dark_color_summary_lcd">"Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro puede ayudar a aliviar la fatiga ocular cuando usas el dispositivo en la oscuridad."</string>
     <string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga ocular.</string>
     <string name="dark_mode_apps_header">Aplicaciones individuales</string>
+    <string name="dark_mode_auto_time_summary">Activar y desactivar el modo oscuro a la hora programada</string>
+    <string name="dark_mode_auto_time_title">Personalizado</string>
     <string name="dark_mode_contrast">Ajustar contraste automáticamente</string>
     <string name="dark_mode_contrast_hint">Ajustar colores y contrastes bajos automáticamente cuando se reduce el brillo</string>
+    <string name="dark_mode_day_night_mode_summary">Cambie al modo oscuro al atardecer y apáguelo al amanecer</string>
+    <string name="dark_mode_day_night_mode_title">Puesta del sol al amanecer</string>
     <string name="dark_mode_font_background_title">Ajustar textos y fondos automáticamente</string>
+    <string name="dark_mode_time_settings">Programar el modo oscuro</string>
     <string name="dark_theme_slice_subtitle">Ayuda a alargar la batería</string>
     <string name="dark_theme_slice_title">Prueba el tema oscuro</string>
     <string name="dark_ui_activation_off_auto">Desactivar hasta el anochecer</string>
@@ -6163,8 +6168,9 @@ Para fijar una aplicación, sigue estos pasos: \u0009
     <string name="screen_saturation">Saturación</string>
     <string name="screen_shot">Realizar captura de pantalla</string>
     <string name="screen_timeout">Suspender</string>
+    <string name="screen_timeout_subtitle">La visualización de contenido estático durante períodos prolongados puede hacer que los colores sean desiguales</string>
     <string name="screen_timeout_summary">Después de %1$s de inactividad</string>
-    <string name="screen_timeout_title">Modo suspensión</string>
+    <string name="screen_timeout_title">Bloquear la pantalla automáticamente</string>
     <string name="screen_usage_summary">Tiempo que la pantalla ha estado encendida desde la carga completa</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
     <string name="screen_zoom_conversation_icon_pete">P</string>
@@ -7336,6 +7342,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="switch_headset_anti_lost_title">Alerta de auricular perdido</string>
     <string name="switch_off_text">Desactivado</string>
     <string name="switch_on_text">Activado</string>
+    <string name="switch_power_sound">Sonido de carga</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir botones de Volver y Menú</string>
     <string name="switch_select_to_speak_on">Selecciona para hablar</string>
