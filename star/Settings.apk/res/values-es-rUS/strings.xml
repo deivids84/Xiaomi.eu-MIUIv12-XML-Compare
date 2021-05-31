@@ -2047,9 +2047,14 @@ Para reanudar el uso de tu dispositivo, debes restablecer los datos de fábrica.
     <string name="dark_color_summary_lcd">"Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro puede ayudar a aliviar la fatiga ocular cuando usa el dispositivo en la oscuridad."</string>
     <string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga ocular.</string>
     <string name="dark_mode_apps_header">Aplicaciones individuales</string>
+    <string name="dark_mode_auto_time_summary">Activar y desactivar el modo oscuro a la hora programada</string>
+    <string name="dark_mode_auto_time_title">Personalizado</string>
     <string name="dark_mode_contrast">Ajustar contraste automáticamente</string>
     <string name="dark_mode_contrast_hint">Ajustar los colores y reducir el contraste automáticamente cuando se reduce el brillo</string>
+    <string name="dark_mode_day_night_mode_summary">Cambie al modo oscuro al atardecer y apáguelo al amanecer</string>
+    <string name="dark_mode_day_night_mode_title">Puesta del sol al amanecer</string>
     <string name="dark_mode_font_background_title">Ajustar textos y fondos automáticamente</string>
+    <string name="dark_mode_time_settings">Programar el modo oscuro</string>
     <string name="dark_theme_slice_subtitle">Extiende la duración de la batería</string>
     <string name="dark_theme_slice_title">Prueba el Tema oscuro</string>
     <string name="dark_ui_activation_off_auto">Desactivar hasta el atardecer</string>
@@ -6022,7 +6027,7 @@ Esa configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_select_time_error_summary">"La hora de inicio y fin no puede ser la misma"</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en Modo oscuro. Puede restringir el uso del modo Oscuro para aplicaciones individuales aquí.</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
-    <string name="screen_dark_mode_time_title">Programar Modo oscuro</string>
+    <string name="screen_dark_mode_time_title">Programar modo oscuro</string>
     <string name="screen_effect">Paleta de colores</string>
     <string name="screen_enhance_engine_ai_note">%d. Esta función aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Solo se pueden mejorar las imágenes de la aplicación Galería.</string>
@@ -6165,8 +6170,9 @@ Para fijar una app, sigue estos pasos: \u0009
     <string name="screen_saturation">Saturación</string>
     <string name="screen_shot">Tomar una captura de pantalla</string>
     <string name="screen_timeout">Suspender</string>
+    <string name="screen_timeout_subtitle">La visualización de contenido estático durante períodos prolongados puede hacer que los colores sean desiguales</string>
     <string name="screen_timeout_summary">Después de %1$s de inactividad</string>
-    <string name="screen_timeout_title">Modo suspensión</string>
+    <string name="screen_timeout_title">Bloquear la pantalla automáticamente</string>
     <string name="screen_usage_summary">Tiempo que estuvo encendida la pantalla desde la última carga completa</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
     <string name="screen_zoom_conversation_icon_pete">P</string>
@@ -7339,6 +7345,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="switch_headset_anti_lost_title">Alerta de auricular faltante</string>
     <string name="switch_off_text">Desactivadas</string>
     <string name="switch_on_text">Activado</string>
+    <string name="switch_power_sound">Sonido de carga</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir los botones Atrás y Menú</string>
     <string name="switch_select_to_speak_on">Seleccionar para hablar</string>
