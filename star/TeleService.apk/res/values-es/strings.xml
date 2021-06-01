@@ -1109,6 +1109,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
     <string name="invalid_pin2">Introduce un PIN2 que tenga de %1$d a %2$d números.</string>
     <string name="invalid_puk">Introduce un PUK que tenga de %1$d a %2$d números.</string>
     <string name="invalid_puk2">Introduce un PUK2 que tenga de %d a números.</string>
+    <string name="invalid_secretcode_format_txt">¡Formato de código secreto no válido!</string>
     <string name="ivr_mo_area_code_settings">Código de área actual</string>
     <string name="ivr_mo_area_code_settings_hint">Introduce tu código de área actual</string>
     <string name="ivr_parameter_settings">Parámetros de configuración IVR</string>
