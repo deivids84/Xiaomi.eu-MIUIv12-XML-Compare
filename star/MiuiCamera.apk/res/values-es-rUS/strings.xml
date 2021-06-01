@@ -1374,7 +1374,6 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_camera_video_show_faceview_title">Mostrar el marco de la cara en el modo de video</string>
     <string name="pref_camera_video_tag">Permitir etiquetado de vídeos</string>
     <string name="pref_camera_video_tag_description">Presione \"Etiquetar\" mientras graba un vídeo para poder volver a los momentos marcados durante la reproducción</string>
-    <string name="pref_camera_volumekey_function_default">temporizador</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Disparador</string>
     <string name="pref_camera_volumekey_function_entry_timer">Cuenta regresiva del obturador</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volumen</string>
@@ -1433,7 +1432,6 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_lens_dirty_detect_summary">Recibir una notificación cuando el lente esté sucio</string>
     <string name="pref_lens_dirty_detect_title">Notificar sobre lente sucio</string>
     <string name="pref_live_duration_title">Duración en directo</string>
-    <string name="pref_live_volumekey_function_default">volumen</string>
     <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
     <string name="pref_module_settings">Modos</string>
     <string name="pref_more_mode_style_title">Modos de cámara</string>
@@ -1452,7 +1450,6 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_popup_camera_title">Cámara emergente</string>
     <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
     <string name="pref_privacy_title">Política de Privacidad</string>
-    <string name="pref_pro_video_volumekey_function_default">obturador</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_camera_common_mode_summary">Abra la Cámara en el modo usado anteriormente en lugar de cambiar a \"Foto\"</string>
     <string name="pref_retain_camera_mode_summary">Cambiar cámara al modo usado la vez anterior que abrió la aplicación.</string>
@@ -1516,7 +1513,6 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_video_time_lapse_frame_interval_entry_90">90X (intervalo de 3 s)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">900X (intervalo de 30 s)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Intervalo de time-lapse</string>
-    <string name="pref_video_volumekey_function_default">obturador</string>
     <string name="pref_watermark_off">Desactivado</string>
     <string name="pref_watermark_on">Activado</string>
     <string name="pref_watermark_title">Marca de agua</string>
