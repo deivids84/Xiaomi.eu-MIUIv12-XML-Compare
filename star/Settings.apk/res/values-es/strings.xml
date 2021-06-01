@@ -1654,7 +1654,7 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="charge_animation_style_summary">Elige tu estilo preferido de animación de carga con la pantalla bloqueada</string>
     <string name="charge_animation_style_title">Animación de carga</string>
     <string name="charge_length_format">hace %1$s</string>
-    <string name="charging_sounds_title">Vibración y sonidos de carga</string>
+    <string name="charging_sounds_title">Sonidos de carga y vibración</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Buscar actualizaciones</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
@@ -5172,6 +5172,8 @@ Además, podrá activar o desactivar el modo No molestar y modificar ajustes rel
     <string name="notifications_title">Notificaciones</string>
     <string name="now">Reiniciar ahora</string>
     <string name="number_of_device_admins_none">No hay aplicaciones activas</string>
+    <string name="oaid_apps_summary">Permitir o restringir el acceso a aplicaciones individuales</string>
+    <string name="oaid_apps_title">Administrar ID virtual</string>
     <string name="oaid_string">"ID virtual actual:
 %1s"</string>
     <string name="oem_lock_info_message">Reinicia para habilitar la función de protección del dispositivo.</string>
@@ -7513,6 +7515,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
+    <string name="time_floating_window">Reloj flotante</string>
+    <string name="time_floating_window_summary">Muestra el reloj en la ventana flotante sobre otras aplicaciones</string>
     <string name="time_format_category_title">Formato de hora</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="time_picker_title">Hora</string>
