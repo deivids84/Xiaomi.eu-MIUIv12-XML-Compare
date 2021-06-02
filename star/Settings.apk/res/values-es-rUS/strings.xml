@@ -1655,8 +1655,8 @@ Esto afecta otras apps o conversaciones que pueden crear burbujas."</string>
     <string name="charge_animation_style_none">Desactivado</string>
     <string name="charge_animation_style_summary">Elige tu estilo preferido de animación de carga con la pantalla bloqueada</string>
     <string name="charge_animation_style_title">Animación de carga</string>
-    <string name="charge_animation_style_video">Resplandor</string>
-    <string name="charge_animation_style_wave">Onda</string>
+    <string name="charge_animation_style_video">Brillo</string>
+    <string name="charge_animation_style_wave">Olas</string>
     <string name="charge_length_format">Hace %1$s</string>
     <string name="charging_sounds_title">Sonidos de carga y vibración</string>
     <string name="check_find_device_status_failure_confirm">Aceptar</string>
