@@ -1651,8 +1651,12 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="channel_notifications_off_desc">Como solicitaste, Android está bloqueando esta categoría de notificaciones para que no aparezcan en el dispositivo</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
+    <string name="charge_animation_style_lollipop">Flujo</string>
+    <string name="charge_animation_style_none">Desactivado</string>
     <string name="charge_animation_style_summary">Elige tu estilo preferido de animación de carga con la pantalla bloqueada</string>
     <string name="charge_animation_style_title">Animación de carga</string>
+    <string name="charge_animation_style_video">Resplandor</string>
+    <string name="charge_animation_style_wave">Onda</string>
     <string name="charge_length_format">hace %1$s</string>
     <string name="charging_sounds_title">Sonidos de carga y vibración</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
@@ -6446,6 +6450,7 @@ Para fijar una aplicación, sigue estos pasos: \u0009
     <string name="secspace_fod_use_password">Introduce la contraseña</string>
     <string name="secure_keyguard_business_title">Establecer bloqueo de pantalla</string>
     <string name="secure_lock_encryption_warning">Has activado un servicio de accesibilidad, por lo que el dispositivo no utilizará el bloqueo de pantalla para mejorar el cifrado de datos.</string>
+    <string name="security_center_title">Seguridad</string>
     <string name="security_dashboard_summary">Bloqueo de pantalla y huella digital</string>
     <string name="security_dashboard_summary_face">Bloqueo de pantalla, desbloqueo facial</string>
     <string name="security_dashboard_summary_no_fingerprint">Bloqueo de pantalla</string>
