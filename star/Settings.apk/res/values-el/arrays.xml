@@ -509,12 +509,6 @@
         <item>PIN</item>
         <item>Κωδικός</item>
     </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Ανενεργό</item>
-        <item>Ροή</item>
-        <item>Λάμψη</item>
-        <item>Κύμα</item>
-    </string-array>
     <string-array name="city_name">
         <item>Αμπιτζάν</item>
         <item>Άκκρα</item>
