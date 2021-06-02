@@ -509,12 +509,6 @@
         <item>PIN</item>
         <item>Contrasenya</item>
     </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Desactivat</item>
-        <item>Flux</item>
-        <item>Brillar</item>
-        <item>Onada</item>
-    </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
         <item>Accra</item>
