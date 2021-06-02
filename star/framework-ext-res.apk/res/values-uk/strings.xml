@@ -36,6 +36,8 @@
     <string name="autofill_save_sub_message">"Для керування збереженими паролями перейдіть до Налаштування &gt; Паролі та безпека &gt; %s."</string>
     <string name="autofill_save_title">Автоматично зберігати паролі</string>
     <string name="autofill_service_name">Керування паролями</string>
+    <string name="battery_authentic_failed_button">Зрозуміло</string>
+    <string name="battery_authentic_failed_title">Увага</string>
     <string name="bluetooth_close">Ця програма вимкнула Bluetooth</string>
     <string name="bluetooth_disable_notification_content">Програма %s вимкнула Bluetooth</string>
     <string name="bluetooth_disable_notification_title">Bluetooth вимкнено</string>
@@ -170,6 +172,7 @@
     <string name="open_close_tip_content">Щоб закрити спливаюче вікно, натисніть і утримуйте рядок стану, а потім проведіть вгору</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Інші клавіатури</string>
     <string name="package_delete_confirm_step_1">Видалити %s?</string>
     <string name="package_delete_confirm_step_2">Видалення цієї програми може привести до нестабільності всієї системи.</string>
     <string name="package_delete_confirm_step_3">"Ви не зможете відкрити цю програму після її видалення."</string>
