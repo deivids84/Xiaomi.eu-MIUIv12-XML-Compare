@@ -1390,7 +1390,7 @@
     <string name="msim_set_sub_not_supported_phone_in_call">"Неможливо задати під час виклику"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Помилка SIM-картки</string>
     <string name="msim_setting_categery_title">Налаштування SIM-картки</string>
-    <string name="msim_setting_default_data">Дані про карту</string>
+    <string name="msim_setting_default_data">Інтернет</string>
     <string name="msim_setting_default_data_description">Дані SIM %d</string>
     <string name="msim_setting_default_voice">За замовчуванням для викликів</string>
     <string name="msim_setting_default_voice_description">SIM %d для дзвінків</string>
