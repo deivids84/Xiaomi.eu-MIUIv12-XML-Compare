@@ -54,7 +54,7 @@
     <string name="activity_title_white_list">Excepciones</string>
     <string name="ad_install_success_dialog_lunch">Abrir</string>
     <string name="ad_install_success_dialog_title">%1$s instalado con éxito. ¿Abrir?</string>
-    <string name="afternoon">Tarde</string>
+    <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="analying">Analizando…</string>
     <string name="apk_status_damage">Corrompido</string>
@@ -68,7 +68,7 @@
     <string name="app_clean_group_image_send">Imágenes enviadas</string>
     <string name="app_description_content">Limpiador encuentra basura en su dispositivo y libera espacio de almacenamiento. Asegúrese de de no necesitar estas funciones antes de desinstalar la aplicación.</string>
     <string name="app_description_title">Acerca de la aplicación Limpieza</string>
-    <string name="app_name">difuminar</string>
+    <string name="app_name">desenfoque</string>
     <string name="app_usage_never">No usado recientemente</string>
     <string name="app_usage_recently">Usado recientemente</string>
     <string name="appcleaner_g_audio_summary_qq">Elimine permanentemente mensajes de voz de QQ</string>
@@ -209,7 +209,7 @@
     <string name="clear_bigfiles">Eliminar archivos pesados, fotos duplicadas y otros elementos obsoletos</string>
     <string name="clear_immediately">Limpiar ahora</string>
     <string name="clear_safe_notify">Widget en el panel de notificaciones</string>
-    <string name="clearable_edittext_clear_description">Borrar</string>
+    <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="clip_board_history_desc">Contenido copiado / cortado</string>
     <string name="clipboard">Portapapeles</string>
     <string name="close">Cerrar</string>
@@ -217,7 +217,7 @@
     <string name="conn_of_function_safe">Conexión de red para Seguridad</string>
     <string name="connecting">Conectando…</string>
     <string name="copy">Copiar</string>
-    <string name="date_picker_lunar">Calendario chino Tradicional</string>
+    <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="dc_activity_title">Limpieza profunda</string>
     <string name="dc_advise_delete">Liberar espacio</string>
@@ -300,7 +300,7 @@
     <string name="dialog_title_uninstall_apps">Desinstalar</string>
     <string name="download">Descargar</string>
     <string name="downloading">Descargando</string>
-    <string name="early_morning">Mañana</string>
+    <string name="early_morning">AM</string>
     <string name="empty_content_no_ignore_image">Vacío</string>
     <string name="empty_content_no_privacy">Vacío</string>
     <string name="empty_content_no_similar_image">No hay fotos</string>
@@ -315,9 +315,9 @@
     <string name="empty_title_video">No hay videos para eliminar</string>
     <string name="engine_init">Iniciando…</string>
     <string name="engine_mi">Xiaomi</string>
-    <string name="eras_ad">DC</string>
-    <string name="eras_bc">AC</string>
-    <string name="evening">Tarde</string>
+    <string name="eras_ad">d.C</string>
+    <string name="eras_bc">a.C</string>
+    <string name="evening">PM</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="facebook_clean_exit_confirm_cancel">Continuar análisis</string>
     <string name="facebook_clean_exit_confirm_msg">"No se ha terminado el análisis de Facebook. ¿Detener?"</string>
@@ -333,9 +333,9 @@
     <string name="file_not_found">Archivo no encontrado</string>
     <string name="flow_rank_title">Uso de datos</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Viernes</string>
@@ -758,7 +758,7 @@
     <string name="rs_clean_size_storage_title">Almacenamiento</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
-    <string name="saturday_shortest">Sáb</string>
+    <string name="saturday_shortest">Sábado</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="sc_allow_network_dialog_message">¿Permitir que esta aplicación se conecte a Internet para recibir actualizaciones?</string>
     <string name="scanning">Escaneando…</string>
