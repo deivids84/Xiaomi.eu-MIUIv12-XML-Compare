@@ -4479,6 +4479,7 @@ No podrá deshacer esta acción"</string>
     <string name="miui_face_enroll_risk_warning_title_text">Atención</string>
     <string name="miui_face_enroll_success">"Puede desbloquear este dispositivo usando sus datos faciales.
 Continúe para acceder a los ajustes adicionales."</string>
+    <string name="miui_input_method_attention">Atención</string>
     <string name="miui_input_method_settings">Ajustes de método de entrada</string>
     <string name="miui_lab_ai_cloud_closed">"Precarga IA no está disponible aún."</string>
     <string name="miui_lab_ai_preload_desc">Precarga IA aumenta la velocidad con la que abre aplicaciones</string>
@@ -5962,6 +5963,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="ringtones_category_preference_title">Tonos</string>
     <string name="ringtones_install_custom_sound_content">Se copiará este archivo a la carpeta %s</string>
     <string name="ringtones_install_custom_sound_title">¿Deseas agregar un sonido personalizado?</string>
+    <string name="risk_tip">Riesgo detectado</string>
     <string name="roaming">Roaming</string>
     <string name="roaming_alert_title">¿Permitir el roaming de datos?</string>
     <string name="roaming_check_price_warning">Para saber los precios, consulta con tu proveedor de red.</string>
