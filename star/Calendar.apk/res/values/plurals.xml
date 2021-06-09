@@ -4,17 +4,9 @@
         <item quantity="other">%d days before</item>
         <item quantity="one">%d day before</item>
     </plurals>
-    <plurals name="Ndays_after">
-        <item quantity="other">%1$d天后</item>
-        <item quantity="one">%1$d天后</item>
-    </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">In %1$d days at %2$s</item>
         <item quantity="one">In %1$d day at %2$s</item>
-    </plurals>
-    <plurals name="Ndays_ago">
-        <item quantity="other">%1$d天前</item>
-        <item quantity="one">%1$d天前</item>
     </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d days before at %2$s</item>
@@ -182,5 +174,13 @@
     <plurals name="work_days">
         <item quantity="other">%d working days</item>
         <item quantity="one">%d working day</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
     </plurals>
 </resources>
