@@ -285,7 +285,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
-    <string name="msg_alert_cancel_restore">Restaurando elementos. ¿Parar ahora?</string>
+    <string name="msg_alert_cancel_restore">Los elementos se están restaurando desde Xiaomi Cloud. ¿Cancelar ahora?</string>
     <string name="msg_alert_restore_error">"No se pudieron restaurar los elementos desde Xiaomi Cloud. Vuelva a intentarlo."</string>
     <string name="msg_restore_start_with_metered_network">"Su pantalla de inicio será restaurada. Las aplicaciones respaldadas serán descargadas automáticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de archivos descargados.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Se usarán los datos móviles para descargar si continúa restaurando estos elementos.</string>
@@ -352,7 +352,7 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_home_failed">"No se pudo restaurar la pantalla de inicio."</string>
     <string name="restore_home_screen_apps">Restaurar desde respaldo en la nube</string>
     <string name="restore_init_description">Iniciar restauración</string>
-    <string name="restore_network_pause">Detenido para ahorrar datos móviles. Toque para reanudar.</string>
+    <string name="restore_network_pause">Pausado para ahorrar datos móviles. Toque para reanudar.</string>
     <string name="restore_network_unconnect">%s (esperando conexión)</string>
     <string name="restore_task_cancelling">Cancelando…</string>
     <string name="restore_task_in_process">Restaurando…</string>
@@ -360,7 +360,7 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_unfinished">Restaurando. Vuelva a intentarlo</string>
     <string name="restoring_app_data_title_no_progress">Restaurar datos de WeChat…</string>
     <string name="restoring_data">Restaurando datos…</string>
-    <string name="restoring_file_title_no_progress">Restaurando archivos…</string>
+    <string name="restoring_file_title_no_progress">Restaurando aplicaciones…</string>
     <string name="restoring_home_screen_apps">Restaurando desde Xiaomi Cloud…</string>
     <string name="restoring_settings">Restaurando ajustes…</string>
     <string name="retry">Reintentar</string>
