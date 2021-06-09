@@ -51,6 +51,7 @@
     <string name="backup_failed_reason_network_error">Compruebe sus ajustes de red y vuelva a intentarlo</string>
     <string name="backup_finished_notification_content">Aplicaciones de la pantalla de inicio, ajustes de sistema, etc. respaldados</string>
     <string name="backup_now">Respaldar ahora</string>
+    <string name="backup_progress_percent_unit">%</string>
     <string name="backup_remind_buy_cloud_space">Mejore su plan de almacenamiento en la nube</string>
     <string name="backup_remind_clean_disk_space">Libere espacio de almacenamiento</string>
     <string name="backup_remind_cloud_space_cost">Tamaño de la copia de seguridad: %s</string>
@@ -198,6 +199,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
+    <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">"No se pudo completar la acción. Espere un momento y vuelva a intentarlo…"</string>
     <string name="error_unknown">Algo salió mal</string>
     <string name="evening">Tarde</string>
@@ -228,7 +230,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort_name">Nombre</string>
     <string name="menu_item_sort_size">Tamaño</string>
     <string name="midnight">Noche</string>
-    <string name="miui_device_name">Android</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -243,14 +244,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -292,7 +285,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
-    <string name="msg_alert_cancel_restore">Los elementos se están restaurando desde Xiaomi Cloud. ¿Cancelar ahora?</string>
+    <string name="msg_alert_cancel_restore">Restaurando elementos. ¿Parar ahora?</string>
     <string name="msg_alert_restore_error">"No se pudieron restaurar los elementos desde Xiaomi Cloud. Vuelva a intentarlo."</string>
     <string name="msg_restore_start_with_metered_network">"Su pantalla de inicio será restaurada. Las aplicaciones respaldadas serán descargadas automáticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de archivos descargados.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Se usarán los datos móviles para descargar si continúa restaurando estos elementos.</string>
@@ -308,6 +301,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Active el interruptor de respaldo</string>
     <string name="other_device_main_space">Espacio principal</string>
     <string name="other_device_second_space">Segundo espacio</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"No se pueden restaurar elementos en el modo PC. Apague el modo PC y vuelva a intentarlo."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
@@ -357,7 +352,7 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_home_failed">"No se pudo restaurar la pantalla de inicio."</string>
     <string name="restore_home_screen_apps">Restaurar desde respaldo en la nube</string>
     <string name="restore_init_description">Iniciar restauración</string>
-    <string name="restore_network_pause">Pausado para ahorrar datos móviles. Toque para reanudar.</string>
+    <string name="restore_network_pause">Detenido para ahorrar datos móviles. Toque para reanudar.</string>
     <string name="restore_network_unconnect">%s (esperando conexión)</string>
     <string name="restore_task_cancelling">Cancelando…</string>
     <string name="restore_task_in_process">Restaurando…</string>
@@ -365,7 +360,7 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_unfinished">Restaurando. Vuelva a intentarlo</string>
     <string name="restoring_app_data_title_no_progress">Restaurar datos de WeChat…</string>
     <string name="restoring_data">Restaurando datos…</string>
-    <string name="restoring_file_title_no_progress">Restaurando aplicaciones…</string>
+    <string name="restoring_file_title_no_progress">Restaurando archivos…</string>
     <string name="restoring_home_screen_apps">Restaurando desde Xiaomi Cloud…</string>
     <string name="restoring_settings">Restaurando ajustes…</string>
     <string name="retry">Reintentar</string>
@@ -405,9 +400,11 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="start_backup_to_micloud">Respaldar aplicaciones con Xiaomi Cloud</string>
     <string name="start_recover">Restauración %s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Respaldo de aplicaciones en la pantalla de inicio activado</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
