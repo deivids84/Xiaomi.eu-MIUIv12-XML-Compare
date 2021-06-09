@@ -289,7 +289,7 @@ Localice y bloquee su dispositivo en caso de extravío."</string>
     <string name="micloud_dspt_provision_v2">Use Xiaomi Cloud para sincronizar datos, encontrar su dispositivo y compartir cosas con sus amigos.</string>
     <string name="micloud_dspt_provision_xms">Use Xiaomi Cloud para sincronizar datos.</string>
     <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">"Si desactiva esta función, no podrá localizar su dispositivo si lo pierde."</string>
+    <string name="micloud_find_device_close_alert_content">"Si desactiva Buscar dispositivo, no podrá ubicar su dispositivo con esta función. Si su dispositivo es compatible con NFC, todas sus tarjetas bancarias y tarjetas de acceso se eliminarán de Mi Pay. Las personas con las que comparte su ubicación tampoco podrán recibir actualizaciones sobre su paradero."</string>
     <string name="micloud_find_device_close_alert_negtive">Desactivar de todos modos</string>
     <string name="micloud_find_device_close_alert_positive">Continuar</string>
     <string name="micloud_find_device_close_alert_title">¿Desactivar Encontrar dispositivo?</string>
@@ -791,9 +791,9 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="sync_detail_summary_off">Sincronización desactivada</string>
     <string name="sync_detail_text">Detalles de sincronización</string>
     <string name="sync_dspt">Sincronizar</string>
-    <string name="sync_dspt_entrance_provision">Sincroniza tus fotos, notas y otros elementos a través de todos tus dispositivos. Accede a las cosas que sincronices desde cualquier navegador en %s.</string>
+    <string name="sync_dspt_entrance_provision">Sincronice sus fotos, notas y otros elementos en todos sus dispositivos. Acceda a lo que sincronice desde cualquier navegador en %s.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"No usar"</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">"Las aplicaciones del sistema de MIUI necesitan Xiaomi Cloud para realizar una copia de tus fotos, mensajes, notas y otros elementos. Xiaomi Cloud es gratuito y está siempre listo para utilizarse."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"Las aplicaciones de sistema de MIUI necesitan de Xiaomi Cloud para respaldar sus fotos, mensajes, notas y más. Xiaomi Cloud es gratuito y listo para usar desde el primer momento."</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">"Las aplicaciones de sistema de MIUI necesitan de Xiaomi Cloud para respaldar sus fotos, mensajes, notas y más. Xiaomi Cloud es gratuito y listo para usar desde el primer momento."</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Usar Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"¿No usar Xiaomi Cloud?"</string>
