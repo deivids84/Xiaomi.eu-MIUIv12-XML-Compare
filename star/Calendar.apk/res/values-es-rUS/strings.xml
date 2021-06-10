@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
@@ -52,7 +50,6 @@
     <string name="agenda_tomorrow">MAÑANA, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Descartar</string>
-    <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Expirado</string>
     <string name="alert_title">Notificaciones de calendario</string>
     <string name="all_events">Todos los eventos</string>
@@ -151,7 +148,6 @@
     <string name="date_calculate_tab">Calcular fecha</string>
     <string name="date_calculate_today">%d días</string>
     <string name="date_calculate_when">Inicio</string>
-    <string name="date_format_y_m">MMM. \'de\' yyyy</string>
     <string name="date_interval_description">Vea cuántos días hay entre dos fechas</string>
     <string name="date_interval_end">Hasta</string>
     <string name="date_interval_start">Desdel</string>
@@ -159,7 +155,6 @@
     <string name="date_interval_text_to">Al %1$s</string>
     <string name="date_jump_hint">Ir directamente a una fecha específica</string>
     <string name="date_jump_title">Ir a la fecha</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (hoy)"</string>
     <string name="day">Día</string>
     <string name="day_view_new_event_hint">Nuevo evento</string>
@@ -233,7 +228,6 @@
     <string name="every_weekday">Días de semana (Lun–Vie)</string>
     <string name="featured_title">Destacados</string>
     <string name="feedback">Comentarios</string>
-    <string name="festival_detail_title">Festival</string>
     <string name="file_exception">Se produjo un error</string>
     <string name="fixtures">Partidos</string>
     <string name="fourth_saturday_holiday">Cada segundo y cuarto sábado son días de descanso</string>
@@ -243,12 +237,10 @@
     <string name="gadget_title">Calendario</string>
     <string name="global_action_text_card_manager">Personalizar su calendario</string>
     <string name="global_cricket_no_match">Hoy no hay partidos de críquet. Mire otros días.</string>
-    <string name="global_football_final">FINAL</string>
     <string name="global_football_no_match">No hay partidos de fútbol programados para hoy.</string>
     <string name="global_joke_collapse_text">Mostrar menos</string>
     <string name="global_joke_copy_toast_message">Texto copiado con éxito</string>
     <string name="global_joke_expand_text">Mostrar más</string>
-    <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greeting_card_reminder_info_text">Reciba notificaciones diarias sobre saludos y estados</string>
     <string name="greeting_success_subtext">Las notificaciones están activadas</string>
     <string name="greeting_success_text">Listo</string>
@@ -294,7 +286,6 @@
     <string name="import_action">Importar</string>
     <string name="import_birthday">Importar cumpleaños</string>
     <string name="imported">Importado</string>
-    <string name="insert_event_dialog_btn_negative">No</string>
     <string name="insert_event_dialog_btn_positive">Sí</string>
     <string name="insert_event_dialog_message">¿Agregar este evento al calendario?</string>
     <string name="insert_event_dialog_title">Atención</string>
@@ -345,7 +336,6 @@
     <string name="menstruation_select_date">Seleccionar fecha</string>
     <string name="menstruation_setting">Ajustes de menstruación</string>
     <string name="menstrution_auth_description">El asistente de menstruación le permite registrar períodos, determinar fechas estimadas de períodos próximos y recibir recordatorios. Todos los datos relacionados se almacenarán localmente en su dispositivo.</string>
-    <string name="menu_general_preferences">General</string>
     <string name="menu_reminder_preferences">Recordatorios</string>
     <string name="mesens_card_title_stop_today">El periodo termina hoy</string>
     <string name="mesens_card_title_today_begin">Tu periodo podría comenzar hoy</string>
@@ -360,10 +350,7 @@
     <string name="month_medium_april">Abr</string>
     <string name="month_medium_august">Ago</string>
     <string name="month_medium_december">Dic</string>
-    <string name="month_medium_february">Feb</string>
     <string name="month_medium_january">Ene</string>
-    <string name="month_medium_july">Jul</string>
-    <string name="month_medium_june">Jun</string>
     <string name="month_medium_march">Mar</string>
     <string name="month_medium_may">May</string>
     <string name="month_medium_november">Nov</string>
@@ -616,7 +603,6 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
     <string name="three_days_to_go">Quedan %d días</string>
     <string name="three_selected_holiday">%1$s, %2$s, y %3$s son días de descanso</string>
-    <string name="time_numbers">%02d</string>
     <string name="time_zone">Zona horaria</string>
     <string name="timezone_label">Zona horaria</string>
     <string name="title_click_record_menstruation">Registrar un periodo</string>
@@ -658,8 +644,6 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="travel_seat_number_text">Asiento</string>
     <string name="travel_train_number_text">Tren</string>
     <string name="travel_train_station">Estación de tren</string>
-    <string name="twelve_hour_time_format">hh:mm aa</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="two_selected_holiday">%1$s y %2$s son días de descanso</string>
     <string name="unable_record_future_menstruation">"No se pueden registrar periodos futuros"</string>
     <string name="unsubscribe_card">Cancelar suscripción</string>
@@ -686,7 +670,6 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="widget_get_weather_info">Obtener información del tiempo</string>
     <string name="widget_no_events">Sin eventos</string>
     <string name="widget_select_style">Elegir estilo</string>
-    <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_display_name">Calendario de Cuenta Mi</string>
     <string name="year">Año</string>
     <string name="yearly">Anualmente (cada %s)</string>
