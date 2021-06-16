@@ -308,7 +308,6 @@
     <string name="file_title">Nombre:</string>
     <string name="file_width_height">Tamaño:</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
