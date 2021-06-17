@@ -160,6 +160,7 @@
     <string name="document_rectify_tip_msg">Ajustando…</string>
     <string name="document_region">Ajustar</string>
     <string name="document_rename">Renombrar</string>
+    <string name="document_rename_error">Error de cambio de nombre</string>
     <string name="document_rnext_step">Siguiente</string>
     <string name="document_save_succeed_tip">Documentos guardados en %1$s</string>
     <string name="document_save_text">Guardar</string>
