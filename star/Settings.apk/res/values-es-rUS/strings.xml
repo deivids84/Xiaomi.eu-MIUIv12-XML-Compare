@@ -3173,7 +3173,8 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="freeform_guide_notification_drop_down_summary">Mantenga presionado y luego deslice hacia abajo la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir una ventana flotante</string>
     <string name="freeform_guide_settings">Ventanas flotantes</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Mantenga presionada la parte inferior de la ventana y arrástrela a la esquina superior derecha</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">"Mantén presionada la parte inferior de la ventana y arrástrala a la esquina superior derecha.
+Esta función solo funciona cuando la navegación del sistema está configurada en gestos."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizar una aplicación</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslice hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
@@ -3225,8 +3226,8 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="gesture_setting_on">Activado</string>
     <string name="gesture_settings_activity_title">Configuración de gestos</string>
     <string name="gesture_settings_title">Accesos directos por gesto</string>
-    <string name="gesture_wakeup_summary">Puede tocar dos veces para apagar la pantalla cuando los temas predeterminado o clásico estén aplicados</string>
-    <string name="gesture_wakeup_title">Tocar dos veces para activar o apagar pantalla</string>
+    <string name="gesture_wakeup_summary">Puede tocar dos veces para apagar la pantalla solo cuando se aplican temas preinstalados</string>
+    <string name="gesture_wakeup_title">Toca dos veces para activar o apagar la pantalla cuando el dispositivo está bloqueado</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="global_change_warning">Este ajuste afecta a todos los usuarios de este teléfono.</string>
@@ -4047,6 +4048,7 @@ del segundo espacio"</string>
     <string name="lockpassword_confirm_workspace_password">Comprobar contraseña del Espacio de Trabajo</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirme su contraseña</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Confirme su patrón</string>
+    <string name="lockpassword_confirm_your_lock_pin_header">Confirma tu PIN</string>
     <string name="lockpassword_confirm_your_password_details_frp">Se restableció la configuración de fábrica del teléfono. Para usarlo, ingresa contraseña anterior.</string>
     <string name="lockpassword_confirm_your_password_generic">Ingrese su contraseña para continuar.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Ingrese su contraseña de trabajo para continuar</string>
@@ -4405,6 +4407,8 @@ No podrá deshacer esta acción"</string>
     <string name="miheadset_double_click_right">Toque dos veces el audífono derecho</string>
     <string name="miheadset_double_press_left">Presione dos veces el auricular izquierdo</string>
     <string name="miheadset_double_press_right">Presione dos veces el auricular derecho</string>
+    <string name="miheadset_dual_connect_mode">Conectarse a dos dispositivos</string>
+    <string name="miheadset_dual_connect_mode_summary">Encienda para conectar sus auriculares a dos dispositivos Bluetooth simultáneamente</string>
     <string name="miheadset_enhanceVoice">Mejorar voz</string>
     <string name="miheadset_enhence_high">Agudos mejorados</string>
     <string name="miheadset_enhence_low">Graves mejorados</string>
@@ -5858,7 +5862,7 @@ Read and agree to %s before using this service."</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Suena o vibra mientras recibe la segunda llamada del mismo número de teléfono en %d minutos</string>
+    <string name="repeat_call_info">Suena o vibra mientras recibes la segunda llamada del mismo contacto o número de teléfono en %d minutos cuando DND está activado</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Nunca</string>
     <string name="repeat_title">Repetir</string>
