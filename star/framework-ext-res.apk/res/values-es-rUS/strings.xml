@@ -225,6 +225,7 @@
     <string name="resource_select">Seleccionar</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung_phone">Teléfono Samsung</string>
     <string name="scanning_device_tips">Buscando dispositivos cercanos… Asegúrese de que el otro dispositivo está en modo visible.</string>
     <string name="screen_button_notification_text">Para activarlos, presione los bones de Inicio y Encender simultáneamente.</string>
     <string name="screen_button_notification_title">Los botones de navegación están desactivados</string>
