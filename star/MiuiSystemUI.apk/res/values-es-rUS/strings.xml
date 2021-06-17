@@ -710,6 +710,7 @@ Si reanudas el servicio, es posible que se apliquen cargos."</string>
     <string name="development_settings_not_available">"Las opciones de desarrollador no están disponibles para este usuario"</string>
     <string name="development_settings_summary">Establecer opciones para desarrollador de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
+    <string name="device_locked_without_biometric">La detección biométrica no se puede realizar debido al uso de la función de bloqueo de pantalla de una tecla de tres partes</string>
     <string name="device_services">Servicios del dispositivo</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disable_carrier_button_text">Inhabilitar eSIM</string>
@@ -950,7 +951,7 @@ Una vez que se haya enfriado, volverá a funcionar correctamente."</string>
     <string name="input_lockscreen_password_hint_text">Ingresar contraseña</string>
     <string name="input_lockscreen_pattern_hint_text">Dibujar patrón</string>
     <string name="input_lockscreen_pin_hint_text">Ingresar PIN</string>
-    <string name="input_password_after_boot_msg">Para desbloquear su dispositivo, ingrese su contraseña</string>
+    <string name="input_password_after_boot_msg">Se requiere la confirmación de su bloqueo de pantalla cuando el dispositivo se reinicia</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No puede cambiar entre espacios durante una llamada"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"No puede cambiar entre espacios cuando el control parental está activado"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No puede cambiar entre espacios cuando el Ahorro de batería ultra esté activado"</string>
@@ -1251,9 +1252,11 @@ d 'de' MMMM"</string>
     <string name="miui_notification_menu_more_setting">Más</string>
     <string name="miui_notification_menu_msg_fold">¿Agrupar todas las notificaciones de %1$s juntas?</string>
     <string name="miui_notification_menu_msg_not_allow">¿Restringir todas las notificaciones de %1$s?</string>
+    <string name="miui_notification_menu_msg_unfold">¿Mostrar %1$s notificaciones por separado?</string>
     <string name="miui_notification_menu_setting_success">Hecho</string>
     <string name="miui_notification_menu_snooze">Dormitar</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
+    <string name="miui_notification_menu_unfold">Marcar como importante</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de pantalla bloqueada en modo horizontal</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>
@@ -1264,6 +1267,7 @@ d 'de' MMMM"</string>
     <string name="miui_snooze_until_unlock_screen">Hasta que se bloquee</string>
     <string name="miui_snooze_user_set_fail">Vaya a Configuración &gt; Notificaciones &amp; Centro de control para ver más opciones</string>
     <string name="miui_snooze_user_set_success">Aplicado con éxito. Vaya a Configuración &gt; Notificaciones &amp; Centro de control para ver más opciones.</string>
+    <string name="miui_unimportant_notifications">Notificaciones no importantes</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -1414,6 +1418,7 @@ También estás conectado a una VPN, que puede controlar tu actividad en la red.
     <string name="mr_dialog_transferable_header">Reproducir en un grupo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"No se puede configurar durante la llamada"</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
     <string name="mtrl_picker_confirm">Guardar</string>
@@ -1768,6 +1773,9 @@ También estás conectado a una VPN, que puede controlar tu actividad en la red.
     <string name="quick_settings_user_new_user">Usuario nuevo</string>
     <string name="quick_settings_user_title">Usuario</string>
     <string name="quick_settings_vibrate_label">Vibrar</string>
+    <string name="quick_settings_vowifi_label">Llamadas Wi-Fi</string>
+    <string name="quick_settings_vowifi_sim1_label">Llamadas Wi-Fi SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Llamadas Wi-Fi SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Aumentando velocidad</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancelar</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmar</string>
@@ -1910,6 +1918,8 @@ También estás conectado a una VPN, que puede controlar tu actividad en la red.
     <string name="show_silently">Mostrar notificaciones de manera silenciosa</string>
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar respuesta visual a toques</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Mantenga presionados los &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; y &lt;font color=#e6e6e6&gt;[Volumen +]&lt;/font&gt; hasta que vea &lt;img src=\"\"&gt;.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Seleccione &lt;font color=#e6e6e6&gt;[Borrar datos]&lt;/font&gt; y toque &lt;font color=#e6e6e6&gt;[Reboot]&lt;/font&gt; después de eso.</Data></string>
     <string name="sim_state_locked_dialog_title">Tarjeta SIM inválida</string>
     <string name="sim_state_locked_puk_dialog_message">"Ingresó un código PUK incorrecto al menos %d veces. Su tarjeta SIM no es válida ahora. Reemplace esta tarjeta SIM por otra."</string>
     <string name="simulate_color_space">Simular espacio de color</string>
