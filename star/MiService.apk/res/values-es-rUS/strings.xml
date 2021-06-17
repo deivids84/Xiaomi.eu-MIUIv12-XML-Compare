@@ -41,7 +41,6 @@
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -321,10 +320,12 @@
     <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
+    <string name="public_authorize_now">Ajustes</string>
     <string name="public_loading_text">Un momento…</string>
     <string name="public_net_error_retry">Vuelva a intentarlo</string>
     <string name="public_net_error_sub_title">Compruebe sus ajustes de red y vuelva a intentarlo</string>
     <string name="public_net_error_title">"No se pudo conectar a la red"</string>
+    <string name="public_please_authorize">Permisos necesarios para continuar</string>
     <string name="rationale_ask">Es posible que esta aplicación no funcione correctamente sin los permisos solicitados.</string>
     <string name="rationale_ask_again">Es posible que esta aplicación no funcione correctamente sin los permisos solicitados. Abra la pantalla de configuración de la aplicación para modificar los permisos de la aplicación.</string>
     <string name="saturday">Sábado</string>
