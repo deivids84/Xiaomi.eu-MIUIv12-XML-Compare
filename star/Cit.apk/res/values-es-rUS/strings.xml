@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, pruebe el sensor de luz (la máquina que admite el DAC trasero debe probar el sensor DAC trasero al mismo tiempo, para que el valor cumpla con el rango de 200 luxes.)</string>
+    <string name="cit_reverse_wireless_charge_check_tips">Coloque el dispositivo para que se cargue según sea necesario y comience a probar</string>
     <string name="search_menu_title">Buscar</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
