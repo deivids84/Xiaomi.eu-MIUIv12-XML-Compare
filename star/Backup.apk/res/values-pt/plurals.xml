@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d ficheiros de dados de aplicações</item>
-        <item quantity="one">%d ficheiro de dados de aplicações</item>
+        <item quantity="other">%d arquivos de dados do app</item>
+        <item quantity="one">%d arquivo de dados do app</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
-        <item quantity="other">%d ficheiros de dados do sistema</item>
-        <item quantity="one">%d ficheiro de dados do sistema</item>
+        <item quantity="other">%d arquivos de dados do sistema</item>
+        <item quantity="one">%d arquivo de dados do sistema</item>
     </plurals>
     <plurals name="custom_progress">
         <item quantity="other">%d itens</item>
@@ -21,12 +21,12 @@
         <item quantity="one">%1$d/%2$d item</item>
     </plurals>
     <plurals name="local_main_backup_manage_summary">
-        <item quantity="other">%1$s cópias (%2$s)</item>
-        <item quantity="one">%1$s cópia (%2$s)</item>
+        <item quantity="other">%1$s backups (%2$s)</item>
+        <item quantity="one">%1$s backup (%2$s)</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"Copiado com sucesso. Não foi possível copiar %d itens."</item>
-        <item quantity="one">"Copiado com sucesso. Não foi possível copiar %d item."</item>
+        <item quantity="other">"Backup concluído com sucesso. Não foi possível fazer o backup de %d itens."</item>
+        <item quantity="one">"Backup concluído com sucesso. Não foi possível fazer o backup de %d item."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
         <item quantity="other">"Restaurado com sucesso. Não foi possível restaurar %d itens."</item>
@@ -37,8 +37,8 @@
         <item quantity="one">"%d item importado. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">Importar %d itens outra vez.</item>
-        <item quantity="one">Importar %d item outra vez.</item>
+        <item quantity="other">Importe %d itens novamente.</item>
+        <item quantity="one">Importe %d item novamente.</item>
     </plurals>
     <plurals name="save_item_saved_summary">
         <item quantity="other">%d itens importados e restaurados</item>
