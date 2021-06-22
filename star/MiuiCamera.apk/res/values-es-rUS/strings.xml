@@ -1709,6 +1709,10 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="timbre_lady">Dama</string>
     <string name="timbre_normal">Original</string>
     <string name="timbre_robot">Robot</string>
+    <string name="time_freeze_action_end_tip">Toque el botón para desbloquear el fondo</string>
+    <string name="time_freeze_action_start_tip">Toque el botón para bloquear el fondo</string>
+    <string name="time_freeze_adjust_button_title">Ajustar</string>
+    <string name="time_freeze_clipbox_tint">Bloquear</string>
     <string name="time_lapse_error">"No se puede usar este tamaño de video para grabaciones time-lapse"</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>
