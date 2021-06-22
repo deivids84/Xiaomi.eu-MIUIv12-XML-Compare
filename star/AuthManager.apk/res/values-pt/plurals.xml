@@ -37,16 +37,16 @@
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s permitido de acessar itens na área de transferência automaticamente %2$d vezes</item>
-        <item quantity="one">%1$s permitido de acessar itens na área de transferência automaticamente %2$d vez</item>
+        <item quantity="other">%1$s permitido de aceder a itens na área de transferência automaticamente %2$d vezes</item>
+        <item quantity="one">%1$s permitido de aceder a itens na área de transferência automaticamente %2$d vez</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
-        <item quantity="other">%2$d tentativas de acesso à área de transferência por %1$s bloqueadas</item>
-        <item quantity="one">%2$d tentativa de acesso à área de transferência por %1$s bloqueada</item>
+        <item quantity="other">%2$d tentativas de aceder à área de transferência por %1$s bloqueadas</item>
+        <item quantity="one">%2$d tentativa de aceder à área de transferência por %1$s bloqueada</item>
     </plurals>
     <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s acessou itens na área de transferência %2$d vezes</item>
-        <item quantity="one">%1$s acessou itens na área de transferência %2$d vez</item>
+        <item quantity="other">%1$s acedeu a itens na área de transferência %2$d vezes</item>
+        <item quantity="one">%1$s acedeu a itens na área de transferência %2$d vez</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Meia hora atrás</item>
@@ -81,11 +81,11 @@
         <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">"Você permitiu que %2$s acesse a área de transferência %1$d vezes. Você deseja permitir sempre que %3$s acesse a área de transferência?"</item>
-        <item quantity="one">"Você permitiu que %2$s acesse a área de transferência %1$d vez. Você deseja permitir sempre que %3$s acesse a área de transferência?"</item>
+        <item quantity="other">"Permitiu que %2$s aceda a área de transferência %1$d vezes. Deseja permitir sempre que %3$s aceda à área de transferência?"</item>
+        <item quantity="one">"Permitiu que %2$s aceda a área de transferência %1$d vez. Deseja permitir sempre que %3$s aceda à área de transferência?"</item>
     </plurals>
     <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">"Você restringiu o acesso à área de transferência para %2$s por %1$d vezes. Restringir acesso à área de transferência para %3$s permanentemente?"</item>
-        <item quantity="one">"Você restringiu o acesso à área de transferência para %2$s por %1$d vez. Restringir acesso à área de transferência para %3$s permanentemente?"</item>
+        <item quantity="other">"Restringiu de aceder à área de transferência para %2$s por %1$d vezes. Restringir de aceder à área de transferência para %3$s permanentemente?"</item>
+        <item quantity="one">"Restringiu de aceder à área de transferência para %2$s por %1$d vez. Restringir de aceder à área de transferência para %3$s permanentemente?"</item>
     </plurals>
 </resources>
