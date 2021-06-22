@@ -2272,6 +2272,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="default_calendar_app_title">App de calendario</string>
     <string name="default_contacts_app_title">App de contactos</string>
     <string name="default_digital_assistant_title">App de asistente digital pred.</string>
+    <string name="default_document_title">Documentos</string>
     <string name="default_emergency_app">Aplicación de emergencia</string>
     <string name="default_for_calls">Predeterminada para llamadas</string>
     <string name="default_for_calls_and_sms">Predeterminada para llamadas y SMS</string>
@@ -2576,6 +2577,11 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dock_sounds_enable_summary_on">Reproducir sonido al insertar o retirar el dispositivo de la base.</string>
     <string name="dock_sounds_enable_title">Sonido al insertar el conector</string>
     <string name="docking_sounds_title">Sonidos al conectar</string>
+    <string name="document_default_status">Seleccionar</string>
+    <string name="document_excel_title">Excel</string>
+    <string name="document_pdf_title">PDF</string>
+    <string name="document_powerpoint_title">PowerPoint</string>
+    <string name="document_word_title">Word</string>
     <string name="does_not_exist">La aplicación no existe.</string>
     <string name="domain_url_section_title">Apps instaladas</string>
     <string name="domain_urls_apps_summary_off">Ninguna app puede abrir los vínculos compatibles</string>
@@ -2889,6 +2895,7 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="face_intro_error_max">Agregaste la cantidad máxima permitida de rostros</string>
     <string name="face_intro_error_unknown">No se pueden agregar más rostros</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Si proteges tu teléfono con una opción de bloqueo de pantalla, y lo pierdes o te lo roban, nadie podrá usarlo. También debes establecer una opción para configurar el desbloqueo facial. Si necesitas ir hacia atrás, presiona Cancelar.</string>
+    <string name="face_password_unlock">Datos faciales &amp; bloqueo de pantalla</string>
     <string name="face_unlock">Desbloqueo facial</string>
     <string name="face_unlock_be_on_the_screen">Sostenga el dispositivo frente a su cara</string>
     <string name="face_unlock_by_notification_screen_on_msg">Puede desbloquear el dispositivo usando datos faciales cuando la pantalla se encienda con notificaciones. Esto puede agotar más rápido la batería.</string>
@@ -2980,6 +2987,7 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
     <string name="fingerprint_enroll_button_add">Agregar otra huella digital</string>
     <string name="fingerprint_enroll_button_next">Siguiente</string>
+    <string name="fingerprint_face_password_unlock">Huellas digitales, datos faciales y bloqueo de pantalla</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Rostro (establezca una contraseña de bloqueo de pantalla primero)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Huella digital (establezca una contraseña de bloqueo de pantalla primero)</string>
     <string name="fingerprint_for_keyguard_disabled">Huella digital deshabilitada por ajustes de seguridad.</string>
@@ -3004,6 +3012,7 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="fingerprint_not_identified_msg">"No se pudo leer la huella digital. Ingrese su contraseña"</string>
     <string name="fingerprint_not_recognized">No reconocida</string>
     <string name="fingerprint_others_title">Otros</string>
+    <string name="fingerprint_password_unlock">Huellas digitales &amp; bloqueo de pantalla</string>
     <string name="fingerprint_payment">Pagos con huella digital</string>
     <string name="fingerprint_removal_failed">"No se pudo eliminar la huella digital. Vuelva a intentarlo"</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Consulta tus notificaciones rápidamente</string>
@@ -3804,6 +3813,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="launch_noapp_dialog_replace">Ajustes</string>
     <string name="launch_notification_center">Barra de notificaciones</string>
     <string name="launch_recents">Abrir aplicaciones recientes</string>
+    <string name="launch_smarthome">Conexión rápida Xiaomi</string>
     <string name="launch_voice_assistant">Iniciar asistente de voz</string>
     <string name="launch_wechat_health_code">Código de salud de WeChat</string>
     <string name="launch_wechat_health_code_auto_close">El acceso directo al código de salud de WeChat ya no está disponible. Puede cambiar a un atajo diferente.</string>
@@ -5361,6 +5371,7 @@ Read and agree to %s before using this service."</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="password_turned_off_text">Contraseña desactivada</string>
     <string name="password_turned_on_text">Contraseña activada</string>
+    <string name="password_unlock">Bloqueo de pantalla</string>
     <string name="password_unlock_title">Bloqueo de pantalla</string>
     <string name="payment_summary">App predeterminada: %1$s</string>
     <string name="peak_refresh_rate_summary">Aumenta automáticamente la frecuencia de actualización de 60 Hz a 90 Hz para cierto contenido. Incrementa el uso de batería.</string>
