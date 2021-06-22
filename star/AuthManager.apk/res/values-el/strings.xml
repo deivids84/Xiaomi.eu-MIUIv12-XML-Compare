@@ -154,6 +154,10 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">Η τοποθεσία κατά προσέγγιση είναι ενεργοποιημένη</string>
     <string name="blur_location_title">Τοποθεσία κατά προσέγγιση</string>
+    <string name="cetus_invisible_mode_notice_audio">"Είστε incognito. Δεν μπορείτε να χρησιμοποιήσετε το μικρόφωνο τώρα."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Είσαι ανώνυμος. Δεν μπορείς να χρησιμοποιήσεις την κάμερα τώρα."</string>
+    <string name="cetus_invisible_mode_notice_location">"Είστε ανώνυμοι. Δεν μπορείτε να χρησιμοποιήσετε τις υπηρεσίες τοποθεσίας τώρα."</string>
+    <string name="cetus_invisible_mode_notice_tip">Πατήστε για να απενεργοποιήσετε την λειτουργία ανώνυμης περιήγησης στις ρυθμίσεις</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="clipboard_ai_allow_once">Δόθηκε η άδεια στο %1$s να έχει αυτόματη πρόσβαση σε αντικείμενα στο πρόχειρο</string>
     <string name="clipboard_data">"Περιεχόμενο: "</string>
@@ -165,6 +169,7 @@
     <string name="clipboard_read_ai_deny_once">Περιορισμένη πρόσβαση στο πρόχειρο για %1$s</string>
     <string name="clipboard_read_allow_once">%1$s είχε πρόσβαση σε αντικείμενα στο παρασκήνιο</string>
     <string name="clipboard_read_deny_dialog_title">Περιορισμένη πρόσβαση στο πρόχειρο για %1$s</string>
+    <string name="close">Κλείσιμο</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="default_permission_description">εκτέλεση άγνωστων ενεργειών</string>
@@ -179,9 +184,9 @@
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -331,6 +336,7 @@
     <string name="permission_group_title_privacy_related">Απόρρητο</string>
     <string name="permission_group_title_sensitive_privacy_related">Ευαίσθητες άδειες</string>
     <string name="permission_group_title_settings_related">Ρυθμίσεις</string>
+    <string name="permission_list_include">Συμπεριλαμβάνονται τα ακόλουθα</string>
     <string name="permission_reminders">Υπενθυμίσεις για άδειες</string>
     <string name="permission_warning_template">Να επιτραπεί στο %1$s η %2$s;</string>
     <string name="permission_warning_template_ask">Να επιτρέπονται στο %1$s οι παρακάτω άδειες;</string>
@@ -345,6 +351,7 @@
     <string name="screen_overlay_message">Για αλλαγή αυτής της άδειας, πρέπει να απενεργοποιήσετε την επικάλυψη οθόνης στις Ρυθμίσεις &gt; Eφαρμογές.</string>
     <string name="screen_overlay_title">Εντοπίστηκε επικάλυψη οθόνης</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">Turn off</string>
     <string name="storage_policy_notify_both_title">"%1$s δεν έχει άδεια για πρόσβαση στη Συλλογή και στα μηνύματα εφαρμογών κοινωνικών μέσων"</string>
