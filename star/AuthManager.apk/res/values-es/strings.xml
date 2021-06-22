@@ -154,10 +154,6 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">Ubicación aproximada activada</string>
     <string name="blur_location_title">Ubicación aproximada</string>
-    <string name="cetus_invisible_mode_notice_audio">"Estás incógnito. No puedes usar el micrófono ahora."</string>
-    <string name="cetus_invisible_mode_notice_camera">"Estás incógnito. No puedes usar la cámara ahora."</string>
-    <string name="cetus_invisible_mode_notice_location">"Estás incógnito. No puedes usar los servicios de ubicación ahora."</string>
-    <string name="cetus_invisible_mode_notice_tip">Toque para desactivar el modo de incógnito en la configuración</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="clipboard_ai_allow_once">Has permitido a %1$s acceder a elementos en el portapapeles automáticamente</string>
     <string name="clipboard_data">"Contenido: "</string>
@@ -169,7 +165,6 @@
     <string name="clipboard_read_ai_deny_once">Acceso restringido al portapapeles para %1$s</string>
     <string name="clipboard_read_allow_once">%1$s accedió a elementos en el portapapeles</string>
     <string name="clipboard_read_deny_dialog_title">Acceso restringido al portapapeles para %1$s</string>
-    <string name="close">Cerrar</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="default_permission_description">realizar acciones desconocidas</string>
@@ -336,7 +331,6 @@
     <string name="permission_group_title_privacy_related">Privacidad</string>
     <string name="permission_group_title_sensitive_privacy_related">Permisos delicados</string>
     <string name="permission_group_title_settings_related">Ajustes</string>
-    <string name="permission_list_include">Incluyendo lo siguiente</string>
     <string name="permission_reminders">Recordatorios de permiso</string>
     <string name="permission_warning_template">¿Permitir %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">¿Permitir a %1$s los siguientes permisos?</string>
@@ -351,7 +345,6 @@
     <string name="screen_overlay_message">Para cambiar este permiso, debe desactivar la superposición de pantalla en Configuración&gt; de aplicaciones.</string>
     <string name="screen_overlay_title">Superposición de pantalla detectada</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="send">Enviar</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">Turn off</string>
     <string name="storage_policy_notify_both_title">"%1$s no tiene permiso para acceder a la Galería ni a mensajes en aplicaciones de redes sociales"</string>
