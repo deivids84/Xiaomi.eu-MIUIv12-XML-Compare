@@ -999,6 +999,7 @@ Selección"</string>
     <string name="fdn_with_label">Números de marcación fija (%s)</string>
     <string name="fire_type_description">Bomberos</string>
     <string name="fiveg_bearer_status1">Estado de portador de 5G:</string>
+    <string name="fiveg_carrier_aggregation_title">Agregación de portadores 5G</string>
     <string name="fiveg_endc_available1">NR ENDC disponible:</string>
     <string name="fiveg_endc_status1">Estado de Endc:</string>
     <string name="fiveg_hosted_mode_summary">Seleccione la mejor red automáticamente para ahorrar batería</string>
@@ -1198,6 +1199,7 @@ Si el problema continua, ponte en contacto con tu proveedor."</string>
     <string name="labelNwService">Configuración de servicios de red</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_ndp">PIN de desbloqueo de red de tarjeta SIM</string>
+    <string name="label_ndp_nck">Desbloqueo de red SIM NCK</string>
     <string name="label_phoneid">Perso bloqueado para</string>
     <string name="label_puk2_code">Escriba el código PUK2</string>
     <string name="lable_all_incoming">Todas las llamadas entrantes</string>
@@ -1540,6 +1542,8 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="no_mobile_data">Los datos móviles no están disponibles</string>
     <string name="no_mobile_data_roaming">El roaming de datos no está disponible</string>
     <string name="no_rtt_when_roaming">Nota: La función RTT no está disponible en roaming</string>
+    <string name="no_unlock_chance_hint">"No tiene tiempos de reintento.
+Póngase en contacto con sus operadores"</string>
     <string name="no_vm_number">Falta el número del buzón de voz</string>
     <string name="no_vm_number_msg">No hay un número de buzón de voz almacenado en la tarjeta SIM.</string>
     <string name="no_voip">"Llamada SIP no compatible"</string>
@@ -2086,12 +2090,14 @@ Interfaz de UT: %5$s"</string>
     <string name="sim_description_emergency_calls">Solo llamada de emergencia</string>
     <string name="sim_is_not_ready">La tarjeta SIM no está lista</string>
     <string name="sim_label_emergency_calls">Llamadas de emergencia</string>
+    <string name="sim_me_lock_disabled">Simlock está desactivado.</string>
     <string name="sim_ndp_dismiss_text">Descartar</string>
     <string name="sim_ndp_unlock_text">Desbloquear</string>
     <string name="sim_roaming_settings_summary">Conectarse a una red de datos móviles mientras se está en roaming</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_selection_required_pref">Selección requerida</string>
     <string name="sim_service_setting">Mi SIM y Mi Roaming</string>
+    <string name="simmelock_name">Bloqueo SIM ME</string>
     <string name="simulate_color_space">Simular espacio de color</string>
     <string name="singleContactImportedMsg">Se importó el contacto</string>
     <string name="single_emergency_number_title">Número de emergencia</string>
@@ -2177,6 +2183,7 @@ Interfaz de UT: %5$s"</string>
     <string name="stock_quotes_disable">Stock Quotes desactivado</string>
     <string name="stock_quotes_enable">Stock Quotes activado</string>
     <string name="storage_category">Almacenamiento</string>
+    <string name="strPasswordLengthIncorrect">4-16 números!</string>
     <string name="strict_mode">Modo estricto</string>
     <string name="strict_mode_summary">Destello por op. de apps en el subproceso principal</string>
     <string name="sum_call_barring_disabled">No</string>
@@ -2366,6 +2373,7 @@ El siguiente período comienza en %2$d días (%3$s)."</string>
     <string name="unfold_speaker_pref_summary">Despliegue el dispositivo durante una llamada para encender el altavoz</string>
     <string name="unfold_speaker_pref_title">Despliegue para usar el altavoz</string>
     <string name="unknown">Desconocido</string>
+    <string name="unlock_chances_left">Reintentos restantes:</string>
     <string name="unlock_failed">Solicitud de desbloqueo de red incorrecta.</string>
     <string name="unlock_success">Desbloqueo de red correcto.</string>
     <string name="updating_fdn_contact">Actualizando número de marcación fija...</string>
