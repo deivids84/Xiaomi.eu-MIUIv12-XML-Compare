@@ -1517,6 +1517,8 @@ También estás conectado a una VPN, que puede controlar tu actividad en la red.
     <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
     <string name="overview">Recientes</string>
     <string name="owner_info_settings_edit_text_hint">"Por ejemplo: Android de Juan."</string>
+    <string name="pad_zen_mode_warnings_all_time_content">Las notificaciones se silenciarán</string>
+    <string name="pad_zen_mode_warnings_keyguard_content">Las notificaciones se silenciarán cuando el dispositivo esté bloqueado</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="phone_hint">Desliza el dedo para desbloquear el teléfono.</string>
     <string name="phone_label">abrir teléfono</string>
