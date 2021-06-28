@@ -267,6 +267,10 @@
     <string name="slavewifi_disconnect">Desconectar</string>
     <string name="slavewifi_notification_title">Usando Wi-Fi de doble banda</string>
     <string name="slavewifi_settings">Toque para cambiar los ajustes</string>
+    <string name="small_freeform_enter_warning">Ventana flotante</string>
+    <string name="small_freeform_exit_tip">Cerrar ventana flotante</string>
+    <string name="small_freeform_memory_toast_app_type">"No se puede abrir ahora. Esta aplicación requiere demasiada memoria para funcionar."</string>
+    <string name="small_freeform_memory_toast_game_type">"No se puede abrir ahora. Este juego requiere demasiada memoria para funcionar."</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d conectado</string>
