@@ -45,8 +45,8 @@
         <item quantity="one">Añadida %d foto en la nube, desactive \"Mostrar solo álbumes locales\" para ver.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elementos no se pueden agregar al álbum. %1$s."</item>
-        <item quantity="one">"%2$d elemento no se puede agregar al álbum. %1$s."</item>
+        <item quantity="other">" No se pueden agregar %2$d %1$s."</item>
+        <item quantity="one">" No se puede agregar %2$d %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d elementos no se pueden agregar al álbum privado. %1$s."</item>
