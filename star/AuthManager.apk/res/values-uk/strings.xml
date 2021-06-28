@@ -157,6 +157,10 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">Приблизне місцезнаходження увімк.</string>
     <string name="blur_location_title">Приблизне місцезнаходження</string>
+    <string name="cetus_invisible_mode_notice_audio">"Ви інкогніто. Не вдається використати мікрофон зараз."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Ти інкогніто. Не можеш зараз використати камеру."</string>
+    <string name="cetus_invisible_mode_notice_location">"Ви інкогніто. Не вдається використати служби визначення місцезнаходження."</string>
+    <string name="cetus_invisible_mode_notice_tip">Торкніться, щоб вимкнути режим анонімного перегляду в налаштуваннях</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="clipboard_ai_allow_once">Програмі %1$s було надано автоматичний доступ до об\'єктів у буфері обміну</string>
     <string name="clipboard_data">"Зміст: "</string>
@@ -168,6 +172,7 @@
     <string name="clipboard_read_ai_deny_once">Програмі %1$s був заборонений доступ до буферу обміну</string>
     <string name="clipboard_read_allow_once">Програма %1$s отримала доступ до об\'єктів у буфері обміну</string>
     <string name="clipboard_read_deny_dialog_title">Програмі %1$s був заборонений доступ до буфера обміну</string>
+    <string name="close">Закрити</string>
     <string name="date_picker_lunar">Традиційний китайський календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату та час</string>
     <string name="default_permission_description">виконування невідомих дій</string>
@@ -334,6 +339,7 @@
     <string name="permission_group_title_privacy_related">Конфіденційність</string>
     <string name="permission_group_title_sensitive_privacy_related">Конфіденційні дозволи</string>
     <string name="permission_group_title_settings_related">Налаштування</string>
+    <string name="permission_list_include">Включаючи в себе наступні</string>
     <string name="permission_reminders">Нагадування про дозволи</string>
     <string name="permission_warning_template">Дозволити програмі %1$s %2$s?</string>
     <string name="permission_warning_template_ask">Дозволити програмі %1$s такі дозволи?</string>
@@ -348,6 +354,7 @@
     <string name="screen_overlay_message">Щоби змінити цей дозвіл, необхідно вимкнути накладення екранів, перейшовши у Налаштування &gt; Програми.</string>
     <string name="screen_overlay_title">Виявлено накладення екранів</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Відправити</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">Turn off</string>
     <string name="storage_policy_notify_both_title">"У програми %1$s немає дозволу на доступ до Галереї та повідомлень у програмах соціальних мереж"</string>
