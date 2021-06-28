@@ -3292,6 +3292,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="gxzw_anim_rhythm">Ritmo</string>
     <string name="gxzw_anim_star">Estrellas</string>
     <string name="gxzw_anim_title">Animación de huella digital</string>
+    <string name="gxzw_anim_unlock_effect">%s animación de huellas dactilares</string>
     <string name="gxzw_aod_show_summary">Levante su dispositivo o toque la pantalla para que el ícono de huella digital aparezca. Esta función aumenta el consumo de energía del sistema.</string>
     <string name="gxzw_aod_show_tittle">Mostrar ícono de huella digital cuando la pantalla está apagada</string>
     <string name="gxzw_dialog_message">"Para poder usar el sensor de huellas digitales en pantalla normalmente, no utilice protectores de pantalla. Si todavía considera que necesita el protector, elija uno de entre las opciones compatibles autorizadas."</string>
@@ -3614,6 +3615,12 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="invalid_size_value">No se pudo calcular el tamaño del paquete.</string>
     <string name="item_system_app">Aplicaciones del sistema</string>
     <string name="join_two_items">%1$s y %2$s</string>
+    <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_disabled_summary">No disponible porque NFC/Osaifu-keitai está desactivado</string>
+    <string name="kddi_nfc_quick_toggle_summary">Habilitar la función NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_secure_settings_title">Bloquear mientras está en la pantalla de bloqueo</string>
+    <string name="kddi_nfc_secure_toggle_summary">Permitir la función NFC/Osaifu-keitai mientras la pantalla está desbloqueada</string>
     <string name="keep_legacy_fingerprint">Mantener</string>
     <string name="keep_screen_on">"No bloquee la pantalla"</string>
     <string name="keep_screen_on_summary">"La pantalla no se dormirá mientras se carga"</string>
@@ -4183,7 +4190,8 @@ del segundo espacio"</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
-    <string name="magic_window_name">Ventanas paralelas</string>
+    <string name="magic_list_empty_text">No hay aplicaciones compatibles con esta función ahora</string>
+    <string name="magic_window_name">Optimice las aplicaciones para la vista horizontal</string>
     <string name="main_netcheck_summary">Probar la conexión para detectar problemas de red</string>
     <string name="main_running_process_description">Proceso principal en uso.</string>
     <string name="main_toolbar_statistic">Estadísticas del uso de datos</string>
@@ -5287,6 +5295,35 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="owner_info_settings_title">Firma en la pantalla de bloqueo</string>
     <string name="owner_space">Espacio principal</string>
     <string name="packages_subtitle">Paquetes incluidos</string>
+    <string name="pad_backup_summary">Hacer una copia de seguridad y restaurar elementos en este dispositivo</string>
+    <string name="pad_backup_title">Dispositivo móvil</string>
+    <string name="pad_computer_backup_summary">Hacer una copia de seguridad y restaurar elementos usando una computadora</string>
+    <string name="pad_how_backup_content">"Puede guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en su dispositivo móvil, computadora o unidad USB.
+
+Dispositivo móvil
+Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará dichas copias de seguridad de forma permanente. Recuerde copiar las copias de seguridad en su computadora.
+
+Computadora
+Cree una copia de seguridad en este dispositivo, luego vaya a MIUI-backup-AllBackup y copie la copia de seguridad en su computadora mediante un cable USB.
+
+Unidad USB
+Guarde la configuración del sistema, las cuentas, los datos de las aplicaciones y otros elementos en una unidad USB.
+
+Xiaomi Cloud
+Sincroniza tus contactos, fotos, videos, la lista de tus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
+    <string name="pad_how_restore_backup_content">"A continuación, le mostramos cómo puede restaurar los elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
+
+Dispositivo móvil
+Toque \"Dispositivo móvil\", busque la opción para restaurar elementos y seleccione la copia de seguridad para continuar.
+
+Computadora
+Copie la copia de seguridad de su computadora a MIUI-backup-AllBackup mediante un cable USB y restaure los elementos de su dispositivo móvil.
+
+Unidad USB
+Copie la copia de seguridad de su unidad USB a MIUI-backup-AllBackup y seleccione la opción para restaurar elementos desde una unidad USB para continuar.
+
+Xiaomi Cloud
+Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="page_layout_1">Domingo 16 de agosto</string>
     <string name="page_layout_10">Ajustes</string>
     <string name="page_layout_11">Tiempo</string>
@@ -5918,6 +5955,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="reset_network_final_desc">"¿Restablecer todos los ajustes de red? Esto podría tomar algunos minutos. No podrá deshacer esta acción."</string>
     <string name="reset_network_final_desc_esim">¿Quieres restablecer toda la configuración de red y borrar las tarjetas SIM descargadas? No podrás deshacer esta acción.</string>
     <string name="reset_network_title">Restablecer Wi-Fi, redes móviles y Bluetooth</string>
+    <string name="reset_network_title_noSim">Restablecer Wi-Fi y Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Todos los elementos enumerados anteriormente se borrarán permanentemente. Haga una copia de seguridad de todos los elementos importantes en su computadora o Xiaomi Cloud antes de continuar.</string>
     <string name="reset_second_space_passwd">Restablecer contraseña del segundo espacio</string>
