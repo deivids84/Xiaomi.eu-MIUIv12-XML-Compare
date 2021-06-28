@@ -154,6 +154,10 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">La ubicació aproximada està activada</string>
     <string name="blur_location_title">Ubicació aproximada</string>
+    <string name="cetus_invisible_mode_notice_audio">"Esteu d’incògnit. Ara no es pot utilitzar el micròfon."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Esteu d'incògnit. Ara no es pot utilitzar la càmera."</string>
+    <string name="cetus_invisible_mode_notice_location">"Esteu d'incògnit. Ara no es poden utilitzar els serveis d'ubicació."</string>
+    <string name="cetus_invisible_mode_notice_tip">Toqueu per desactivar el mode d\'incògnit a Configuració</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="clipboard_ai_allow_once">Heu permés %1$s accedir automàticament als elements del porta-retalls</string>
     <string name="clipboard_data">"Contingut: "</string>
@@ -165,6 +169,7 @@
     <string name="clipboard_read_ai_deny_once">Accés restringit al porta-retalls per %1$s</string>
     <string name="clipboard_read_allow_once">%1$s elements accessibles al porta-retalls</string>
     <string name="clipboard_read_deny_dialog_title">Accés restringit al porta-retalls per %1$s</string>
+    <string name="close">Tanca</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Configura la data i l\'hora</string>
     <string name="default_permission_description">realitzar accions desconegudes</string>
@@ -331,6 +336,7 @@
     <string name="permission_group_title_privacy_related">Privadesa</string>
     <string name="permission_group_title_sensitive_privacy_related">Permisos sensibles</string>
     <string name="permission_group_title_settings_related">Configuració</string>
+    <string name="permission_list_include">Incloent els següents</string>
     <string name="permission_reminders">Recordatoris de permís</string>
     <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">Voleu permetre a %1$s els següents permisos?</string>
@@ -345,6 +351,7 @@
     <string name="screen_overlay_message">Per canviar aquest permís, heu de desactivar la superposició de la pantalla a Configuració &gt; Aplicacions.</string>
     <string name="screen_overlay_title">S\'ha detectat la superposició de pantalla</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">Turn off</string>
     <string name="storage_policy_notify_both_title">"%1$s no està permès accedir a la Galeria i als missatges de les aplicacions de xarxes socials"</string>
