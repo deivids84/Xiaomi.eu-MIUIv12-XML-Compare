@@ -93,9 +93,11 @@ Toque para ver"</string>
     <string name="is_go_home_summary">"Abrir la página principal de la grabadora de pantalla después de detener la grabación"</string>
     <string name="loopback_sound">Altavoz</string>
     <string name="low_battery">Cargue su teléfono antes de empezar a grabar</string>
+    <string name="low_battery_for_pad">Cargue su dispositivo antes de comenzar a grabar</string>
     <string name="low_battery_title">Batería baja</string>
     <string name="low_battery_warning">Batería muy baja. Se detuvo la grabación y se guardó el video.</string>
     <string name="low_memory">Queda menos de 1 GB de espacio disponible. Puede grabar hasta 20 minutos.</string>
+    <string name="low_memory_for_pad">Tienes menos de %1$d GB de almacenamiento disponible. Puede grabar hasta %2$d minuto ahora.</string>
     <string name="low_memory_title">No hay suficiente espacio de almacenamiento</string>
     <string name="low_momery_warning">No hay suficiente espacio. Se detuvo la grabación y se guardó el video.</string>
     <string name="memory_not_allowed">No hay almacenamiento disponible. Libere un poco de espacio para grabar.</string>
@@ -295,6 +297,7 @@ Toque para ver"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="view_recorded_file">Toque para ver el archivo grabado</string>
+    <string name="view_recorded_videos">Ver grabaciones</string>
     <string name="warning_recording_when_a2dp_connect">"Su dispositivo no soporta la grabación de sonidos del sistema mientras se usan los audífonos Bluetooth."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>
