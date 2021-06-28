@@ -364,6 +364,7 @@
     <string name="launcher_icon_management">Administrar accesos directos de la Pantalla de inicio</string>
     <string name="launcher_not_exist">Se produjo un error. Regrese a la pantalla de inicio y vuelva a intentarlo.</string>
     <string name="launcher_pull_down_title">Deslizar hacia abajo en la pantalla de inicio</string>
+    <string name="launcher_search">Búsqueda en pantalla de inicio</string>
     <string name="launcher_search_bar_provider_title">Proveedor de Barra de búsqueda</string>
     <string name="launcher_search_bar_title">Barra de búsqueda de la Pantalla de inicio</string>
     <string name="launcher_search_bar_value_disable">Desactivado</string>
