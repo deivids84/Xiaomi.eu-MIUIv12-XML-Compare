@@ -1014,6 +1014,7 @@ Selección"</string>
     <string name="fiveg_sa_switch_open_dialog_content">La conexión 5G puede ser inestable en modo standalone, lo que puede afectar los servicios de telefonía. ¿Activar el modo SA de todos modos?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atención</string>
     <string name="fiveg_sa_switch_summary">Permitir la conexión a redes 5G en modo standalone</string>
+    <string name="fiveg_sa_switch_title">Utilice la red SA</string>
     <string name="fiveg_sa_switch_warning_toast">Reinicie su dispositivo para aplicar los cambios</string>
     <string name="fiveg_sa_vice_switch_title">SA en SIM secundaria</string>
     <string name="fiveg_signal_strength1">Intensidad de la señal 5G:</string>
@@ -1358,12 +1359,15 @@ Las llamadas de emergencia solo son posibles en áreas con cobertura celular \"<
     <string name="mobile_data_status_roaming_turned_on_subtext">El roaming de datos está activado</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Actualmente en roaming; el plan de datos está activado</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Actualmente en roaming; necesitas un plan de datos</string>
-    <string name="mobile_intelligent_connection_title">Conectividad de redes móviles inteligentes</string>
+    <string name="mobile_geo_location_config_summary">Marque ubicaciones anormales de señales de red para mejorar la experiencia de comunicación del usuario</string>
+    <string name="mobile_geo_location_config_title">Optimización de la calidad de la red de punto fijo</string>
+    <string name="mobile_intelligent_connection_title">Optimización inteligente de la red móvil</string>
+    <string name="mobile_network_dual_card_optimizationmobile_title">Optimización de tarjeta dual de red móvil</string>
     <string name="mobile_network_settings_not_available">La configuración de la red móvil no está disponible para este usuario.</string>
     <string name="mobile_networks">Ajustes de redes móviles</string>
     <string name="mobile_property">Propiedades de redes móviles</string>
-    <string name="mobile_special_network_optimization_config_summary">Cuando la red es anormal, intente reparar automáticamente</string>
-    <string name="mobile_special_network_optimization_config_title">Optimización de red especial</string>
+    <string name="mobile_special_network_optimization_config_summary">Perciba de forma inteligente múltiples escenarios en la red para mejorar la experiencia de comunicación</string>
+    <string name="mobile_special_network_optimization_config_title">Modo adaptativo de escena</string>
     <string name="mock_location_app">Seleccionar aplicación de ubicación de prueba</string>
     <string name="mock_location_app_not_set">No se configuró aplicación de ubicación de prueba.</string>
     <string name="mock_location_app_set">Aplicación de ubicación de prueba: %1$s</string>
