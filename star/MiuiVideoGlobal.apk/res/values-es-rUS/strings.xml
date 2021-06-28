@@ -426,6 +426,7 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_copyright_unsported_video">"No se puede reproducir este video debido a restricciones de derechos de autor."</string>
     <string name="galleryplus_cta_tips">Puede ayudarnos a mejorar nuestros servicios uniéndose al Programa de Experiencia de Usuario y permitiendo a Mi Video conectarse a internet. ¿Aceptar?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Toque dos veces otra vez para abrir la previsualización en HD</string>
+    <string name="galleryplus_file_edit_save">Archivo guardado en %s</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Ratio de cuadros por segundo no soportado. Se cambió a la velocidad normal.</string>
     <string name="galleryplus_gallery_fold_tags">Ocultar etiquetas</string>
     <string name="galleryplus_gallery_video_adjust_hint">Solo los videos de 960FPS son soportados</string>
@@ -1491,13 +1492,18 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="video_download_fail_hint">"No se pudo descargar"</string>
     <string name="video_download_floating_guide">Descarga videos gratis</string>
     <string name="video_download_forbidden">"No se puede descargar de este sitio web"</string>
+    <string name="video_download_login_guide">Inicie sesión en %s para poder descargar videos</string>
     <string name="video_download_network_error">Error de conexión</string>
     <string name="video_download_play_video_guide">Primero, reproduzca el video.</string>
-    <string name="video_download_play_video_guide2">Luego toque el botón para descargar.</string>
+    <string name="video_download_play_video_guide2">Toque el botón después de que se ilumine para comenzar a descargar.</string>
+    <string name="video_download_play_video_step1">Paso %1$d</string>
+    <string name="video_download_play_video_step2">Paso %2$d</string>
     <string name="video_download_site_search">URL</string>
     <string name="video_download_source">Descarga web</string>
     <string name="video_download_start">Descargando…</string>
     <string name="video_download_storage_error">No hay suficiente espacio de almacenamiento</string>
+    <string name="video_download_title">Descargar videos</string>
+    <string name="video_download_youtube_copyright_forbidden">"No se pueden descargar videos de YouTube debido a restricciones de derechos de autor"</string>
     <string name="video_downloading">Descargando…</string>
     <string name="video_live_over">Esta sesión ha terminado</string>
     <string name="video_noyet_download_tip">Este vídeo todavía está siendo descargado</string>
