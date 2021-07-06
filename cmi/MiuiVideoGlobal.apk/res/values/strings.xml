@@ -116,6 +116,7 @@
     <string name="auto_play_next_off">Autoplay is off</string>
     <string name="auto_play_next_on">Autoplay is on</string>
     <string name="back_to_mainpage">Discover</string>
+    <string name="background_playback_enabled">Background playback is on</string>
     <string name="before_yestoday">2 days ago</string>
     <string name="bind_sign_in_title">Add Mi Account</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
@@ -1697,13 +1698,18 @@ Increase the security of your account."</string>
     <string name="video_download_fail_hint">"Couldn't download"</string>
     <string name="video_download_floating_guide">Download videos for free</string>
     <string name="video_download_forbidden">"Can't download from this website"</string>
+    <string name="video_download_login_guide">Sign in to %s to be able to download videos</string>
     <string name="video_download_network_error">Network error</string>
     <string name="video_download_play_video_guide">First, play the video.</string>
-    <string name="video_download_play_video_guide2">Then tap the button to download.</string>
+    <string name="video_download_play_video_guide2">Tap the button after it lights up to start downloading.</string>
+    <string name="video_download_play_video_step1">Step %1$d</string>
+    <string name="video_download_play_video_step2">Step %2$d</string>
     <string name="video_download_site_search">URL</string>
     <string name="video_download_source">Web download</string>
     <string name="video_download_start">Downloading…</string>
     <string name="video_download_storage_error">Not enough storage space</string>
+    <string name="video_download_title">Download videos</string>
+    <string name="video_download_youtube_copyright_forbidden">"Can't download YouTube videos due to copyright restrictions"</string>
     <string name="video_downloading">Downloading…</string>
     <string name="video_live_over">This session is over</string>
     <string name="video_noyet_download_tip">This video is still being downloaded</string>
