@@ -2885,6 +2885,11 @@ You can view generated logs in File Manager."</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Track all GNSS constellations and frequencies with no duty cycling</string>
     <string name="enable_gpu_debug_layers">Enable GPU debug layers</string>
     <string name="enable_gpu_debug_layers_summary">Allow loading GPU debug layers for debugging apps</string>
+    <string name="enable_local_backup">Turn on</string>
+    <string name="enable_local_backup_cancel">Cancel</string>
+    <string name="enable_local_backup_message">Turn this feature on to be able to save backups on this device and copy them to your computer or USB storage device. Turn on now?</string>
+    <string name="enable_local_backup_ok">OK</string>
+    <string name="enable_local_backup_title">Local backups</string>
     <string name="enable_mms_notification_channel_title">MMS message</string>
     <string name="enable_mms_notification_summary">Tap to allow MMS messaging on %1$s when mobile data is off</string>
     <string name="enable_mobile_data_when_opening_hotspot">Turn on mobile data connection too?</string>
@@ -3446,7 +3451,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="gadget_picker_title">Choose gadget</string>
     <string name="gadget_toggle_wifi">Updating Wi-Fi settings</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="gallery_privacy_password_role_instruction">Your private photos will be stored here.</string>
+    <string name="gallery_privacy_password_role_instruction">To view the items you made private, swipe down in \"Albums\".</string>
     <string name="game_booster">Game;Games;Turbo;Gaming;Gaming mode</string>
     <string name="game_booster_title">Game Turbo</string>
     <string name="game_controller_settings_category">Game Controller</string>
@@ -3981,10 +3986,10 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
     <string name="kddi_nfc_disabled_summary">Unavailable because NFC/Osaifu-keitai is turned off</string>
-    <string name="kddi_nfc_quick_toggle_summary">Enable NFC/Osaifu-keitai function</string>
+    <string name="kddi_nfc_quick_toggle_summary">Turn on NFC/Osaifu-keitai functionality</string>
     <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
-    <string name="kddi_nfc_secure_settings_title">Lock while on lock screen</string>
-    <string name="kddi_nfc_secure_toggle_summary">Allow NFC/Osaifu-keitai function while the screen is unlocked</string>
+    <string name="kddi_nfc_secure_settings_title">Lock while on Lock screen</string>
+    <string name="kddi_nfc_secure_toggle_summary">Keep NFC/Osaifu-keitai on only when the device is unlocked</string>
     <string name="keep_legacy_fingerprint">Keep</string>
     <string name="keep_screen_on">"Don't lock screen"</string>
     <string name="keep_screen_on_summary">"Screen won't go to sleep while charging"</string>
@@ -4272,6 +4277,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="local_backup_section_summary_new">Back up accounts, app data, system settings, and more</string>
     <string name="local_backup_section_title">Local backups</string>
     <string name="local_backup_section_title_new">On this device</string>
+    <string name="local_backup_usestatus_title">Local backups are off</string>
     <string name="locale_default">Default</string>
     <string name="locale_not_translated">May not be available in some apps</string>
     <string name="locale_remove_menu">Remove</string>
@@ -4557,6 +4563,7 @@ as your First space PIN."</string>
     <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with the cloud.</string>
     <string name="login_account_dialog_title">Sign in with Mi Account</string>
     <string name="login_account_summary">Manage accounts, cloud services, payments, and more</string>
+    <string name="login_account_summary_temp">Manage accounts, cloud services, and more</string>
     <string name="login_action">Sign in</string>
     <string name="long_press_back_key">Long press the Back button</string>
     <string name="long_press_buttom_key">Long press Home on the Lock screen</string>
@@ -4775,6 +4782,7 @@ You can't reverse this action."</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Mi Pay Account</string>
     <string name="micloud_service_summary">Sync the list of apps, back up system settings and Home screen layout</string>
+    <string name="micloud_service_summary_temp">Sync photos, videos, contacts, and more</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Central area</string>
     <string name="midnight">Night</string>
@@ -7866,6 +7874,17 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="style_and_wallpaper_settings_title">Styles &amp; wallpapers</string>
     <string name="style_suggestion_summary">Try different styles, wallpapers, and more</string>
     <string name="style_suggestion_title">Customize your phone</string>
+    <string name="stylus_ota_check_update">check and update</string>
+    <string name="stylus_ota_current_firmware_version">current firmware version</string>
+    <string name="stylus_ota_downloading_firmware">downloading firmware</string>
+    <string name="stylus_ota_firmware_update">firmware update</string>
+    <string name="stylus_ota_hardware_version">hardware version</string>
+    <string name="stylus_ota_latest">latest version</string>
+    <string name="stylus_ota_model">model</string>
+    <string name="stylus_ota_new_version">new version</string>
+    <string name="stylus_ota_serial_number">serial number</string>
+    <string name="stylus_ota_update">update</string>
+    <string name="stylus_ota_updating">updating</string>
     <string name="subscreen_title">Rear display</string>
     <string name="subscription_available">Available</string>
     <string name="sudFontSecondary">google-sans</string>
@@ -8675,7 +8694,7 @@ Tap the plus to add words."</string>
     <string name="vibrate_when_ringing_option_always_vibrate">Always vibrate</string>
     <string name="vibrate_when_ringing_option_never_vibrate">Never vibrate</string>
     <string name="vibrate_when_ringing_option_ramping_ringer">Vibrate first then ring gradually</string>
-    <string name="vibrate_when_ringing_title">Vibrate for calls</string>
+    <string name="vibrate_when_ringing_title">Vibrate while ringing</string>
     <string name="video_calling_settings_title">Carrier video calling</string>
     <string name="video_tool_box_title">Video toolbox</string>
     <string name="view_saved_network">To view, choose saved network</string>
@@ -8740,6 +8759,9 @@ Tap the plus to add words."</string>
     <string name="voice_service_preference_section_title">Voice input services</string>
     <string name="voicemail_number_not_set">&lt;Not set></string>
     <string name="voip_assistant_settings">VoIP assistant</string>
+    <string name="voip_assistant_settings_off">Off</string>
+    <string name="voip_assistant_settings_on">On</string>
+    <string name="voip_assistant_settings_summary">Record VoIP calls and use voiceprint optimization</string>
     <string name="volte_5G_limited_text">"This also turns off your 5G connection.
 During a voice call, you can’t use the internet and some apps may not work."</string>
     <string name="volte_5G_limited_title">Turn off VoLTE?</string>
