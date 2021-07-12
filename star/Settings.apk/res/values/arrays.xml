@@ -1816,6 +1816,16 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="color_game_led_freq_entries">
+        <item>Every two seconds</item>
+        <item>Every three seconds</item>
+        <item>Every five seconds</item>
+    </string-array>
+    <string-array name="color_game_led_freq_values">
+        <item>1000</item>
+        <item>1500</item>
+        <item>2500</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Enhanced colors</item>
         <item>Natural colors as seen by the eye</item>
@@ -2620,6 +2630,14 @@
         <item>@drawable/clickbottom01</item>
         <item>@drawable/clickbottom01</item>
     </array>
+    <string-array name="long_press_entries_left_TWS_K77s">
+        <item>@string/miheadset_key_config_call_ai</item>
+        <item>@string/miheadset_play_pause</item>
+    </string-array>
+    <string-array name="long_press_entries_right_TWS_K77s">
+        <item>@string/miheadset_key_config_call_ai</item>
+        <item>@string/miheadset_play_pause</item>
+    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Short</item>
         <item>Medium</item>
