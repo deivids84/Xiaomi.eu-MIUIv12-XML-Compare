@@ -90,6 +90,10 @@
     <string name="HIPS_Perm_install_shortcut_Desc">afegir dreceres a la Pantalla d\'inici</string>
     <string name="HIPS_Perm_mediaVolume">Ajusta el volum de reproducció</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Permet que l\'aplicació ajusti el volum de reproducció</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner">Accés al número de telèfon per iniciar la sessió</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Adquireix el número de telèfon de l\'operador per iniciar la sessió</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si ara no heu pogut iniciar la sessió amb un sol toc, torneu a la pàgina d'inici de sessió i torneu-ho a provar."</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Aquesta aplicació vol adquirir el vostre número de telèfon de l’operador de telefonia mòbil per iniciar la sessió. Voleu permetre-ho?</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">accedir al maquinari de comunicacions de camp proper (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accedir a l\'aplicació Telèfon</string>
@@ -154,6 +158,10 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">La ubicació aproximada està activada</string>
     <string name="blur_location_title">Ubicació aproximada</string>
+    <string name="cetus_invisible_mode_notice_audio">"Esteu d’incògnit. Ara no es pot utilitzar el micròfon."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Esteu d’incògnit. Ara no puc fer servir la càmera."</string>
+    <string name="cetus_invisible_mode_notice_location">"Esteu d’incògnit. Ara no puc utilitzar els serveis d’ubicació."</string>
+    <string name="cetus_invisible_mode_notice_tip">Toqueu per desactivar el mode d’incògnit a Configuració</string>
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="clipboard_ai_allow_once">Heu permés %1$s accedir automàticament als elements del porta-retalls</string>
     <string name="clipboard_data">"Contingut: "</string>
@@ -165,6 +173,7 @@
     <string name="clipboard_read_ai_deny_once">Accés restringit al porta-retalls per %1$s</string>
     <string name="clipboard_read_allow_once">%1$s elements accessibles al porta-retalls</string>
     <string name="clipboard_read_deny_dialog_title">Accés restringit al porta-retalls per %1$s</string>
+    <string name="close">Tanca</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Configura la data i l\'hora</string>
     <string name="default_permission_description">realitzar accions desconegudes</string>
@@ -179,7 +188,9 @@
     <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">MM/dd</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -329,11 +340,13 @@
     <string name="permission_group_title_privacy_related">Privadesa</string>
     <string name="permission_group_title_sensitive_privacy_related">Permisos sensibles</string>
     <string name="permission_group_title_settings_related">Configuració</string>
+    <string name="permission_list_include">Incloent els següents</string>
     <string name="permission_reminders">Recordatoris de permís</string>
     <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">Voleu permetre a %1$s els següents permisos?</string>
     <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
     <string name="pm">p. m.</string>
+    <string name="pp_privacy_lab_operator_introduction">Atenció</string>
     <string name="real_location_off">La ubicació aproximada està activada</string>
     <string name="real_location_on">La ubicació aproximada està desactivada</string>
     <string name="saturday">dissabte</string>
@@ -343,6 +356,7 @@
     <string name="screen_overlay_message">Per canviar aquest permís, heu de desactivar la superposició de la pantalla a Configuració &gt; Aplicacions.</string>
     <string name="screen_overlay_title">S\'ha detectat la superposició de pantalla</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
